@@ -161,8 +161,8 @@
         {
             "type": "ridl",
             "name": "UA_DATA_110722_FDF_Combined",
-            "submissionsUrl": "https://ridl.unhcr.org/dataset/76557510-cead-4ae5-a04a-f88dfe231a54/resource/1f5adf36-f355-442e-aa0f-ce5eec841cbc/download/UA_DATA_110722_FDF_Combined.xlsx",
-            "submissionsTrUrl": "https://ridl.unhcr.org/dataset/76557510-cead-4ae5-a04a-f88dfe231a54/resource/0f1f5198-348a-4c4a-a176-ce5807354810/download/UA_DATA_110722_FDF_Combined_translations.xlsx",
+            "submissionsUrl": "https://ridl.unhcr.org/dataset/76557510-cead-4ae5-a04a-f88dfe231a54/resource/1f5adf36-f355-442e-aa0f-ce5eec841cbc/download/ua_data_110722_fdf_combined_18apr.xlsx",
+            "submissionsTrUrl": "https://ridl.unhcr.org/dataset/76557510-cead-4ae5-a04a-f88dfe231a54/resource/0f1f5198-348a-4c4a-a176-ce5807354810/download/ua_data_110722_fdf_combined_translations.xlsx",
             "options": {
                 "anonymousMode": "text"
             },
