@@ -93,6 +93,21 @@
                     "name": "KIIS",
                     "urlLogo": "Logo/kiis.png",
                     "urlRedirection": "https://www.kiis.com.ua/?lang=eng"
+                },
+                {
+                    "name": "UNHCR",
+                    "urlLogo": "Logo/unhcr_uk.png",
+                    "urlRedirection": "https://www.unhcr.org/ua"
+                },
+                {
+                    "name": "Ombudsman of Ukraine",
+                    "urlLogo": "Logo/ombudsman.png",
+                    "urlRedirection": "https://www.ombudsman.gov.ua/"
+                },
+                {
+                    "name": "IOM",
+                    "urlLogo": "Logo/iom.png",
+                    "urlRedirection": "https://ukraine.iom.int/"
                 }
             ]
         },
@@ -204,11 +219,11 @@
                     {
                         "type": "standard",
                         "name": {
-                            "en": "Food products ?",
-                            "uk": "Продукти харчування?"
+                            "en": "Type of building",
+                            "uk": "Тип будівлі"
                         },
-                        "entryCode": "food_products",
-                        "iconOchaName": "Food-Security"
+                        "entryCode": "building_type",
+                        "iconOchaName": "Building"
                     },
                     {
                         "type": "standard",
