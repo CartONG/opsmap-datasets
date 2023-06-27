@@ -289,6 +289,6 @@
         }
     ],
     "options": {
-        "showDemoBanner": true
+        "showDemoBanner": false
     }
 }
