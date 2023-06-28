@@ -215,7 +215,16 @@
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2DKV-aqg-9SZMBBtg7A3bWShMdZPLoT5HLOQY_bjpREMa4cC91YAu-DWsMDNdo5rm71G2uh7b8DBl/pub?gid=845458241&single=true&output=csv",
             "options": {
                 "anonymousMode": "text"
-            },
+            },   
+            "additionalFiltersDescription": [
+                {
+                    "field": "smc_agency",
+                    "name": {
+                        "en": "Orgnization",
+                        "ar": "وكالة تنسيق وإدارة الموقع (SMC)"
+                    }
+                }
+            ],
             "spatial": {
                 "siteFields": {
                     "id": "site",
