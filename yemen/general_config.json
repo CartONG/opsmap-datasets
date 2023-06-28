@@ -186,9 +186,9 @@
                     "urlRedirection": "https://www.unhcr.org"
                 },
                 {
-                    "name": "IOM",
-                    "urlLogo": "Logo/IOM.png",
-                    "urlRedirection": "https://yemen.iom.int/"
+                    "name": "DRC",
+                    "urlLogo": "Logo/DRC.png",
+                    "urlRedirection": "https://www.facebook.com/drcyemen"
                 }
             ]
         }
