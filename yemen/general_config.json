@@ -120,11 +120,6 @@
                     "urlRedirection": "https://www.tamdeen-ye.org"
                 },
                 {
-                    "name": "ACTED",
-                    "urlLogo": "Logo/ACTED.png",
-                    "urlRedirection": "https://www.acted.org/en/countries/yemen-2/"
-                },
-                {
                     "name": "SDF",
                     "urlLogo": "Logo/SDF.png",
                     "urlRedirection": "http://sdf-yemen.org/"
