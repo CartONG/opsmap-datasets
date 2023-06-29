@@ -108,7 +108,7 @@ flooding_impact_infrastructure;bullet;SITE_ACCESS_SAFETY;;;;;;
 main_source_flooding;bullet;SITE_ACCESS_SAFETY;;;;;;
 flood_contingency_plan;bullet;SITE_ACCESS_SAFETY;yesno;;;;;Boolean
 if_yes_explain;bullet;SITE_ACCESS_SAFETY;;;;;;
-fire_occurrance;bullet;SITE_ACCESS_SAFETY;;;;;;
+fire_occurrance;bullet;SITE_ACCESS_SAFETY;noyes;;;;;
 number_of_fires;bullet;SITE_ACCESS_SAFETY;;;;;;
 fire_impact_injuries_death;bullet;SITE_ACCESS_SAFETY;;;;;;
 fire_impact_shelters;bullet;SITE_ACCESS_SAFETY;;;;;;
