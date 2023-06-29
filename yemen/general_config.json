@@ -226,6 +226,13 @@
                         "en": "Organization",
                         "ar": "وكالة تنسيق وإدارة الموقع (SMC)"
                     }
+                },
+                {
+                    "field": "admin3",
+                    "name": {
+                        "en": "sub_district",
+                        "ar": "العزلة"
+                    }
                 }
             ],
             "spatial": {
