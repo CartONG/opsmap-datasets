@@ -220,18 +220,19 @@
                 "anonymousMode": "text"
             },   
             "additionalFiltersDescription": [
+                ,
+                {
+                    "field": "admin3",
+                    "name": {
+                        "en": "Sub district",
+                        "ar": "العزلة"
+                    }
+                },
                 {
                     "field": "smc_agency",
                     "name": {
                         "en": "Organization",
                         "ar": "وكالة تنسيق وإدارة الموقع (SMC)"
-                    }
-                },
-                {
-                    "field": "admin3",
-                    "name": {
-                        "en": "sub_district",
-                        "ar": "العزلة"
                     }
                 }
             ],
