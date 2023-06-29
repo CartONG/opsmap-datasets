@@ -2,7 +2,6 @@ formatted_name;icon_file_name;thematic_label_en;thematic_label_ar
 group_general_info;About;General;عام
 group_wash;Water-Sanitation-and-Hygiene;Water, sanitation and hygiene;المياه والصرف الصحي والنظافة
 group_demo;People-in-need;Demographic distribution;التوزيع الديموغرافي
-group_cccm;Camp-Coordination-and-Camp-Management;Camp management;إدارة المخيم
 group_protection;Protection;Protection;حماية
 group_shelternfi;Shelter;Shelter - NFI;المأوى - مواد غير غذائية
 group_displacement;Internally-displaced;Displacement;الإزاحة
@@ -15,3 +14,5 @@ Sectoral_Response_Capacity;Response;Sectoral response capacity;القدرة عل
 SITE_ACCESS_SAFETY;Safety-and-security;Sita access & safety;وصول سيتا والسلامة
 Comments;Blog;Comments;تعليقات
 group_committees;Community-engagement;Site Committiees;لجان الموقع
+group_cccm;Camp-Coordination-and-Camp-Management;Camp management;إدارة المخيم
+
