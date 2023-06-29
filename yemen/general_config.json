@@ -213,6 +213,10 @@
             "admin1",
             "admin2",
             "admin3"
+        ],
+        "adminLevelsMap": [
+            "admin1",
+            "admin2"
         ]
     },
     "surveys": [
