@@ -43,3 +43,13 @@ access_protection;string;accessible;green
 access_protection;string;i_dont_know;red
 avg_time;string;less_than_30_minutes;green
 avg_time;string;x30_60_minutes;orange
+up_to_0_green;math;> 0;green
+up_to_0_green;math;= 0;red
+up_to_0_red;math;> 0;red
+up_to_0_red;math;= 0;green
+avg_time;string;market_available_in_site;green
+avg_time;string;no_functional_market_available_accessible;red
+avg_time;string;more_than_60_minutes;red
+up_to_pct;math;>=0 and <50;red
+up_to_pct;math;>=50 and <80;orange
+up_to_pct;math;>=80;green
