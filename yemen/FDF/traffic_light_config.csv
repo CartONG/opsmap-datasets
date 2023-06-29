@@ -7,8 +7,8 @@ occ_agree;string;verbal;orange
 occ_agree;string;none;red
 occ_agree;string;written;green
 occ_agree;string;don_t_know;red
-smc_code_of_conduct;integer;>1;green
-smc_code_of_conduct;integer;0;red
+smc_code_of_conduct;math;>= 1;green
+smc_code_of_conduct;math;= 0;red
 iso_loc;string;site_is_located_within_a_community;green
 iso_loc;string;site_is_located_outside_a_community;red
 land_own;string;private;orange
@@ -22,16 +22,16 @@ site_capa;string;available_land_for_extension;green
 site_capa;string;overcrowded;red
 site_capa;string;don_t_know;red
 site_capa;string;available_shelters_if_selected_how_many_shelters;green
-nb_makeshift;integer;>1;red
-nb_makeshift;integer;0;green
-nb_emergency;integer;>1;orange
-nb_emergency;integer;0;green
-nb_transitional;integer;>1;green
-nb_transitional;integer;0;orange
-nb_tents;integer;>1;orange
-nb_tents;integer;0;red
-nb_unfinished_building;integer;>1;red
-nb_unfinished_building;integer;0;green
+nb_makeshift;math;> 1;red
+nb_makeshift;math;= 0;green
+nb_emergency;math;> 1;orange
+nb_emergency;math;= 0;green
+nb_transitional;math;> 1;green
+nb_transitional;math;= 0;orange
+nb_tents;math;> 1;orange
+nb_tents;math;= 0;red
+nb_unfinished_building;math;>= 1;red
+nb_unfinished_building;math;= 0;green
 need_shelter;string;all_almost_all_households;red
 need_shelter;string;few_households;orange
 need_shelter;string;half_of_households;orange
@@ -43,6 +43,10 @@ access_protection;string;accessible;green
 access_protection;string;i_dont_know;red
 avg_time;string;less_than_30_minutes;green
 avg_time;string;x30_60_minutes;orange
+up_to_0_green;math;> 0;green
+up_to_0_green;math;= 0;red
+up_to_0_red;math;> 0;red
+up_to_0_red;math;= 0;green
 avg_time;string;market_available_in_site;green
 avg_time;string;no_functional_market_available_accessible;red
 avg_time;string;more_than_60_minutes;red
