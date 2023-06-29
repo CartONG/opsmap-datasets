@@ -8,13 +8,15 @@
             "en": {
                 "infosAdmins": {
                     "admin1": "Governorate",
-                    "admin2": "District"
+                    "admin2": "District",
+                    "admin3":"Sub district"
                 }
             },
             "ar": {
                 "infosAdmins": {
                     "admin1": "محافظة",
-                    "admin2": "يصرف"
+                    "admin2": "يصرف",
+                    "admin3":"العزلة"
                 }
             }
         }
@@ -204,7 +206,7 @@
         },
         "dbConfig": {
             "admin1": "adm1_source_code",
-            "admin2": "adm2_source_code"
+            "admin2": "adm2_source_code",
             "admin3": "adm3_source_code"
         }
     },
