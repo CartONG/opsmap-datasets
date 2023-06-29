@@ -1,13 +1,13 @@
 field_name;field_label_en;field_label_ar
 reporting_month;Reporting month;شهر التقرير
-hub;hub;المحور
-governorate;governorate;المحافظة
-district;district;المديرية
-sub_district;sub_district;العزلة
+hub;Hub;المحور
+governorate;Governorate;المحافظة
+district;District;المديرية
+sub_district;Sub district;العزلة
 site_name_en;Site Name;إسم الموقع
 site;Site ID;رقم الموقع
-site_single_clustered;single or clustered site;هل هذا الموقع منفرد أم مُجمًّع
-site_report_main_subsite;main or subsite site;هل الموقع رئيسي أو فرعي؟
+site_single_clustered;Single or clustered site;هل هذا الموقع منفرد أم مُجمًّع
+site_report_main_subsite;Main or subsite site;هل الموقع رئيسي أو فرعي؟
 number_subsites;Number of subsites;عدد المواقع الفرعية ذكرت في هذا النموذج
 name_subsites;Name of subsites;إسم المواقع الفرعية ذكرت في هذا النموذج
 type_of_settlement;Type of settlement;نوع الموقع/المخيم
@@ -100,8 +100,8 @@ fire_impact_infrastructure;impact of the fire on Damage to critical infrastructu
 source_fire;Source of for fire;مصدر الحريق
 fire_safety_measures;Fire safety measures;ممارسات السلامة من الحرائق
 dangerous_structures;Are there any dangerous structures in the site?;هل هناك أي هيكل مبناء خطر في الموقع؟
-nb_site_residents_hh;# site residents - Households;ادخل عدد سكان الموقع - الأسر
-nb_site_residents_ind;# site residents - Individuals;ادخل إجمالي عدد سكان الموقع - الأفراد
+nb_site_residents_hh;# Site residents - Households;ادخل عدد سكان الموقع - الأسر
+nb_site_residents_ind;# Site residents - Individuals;ادخل إجمالي عدد سكان الموقع - الأفراد
 site_residents_registration_frequency_update;Frequency of update of site resident registration;تواتر تحديث تسجيل المقيمين في الموقع
 methodology_pop_demographics;Methodology to determine population demographics;منهجية تحديد التركيبة السكانية
 source_pop_demographics;Source of population demographics;مصدر التركيبة السكانية للسكان
