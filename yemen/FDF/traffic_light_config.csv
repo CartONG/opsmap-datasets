@@ -34,3 +34,22 @@ avg_time;string;x30_60_minutes;orange
 avg_time;string;market_available_in_site;green
 avg_time;string;no_functional_market_available_accessible;red
 avg_time;string;more_than_60_minutes;red
+up_to_0_green;math;>0;green
+up_to_0_green;math;=0;red
+up_to_0_red;math;>0;red
+up_to_0_red;math;=0;green
+up_to_pct;math;<50;red
+up_to_pct;math;>=50 and <80;orange
+up_to_pct;math;>=80;green
+nb_makeshift;math;>=1;red
+nb_makeshift;math;=0;green
+nb_emergency;math;>=1;orange
+nb_emergency;math;=0;green
+nb_transitional;math;>=1;green
+smc_code_of_conduct;math;>=1;green
+smc_code_of_conduct;math;=0;red
+nb_transitional;math;=0;orange
+nb_tents;math;>=1;green
+nb_tents;math;=0;orange
+nb_unfinished_building;math;>=1;red
+nb_unfinished_building;math;=0;green
