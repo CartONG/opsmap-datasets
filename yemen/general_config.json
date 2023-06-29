@@ -45,6 +45,24 @@
         },
         {
             "title": {
+                "en": "Sector Lead",
+                "ar": "قيادة القطاع"
+            },
+            "logos": [
+                {
+                    "name": "UNHCR",
+                    "urlLogo": "Logo/UNHCR.png",
+                    "urlRedirection": "https://www.unhcr.org"
+                },
+                {
+                    "name": "DRC",
+                    "urlLogo": "Logo/DRC.png",
+                    "urlRedirection": "https://www.facebook.com/drcyemen"
+                }
+            ]
+        },
+        {
+            "title": {
                 "en": "Fieldwork",
                 "ar": "العمل الميداني"
             },
@@ -173,24 +191,6 @@
                     "urlRedirection": "https://www.impact-initiatives.org"
                 }
             ]
-        },
-        {
-            "title": {
-                "en": "Sector Lead",
-                "ar": "قيادة القطاع"
-            },
-            "logos": [
-                {
-                    "name": "UNHCR",
-                    "urlLogo": "Logo/UNHCR.png",
-                    "urlRedirection": "https://www.unhcr.org"
-                },
-                {
-                    "name": "DRC",
-                    "urlLogo": "Logo/DRC.png",
-                    "urlRedirection": "https://www.facebook.com/drcyemen"
-                }
-            ]
         }
     ],
     "spatial": {
@@ -205,6 +205,7 @@
         "dbConfig": {
             "admin1": "adm1_source_code",
             "admin2": "adm2_source_code"
+            "admin3": "adm3_source_code"
         }
     },
     "surveys": [
@@ -243,6 +244,10 @@
                     "admin2": {
                         "pcode": "Admin2",
                         "name": "district"
+                    },
+                    "admin3": {
+                        "pcode": "Admin3",
+                        "name": "sub_district"
                     }
                 }
             },
