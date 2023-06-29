@@ -1,8 +1,8 @@
 traffic_light_name;type;value;color
 yesno;string;Yes;green
 yesno;string;No;red
-noyes;string;Yes;red
-noyes;string;No;green
+noyes;string;yes;red
+noyes;string;no;green
 occ_agree;string;verbal;orange
 occ_agree;string;none;red
 occ_agree;string;written;green
