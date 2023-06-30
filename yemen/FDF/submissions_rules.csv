@@ -1,7 +1,7 @@
 field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;computed_rule;list_name
-hh_size;computed;group_hh_ind;;;;;nb_site_residents_ind#/#nb_site_residents_hh;
+hh_size;computed;group_hh_ind;;;;nb_site_residents_ind#/#nb_site_residents_hh;
 pct_occupation;computed;group_shelter_ind;pct_occ;;;;nb_site_residents_hh#/#nb_shelters;
-staff_hh;computed;group_manage_ind;nb_ind_vs_staff;;;;;nb_site_residents_ind#/#smc_total;
+staff_hh;computed;group_manage_ind;nb_ind_vs_staff;;;;nb_site_residents_ind#/#smc_total;
 smc_agency;bullet;group_general_info;;;;;;
 reporting_month;bullet;group_general_info;;;;;;
 hub;bullet;group_general_info;;;;;;
