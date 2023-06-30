@@ -103,4 +103,5 @@ water_com;string;non_existent;red
 pct_school;math;<50;red
 pct_school;math;>=50 and <90;orange
 pct_school;math;>=90;green
-
+info_board;math;<1;red
+info_board;math;>=1;green
