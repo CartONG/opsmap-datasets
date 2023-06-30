@@ -32,7 +32,7 @@ pct_hh_access_water;bullet;group_wash;pct_sanitation;;;;;
 water_maintenance_committee_presence;bullet;group_wash;;;;;;
 primary_latrine_types;bullet;group_wash;;;;;;
 nb_latrines;integer;group_wash;;;;;;
-pct_sanitation_gndr_separated_latrines;bullet;group_wash;;;;;;
+pct_sanitation_gndr_separated_latrines;string;group_wash;pct_sanitation;;;;;
 pct_latrines_functional_locks;string;group_wash;pct_sanitation;;;;;
 pct_delegable_used_latrine;string;group_wash;pct_sanitation;;;;;
 frequency_desludging_latrines;bullet;group_wash;;;;;;
