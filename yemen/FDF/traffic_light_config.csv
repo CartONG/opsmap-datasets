@@ -100,3 +100,6 @@ source_demo;string;community_representative;green
 water_com;string;present_and_equipped_with_tools_for_maintenance;green
 water_com;string;present_but_not_equipped_with_tools_for_maintenance;orange
 water_com;string;non_existent;red
+specific_needs;string;all_of_the_above;red
+specific_needs;string;all_of_the_above_is_missing;red
+specific_needs;string;no_gaps_everything_is_available;green
