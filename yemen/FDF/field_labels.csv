@@ -120,18 +120,18 @@ need_repair_maintenance;In need of repair\maintenance (for emergency shelter, tr
 need_replacement;In need of replacement (for emergency shelter, transitional shelter, makeshift shelter, tents);بحاجة إلى إستبدال (للمأوى في حالات الطوارئ، والمأوى الانتقالي، والمأوى المؤقت، والخيم)
 need_rehabilitation_reconstruction;In need of rehabilitation\reconstruction (for public buildings, unfinished/vacant building);بحاجة إلى إعادة التأهيل / إعادة الإعمار (للمباني العامة ،غير مكتمل / المباني الشاغرة)
 need_extension_new_shelters;In need of extension/new shelter (overcrowded, new HHs);بحاجة إلى توسيع / مأوى جديد (مكتظ ، أسر جديدة)
-blankets;Blankets;بطانيات
-mattresses;Mattress;فرشات
-sleeping_matt;Sleeping matt;حصيرة للنوم
-water_containers_buckets;Water containers \buckets;حاويات مياه/ دلاء
-oven_stoves;Oven\stoves;فرن/مواقد
-fuel_for_cooking;Fuel for cooking;وقود للطهي
-kitchen_items;Kitchen items;أدوات المطبخ
-hygiene_items_pct;Hygiene items;مواد النظافة
-feminine_hygiene_items_pct;Feminine hygiene items;مواد النظافة النسائية
-plastic_sheet;Plastic sheet;غطاء بلاستيكي/ شادر
-mosquito_nets;Mosquito nets;ناموسيات
-solar_lamps;Solar lamps;مصابيح الطاقة الشمسية
+blankets;Blankets access;دخول البطانيات
+mattresses;Mattress access;الوصول إلى المراتب
+sleeping_matt;Sleeping matt access;سليبينج مات الوصول
+water_containers_buckets;Water containers \buckets access;الوصول إلى حاويات المياه / الدلاء
+oven_stoves;Oven\stoves access;دخول الفرن / المواقد
+fuel_for_cooking;Fuel for cooking access;وقود للطهي
+kitchen_items;Kitchen items access;وصول عناصر المطبخ
+hygiene_items_pct;Hygiene items access;الوصول إلى مواد النظافة 
+feminine_hygiene_items_pct;Feminine hygiene items access;الوصول إلى مواد النظافة الأنثوية 
+plastic_sheet;Plastic sheet access;الوصول إلى الصفائح البلاستيكية
+mosquito_nets;Mosquito nets access;الوصول إلى الناموسيات
+solar_lamps;Solar lamps access;وصول المصابيح الشمسية
 primary_latrine_types;Primary latrine types used by majority of the households in the site;أنواع المراحيض الأولية التي تستخدمها غالبية الأسر في الموقع
 primary_shower_type;Primary shower type used by majority of the households in the site:;نوع الدش الأساسي المستخدم من قبل غالبية الأسر في الموقع
 nb_latrines;Number of latrines;عدد المراحيض
