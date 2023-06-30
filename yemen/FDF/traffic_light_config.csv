@@ -22,16 +22,6 @@ site_capa;string;available_land_for_extension;green
 site_capa;string;overcrowded;red
 site_capa;string;don_t_know;red
 site_capa;string;available_shelters_if_selected_how_many_shelters;green
-nb_makeshift;math;>1;red
-nb_makeshift;math;0;green
-nb_emergency;math;>1;orange
-nb_emergency;math;0;green
-nb_transitional;math;>1;green
-nb_transitional;math;0;orange
-nb_tents;math;>1;orange
-nb_tents;math;0;red
-nb_unfinished_building;math;>1;red
-nb_unfinished_building;math;0;green
 need_shelter;string;all_almost_all_households;green
 need_shelter;string;majority_of_households;green
 need_shelter;string;half_of_households;orange
