@@ -9,13 +9,13 @@ group_wash;Water-Sanitation-and-Hygiene;Water, sanitation and hygiene;الميا
 group_shelternfi;Shelter;Shelter - NFI;المأوى - مواد غير غذائية
 group_protection;Protection;Protection;حماية
 group_fs;Food-Security;Food security;أمن غذائي
-INFRASTRUCTURE;Infrastructure;Infrastructure;بنية تحتية
-SITE_ACCESS_SAFETY;Safety-and-security;Site access & safety;وصول سيتا والسلامة
+group_infrastructure;Infrastructure;Infrastructure;بنية تحتية
+group_site_access_safety;Safety-and-security;Site access & safety;وصول سيتا والسلامة
 group_health;Health;Health;صحة
-Cash_Markets;Cash-transfer;Cash & markets;النقد والأسواق
+group_cash_Markets;Cash-transfer;Cash & markets;النقد والأسواق
 group_committees;Community-engagement;Site Committiees;لجان الموقع
-Service_access;Services-and-tools;Service access;الوصول إلى الخدمة
-Community_needs;Services-and-tools;Community needs;احتياجات المجتمع
-Sectoral_Response_Capacity;Response;Sectoral response capacity;القدرة على الاستجابة القطاعية
+group_service_access;Services-and-tools;Service access;الوصول إلى الخدمة
+group_community_needs;Services-and-tools;Community needs;احتياجات المجتمع
+group_sectoral_Response_Capacity;Response;Sectoral response capacity;القدرة على الاستجابة القطاعية
 group_displacement;Internally-displaced;Displacement;الإزاحة
-Comments;Blog;Comments;تعليقات
+group_comments;Blog;Comments;تعليقات
