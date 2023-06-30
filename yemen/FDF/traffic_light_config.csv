@@ -105,3 +105,5 @@ pct_school;math;>=50 and <90;orange
 pct_school;math;>=90;green
 info_board;math;<1;red
 info_board;math;>=1;green
+ind_per_latrines_showers;math;<=20;green
+ind_per_latrines_showers;math;>20;red
