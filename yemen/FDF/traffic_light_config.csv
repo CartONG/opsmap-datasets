@@ -6,7 +6,6 @@ noyes;string;No;green
 occ_agree;string;verbal;orange
 occ_agree;string;none;red
 occ_agree;string;written;green
-occ_agree;string;don_t_know;red
 smc_code_of_conduct;math;>1;green
 smc_code_of_conduct;math;0;red
 iso_loc;string;site_is_located_within_a_community;green
@@ -34,12 +33,15 @@ need_shelter_all_red;string;few_households;green
 need_shelter_all_red;string;none_almost_no_households;green
 access_protection;string;not_accessible;red
 access_protection;string;accessible;green
-access_protection;string;i_dont_know;red
 avg_time;string;less_than_30_minutes;green
 avg_time;string;x30_60_minutes;orange
+avg_time;string;more_than_60_minutes;red
 avg_time;string;market_available_in_site;green
 avg_time;string;no_functional_market_available_accessible;red
-avg_time;string;more_than_60_minutes;red
+avg_time;string;primary_school_accessible_in_site;green
+avg_time;string;secondary_school_accessible_in_site;green
+avg_time;string;no_functional_primary_school_accessible_for_children_in_sites;red
+avg_time;string;no_functional_secondary_school_accessible_for_children_in_sites;red
 up_to_0_green;math;>0;green
 up_to_0_green;math;0;red
 up_to_0_red;math;>0;red
