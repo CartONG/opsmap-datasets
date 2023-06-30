@@ -156,9 +156,9 @@ health_services_available;In the past month, within or around this site, what ty
 pct_ind_access_food;In the last month, what was the proportion of site residents able to access food?;في الشهر الماضي، ما هي نسبة سكان الموقع القادرين على الوصول إلى الغذاء؟
 how_ind_access_food;In the last month, how did site residents access food?;في الشهر الماضي ، كيف تمكن سكان الموقع من الوصول إلى الطعام؟
 nb_distribution_centres;Number of distribution centres \ areas in the site;عدد مراكز / مناطق التوزيع في الموقع
-lack_birth_certificates;Birth Certificates;شهادات الميلاد
-lack_personal_identity_cards;Personal Identity Cards;بطاقات الهوية الشخصية
-lack_family_identity_cards;Family Identity Cards;بطاقات هوية العائلة
+lack_birth_certificates; birth Certificates missing;شهادات الميلاد
+lack_personal_identity_cards;Personal Identity Cards missing;بطاقات الهوية الشخصية
+lack_family_identity_cards;Family Identity Cards missing;بطاقات هوية العائلة
 available_communal_spaces;What are the available functional communal spaces in the site?;ما هي المساحات المشتركة الشغّالة المتاحة في الموقع؟
 persons_with_disabilities_food_nfi_distribution_points;Persons with disabilities - Food \ NFI Distribution points;الأشخاص ذوو الإعاقة - نقاط توزيع المواد الغذائية / المواد غير الغذائية
 persons_with_disabilities_latrines;Persons with disabilities - Latrines;الأشخاص ذوو الإعاقة - المراحيض
