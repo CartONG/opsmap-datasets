@@ -218,6 +218,6 @@ livelihoods_services_orgnization_type;Livelihoods services - Service provider;م
 cash_distributions_multi_purpose_orgnization_type;Cash distributions (multi-purpose) - Service provider;مزود الخدمة توزيعات النقد (متعدد الأغراض)
 site_maintenance_orgnization_type;Site maintenance - Service provider;مزود الخدمة صيانة الموقع
 security_safety_drr_orgnization_type;Security \ safety & DRR - Service provider;مزود الخدمة الأمن / السلامة والحد من مخاطر الكوارث
-pct_occupation;Shelter occupancy rate by Household;معدل إشغال المأوى حسب الأسرة
+pct_occupation;Number of household per shelter;معدل إشغال المأوى حسب الأسرة
 hh_size;Average household size;متوسط ​​حجم الأسرة
-staff_hh;Staff per household;الموظفين لكل أسرة
+staff_hh;Number of household per staff;عدد الأسرة لكل موظف
