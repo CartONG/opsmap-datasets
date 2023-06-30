@@ -21,6 +21,7 @@ occupancy_agreement;bullet;group_general_info;occ_agree;;;;;
 isolated_location;bullet;group_general_info;iso_loc;;;;;
 nb_site_residents_hh;integer;group_demo;;;;;;
 nb_site_residents_ind;integer;group_demo;;;;;;
+hh_size;computed;group_demo;;;;;nb_site_residents_ind#/#nb_site_residents_hh;
 primary_latrine_types;bullet;group_wash;;;;;;
 primary_shower_type;bullet;group_wash;;;;;;
 nb_latrines;integer;group_wash;;;;;;
