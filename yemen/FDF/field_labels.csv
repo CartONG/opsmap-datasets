@@ -143,8 +143,8 @@ pct_showers_functional_locks;Proportion of sanitation facilities with functional
 pct_delegable_used_latrine;What proportion of the latrine types commonly used by the people on site are delegable?;ما هي نسبة أنواع المراحيض التي يشيع استخدامها من قبل الأشخاص في الموقع التي تكون قابلة للشفط/ التخلص من القاذورات؟
 frequency_desludging_latrines;How frequently does desludging of latrines occur?;كم مرة يتم تكرار عمل شفط/ التخلص للمراحيض؟
 primary_water_source;Primary water source for all household purposes for majority of households in the site (drinking, cooking, bathing, washing);مصدر المياه الأساسي لدى معظم الأسر في الموقعلجميع الأغراض المنزلية (الشرب والطبخ والاستحمام والغسيل)
-"nb_litres_available_water;Litres / person / day:
-available through any primary water source in the site:;لتر / شخص/ يوم المتوفرة من أي مصدر مياه رئيسي في الموقع"
+nb_litres_available_water;Litres / person / day;لتر / شخص / يوم
+available through any primary water source in the site;لتر / شخص/ يوم المتوفرة من أي مصدر مياه رئيسي في الموقع"
 primary_water_source_drinkible;Is the primary water source drinkable;هل مصدر المياه الرئيسي صالح للشرب؟
 drinkable_water_sources;If not, what is the drinkable water source;إذا لا، ما هو المصدر الصالح للشرب؟
 pct_hh_access_water;Approximately what proportion of households in the site have a sufficient quantity of safe and clean water for drinking, cooking, bathing and washing in the last three month?;ما هي تقريبا نسبة الأسر في الموقع التي لديها كمية كافية من المياه لنظيفة والصالحة وا للشرب والطهي والاستحمام والغسيل في الأشهر الثلاثة الماضية؟
