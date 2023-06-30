@@ -231,3 +231,5 @@ feminine_hygiene_items_pct_int;Feminine hygiene items;مواد النظافة ا
 plastic_sheet_int;Plastic sheet;غطاء بلاستيكي/ شادر
 mosquito_nets_int;Mosquito nets;ناموسيات
 solar_lamps_int;Solar lamps;مصابيح الطاقة الشمسية
+nb_ind_per_latrines;# Number of individuals per latrine;# عدد الأفراد لكل مرحاض
+nb_ind_per_showers;# Number of individuals per shower;# عدد الأفراد في كل استحمام
