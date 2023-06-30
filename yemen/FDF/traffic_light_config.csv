@@ -83,3 +83,8 @@ health_services_type;string;child_healthcare;green
 health_services_type;string;maternal_healthcare;green
 health_services_type;string;nutrition_counselling_services;green
 health_services_type;string;hiv_counselling_and_testing;green
+damage;string;no_damage_injuries;green
+damage;string;limited_damage_minor_injuries;orange
+damage;string;medium_damage_injuries;red
+damage;string;excessive_damage_critical_injuries_death;red
+
