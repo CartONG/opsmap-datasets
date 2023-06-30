@@ -42,7 +42,7 @@ pct_hh_access_water;bullet;group_wash;;;;;;
 water_maintenance_committee_presence;bullet;group_wash;;;;;;
 nb_communal_wastebins;integer;group_wash;;;;;;
 solid_waste_management;bullet;group_wash;;;;;;
-smc_agency;bullet;group_cccm;;;;;;
+smc_agency;string;group_cccm;;;;;;
 smc_physical_space;bullet;group_cccm;yesno;;;;;Boolean
 smc_stationary_mobile;bullet;group_cccm;;;;;;
 smc_presence_days;integer;group_cccm;;;;;;
