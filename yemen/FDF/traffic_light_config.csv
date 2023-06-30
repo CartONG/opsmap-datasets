@@ -53,6 +53,6 @@ up_to_0_red;math;0;green
 up_to_pct;math;<50;red
 up_to_pct;math;>=50 and <80;orange
 up_to_pct;math;>=80;green
-pct_occ;math;<80;green
-pct_occ;math;>=80 and <100;orange
-pct_occ;math;>=100;red
+pct_occ;math;<0.8;green
+pct_occ;math;>=0.8 and <1;orange
+pct_occ;math;>=1;red
