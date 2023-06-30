@@ -66,6 +66,3 @@ fire_impact;string;no_damage_injuries;green
 fire_impact;string;limited_damage_minor_injuries;orange
 fire_impact;string;medium_damage_injuries;red
 fire_impact;string;excessive_damage_critical_injuries_death;red
-
-
-fire_impact
