@@ -219,3 +219,4 @@ cash_distributions_multi_purpose_orgnization_type;Cash distributions (multi-purp
 site_maintenance_orgnization_type;Site maintenance - Service provider;مزود الخدمة صيانة الموقع
 security_safety_drr_orgnization_type;Security \ safety & DRR - Service provider;مزود الخدمة الأمن / السلامة والحد من مخاطر الكوارث
 pct_occupation;Shelter occupancy rate by Household;معدل إشغال المأوى حسب الأسرة
+hh_size;Household size;حجم الأسرة
