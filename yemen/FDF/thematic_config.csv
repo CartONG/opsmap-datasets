@@ -1,4 +1,7 @@
 formatted_name;icon_file_name;thematic_label_en;thematic_label_ar
+group_hh_ind;People-in-need;Average household size;متوسط ​​حجم الأسرة
+group_shelter_ind;Camp-Coordination-and-Camp-Management;Shelter occupancy rate by household;معدل إشغال المأوى حسب الأسرة
+group_manage_ind;People-targeted-2;Management rate by individuals ;معدل الإدارة من قبل الأفراد
 group_general_info;About;General;عام
 group_demo;People-in-need;Demographic distribution;التوزيع الديموغرافي
 group_wash;Water-Sanitation-and-Hygiene;Water, sanitation and hygiene;المياه والصرف الصحي والنظافة
