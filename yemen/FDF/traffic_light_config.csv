@@ -100,3 +100,7 @@ source_demo;string;community_representative;green
 water_com;string;present_and_equipped_with_tools_for_maintenance;green
 water_com;string;present_but_not_equipped_with_tools_for_maintenance;orange
 water_com;string;non_existent;red
+pct_school;math;<50;red
+pct_school;math;>=50 and <90;orange
+pct_school;math;>=90;green
+
