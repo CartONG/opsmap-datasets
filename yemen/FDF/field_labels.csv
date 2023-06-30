@@ -26,8 +26,7 @@ smc_female;No. SMC Female Staff;موظفات إدارة وتنسيق الموق�
 smc_male;No. SMC Male Staff;موظفوا إدارة وتنسيق الموقع الذكور
 smc_total;Total number of SMC Staff;العدد الكلي لموظفي إدارة وتنسيق الموقع
 smc_code_of_conduct_number;# SMC staff signed a Code of Conduct;عدد موظفي تنسيق وإدارة الموقع (SMC) الذين وقّعوا على مدونة قواعد السلوك
-"smc_training_number;# SMC staff completed adequate training related to their role;عدد موظفي تنسيق وإدارة الموقع (SMC) الذين أكملوا
-التدريب الكافي المتعلق بدورهم"
+smc_training_number;# SMC staff completed adequate training related to their role;عدد موظفي تنسيق وإدارة الموقع (SMC) الذين أكملوا التدريب الكافي المتعلق بدورهم
 camp_committee_total;# Camp Management Committee present at the site Staff;(لجنة إدارة الموقع ) عدد الاعضاء
 camp_committee_female;Female;إناث
 camp_committee_male;Male;ذكور
@@ -59,10 +58,10 @@ representative_persons_disability_total;# Representative for persons with disabi
 representative_persons_disability_female;Female;إناث
 representative_persons_disability_male;Male;ذكور
 consultations_with_site_residents;Consultations with site residents about their needs has taken place in the last month to inform programme planning;التشاور مع سكان الموقع حول احتياجاتهم في الشهر الماضي لتوجيه تخطيط البرامج
-"consultations_with_site_residents_no_why;If no, why did consultations with site residents not take 
-place in the last month?;إذا لا، فلماذا لم تتم المشاورات مع سكان الموقع مكان في الشهر الماضي؟"
-"complaint_fedback_mechanism_available;Functional complaint and feedback mechanism available in the site
-available in site;آلية الشكاوى والتغذية الراجعة التشغيلية متوفرة في الموقع"
+consultations_with_site_residents_no_why;If no, why did consultations with site residents not take 
+place in the last month?;إذا لا، فلماذا لم تتم المشاورات مع سكان الموقع مكان في الشهر الماضي؟
+complaint_fedback_mechanism_available;Functional complaint and feedback mechanism available in the site
+available in site;آلية الشكاوى والتغذية الراجعة التشغيلية متوفرة في الموقع
 main_areas_complaints;Main areas of complaints received in last month;المجالات الرئيسية التي تم تلقي الشكاوى بشأنها في الشهر الماضي
 information_board_available;information board available in the site?;هل تتوفر لوحة معلومات في الموقع؟
 nb_info_food;# Food information board;عدد لوح التعليمات بخصوص الغذاء
@@ -79,9 +78,8 @@ nb_info_livelihood;# Livelihood services information board;خدمات سيل ا�
 nb_info_covid_19;# COVID-19 information board;كوفيد – 19
 nb_info_cfm;# CFM information board;آلية الشكاوى والتغذية الراجعة
 site_accessibility_physical_barriers;Site accessibility (physical barriers);إمكانية الوصول إلى الموقع (الحواجز المادية)
-"natural_hazards_site;Natural and endomorphic hazards to site
-Includes both the RISK and previous OCCURANCE of threats to the safety and security of the site;المخاطر الطبيعية والباطنية على الموقع 
-يشمل كل من المخاطر والحدوث السابق للتهديدات لسلامة وأمن الموقع."
+natural_hazards_site;Natural and endomorphic hazards to site
+Includes both the RISK and previous OCCURANCE of threats to the safety and security of the site;المخاطر الطبيعية والباطنية على الموقع يشمل كل من المخاطر والحدوث السابق للتهديدات لسلامة وأمن الموقع
 exposure_to_flooding;In your opinion, how dangerous is the exposure to flooding in this site for people, shelter and infrastructure?;برأيك ، ما مدى خطورة التعرض للفيضانات في هذا الموقع على الناس والمأوى والبنية التحتية؟
 flood_occurrance;In the past month, has flooding occurred in this site;في الشهر الماضي ، هل حدثت فيضانات في هذا الموقع؟
 number_of_floods;Indicate number of floods;يرجى تحديد عدد الفيضانات
@@ -144,7 +142,7 @@ pct_delegable_used_latrine;What proportion of the latrine types commonly used by
 frequency_desludging_latrines;How frequently does desludging of latrines occur?;كم مرة يتم تكرار عمل شفط/ التخلص للمراحيض؟
 primary_water_source;Primary water source for all household purposes for majority of households in the site (drinking, cooking, bathing, washing);مصدر المياه الأساسي لدى معظم الأسر في الموقعلجميع الأغراض المنزلية (الشرب والطبخ والاستحمام والغسيل)
 nb_litres_available_water;Litres / person / day;لتر / شخص / يوم
-available through any primary water source in the site;لتر / شخص/ يوم المتوفرة من أي مصدر مياه رئيسي في الموقع"
+available through any primary water source in the site;لتر / شخص/ يوم المتوفرة من أي مصدر مياه رئيسي في الموقع
 primary_water_source_drinkible;Is the primary water source drinkable;هل مصدر المياه الرئيسي صالح للشرب؟
 drinkable_water_sources;If not, what is the drinkable water source;إذا لا، ما هو المصدر الصالح للشرب؟
 pct_hh_access_water;Approximately what proportion of households in the site have a sufficient quantity of safe and clean water for drinking, cooking, bathing and washing in the last three month?;ما هي تقريبا نسبة الأسر في الموقع التي لديها كمية كافية من المياه لنظيفة والصالحة وا للشرب والطهي والاستحمام والغسيل في الأشهر الثلاثة الماضية؟
