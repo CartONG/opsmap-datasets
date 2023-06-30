@@ -14,7 +14,8 @@ SITE_ACCESS_SAFETY;Safety-and-security;Site access & safety;وصول سيتا و
 group_health;Health;Health;صحة
 Cash_Markets;Cash-transfer;Cash & markets;النقد والأسواق
 group_committees;Community-engagement;Site Committiees;لجان الموقع
-SERVICE_ACCESS_COMMUNITY_NEEDS;Services-and-tools;Service access & Community needs;الوصول إلى الخدمة واحتياجات المجتمع
+Service_access;Services-and-tools;Service access;الوصول إلى الخدمة
+Community_needs;Services-and-tools;Community needs;احتياجات المجتمع
 Sectoral_Response_Capacity;Response;Sectoral response capacity;القدرة على الاستجابة القطاعية
 group_displacement;Internally-displaced;Displacement;الإزاحة
 Comments;Blog;Comments;تعليقات
