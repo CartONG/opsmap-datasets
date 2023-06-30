@@ -56,3 +56,5 @@ up_to_pct;math;>=80;green
 pct_occ;math;<0.8;green
 pct_occ;math;>=0.8 and <1;orange
 pct_occ;math;>=1;red
+nb_ind_vs_staff;math;>1000;red
+nb_ind_vs_staff;math;<=1000;green
