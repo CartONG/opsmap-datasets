@@ -37,6 +37,11 @@ need_shelter;string;majority_of_households;green
 need_shelter;string;half_of_households;orange
 need_shelter;string;few_households;red
 need_shelter;string;none_almost_no_households;red
+need_shelter_all_red;string;all_almost_all_households;red
+need_shelter_all_red;string;majority_of_households;red
+need_shelter_all_red;string;half_of_households;orange
+need_shelter_all_red;string;few_households;green
+need_shelter_all_red;string;none_almost_no_households;green
 access_protection;string;not_accessible;red
 access_protection;string;accessible;green
 access_protection;string;i_dont_know;red
