@@ -47,6 +47,7 @@ smc_presence_days;integer;group_cccm;;;;;;
 smc_female;integer;group_cccm;;;;;;
 smc_male;integer;group_cccm;;;;;;
 smc_total;integer;group_cccm;;;;;;
+staff_hh;computed;group_cccm;;;;;smc_total#/#nb_site_residents_hh;
 smc_code_of_conduct_number;integer;group_cccm;;;;;;
 smc_training_number;integer;group_cccm;;;;;;
 camp_committee_total;integer;group_committees;;;;;;
