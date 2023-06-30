@@ -220,4 +220,4 @@ site_maintenance_orgnization_type;Site maintenance - Service provider;مزود �
 security_safety_drr_orgnization_type;Security \ safety & DRR - Service provider;مزود الخدمة الأمن / السلامة والحد من مخاطر الكوارث
 pct_occupation;Number of household per shelter;معدل إشغال المأوى حسب الأسرة
 hh_size;Number of individuals per household;عدد الأفراد لكل أسرة
-staff_hh;Number of household per staff;عدد الأسرة لكل موظف
+staff_hh;Number of individuals per staff;عدد الأسرة لكل موظف
