@@ -1,4 +1,4 @@
-field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;indicator_operation;list_name
+field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;computed_rule;list_name
 smc_agency;bullet;group_general_info;;;;;;
 reporting_month;bullet;group_general_info;;;;;;
 hub;bullet;group_general_info;;;;;;
@@ -121,7 +121,7 @@ methodology_pop_demographics;integer;group_vulpop;;;;;;
 source_pop_demographics;integer;group_vulpop;;;;;;
 pop_groups_outside_site_assistance_in_site;integer;group_vulpop;;;;;;
 nb_shelters;integer;group_shelternfi;;;;;;
-pct_occupation;float;group_shelternfi;pct_occ;;;;(nb_shelters/nb_site_residents_hh)*100;
+pct_occupation;computed;group_shelternfi;pct_occ;;;;nb_shelters#/#nb_site_residents_hh;
 site_capacity;bullet;group_shelternfi;site_capa;;;;;
 nb_available_shelters;integer;group_shelternfi;;;;;;
 nb_new_shelters_land_for_extension;integer;group_shelternfi;;;;;;
