@@ -221,3 +221,15 @@ security_safety_drr_orgnization_type;Security \ safety & DRR - Service provider;
 pct_occupation;Number of household per shelter;معدل إشغال المأوى حسب الأسرة
 hh_size;Number of individuals per household;عدد الأفراد لكل أسرة
 staff_hh;Number of individuals per staff;عدد الأسرة لكل موظف
+blankets_int;Blankets;بطانيات
+mattresses_int;Mattress;فرشات
+sleeping_matt_int;Sleeping matt;حصيرة للنوم
+water_containers_buckets_int;Water containers \buckets;حاويات مياه/ دلاء
+oven_stoves_int;Oven\stoves;فرن/مواقد
+fuel_for_cooking_int;Fuel for cooking;وقود للطهي
+kitchen_items_int;Kitchen items;أدوات المطبخ
+hygiene_items_pct_int;Hygiene items;مواد النظافة
+feminine_hygiene_items_pct_int;Feminine hygiene items;مواد النظافة النسائية
+plastic_sheet_int;Plastic sheet;غطاء بلاستيكي/ شادر
+mosquito_nets_int;Mosquito nets;ناموسيات
+solar_lamps_int;Solar lamps;مصابيح الطاقة الشمسية
