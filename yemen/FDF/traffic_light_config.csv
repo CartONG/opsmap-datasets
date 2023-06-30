@@ -42,6 +42,9 @@ avg_time;string;primary_school_accessible_in_site;green
 avg_time;string;secondary_school_accessible_in_site;green
 avg_time;string;no_functional_primary_school_accessible_for_children_in_sites;red
 avg_time;string;no_functional_secondary_school_accessible_for_children_in_sites;red
+avg_time;string;static_health_facility_in_site;green
+avg_time;string;mobile_health_facility_in_site;green
+avg_time;string;secondary_health_facility_in_site;green
 up_to_0_green;math;>0;green
 up_to_0_green;math;0;red
 up_to_0_red;math;>0;red
@@ -74,3 +77,9 @@ pct_sanitation;string;showers_about_half_around_50_percent;orange
 pct_sanitation;string;showers_most_around_75_percent;green
 pct_sanitation;string;showers_everyone_around_100_percent;green
 pct_sanitation;string;all_around_100_percent;green
+health_services_type;string;none_of_the_above;red
+health_services_type;string;basic_primary_healthcare;green
+health_services_type;string;child_healthcare;green
+health_services_type;string;maternal_healthcare;green
+health_services_type;string;nutrition_counselling_services;green
+health_services_type;string;hiv_counselling_and_testing;green
