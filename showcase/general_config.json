@@ -114,6 +114,12 @@
                     "longitude": "longitude",
                     "manageBy": ""
                 },
+                "options": {
+                "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "MM/YYYY",
+                "listSeparator": ";",
+                "anonymousMode": "none"
+            },
                 "admins": {
                     "admin1": {
                         "pcode": "adm1_pcode",
