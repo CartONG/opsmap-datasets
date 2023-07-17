@@ -78,7 +78,7 @@
             ]
         }
     ],
-    "spatialConfiguration": {
+    "spatial": {
         "mapConfig": {
             "bounds": [
                 52.05,
@@ -98,29 +98,8 @@
             "name": "Survey 2022",
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWB--WUoL4kvoVyWJA0pSvrutK2eKTRbKFUkDRJcY5drw52BtBKphuqb8P1_iD23hiBNZIoBSw70Vy/pub?gid=139925868&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWB--WUoL4kvoVyWJA0pSvrutK2eKTRbKFUkDRJcY5drw52BtBKphuqb8P1_iD23hiBNZIoBSw70Vy/pub?gid=471306203&single=true&output=csv",
-            "spatial": {
-                "siteFields": {
-                    "id": "CCCM-SITE-ID",
-                    "lastUpdate": "last_update",
-                    "latitude": "GPS_LATITUDE",
-                    "longitude": "GPS_LONGITUDE",
-                    "manageBy": "CCCM_AGENCY",
-                    "name": "SITE_NAME",
-                    "type": "Site_Type"
-                },
-                "admins": {
-                    "admin1": {
-                        "pcode": "ADM1_PCODE",
-                        "name": "ADM1_EN"
-                    },
-                    "admin2": {
-                        "pcode": "ADM2_PCODE",
-                        "name": "ADM2_EN"
-                    }
-                }
-            },
             "indicators": {
-                "home": [
+                "area": [
                     {
                         "type": "site_count"
                     },
@@ -167,6 +146,27 @@
                         "iconOchaName": "Selected"
                     }
                 ]
+            },
+            "spatial": {
+                "siteFields": {
+                    "id": "CCCM-SITE-ID",
+                    "lastUpdate": "last_update",
+                    "latitude": "GPS_LATITUDE",
+                    "longitude": "GPS_LONGITUDE",
+                    "manageBy": "CCCM_AGENCY",
+                    "name": "SITE_NAME",
+                    "type": "Site_Type"
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "ADM1_PCODE",
+                        "name": "ADM1_EN"
+                    },
+                    "admin2": {
+                        "pcode": "ADM2_PCODE",
+                        "name": "ADM2_EN"
+                    }
+                }
             }
         }
     ]
