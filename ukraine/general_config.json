@@ -164,7 +164,8 @@
             "submissionsUrl": "data/ukraine_ua_data_110722_fdf_combined_18apr.xlsx",
             "submissionsTrUrl": "data/ukraine_ua_data_110722_fdf_combined_translations.xlsx",
             "options": {
-                "anonymousMode": "text"
+                "anonymousMode": "text",
+                "inputDateFormat": "YYYY/MM/DD"
             },
             "spatial": {
                 "siteFields": {
