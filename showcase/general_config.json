@@ -113,6 +113,16 @@
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": ""
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "adm1_pcode",
+                        "name": "region"
+                    },
+                    "admin2": {
+                        "pcode": "adm2_pcode",
+                        "name": "dep"
+                    }
                 }
             },
             "options": {
@@ -120,16 +130,6 @@
                 "displayDateFormat": "MM/YYYY",
                 "listSeparator": ";",
                 "anonymousMode": "none"
-            },
-            "admins": {
-                "admin1": {
-                    "pcode": "adm1_pcode",
-                    "name": "region"
-                },
-                "admin2": {
-                    "pcode": "adm2_pcode",
-                    "name": "dep"
-                }
             },
             "indicators": {
                 "area": [
