@@ -83,7 +83,7 @@ ngo_electric_heater;list;group_hum_assistance ;ngo_electric_heater;;;;Y
 ngo_disinfection_site_s_premises;list;group_hum_assistance ;ngo_disinfection_site_s_premises;;;;Y
 ngo_other_hum_assist;list;group_hum_assistance ;ngo_other_hum_assist;;;;Y
 hhs_number;list;group_demography;hhs_number;;age_pyramid#1;;Y
-site_individuals;integer;group_demography;site_individuals;;age_pyramid#1;;Y
+site_individuals;float;group_demography;site_individuals;;age_pyramid#1;;Y
 individuals_male_over_18;integer;group_demography;;;;;Y
 individuals_female_over_18;integer;group_demography;;;;;Y
 children_0_5;integer;group_demography;;;;;Y
