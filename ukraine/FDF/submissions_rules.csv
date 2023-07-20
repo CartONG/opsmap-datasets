@@ -26,7 +26,7 @@ responsible;list;group_site_management;responsible;;;;Y
 non_governmental_organization;string;group_site_management;;;;;hide
 consulting_on_site_management;string;group_site_management;;;;;hide
 general_meetings;string;group_site_management;;;;;hide
-settlement_documents;string;group_site_management;;;;;hide
+settlement_documents;list;group_site_management;;;;;hide
 organization;string;group_site_management;;;;;hide
 focal_point;list;group_site_management;focal_point;;;m;Y
 enroll_system;list;group_site_management;enroll_system;yesnodont;;f;Y
