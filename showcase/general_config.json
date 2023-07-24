@@ -111,6 +111,13 @@
                         "fr": "adm1 pcode",
                         "en": "adm1 pcode"
                     }
+                },
+                 {
+                    "field": "adm2_pcode",
+                    "name": {
+                        "fr": "adm2 pcode",
+                        "en": "adm2 pcode"
+                    }
                 }
                 ],
                 "spatial": {
