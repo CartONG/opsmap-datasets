@@ -109,16 +109,9 @@
                     "field": "cccm_shelter_coordination",
                     "name": {
                         "fr": "cccm shelter coordination",
-                        "en": "adm1 pcode"
+                        "en": "cccm shelter coordinatio"
                     }
-                },
-                 {
-                    "field": "cccm_shelter__mangmt",
-                    "name": {
-                        "fr": "cccm shelter mangmt",
-                        "en": "adm2 pcode"
-                    }
-                }
+                 }
                 ],
                 "spatial": {
                 "siteFields": {
