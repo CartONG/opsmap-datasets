@@ -167,6 +167,22 @@
                 "anonymousMode": "text",
                 "inputDateFormat": "YYYY/MM/DD"
             },
+            "additionalFiltersDescription": [
+                {
+                    "field": "sites_pcode_updated",
+                    "name": {
+                        "en": "PCODE",
+                        "uk": "Admin 2 PCODE"
+                    }
+                },
+                {
+                    "field": "round",
+                    "name": {
+                        "en": "Round",
+                        "uk": "Круглий"
+                    }
+                }
+            ],
             "spatial": {
                 "siteFields": {
                     "id": "sites_pcode_updated",
