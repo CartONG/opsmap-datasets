@@ -24,3 +24,7 @@ wifi;string;yes_occasional_access;orange
 wifi;string;yes_full_access;green
 wifi;string;no_access_at_all;red
 wifi;string;not_sure;red
+gender;string;no;red
+gender;string;partially;orange
+gender;string;yes;green
+gender;string;not_sure;red
