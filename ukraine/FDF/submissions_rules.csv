@@ -1,198 +1,173 @@
 field_name;type;thematic_group;list_name;traffic_light_name;chart_id;chart_data;display_condition
-date_assessment;date;group_general_info;;;;;Y
-raion_name;list;group_general_info;raion_name;;;;Y
-hromada_name;list;group_general_info;hromada_name;;;;Y
-settlement_name;list;group_general_info;settlement_name;;;;Y
-round;string;group_general_info;round;;;;Y
-sites_pcode_updated;string;group_general_info;sites_pcode_updated;;;;Y
-site_name_eng;string;group_general_info;site_name_eng;;;;Y
-latitude;float;group_general_info;;;;;hide
-longitude;float;group_general_info;;;;;hide
-organization;string;group_general_info;organization;;;;Y
-interview_type;string;group_general_info;interview_type;;;;Y
-adm1_pcode;string;group_general_info;;;;;hide
-adm2_pcode;string;group_general_info;;;;;hide
-hromada;string;group_general_info;;;;;hide
-settlement;string;group_general_info;;;;;hide
-informed_consent;string;group_site_information;;;;;hide
-gender;string;group_site_information;;;;;hide
-site_ownership;list;group_site_information;site_ownership;;;;Y
-building_type;string;group_site_information;building_type;;;;Y
-site_closure;list;group_site_information;site_closure;yesnodont;;;Y
-site_active;string;group_site_information;site_active;yesnohost;;;Y
-responsible;list;group_site_management;responsible;;;;Y
-non_governmental_organization;string;group_site_management;;;;;hide
-consulting_on_site_management;string;group_site_management;;;;;hide
-general_meetings;string;group_site_management;;;;;hide
-settlement_documents;list;group_site_management;;;;;hide
-organization_manages;string;group_site_management;;;;;Y
-focal_point;list;group_site_management;focal_point;;;m;Y
-enroll_system;list;group_site_management;enroll_system;yesnodont;;f;Y
-writing_rules;list;group_site_management;writing_rules;yesnodont;;;Y
-idp_charged;list;group_site_management;idp_charged;;;;Y
-charged_money;list;group_site_management;charged_money;yesno;;;Y
-stay_long;list;group_site_management;stay_long;;;;Y
-hum_assist;list;group_hum_assistance ;hum_assist;yesnodont;;;Y
-hum_assist_type;bullet;group_hum_assistance ;hum_assist_type;;;;Y
-cleaning_materials;list;group_hum_assistance ;cleaning_materials;;;;Y
-communications_equipment;list;group_hum_assistance ;communications_equipment;;;;Y
-food_products;list;group_hum_assistance ;food_products;;;;Y
-generators;list;group_hum_assistance ;generators;;;;Y
-kitchen_support;list;group_hum_assistance ;kitchen_support;;;;Y
-site_repairs_non_wash;list;group_hum_assistance ;site_repairs_non_wash;;;;Y
-wash_repairs;list;group_hum_assistance ;wash_repairs;;;;Y
-washing_drying_machines;list;group_hum_assistance ;washing_drying_machines;;;;Y
-recreational_activities;list;group_hum_assistance ;recreational_activities;;;;Y
-support_for_utility_payments;list;group_hum_assistance ;support_for_utility_payments;;;;Y
-medicine;list;group_hum_assistance ;medicine;;;;Y
-legal_assistance;list;group_hum_assistance ;legal_assistance;;;;Y
-psychosocial_support;list;group_hum_assistance ;psychosocial_support;;;;Y
-transportation;list;group_hum_assistance ;transportation;;;;Y
-provision_of_information;list;group_hum_assistance ;provision_of_information;;;;Y
-specialized_support_to_pwd_or_older_people;list;group_hum_assistance ;specialized_support_to_pwd_or_older_people;;;;Y
-arrangement_of_a_bomb_shelter;list;group_hum_assistance ;arrangement_of_a_bomb_shelter;;;;Y
-solid_fuel_for_heating;list;group_hum_assistance ;solid_fuel_for_heating;;;;Y
-electric_heater;list;group_hum_assistance ;electric_heater;;;;Y
-other_hum_assist;list;group_hum_assistance ;other_hum_assist;;;;Y
-ngo_sleeping_items;list;group_hum_assistance ;ngo_sleeping_items;;;;Y
-ngo_hygiene_items;list;group_hum_assistance ;ngo_hygiene_items;;;;Y
-ngo_cleaning_materials;list;group_hum_assistance ;ngo_cleaning_materials;;;;Y
-ngo_communications_equipment;list;group_hum_assistance ;ngo_communications_equipment;;;;Y
-ngo_food_products;list;group_hum_assistance ;ngo_food_products;;;;Y
-ngo_generators;list;group_hum_assistance ;ngo_generators;;;;Y
-ngo_kitchen_support;list;group_hum_assistance ;ngo_kitchen_support;;;;Y
-ngo_site_repairs_non_wash;list;group_hum_assistance ;ngo_site_repairs_non_wash;;;;Y
-ngo_wash_repairs;list;group_hum_assistance ;ngo_wash_repairs;;;;Y
-ngo_washing_drying_machines;list;group_hum_assistance ;ngo_washing_drying_machines;;;;Y
-ngo_recreational_activities;list;group_hum_assistance ;ngo_recreational_activities;;;;Y
-ngo_support_for_utility_payments;list;group_hum_assistance ;ngo_support_for_utility_payments;;;;Y
-ngo_medicine;list;group_hum_assistance ;ngo_medicine;;;;Y
-ngo_legal_assistance;list;group_hum_assistance ;ngo_legal_assistance;;;;Y
-ngo_psychosocial_support;list;group_hum_assistance ;ngo_psychosocial_support;;;;Y
-ngo_transportation;list;group_hum_assistance ;ngo_transportation;;;;Y
-ngo_provision_of_information;list;group_hum_assistance ;ngo_provision_of_information;;;;Y
-ngo_specialized_support_to_pwd_or_older_people;list;group_hum_assistance ;ngo_specialized_support_to_pwd_or_older_people;;;;Y
-ngo_arrangement_of_a_bomb_shelter;list;group_hum_assistance ;ngo_arrangement_of_a_bomb_shelter;;;;Y
-ngo_solid_fuel_for_heating;list;group_hum_assistance ;ngo_solid_fuel_for_heating;;;;Y
-ngo_electric_heater;list;group_hum_assistance ;ngo_electric_heater;;;;Y
-ngo_other_hum_assist;list;group_hum_assistance ;ngo_other_hum_assist;;;;Y
-hhs_number;integer;group_demography;hhs_number;;;;Y
-site_individuals;integer;group_demography;site_individuals;;;;Y
-individuals_male_over_18;integer;group_demography;;;;;Y
-individuals_female_over_18;integer;group_demography;;;;;Y
-individuals_male_over_18;integer;group_demography;;;age_pyramid#1;m;Y
-individuals_female_over_18;integer;group_demography;;;age_pyramid#1;f;Y
-children_0_5;integer;group_demography;;;;;Y
-children_6_17;integer;group_demography;;;;;Y
-unaccompanied_children;list;group_demography;uccompanied_children;yesnodont;;;Y
-vulnerable;bullet;group_demography;vulnerable;;;;Y
-pregnant_lactating_number;integer;group_demography;;;;;Y
-female_headed_number;integer;group_demography;;;;;Y
-older_women_number;integer;group_demography;;;;;Y
-older_men_number;integer;group_demography;;;;;Y
-older_women_number;integer;group_demography;;;age_pyramid#1;f;Y
-older_men_number;integer;group_demography;;;age_pyramid#1;m;Y
-with_health_issues_number;integer;group_demography;;;;;Y
-foreign_nationals_number;integer;group_demography;;;;;Y
-without_nationality_number;integer;group_demography;;;;;Y
-minority_groups_number;integer;group_demography;;;;;Y
-people_with_disabilities;integer;group_demography;;;;;Y
-child_headed_households_number;integer;group_demography;;;;;Y
-older_people_that_require_caragiver_support_number;integer;group_demography;;;;;Y
-idp_move;list;group_site_management;idp_move;;;;Y
-idp_groups;list;group_site_management;idp_groups;;;;Y
-hh_evicted;list;group_site_management;hh_evicted;yesnodont;;;Y
-eviction_reason;list;group_site_management;eviction_reason;;;;Y
-people_can_hosted;integer;group_site_management;;;;;Y
-accommodated;bullet;group_site_management;accommodated;;;;Y
-rooms_independent;list;group_site_management;rooms_independent;;;;Y
-gender_rooms;list;group_site_management;gender_rooms;gender;;;Y
-allocation_plan;list;group_site_management;allocation_plan;;;;Y
-shelter_issues_living_conditions;bullet;group_shelter;shelter_issues_living_conditions;;;;Y
-shelter_issues_infrastructure;bullet;group_shelter;shelter_issues_infrastructure;;;;Y
-need_rehabilitation;bullet;group_shelter;need_rehabilitation;;;;Y
-recreational_area;list;group_shelter;recreational_area;yesnodont;;;Y
-lockers;list;group_shelter;lockers;yesnodont;;;Y
-bomb_shelter;list;group_shelter;bomb_shelter;yes10facility;;;Y
-public_transport;list;group_shelter;public_transport;yesnodont;;;Y
-time_pension_facility;list;group_shelter;time_pension_facility;moreless;;;Y
-time_bank;list;group_shelter;time_bank;moreless;;;Y
-atm;list;group_shelter;atm;yesnodont;;;Y
-back_up_source_of_power;list;group_shelter;back_up_source_of_power;yesnodont;;;Y
-back_up_source_of_power_extent;bullet;group_shelter;back_up_source_of_power_extent;;;;Y
-average_the_outage;list;group_shelter;average_the_outage;;;;Y
-electricity_availability;list;group_nonfood;electricity_availability;yesnosure;;;Y
-wifi_connection;list;group_nonfood;wifi_connection;wifi;;;Y
-wifi_free;list;group_nonfood;wifi_free;;;;Y
-mobile_signal;list;group_nonfood;mobile_signal;;;;Y
-charging_points;list;group_nonfood;charging_points;;;;Y
-sleeping_items_type;bullet;group_nonfood;sleeping_items_type;;;;Y
-need_clothing;list;group_nonfood;need_clothing;;;;Y
-types_of_clothing;list;group_nonfood;types_of_clothing;yesnosure;;;Y
-access_food;bullet;group_food_security;access_food;;;;Y
-travel_foot_store;list;group_food_security;travel_foot_store;;;;Y
-kitchen_availability;list;group_food_security;kitchen_availability;yesnosure;;;Y
-kitchen_has_hot_water;bullet;group_food_security;kitchen_has_hot_water;;;;Y
-kitchen_enmities;list;group_food_security;kitchen_enmities;;;;Y
-kitchen_cleaner;list;group_food_security;kitchen_cleaner;;;;Y
-communal_spaces;list;group_food_security;communal_spaces;yesnosure;;;Y
-utensils;list;group_food_security;utensils;yesnosure;;;Y
-utensils_type;bullet;group_food_security;utensils_type;;;;Y
-food_products_needs;list;group_food_security;food_products_needs;yesnosure;;;Y
-food_products_type;bullet;group_food_security;food_products_type;;;;Y
-babyfood_products;list;group_food_security;babyfood_products;yesnosure;;;Y
-babyfood_products_type;bullet;group_food_security;babyfood_products_type;;;;Y
-access_water;bullet;group_wash;access_water;;;;Y
-bathing_facilities;list;group_wash;bathing_facilities;yesnosure;;;Y
-number_showers;list;group_wash;number_showers;;;;Y
-shower_gender;list;group_wash;shower_gender;yesnosure;;;Y
-shower_hot_water;list;group_wash;shower_hot_water;yesnosure;;;Y
-disability_showers;list;group_wash;disability_showers;yesnosure;;;Y
-hot_water_source;bullet;group_wash;hot_water_source;;;;Y
-hot_water_available;list;group_wash;hot_water_available;;;;Y
-number_toilets;list;group_wash;number_toilets;;;;Y
-toilet_gender;list;group_wash;toilet_gender;yesnodont;;;Y
-cleaning_items;list;group_wash;cleaning_items;yesnosure;;;Y
-cleaning_items_type;bullet;group_wash;cleaning_items_type;;;;Y
-washing_machines;list;group_wash;washing_machines;yesnosure;;;Y
-drying_machines;list;group_wash;drying_machines;yesnosure;;;Y
-waste_disposal_capacity;list;group_wash;waste_disposal_capacity;;;;Y
-hygiene_items_type;bullet;group_wash;hygiene_items_type;;;;Y
-access_pss;list;group_protection;access_pss;yesnosure;;;Y
-known_pss;list;group_protection;known_pss;yesnosure;;;Y
-walking_tsnap;list;group_protection;walking_tsnap;yesnosure;;;Y
-social_workers_visit;list;group_protection;social_workers_visit;yesnodont;;;Y
-social_workers_visit_frequency;list;group_protection;social_workers_visit_frequency;;;;Y
-adult_pss;list;group_protection;adult_pss;yesnodont;;;Y
-adult_pss_yes;bullet;group_protection;adult_pss_yes;;;;Y
-referral_system;list;group_protection;referral_system;yesnosure;;;Y
-gbv_report;list;group_protection;gbv_report;yesnosure;;;Y
-information_about_police;string;group_protection;;;;;hide
-time_healthcare;list;group_healthcare;time_healthcare;;;;Y
-reachable_by_ambulance;list;group_healthcare;reachable_by_ambulance;yesnodont;;;Y
-first_aid;list;group_healthcare;first_aid;yesnosure;;;Y
-access_education;list;group_public_services;access_education;yesnosure;;;Y
-mode_of_education;list;group_public_services;mode_of_education;moreless;;;Y
-prevented_access_education;list;group_public_services;prevented_access_education;moreless;;;Y
-info_desk;list;group_protection;info_desk;yesnosure;;;Y
-resolution_cmu_261;string;group_protection;;;;;hide
-request_for_compensation;list;group_protection;request_for_compensation;;;;Y
-feedback_mechanism;bullet;group_protection;feedback_mechanism;;;;Y
-urgent_need_all;bullet;group_hum_assistance ;urgent_need_all;;;;Y
-urgent_need_top_3;bullet;group_hum_assistance ;urgent_need_top_3;;;;Y
-_index;string;group_protection;;;;;hide
-admin4ClassType_1;string;group_site_management;;;;;hide
-end;date;group_general_info;;;;;hide
-hygiene_items;list;group_wash;;;;;hide
-hygiene_items_need;list;group_wash;;;;;Y
-lgbtiq_number;string;group_general_info;;;;;hide
-problems_idps;list;group_protection;;;;;Y
-site_name_uid_list;list;group_general_info;;;;;hide
-site_type;string;group_general_info;;;;;hide
-sleeping_items;list;group_nonfood;;;;;hide
+date_assessment;date;group_general_info;;;;;Yes
+raion_name;list;group_general_info;raion_name;;;;Yes
+hromada_name;list;group_general_info;hromada_name;;;;Yes
+settlement_name;list;group_general_info;settlement_name;;;;Yes
+round;string;group_general_info;round;;;;Yes
+sites_pcode_updated;string;group_general_info;sites_pcode_updated;;;;Yes
+site_name_eng;string;group_general_info;site_name_eng;;;;Yes
+organization;string;group_general_info;organization;;;;Yes
+interview_type;string;group_general_info;interview_type;;;;Yes
+site_ownership;list;group_site_information;site_ownership;;;;Yes
+building_type;string;group_site_information;building_type;;;;Yes
+site_closure;list;group_site_information;site_closure;yesnodont;;;Yes
+site_active;string;group_site_information;site_active;yesnohost;;;Yes
+responsible;list;group_site_management;responsible;;;;Yes
+organization_manages;string;group_site_management;;;;;Yes
+focal_point;list;group_site_management;focal_point;;;m;Yes
+enroll_system;list;group_site_management;enroll_system;yesnodont;;f;Yes
+writing_rules;list;group_site_management;writing_rules;yesnodont;;;Yes
+idp_charged;list;group_site_management;idp_charged;;;;Yes
+charged_money;list;group_site_management;charged_money;yesno;;;Yes
+stay_long;list;group_site_management;stay_long;;;;Yes
+hum_assist;list;group_hum_assistance ;hum_assist;yesnodont;;;Yes
+hum_assist_type;bullet;group_hum_assistance ;hum_assist_type;;;;Yes
+cleaning_materials;list;group_hum_assistance ;cleaning_materials;;;;Yes
+communications_equipment;list;group_hum_assistance ;communications_equipment;;;;Yes
+food_products;list;group_hum_assistance ;food_products;;;;Yes
+generators;list;group_hum_assistance ;generators;;;;Yes
+kitchen_support;list;group_hum_assistance ;kitchen_support;;;;Yes
+site_repairs_non_wash;list;group_hum_assistance ;site_repairs_non_wash;;;;Yes
+wash_repairs;list;group_hum_assistance ;wash_repairs;;;;Yes
+washing_drying_machines;list;group_hum_assistance ;washing_drying_machines;;;;Yes
+recreational_activities;list;group_hum_assistance ;recreational_activities;;;;Yes
+support_for_utility_payments;list;group_hum_assistance ;support_for_utility_payments;;;;Yes
+medicine;list;group_hum_assistance ;medicine;;;;Yes
+legal_assistance;list;group_hum_assistance ;legal_assistance;;;;Yes
+psychosocial_support;list;group_hum_assistance ;psychosocial_support;;;;Yes
+transportation;list;group_hum_assistance ;transportation;;;;Yes
+provision_of_information;list;group_hum_assistance ;provision_of_information;;;;Yes
+specialized_support_to_pwd_or_older_people;list;group_hum_assistance ;specialized_support_to_pwd_or_older_people;;;;Yes
+arrangement_of_a_bomb_shelter;list;group_hum_assistance ;arrangement_of_a_bomb_shelter;;;;Yes
+solid_fuel_for_heating;list;group_hum_assistance ;solid_fuel_for_heating;;;;Yes
+electric_heater;list;group_hum_assistance ;electric_heater;;;;Yes
+other_hum_assist;list;group_hum_assistance ;other_hum_assist;;;;Yes
+ngo_sleeping_items;list;group_hum_assistance ;ngo_sleeping_items;;;;Yes
+ngo_hygiene_items;list;group_hum_assistance ;ngo_hygiene_items;;;;Yes
+ngo_cleaning_materials;list;group_hum_assistance ;ngo_cleaning_materials;;;;Yes
+ngo_communications_equipment;list;group_hum_assistance ;ngo_communications_equipment;;;;Yes
+ngo_food_products;list;group_hum_assistance ;ngo_food_products;;;;Yes
+ngo_generators;list;group_hum_assistance ;ngo_generators;;;;Yes
+ngo_kitchen_support;list;group_hum_assistance ;ngo_kitchen_support;;;;Yes
+ngo_site_repairs_non_wash;list;group_hum_assistance ;ngo_site_repairs_non_wash;;;;Yes
+ngo_wash_repairs;list;group_hum_assistance ;ngo_wash_repairs;;;;Yes
+ngo_washing_drying_machines;list;group_hum_assistance ;ngo_washing_drying_machines;;;;Yes
+ngo_recreational_activities;list;group_hum_assistance ;ngo_recreational_activities;;;;Yes
+ngo_support_for_utility_payments;list;group_hum_assistance ;ngo_support_for_utility_payments;;;;Yes
+ngo_medicine;list;group_hum_assistance ;ngo_medicine;;;;Yes
+ngo_legal_assistance;list;group_hum_assistance ;ngo_legal_assistance;;;;Yes
+ngo_psychosocial_support;list;group_hum_assistance ;ngo_psychosocial_support;;;;Yes
+ngo_transportation;list;group_hum_assistance ;ngo_transportation;;;;Yes
+ngo_provision_of_information;list;group_hum_assistance ;ngo_provision_of_information;;;;Yes
+ngo_specialized_support_to_pwd_or_older_people;list;group_hum_assistance ;ngo_specialized_support_to_pwd_or_older_people;;;;Yes
+ngo_arrangement_of_a_bomb_shelter;list;group_hum_assistance ;ngo_arrangement_of_a_bomb_shelter;;;;Yes
+ngo_solid_fuel_for_heating;list;group_hum_assistance ;ngo_solid_fuel_for_heating;;;;Yes
+ngo_electric_heater;list;group_hum_assistance ;ngo_electric_heater;;;;Yes
+ngo_other_hum_assist;list;group_hum_assistance ;ngo_other_hum_assist;;;;Yes
+hhs_number;integer;group_demography;hhs_number;;;;Yes
+site_individuals;integer;group_demography;site_individuals;;;;Yes
+individuals_male_over_18;integer;group_demography;;;;;Yes
+individuals_female_over_18;integer;group_demography;;;;;Yes
+individuals_male_over_18;integer;group_demography;;;age_pyramid#1;m;Yes
+individuals_female_over_18;integer;group_demography;;;age_pyramid#1;f;Yes
+children_0_5;integer;group_demography;;;;;Yes
+children_6_17;integer;group_demography;;;;;Yes
+unaccompanied_children;list;group_demography;uccompanied_children;yesnodont;;;Yes
+vulnerable;bullet;group_demography;vulnerable;;;;Yes
+pregnant_lactating_number;integer;group_demography;;;;;Yes
+female_headed_number;integer;group_demography;;;;;Yes
+older_women_number;integer;group_demography;;;;;Yes
+older_men_number;integer;group_demography;;;;;Yes
+older_women_number;integer;group_demography;;;age_pyramid#1;f;Yes
+older_men_number;integer;group_demography;;;age_pyramid#1;m;Yes
+with_health_issues_number;integer;group_demography;;;;;Yes
+foreign_nationals_number;integer;group_demography;;;;;Yes
+without_nationality_number;integer;group_demography;;;;;Yes
+minority_groups_number;integer;group_demography;;;;;Yes
+people_with_disabilities;integer;group_demography;;;;;Yes
+child_headed_households_number;integer;group_demography;;;;;Yes
+older_people_that_require_caragiver_support_number;integer;group_demography;;;;;Yes
+idp_move;list;group_site_management;idp_move;;;;Yes
+idp_groups;list;group_site_management;idp_groups;;;;Yes
+hh_evicted;list;group_site_management;hh_evicted;yesnodont;;;Yes
+eviction_reason;list;group_site_management;eviction_reason;;;;Yes
+people_can_hosted;integer;group_site_management;;;;;Yes
+accommodated;bullet;group_site_management;accommodated;;;;Yes
+rooms_independent;list;group_site_management;rooms_independent;;;;Yes
+gender_rooms;list;group_site_management;gender_rooms;gender;;;Yes
+allocation_plan;list;group_site_management;allocation_plan;;;;Yes
+shelter_issues_living_conditions;bullet;group_shelter;shelter_issues_living_conditions;;;;Yes
+shelter_issues_infrastructure;bullet;group_shelter;shelter_issues_infrastructure;;;;Yes
+need_rehabilitation;bullet;group_shelter;need_rehabilitation;;;;Yes
+recreational_area;list;group_shelter;recreational_area;yesnodont;;;Yes
+lockers;list;group_shelter;lockers;yesnodont;;;Yes
+bomb_shelter;list;group_shelter;bomb_shelter;yes10facility;;;Yes
+public_transport;list;group_shelter;public_transport;yesnodont;;;Yes
+time_pension_facility;list;group_shelter;time_pension_facility;moreless;;;Yes
+time_bank;list;group_shelter;time_bank;moreless;;;Yes
+atm;list;group_shelter;atm;yesnodont;;;Yes
+back_up_source_of_power;list;group_shelter;back_up_source_of_power;yesnodont;;;Yes
+back_up_source_of_power_extent;bullet;group_shelter;back_up_source_of_power_extent;;;;Yes
+average_the_outage;list;group_shelter;average_the_outage;;;;Yes
+electricity_availability;list;group_nonfood;electricity_availability;yesnosure;;;Yes
+wifi_connection;list;group_nonfood;wifi_connection;wifi;;;Yes
+wifi_free;list;group_nonfood;wifi_free;;;;Yes
+mobile_signal;list;group_nonfood;mobile_signal;;;;Yes
+charging_points;list;group_nonfood;charging_points;;;;Yes
+sleeping_items_type;bullet;group_nonfood;sleeping_items_type;;;;Yes
+need_clothing;list;group_nonfood;need_clothing;;;;Yes
+types_of_clothing;list;group_nonfood;types_of_clothing;yesnosure;;;Yes
+access_food;bullet;group_food_security;access_food;;;;Yes
+travel_foot_store;list;group_food_security;travel_foot_store;;;;Yes
+kitchen_availability;list;group_food_security;kitchen_availability;yesnosure;;;Yes
+kitchen_has_hot_water;bullet;group_food_security;kitchen_has_hot_water;;;;Yes
+kitchen_enmities;list;group_food_security;kitchen_enmities;;;;Yes
+kitchen_cleaner;list;group_food_security;kitchen_cleaner;;;;Yes
+communal_spaces;list;group_food_security;communal_spaces;yesnosure;;;Yes
+utensils;list;group_food_security;utensils;yesnosure;;;Yes
+utensils_type;bullet;group_food_security;utensils_type;;;;Yes
+food_products_needs;list;group_food_security;food_products_needs;yesnosure;;;Yes
+food_products_type;bullet;group_food_security;food_products_type;;;;Yes
+babyfood_products;list;group_food_security;babyfood_products;yesnosure;;;Yes
+babyfood_products_type;bullet;group_food_security;babyfood_products_type;;;;Yes
+access_water;bullet;group_wash;access_water;;;;Yes
+bathing_facilities;list;group_wash;bathing_facilities;yesnosure;;;Yes
+number_showers;list;group_wash;number_showers;;;;Yes
+shower_gender;list;group_wash;shower_gender;yesnosure;;;Yes
+shower_hot_water;list;group_wash;shower_hot_water;yesnosure;;;Yes
+disability_showers;list;group_wash;disability_showers;yesnosure;;;Yes
+hot_water_source;bullet;group_wash;hot_water_source;;;;Yes
+hot_water_available;list;group_wash;hot_water_available;;;;Yes
+number_toilets;list;group_wash;number_toilets;yesnodont;;;Yes
+toilet_gender;list;group_wash;toilet_gender;yesnodont;;;Yes
+cleaning_items;list;group_wash;cleaning_items;yesnosure;;;Yes
+cleaning_items_type;bullet;group_wash;cleaning_items_type;;;;Yes
+washing_machines;list;group_wash;washing_machines;yesnosure;;;Yes
+drying_machines;list;group_wash;drying_machines;yesnosure;;;Yes
+waste_disposal_capacity;list;group_wash;waste_disposal_capacity;;;;Yes
+hygiene_items_type;bullet;group_wash;hygiene_items_type;;;;Yes
+access_pss;list;group_protection;access_pss;yesnosure;;;Yes
+known_pss;list;group_protection;known_pss;yesnosure;;;Yes
+walking_tsnap;list;group_protection;walking_tsnap;yesnosure;;;Yes
+social_workers_visit;list;group_protection;social_workers_visit;yesnodont;;;Yes
+social_workers_visit_frequency;list;group_protection;social_workers_visit_frequency;;;;Yes
+adult_pss;list;group_protection;adult_pss;yesnodont;;;Yes
+adult_pss_yes;bullet;group_protection;adult_pss_yes;;;;Yes
+referral_system;list;group_protection;referral_system;yesnosure;;;Yes
+gbv_report;list;group_protection;gbv_report;yesnosure;;;Yes
+time_healthcare;list;group_healthcare;time_healthcare;;;;Yes
+reachable_by_ambulance;list;group_healthcare;reachable_by_ambulance;yesnodont;;;Yes
+first_aid;list;group_healthcare;first_aid;yesnosure;;;Yes
+access_education;list;group_public_services;access_education;yesnosure;;;Yes
+mode_of_education;list;group_public_services;mode_of_education;moreless;;;Yes
+prevented_access_education;list;group_public_services;prevented_access_education;moreless;;;Yes
+info_desk;list;group_protection;info_desk;yesnosure;;;Yes
+request_for_compensation;list;group_protection;request_for_compensation;;;;Yes
+feedback_mechanism;bullet;group_protection;feedback_mechanism;;;;Yes
+urgent_need_all;bullet;group_hum_assistance ;urgent_need_all;;;;Yes
+urgent_need_top_3;bullet;group_hum_assistance ;urgent_need_top_3;;;;Yes
+hygiene_items_need;list;group_wash;;;;;Yes
+problems_idps;list;group_protection;;;;;Yes
 sleeping_items_need;list;group_nonfood;;;;;Yes
-start;date;group_general_info;;;;;hide
 strata;string;group_general_info;;;;;Yes
-street_type;string;group_general_info;;;;;hide
 sum_unaccompanied_children;integer;group_demography;;;;;Yes
-yes_site_closure;string;group_site_information;;;;;hide
