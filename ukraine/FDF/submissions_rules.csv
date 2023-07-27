@@ -106,7 +106,7 @@ eviction_reason;list;group_site_management;eviction_reason;;;;Y
 people_can_hosted;integer;group_site_management;;;;;Y
 accommodated;bullet;group_site_management;accommodated;;;;Y
 rooms_independent;list;group_site_management;rooms_independent;;;;Y
-gender_rooms;list;group_site_management;gender_rooms;yesnodont;;;Y
+gender_rooms;list;group_site_management;gender_rooms;gender;;;Y
 allocation_plan;list;group_site_management;allocation_plan;;;;Y
 shelter_issues_living_conditions;bullet;group_shelter;shelter_issues_living_conditions;;;;Y
 shelter_issues_infrastructure;bullet;group_shelter;shelter_issues_infrastructure;;;;Y
