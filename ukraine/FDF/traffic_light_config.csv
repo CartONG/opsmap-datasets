@@ -15,3 +15,8 @@ yesnosure;string;not_sure;orange
 yesnohost;string;yes;green
 yesnohost;string;no;red
 yesnohost;string;no_host;orange
+yes10facility;string;yes_nearby_less_than_10_minutes_by_foot;green
+yes10facility;string;yes_in_the_facility_itself;green
+yes10facility;string;no;red
+yes10facility;string;yes;green
+yes10facility;string;dont_know;orange
