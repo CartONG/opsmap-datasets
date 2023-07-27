@@ -138,7 +138,7 @@ shower_hot_water;list;group_wash;shower_hot_water;yesnosure;;;Yes
 disability_showers;list;group_wash;disability_showers;yesnosure;;;Yes
 hot_water_source;bullet;group_wash;hot_water_source;;;;Yes
 hot_water_available;list;group_wash;hot_water_available;;;;Yes
-number_toilets;list;group_wash;number_toilets;yesnodont;;;Yes
+number_toilets;list;group_wash;number_toilets;;;;Yes
 toilet_gender;list;group_wash;toilet_gender;yesnodont;;;Yes
 cleaning_items;list;group_wash;cleaning_items;yesnosure;;;Yes
 cleaning_items_type;bullet;group_wash;cleaning_items_type;;;;Yes
