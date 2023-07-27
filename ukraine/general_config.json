@@ -185,7 +185,7 @@
             ],
             "spatial": {
                 "siteFields": {
-                    "id": "_index",
+                    "id": "sites_pcode_updated",
                     "lastUpdate": "date_assessment",
                     "latitude": "latitude",
                     "longitude": "longitude",
