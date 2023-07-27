@@ -1,4 +1,4 @@
-field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;indicator_operation;list_name
+field_name;type;thematic_group;list_name;traffic_light_name;chart_id;chart_data;display_condition;indicator_operation
 date_assessment;date;group_general_info;;;;;Y
 raion_name;list;group_general_info;raion_name;;;;Y
 hromada_name;list;group_general_info;hromada_name;;;;Y
