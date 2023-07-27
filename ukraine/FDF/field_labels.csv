@@ -4,57 +4,57 @@ access_food;Food provider(s);Постачальники продуктів ха�
 access_pss;Psychological support for residents available ;Наявність психологічної підтримки для мешканців 
 access_water;Drinking water sources;Джерела питної води
 accommodated;Modes of residents accomodation;Способи розміщення мешканців
-adm1_pcode;Adm1 pcode;
-adm2_pcode;Adm2 pcode;
+adm1_pcode;Adm1 pcode;pcode Adm1
+adm2_pcode;Adm2 pcode;pcode Adm2
 adult_pss;PSS for adults ;ПСС для дорослих 
 adult_pss_yes;PSS services available ;Доступні послуги ПСС 
 allocation_plan;Allocation plan for IDPs with specific needs;План розміщення ВПО з особливими потребами
 arrangement_of_a_bomb_shelter;Arrangement of a bomb shelter;
 atm;ATMs available in a walking distance (less than 2 km) ;Банкомати в пішохідній доступності (менше 2 км) 
-average_the_outage;Average the outage;
+average_the_outage;Average the outage;Усередніть відключення
 babyfood_products;Need in babyfood products;Потреба в продуктах дитячого харчування
 babyfood_products_type;Type of babyfood products needed ;Потреба в продуктах дитячого харчування 
-back_up_source_of_power;Back up source of power;
-back_up_source_of_power_extent;Back up source of power extent;
+back_up_source_of_power;Back up source of power;Резервне джерело живлення
+back_up_source_of_power_extent;Back up source of power extent;Резервне джерело потужності
 bathing_facilities;Showers/baths available;Душові кабіни/ванни в наявності
 bomb_shelter;Bomb shelter less than 10 min on foot or available in the site;Бомбосховище менш ніж за 10 хвилин пішки або доступне на території МКП
 building_type;Type of building;Тип будівлі
 charged_money;Daily fee for individual (in UAH);Добова плата для однієї особи (у гривнях)
 charging_points;Sufficiency of access to plugs;Достатність доступу до розеток
-child_headed_households_number;;
+child_headed_households_number;Child headed households number;Кількість домогосподарств, очолюваних дітьми
 children_0_5;No. of children (0-5 years old);Кількість дітей (0-5 років)
 children_6_17;No. of children (6-17 years old);Кількість дітей (6-17 років)
 cleaning_items;Need in cleaning items;Потреба в засобах для прибирання
 cleaning_items_type;Type of cleaning items needed ;Тип необхідних засобів для прибирання 
-cleaning_materials;Cleaning materials;
+cleaning_materials;Cleaning materials;Чистячі матеріали
 communal_spaces;Communal spaces on site for eating food available;Наявність місць загального користування для вживання їжі на території МКП
-communications_equipment;Communications equipment;
-consulting_on_site_management;Consulting on site management;
+communications_equipment;Communications equipment;Обладнання зв'язку
+consulting_on_site_management;Consulting on site management;Консультація з управління сайтом
 date_assessment;Assessment date;Дата оцінювання
 disability_showers;Disability-friendly showers available;Наявність душових кабін, пристосованих для людей з інвалідністю
-electric_heater;Electric heater;
+electric_heater;Electric heater;Електричний обігрівач
 electricity_availability; Sufficiency of the site buildings' electricity capacity;Достатність електричної потужності будівелі МКП
 enroll_system;Enrollment system for newly-arrived site residents ;Система реєстрації для новоприбулих мешканців МКП
 eviction_reason;Reasons for eviction ;Причини виселення 
 feedback_mechanism;Availability of feedback and complaint mechanism for the residents;Наявність механізму зворотного зв'язку та подання скарг для мешканців
 female_headed_number;No. of female-headed households;Кількість домогосподарств, очолюваних жінками
-field_name;field label en;field_label_uk
+field_name;field label en;мітка поля uk
 first_aid;Availability of first aid kits ;Наявність аптечок першої допомоги 
 focal_point;Organization's focal point availability ;Доступність контактної особи організації 
 food_products;Need in food products;Потреба в продуктах харчування
-food_products_needs;Food products needs;
+food_products_needs;Food products needs;Потреби в продуктах харчування
 food_products_type;Types of food products needed ;Види необхідних продуктів харчування 
 foreign_nationals_number;No. of foreign nationals;Кількість іноземних громадян
 gbv_report;Report GBV and human trafficking system available;Доступна система повідомлення про ГОН та торгівлю людьми
 gender;Gender;Гендер
 gender_rooms;Separation of rooms by gender;Розподіл кімнат за статтю
-general_meetings;general meetings;
-generators;generators;
+general_meetings;general meetings;загальні збори
+generators;generators;генератори
 hh_evicted;Eviction cases (over 1 month before data collection);Випадки виселення (за 1 місяць до збору даних)
 hhs_number;No. of HHs hosted in the site;Кількість домогосподарств, розміщених в МКП
 hot_water_available;Availabitity of hot water in this site;Наявність гарячої води на цій ділянці
 hot_water_source;Source of hot water supply ;Джерело гарячого водопостачання 
-hromada;Hromada;
+hromada;Hromada;Громада
 hromada_name;Hromada;Громада
 hum_assist;Has this center received any humanitarian assistance last 7 days? ;Чи отримував цей центр гуманітарну допомогу протягом останніх 7 днів? 
 hum_assist_type;Type of the humanitarian assistance received  over last 7 days;Тип гуманітарної допомоги, отриманої за останні 7 днів
@@ -65,76 +65,76 @@ idp_move;Proportion of IDPs planning to move/ leave within 2 weeks;Частка 
 individuals_female_over_18;No. of female 18+;Кількість жінок віком від 18 років
 individuals_male_over_18;No. of male 18+;Кількість чоловіків 18+
 info_desk;Availability of help and information desk for residents;Наявність довідково-інформаційного пункту для мешканців
-information_about_police;Information about police;
-informed_consent;Informed consent;
-interview_type;Interview type;
+information_about_police;Information about police;Інформація про поліцію
+informed_consent;Informed consent;Informed consent
+interview_type;Interview type;Тип інтерв'ю
 kitchen_availability;Kitchen for residents available;Наявність кухні для мешканців
 kitchen_cleaner;Current mode of common kitchen cleaning ;Поточний режим прибирання спільної кухні 
 kitchen_enmities;Sufficiency of kitchen equipments available ;Достатність наявного кухонного обладнання 
-kitchen_has_hot_water;Kitchen has hot water;
-kitchen_support;Kitchen support;
+kitchen_has_hot_water;Kitchen has hot water;На кухні гаряча вода
+kitchen_support;Kitchen support;Підтримка кухні
 known_pss;Awareness of residents how to access PSS services;Поінформованість мешканців про те, як отримати доступ до послуг ВСС
 latitude;Latitude;Широта
 legal_assistance;Legal assistance;
 lockers;Lockers to store belongings available ;Наявність шафок для зберігання речей 
 longitude;Longitude;Довгота
-medical_problems;Medical problems;
-medicine;Medicine;
+medical_problems;Medical problems;Медичні проблеми
+medicine;Medicine;Ліки
 minority_groups_number;No. of minority groups (such as Roma);Кількість представників меншин (наприклад, ромів)
 mobile_signal;Mobile network signal strength;Рівень сигналу мобільного зв'язку
-mode_of_education;Mode of education;
-need_clothing;Need clothing;
+mode_of_education;Mode of education;Режим навчання
+need_clothing;Need clothing;Потрібен одяг
 need_rehabilitation;Rehabilitation, small construction or earthworks needs ;Потреби у відновленні, невеликому будівництві або земляних роботах 
-ngo_arrangement_of_a_bomb_shelter;NGO arrangement of a bomb shelter;
-ngo_cleaning_materials;NGO cleaning materials;
-ngo_communications_equipment;NGO communications equipment;
-ngo_electric_heater;NGO electric heater;
-ngo_food_products;NGO food products;
-ngo_generators;NGO generators;
-ngo_hygiene_items;NGO hygiene items;
-ngo_kitchen_support;NGO kitchen support;
-ngo_legal_assistance;NGO legal assistance;
-ngo_medicine;NGO medicine;
-ngo_other_hum_assist;NGO other hum assist;
-ngo_provision_of_information;NGO provision of information;
-ngo_psychosocial_support;NGO psychosocial support;
-ngo_recreational_activities;NGO recreational activities;
-ngo_site_repairs_non_wash;NGO site repairs non wash;
-ngo_sleeping_items;NGO sleeping items;
-ngo_solid_fuel_for_heating;NGO solid fuel for heating;
-ngo_specialized_support_to_pwd_or_older_people;NGO specialized support to pwd or older people;
-ngo_support_for_utility_payments;NGO support for utility payments;
-ngo_transportation;NGO transportation;
-ngo_wash_repairs;NGO wash repairs;
-ngo_washing_drying_machines;NGO washing drying machines;
-non_governmental_organization;Non governmental organization;
+ngo_arrangement_of_a_bomb_shelter;NGO arrangement of a bomb shelter;ГО облаштування бомбосховища
+ngo_cleaning_materials;NGO cleaning materials;Матеріали для прибирання НУО
+ngo_communications_equipment;NGO communications equipment;Комунікаційне обладнання НУО
+ngo_electric_heater;NGO electric heater;Електрообігрівач НВО
+ngo_food_products;NGO food products;НВО продуктів харчування
+ngo_generators;NGO generators;Генератори НУО
+ngo_hygiene_items;NGO hygiene items;НВО предмети гігієни
+ngo_kitchen_support;NGO kitchen support;Підтримка кухні НУО
+ngo_legal_assistance;NGO legal assistance;Правова допомога НУО
+ngo_medicine;NGO medicine;НУО медицина
+ngo_other_hum_assist;NGO other hum assist;НУО інші хум допомога
+ngo_provision_of_information;NGO provision of information;НУО надання інформації
+ngo_psychosocial_support;NGO psychosocial support;НУО психосоціальної підтримки
+ngo_recreational_activities;NGO recreational activities;Відпочинкова діяльність НУО
+ngo_site_repairs_non_wash;NGO site repairs non wash;ГО сайту ремонт немийка
+ngo_sleeping_items;NGO sleeping items;НВО спальні предмети
+ngo_solid_fuel_for_heating;NGO solid fuel for heating;НВО тверде паливо для опалення
+ngo_specialized_support_to_pwd_or_older_people;NGO specialized support to pwd or older people;НУО спеціалізована підтримка інвалідів або людей похилого віку
+ngo_support_for_utility_payments;NGO support for utility payments;Підтримка громадськими організаціями комунальних платежів
+ngo_transportation;NGO transportation;НУО перевезення
+ngo_wash_repairs;NGO wash repairs;НГО мийка ремонт
+ngo_washing_drying_machines;NGO washing drying machines;НВО пральні сушильні машини
+non_governmental_organization;Non governmental organization;Громадська організація
 number_showers;Sufficiency of showers/baths for the current level of occupation;Достатність душових/лазень для поточного рівня зайнятості
 number_toilets;Sufficiency of functioning toilets for the current level of occupation;Достатність функціонуючих туалетів для поточного рівня зайнятості
-oblast_name;Oblast name;
+oblast_name;Oblast name;Назва області
 older_men_number;No. of older men (60+);Кількість літніх чоловіків (60+)
-older_people_that_require_caragiver_support_number;Older people that require caragiver support number;
+older_people_that_require_caragiver_support_number;Older people that require caragiver support number;Людям похилого віку, яким потрібен номер служби догляду
 older_women_number;No. of older women (60+);Кількість жінок старшого віку (60+)
 organization;Organization/authority responsible for the site;Організація, відповідальна за МКП
-other_hum_assist;Other hum assist;
+other_hum_assist;Other hum assist;Інший гул
 people_can_hosted;Site host maximum capacity;Максимальна місткість МКП, що приймає переселенців
-people_with_disabilities;People with disabilities;
+people_with_disabilities;People with disabilities;Люди з обмеженими можливостями
 pregnant_lactating_number;No. of pregnant or lactating mothers;Кількість вагітних або годуючих матерів
-prevented_access_education;Prevented access education;
-provision_of_information;Provision of information;
-psychosocial_support;Psychosocial support;
+prevented_access_education;Prevented access education;Унеможливлений доступ до освіти
+provision_of_information;Provision of information;Надання інформації
+psychosocial_support;Psychosocial support;Психосоціальна підтримка
 public_transport;Public transport available in a walking distance (less than 2 km);Громадський транспорт доступний в пішій доступності (менше 2 км)
 raion_name;Raion;Район
 reachable_by_ambulance;Is the site reachable by ambulance;Чи може швидка допомога дістатися до МКП?
-recreational_activities;Recreational activities;
+recreational_activities;Recreational activities;Рекреаційна діяльність
 recreational_area;Recreational/common areas for adults available;Наявність рекреаційних/загальних зон для дорослих
 referral_system;Referral protection system ;Система перенаправлення та захисту 
-request_for_compensation;Request for compensation;
-resolution_cmu_261;Resolution cmu 261;
+request_for_compensation;Request for compensation;Вимога про компенсацію
+resolution_cmu_261;Resolution cmu 261;Роздільна здатність cmu 261
 responsible;Organization/authority responsible for the site;Організація, відповідальна за МКП
 rooms_independent;No. of rooms to accommodate HHs separately;Кількість кімнат для окремого розміщення ПГС
-round;Round;
+round;Round;Круглий
 settlement;Settlement;Населений пункт
-settlement_documents;Settlement documents;
+settlement_documents;Settlement documents;Розрахункові документи
 settlement_name;Settlement;Населений пункт
 shelter_issues_infrastructure;Shelter issues (infrastructure condition);Питання житла (стан інфраструктури)
 shelter_issues_living_conditions;Shelter issues (living conditions);Питання житла (умови проживання)
@@ -143,33 +143,33 @@ shower_hot_water;Availability of hot water in bathing facilities;Наявніс�
 site_active;Current status of the site (IDP hosting);Поточний статус МКП (розміщення ВПО)
 site_closure;Potential site closure in the nearest future;Потенційне закриття МКП в найближчому майбутньому
 site_individuals;No. of individuals hosted in the site;Кількість осіб, розміщених в МКП
-site_name_eng;Site name eng;
+site_name_eng;Site name eng;Назва сайту англ
 site_ownership;Site ownership;Форма власності 
-site_repairs_non_wash;Site repairs non wash;
-sites_pcode_updated;Sites pcode updated;
+site_repairs_non_wash;Site repairs non wash;Ремонт сайту без миття
+sites_pcode_updated;Sites pcode updated;Код сайтів оновлено
 sleeping_items_type;Type of sleeping items needed;Тип необхідних спальних речей
 social_workers_visit;Social workers visit the site;Соціальні працівники відвідують МКП
 social_workers_visit_frequency;Frequency of social workers visits ;Частота візитів соціальних працівників 
-solid_fuel_for_heating;Solid fuel for heating;
+solid_fuel_for_heating;Solid fuel for heating;Тверде паливо для опалення
 specialized_support_to_pwd_or_older_people;Specialized support to pwd or older people;
 stay_long;Usual lenght of stay;Середня тривалість перебування
-support_for_utility_payments;Support for utility payments;
+support_for_utility_payments;Support for utility payments;Спеціалізована підтримка для людей з обмеженими можливостями та літніх людей
 time_bank;Average time to reach the nearest bank;Середній час до найближчого банку
 time_healthcare;Average time to reach the nearest healthcare facility;Середній час дороги до найближчого закладу охорони здоров'я
 time_pension_facility;Average time to reach the nearest Pension Fund;Середній час, необхідний для того, щоб дістатися до найближчого Пенсійного фонду
 toilet_gender;Separation of toilets by gender;Поділ туалетів за статтю
-transportation;Transportation;
+transportation;Transportation;Транспорт
 travel_foot_store;% of households that need to walk more than 1 hour to reach the nearest marketplace or grocery store;% домогосподарств, яким потрібно йти пішки більше 1 години, щоб дістатися до найближчого ринку або продуктового магазину
-types_of_clothing;Types of clothing;
+types_of_clothing;Types of clothing;Види одягу
 unaccompanied_children;Presence of unaccompanied children ;Наявність дітей без супроводу дорослих 
 urgent_need_all;Urgent needs of the site according the site managers;Нагальні потреби МКП на думку керівництва 
-urgent_need_top_3;;
+urgent_need_top_3;Urgent Need Top 3;Термінова потреба Топ 3
 utensils;Need in cooking and eating utensils ;Потреба у кухонному та побутовому приладді 
 utensils_type;Type of cooking and eating utensils needed ;Тип необхідного посуду для приготування та вживання їжі 
 vulnerable;Vulnerable groups;Вразливі групи населення
 walking_tsnap;Administrative services centres distant less than 2km away;Адміністративні центри (ЦНАПИ) менш ніж за 2 км. від МКП
-wash_repairs;Wash repairs;
-washing_drying_machines;Washing drying machines;
+wash_repairs;Wash repairs;Мийний ремонт
+washing_drying_machines;Washing drying machines;Пральні сушильні машини
 washing_machines;Availability and accessibility of washing machines ;Наявність та доступність пральних машин 
 waste_disposal_capacity;Sufficiency of waste disposal capacity ;Достатність потужностей для утилізації відходів 
 wifi_connection;Wifi connection available;Наявність Wifi з'єднання
