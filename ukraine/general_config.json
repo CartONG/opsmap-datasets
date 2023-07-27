@@ -160,7 +160,7 @@
     "surveys": [
         {
             "type": "ridl",
-            "name": "UA_DATA_110722_FDF_Combined",
+            "name": "UA_DATA_Round7_8",
             "submissionsUrl": "data/UKR_Round7_8_MA.xlsx",
             "submissionsTrUrl": "data/ukraine_ua_data_110722_fdf_combined_translations.xlsx",
             "options": {
@@ -169,10 +169,10 @@
             },
             "additionalFiltersDescription": [
                 {
-                    "field": "sites_pcode_updated",
+                    "field": "site_name_eng",
                     "name": {
-                        "en": "PCODE",
-                        "uk": "Admin 2 PCODE"
+                        "en": "Site name",
+                        "uk": "Назва сайту"
                     }
                 },
                 {
@@ -190,7 +190,7 @@
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "organization",
-                    "name": "site_name_eng",
+                    "name": "sites_pcode_updated",
                     "type": "site_type"
                 },
                 "admins": {
