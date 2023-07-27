@@ -113,7 +113,7 @@ shelter_issues_infrastructure;bullet;group_shelter;shelter_issues_infrastructure
 need_rehabilitation;bullet;group_shelter;need_rehabilitation;;;;Y
 recreational_area;list;group_shelter;recreational_area;yesnodont;;;Y
 lockers;list;group_shelter;lockers;yesnodont;;;Y
-bomb_shelter;list;group_shelter;bomb_shelter;yesnodont;;;Y
+bomb_shelter;list;group_shelter;bomb_shelter;yes10facility;;;Y
 public_transport;list;group_shelter;public_transport;yesnodont;;;Y
 time_pension_facility;list;group_shelter;time_pension_facility;moreless;;;Y
 time_bank;list;group_shelter;time_bank;moreless;;;Y
