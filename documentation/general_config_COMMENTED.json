@@ -1,4 +1,6 @@
 {
+    // (Optional) Strongly advised. Version tag of the file
+    "version": "v1.1",
     // Section that describe the text items in the app.
     // "name": (Mandatory) Name of the opsmap, as displayed in the header bar of the app
     // "description": (Mandatory) Opsmap description is the text displayed on the home page at the "more information" section
