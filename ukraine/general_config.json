@@ -185,12 +185,12 @@
             ],
             "spatial": {
                 "siteFields": {
-                    "id": "site_name_eng",
+                    "id": "sites_pcode_updated",
                     "lastUpdate": "date_assessment",
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "organization",
-                    "name": "sites_pcode_updated",
+                    "name": "site_name_eng",
                     "type": "site_type"
                 },
                 "admins": {
