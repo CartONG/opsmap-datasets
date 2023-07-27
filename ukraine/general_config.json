@@ -169,7 +169,7 @@
             },
             "additionalFiltersDescription": [
                 {
-                    "field": "sites_pcode_updated",
+                    "field": "site_name_eng",
                     "name": {
                         "en": "Site name",
                         "uk": "Назва сайту"
@@ -190,7 +190,7 @@
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "organization",
-                    "name": "site_name_eng",
+                    "name": "sites_pcode_updated",
                     "type": "site_type"
                 },
                 "admins": {
