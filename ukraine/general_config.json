@@ -162,7 +162,7 @@
             "type": "ridl",
             "name": "UA_DATA_Round7_8",
             "submissionsUrl": "data/UKR_Round7_8_MA.xlsx",
-            "submissionsTrUrl": "data/ukraine_ua_data_110722_fdf_combined_translations.xlsx",
+            "submissionsTrUrl": "data/UKR_Round7_8_translation_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
                 "inputDateFormat": "YYYY/MM/DD"
