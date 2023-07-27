@@ -169,7 +169,7 @@
             },
             "additionalFiltersDescription": [
                 {
-                    "field": "site_name_eng",
+                    "field": "sites_pcode_updated",
                     "name": {
                         "en": "Site name",
                         "uk": "Назва сайту"
@@ -185,7 +185,7 @@
             ],
             "spatial": {
                 "siteFields": {
-                    "id": "sites_pcode_updated",
+                    "id": "site_name_eng",
                     "lastUpdate": "date_assessment",
                     "latitude": "latitude",
                     "longitude": "longitude",
