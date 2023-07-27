@@ -122,7 +122,7 @@ back_up_source_of_power;list;group_shelter;back_up_source_of_power;yesnodont;;;Y
 back_up_source_of_power_extent;bullet;group_shelter;back_up_source_of_power_extent;;;;Y
 average_the_outage;list;group_shelter;average_the_outage;;;;Y
 electricity_availability;list;group_nonfood;electricity_availability;yesnosure;;;Y
-wifi_connection;list;group_nonfood;wifi_connection;yesnosure;;;Y
+wifi_connection;list;group_nonfood;wifi_connection;wifi;;;Y
 wifi_free;list;group_nonfood;wifi_free;;;;Y
 mobile_signal;list;group_nonfood;mobile_signal;;;;Y
 charging_points;list;group_nonfood;charging_points;;;;Y
