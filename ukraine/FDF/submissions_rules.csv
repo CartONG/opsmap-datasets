@@ -2,6 +2,7 @@ field_name;type;thematic_group;list_name;traffic_light_name;chart_id;chart_data;
 date_assessment;date;group_general_info;;;;;Yes
 raion_name;list;group_general_info;raion_name;;;;Yes
 hromada_name;list;group_general_info;hromada_name;;;;Yes
+strata;string;group_general_info;;;;;Yes
 settlement_name;list;group_general_info;settlement_name;;;;Yes
 round;string;group_general_info;round;;;;Yes
 sites_pcode_updated;string;group_general_info;sites_pcode_updated;;;;Yes
@@ -169,5 +170,4 @@ urgent_need_top_3;bullet;group_hum_assistance ;urgent_need_top_3;;;;Yes
 hygiene_items_need;list;group_wash;;;;;Yes
 problems_idps;list;group_protection;;;;;Yes
 sleeping_items_need;list;group_nonfood;;;;;Yes
-strata;string;group_general_info;;;;;Yes
 sum_unaccompanied_children;integer;group_demography;;;;;Yes
