@@ -1,18 +1,18 @@
 ﻿traffic_light_name;type;value;color
-yesno;string;Yes;green
+yesno;string;Yes;darkred
 yesno;string;No;red
 noyes;string;Yes;red
-noyes;string;No;green
-lowurgent;string;Low;green
+noyes;string;No;darkred
+lowurgent;string;Low;darkred
 lowurgent;string;Medium;orange
 lowurgent;string;Urgent;red
-niveaucongestionsite;math;> 30;green
+niveaucongestionsite;math;> 30;darkred
 niveaucongestionsite;math;>15 and <=30;orange
 niveaucongestionsite;math;<=15;red
 nfidistrange;string;other;red
 nfidistrange;string;within the last 3 months;orange
 nfidistrange;string;within the last 2 months;yellow
-nfidistrange;string;within the last 1 month;green
-TotalShowersVsIndidual;math;<=20;green
+nfidistrange;string;within the last 1 month;darkred
+TotalShowersVsIndidual;math;<=20;darkred
 TotalShowersVsIndidual;math;>20 and <=25;yellow
 TotalShowersVsIndidual;math;>25;red
