@@ -170,7 +170,10 @@
         "dbConfig": {
             "admin1": "adm1_source_code",
             "admin2": "adm2_source_code"
-        }
+        },
+        "adminLevelsMap": [
+            "admin1"
+        ]
     },
     "surveys": [
         {
