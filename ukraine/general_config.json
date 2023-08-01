@@ -4,7 +4,21 @@
         "locales": [
             "en",
             "uk"
-        ]
+        ],
+        "override": {
+            "en": {
+                "infosAdmins": {
+                    "admin1": "Oblast",
+                    "admin2": "City"
+                }
+            },
+            "uk": {
+                "infosAdmins": {
+                    "admin1": "Область",
+                    "admin2": "Місто"
+                }
+            }
+        }
     },
     "textContent": {
         "name": {
