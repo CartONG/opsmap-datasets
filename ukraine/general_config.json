@@ -1,5 +1,5 @@
 {
-    "version": "v1.1",
+    "version": "v1.1.1",
     "locale": {
         "locales": [
             "en",
@@ -201,7 +201,7 @@
                     },
                     "admin2": {
                         "pcode": "adm2_pcode",
-                        "name": "raion_name"
+                        "name": "hromada_name"
                     }
                 }
             },
