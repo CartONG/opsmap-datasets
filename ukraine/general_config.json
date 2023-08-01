@@ -200,7 +200,7 @@
                         "name": "strata"
                     },
                     "admin2": {
-                        "pcode": "adm2_pcode",
+                        "pcode": "hromada",
                         "name": "hromada_name"
                     }
                 }
