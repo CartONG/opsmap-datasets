@@ -1,5 +1,5 @@
 {
-    "version": "v1.1.3",
+    "version": "v1.1.4",
     "locale": {
         "locales": [
             "en",
@@ -20,7 +20,13 @@
                     "admin2": "Район",
                     "admin3": "Громада"
                 },
-                "infosSite": "Код сайтів"
+                "infosSite": "Код сайтів",
+                "home": {
+                    "lastUpdate": "Останнє оновлення",
+                    "moreInfosTitle": "Більше інформації",
+                    "combosTitle": "Приблизити на карті",
+                    "exportToCSV": "Експорт поточної вибірки в CSV"
+                }
             }
         }
     },
