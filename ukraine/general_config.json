@@ -218,7 +218,7 @@
                         "name": "strata"
                     },
                     "admin2": {
-                        "pcode": "raion",
+                        "pcode": "adm2_pcode",
                         "name": "raion_name"
                     },
                     "admin3": {
