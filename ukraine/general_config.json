@@ -11,14 +11,16 @@
                     "admin1": "Oblast",
                     "admin2": "Raion",
                     "admin3": "Hromada"
-                }
+                },
+                "infosSite": "Site Pcode"
             },
             "uk": {
                 "infosAdmins": {
                     "admin1": "Область",
                     "admin2": "Район",
                     "admin3": "Громада"
-                }
+                },
+                "infosSite": "Код сайтів"
             }
         }
     },
