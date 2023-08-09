@@ -1,9 +1,8 @@
 {
-    "version": "v1.1.4",
+    "version": "v1.1.5",
     "locale": {
         "locales": [
-            "en",
-            "uk"
+            "en"
         ],
         "override": {
             "en": {
