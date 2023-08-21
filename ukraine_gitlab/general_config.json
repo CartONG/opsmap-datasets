@@ -50,27 +50,39 @@
     "footerLogos": [
         {
             "title": {
-                "en": "Webdev",
-                "uk": "Веб-дизайнер"
+                "en": "",
+                "uk": ""
             },
             "logos": [
+                {
+                    "name": "ACTED",
+                    "urlLogo": "Logo/acted.png",
+                    "urlRedirection": "https://www.acted.org/en/"
+                },
                 {
                     "name": "CartONG",
                     "urlLogo": "Logo/CartONG_logo_long_0_0_0.png",
                     "urlRedirection": "https://www.cartong.org"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Fieldwork",
-                "uk": "Польові дослідження"
-            },
-            "logos": [
+                },
                 {
-                    "name": "REACH",
-                    "urlLogo": "Logo/reach.png",
-                    "urlRedirection": "https://www.reach-initiative.org/"
+                    "name": "CCCM cluster in Ukraine",
+                    "urlLogo": "Logo/cccm.png",
+                    "urlRedirection": "https://cccmcluster.org/operations/ukraine"
+                },
+                {
+                    "name": "Crimea SOS",
+                    "urlLogo": "Logo/Crimea_SOS.png",
+                    "urlRedirection": "https://krymsos.com/en/"
+                },
+                {
+                    "name": "KIIS",
+                    "urlLogo": "Logo/kiis.png",
+                    "urlRedirection": "https://www.kiis.com.ua/?lang=eng"
+                },
+                {
+                    "name": "IOM",
+                    "urlLogo": "Logo/iom.png",
+                    "urlRedirection": "https://ukraine.iom.int/"
                 },
                 {
                     "name": "Neeka",
@@ -83,14 +95,24 @@
                     "urlRedirection": "https://nehemia-team.org/"
                 },
                 {
+                    "name": "NRC",
+                    "urlLogo": "Logo/nrc.png",
+                    "urlRedirection": "https://www.nrc.no/"
+                },
+                {
+                    "name": "Ombudsman of Ukraine",
+                    "urlLogo": "Logo/ombudsman.png",
+                    "urlRedirection": "https://www.ombudsman.gov.ua/"
+                }, 
+                {
                     "name": "Proliska",
                     "urlLogo": "Logo/proliska.png",
                     "urlRedirection": "https://proliska.org/en/"
                 },
                 {
-                    "name": "R2P",
-                    "urlLogo": "Logo/r2p.png",
-                    "urlRedirection": "https://www.globalr2p.org/"
+                    "name": "REACH Initiative",
+                    "urlLogo": "Logo/reach.png",
+                    "urlRedirection": "https://www.reach-initiative.org/"
                 },
                 {
                     "name": "Rokada",
@@ -98,9 +120,9 @@
                     "urlRedirection": "https://www.rokada-group.com/"
                 },
                 {
-                    "name": "ACTED",
-                    "urlLogo": "Logo/acted.png",
-                    "urlRedirection": "https://www.acted.org/en/"
+                    "name": "R2P",
+                    "urlLogo": "Logo/r2p.png",
+                    "urlRedirection": "https://www.globalr2p.org/"
                 },
                 {
                     "name": "TTA",
@@ -108,65 +130,9 @@
                     "urlRedirection": "https://civitta.com/"
                 },
                 {
-                    "name": "Crimea SOS",
-                    "urlLogo": "Logo/Crimea_SOS.png",
-                    "urlRedirection": "https://krymsos.com/en/"
-                },
-                {
-                    "name": "NRC",
-                    "urlLogo": "Logo/nrc.png",
-                    "urlRedirection": "https://www.nrc.no/"
-                },
-                {
-                    "name": "KIIS",
-                    "urlLogo": "Logo/kiis.png",
-                    "urlRedirection": "https://www.kiis.com.ua/?lang=eng"
-                },
-                {
                     "name": "UNHCR",
-                    "urlLogo": "Logo/unhcr_uk.png",
+                    "urlLogo": "Logo/unhcr.png",
                     "urlRedirection": "https://www.unhcr.org/ua"
-                },
-                {
-                    "name": "Ombudsman of Ukraine",
-                    "urlLogo": "Logo/ombudsman.png",
-                    "urlRedirection": "https://www.ombudsman.gov.ua/"
-                },
-                {
-                    "name": "IOM",
-                    "urlLogo": "Logo/iom.png",
-                    "urlRedirection": "https://ukraine.iom.int/"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Coordination and IM support",
-                "uk": "Координація та міжнародна підтримка"
-            },
-            "logos": [
-                {
-                    "name": "CCCM cluster in Ukraine",
-                    "urlLogo": "Logo/cccm.png",
-                    "urlRedirection": "https://cccmcluster.org/operations/ukraine"
-                },
-                {
-                    "name": "REACH Initiative",
-                    "urlLogo": "Logo/reach.png",
-                    "urlRedirection": "https://www.reach-initiative.org/"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Cluster Lead",
-                "uk": "Керівник кластера"
-            },
-            "logos": [
-                {
-                    "name": "CCCM cluster in Ukraine",
-                    "urlLogo": "Logo/cccm.png",
-                    "urlRedirection": "https://cccmcluster.org/operations/ukraine"
                 }
             ]
         }
