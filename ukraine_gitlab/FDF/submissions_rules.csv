@@ -13,14 +13,6 @@ site_ownership;list;group_site_information;site_ownership;;;;Yes
 building_type;string;group_site_information;building_type;;;;Yes
 site_closure;list;group_site_information;site_closure;yesnodont;;;Yes
 site_active;string;group_site_information;site_active;yesnohost;;;Yes
-responsible;list;group_site_management;responsible;;;;Yes
-organization_manages;string;group_site_management;;;;;Yes
-focal_point;list;group_site_management;focal_point;;;m;Yes
-enroll_system;list;group_site_management;enroll_system;yesnodont;;f;Yes
-writing_rules;list;group_site_management;writing_rules;yesnodont;;;Yes
-idp_charged;list;group_site_management;idp_charged;;;;Yes
-charged_money;list;group_site_management;charged_money;yesno;;;Yes
-stay_long;list;group_site_management;stay_long;;;;Yes
 hum_assist;list;group_hum_assistance ;hum_assist;yesnodont;;;Yes
 hum_assist_type;bullet;group_hum_assistance ;hum_assist_type;;;;Yes
 cleaning_materials;list;group_hum_assistance ;cleaning_materials;;;;Yes
@@ -88,6 +80,14 @@ minority_groups_number;integer;group_demography;;;;;Yes
 people_with_disabilities;integer;group_demography;;;;;Yes
 child_headed_households_number;integer;group_demography;;;;;Yes
 older_people_that_require_caragiver_support_number;integer;group_demography;;;;;Yes
+organization_manages;list;group_site_management;;;;;Yes
+responsible;list;group_site_management;responsible;;;;Yes
+focal_point;list;group_site_management;focal_point;;;m;Yes
+enroll_system;list;group_site_management;enroll_system;yesnodont;;f;Yes
+writing_rules;list;group_site_management;writing_rules;yesnodont;;;Yes
+idp_charged;list;group_site_management;idp_charged;;;;Yes
+charged_money;list;group_site_management;charged_money;yesno;;;Yes
+stay_long;list;group_site_management;stay_long;;;;Yes
 idp_move;list;group_site_management;idp_move;;;;Yes
 idp_groups;list;group_site_management;idp_groups;;;;Yes
 hh_evicted;list;group_site_management;hh_evicted;yesnodont;;;Yes
