@@ -11,7 +11,11 @@
                     "admin2": "Raion",
                     "admin3": "Hromada"
                 },
-                "infosSite": "Site Pcode"
+                "infosSite": "Site Pcode",
+                "indicator": {
+                    "siteCount": "Sites surveyed in CSM round",
+                    "peopleCount": "People residing in sites covered in CSM round"
+                }
             },
             "uk": {
                 "infosAdmins": {
@@ -246,7 +250,7 @@
                     {
                         "type": "standard",
                         "name": {
-                            "en": "People can be hosted",
+                            "en": "Total people who can be hosted in sites covered in CSM round",
                             "uk": "Людей можна приймати"
                         },
                         "entryCode": "people_can_hosted",
