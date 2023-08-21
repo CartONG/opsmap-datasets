@@ -1,5 +1,5 @@
 {
-    "version": "v1.1.5",
+    "version": "v1.1.6",
     "locale": {
         "locales": [
             "en"
@@ -103,7 +103,7 @@
                     "name": "Ombudsman of Ukraine",
                     "urlLogo": "Logo/ombudsman.png",
                     "urlRedirection": "https://www.ombudsman.gov.ua/"
-                }, 
+                },
                 {
                     "name": "Proliska",
                     "urlLogo": "Logo/proliska.png",
