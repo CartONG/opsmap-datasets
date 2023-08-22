@@ -1,5 +1,5 @@
 {
-    "version": "v1.1.5",
+    "version": "v1.1.6",
     "locale": {
         "locales": [
             "en"
@@ -11,7 +11,11 @@
                     "admin2": "Raion",
                     "admin3": "Hromada"
                 },
-                "infosSite": "Site Pcode"
+                "infosSite": "Site Pcode",
+                "indicator": {
+                    "siteCount": "Sites surveyed in CSM round",
+                    "peopleCount": "People residing in sites covered in CSM round"
+                }
             },
             "uk": {
                 "infosAdmins": {
@@ -35,7 +39,7 @@
             "uk": "Україна"
         },
         "opsmapDescr": {
-            "en": "The CSM site profile dashboard is an output of the CCCM cluster in Ukraine implemented with the technical support of the REACH Initiative. The profiles display site-level information collected by REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Crimea_SOS, NRC, and KIIS with the overall objective of strengthening the effectiveness of multi-sectorial interventions at site level. Information is collected through key informant interviews with site managers within three rounds of Collective Sites Monitoring from May throughout September 2022. For further information, visit https://cccmcluster.org/operations/ukraine or to provide feedback, kindly email cluster coordination (mirzayev@unhcr.org and alsagban@unhcr.org).",
+            "en": "The Collective Sites Monitoring (CSM) site profile dashboard is an output of the CCCM cluster in Ukraine implemented with the technical support of the REACH Initiative. The profiles display site-level information collected by REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Crimea_SOS, NRC, UNHCR, and KIIS with the overall objective of strengthening the effectiveness of multi-sectorial interventions at site level. Information is collected through key informant interviews with site managers within three rounds of Collective Sites Monitoring from May throughout September 2022. For further information, please visit the CCCM Cluster Ukraine website https://cccmcluster.org/operations/ukraine, or provide feedback to the cluster Coordinator Miranda Gaanderse at gaanders@unhcr.org or Information Management Officer at takagid@unhcr.org.",
             "uk": "Iнформаційна панель з профілювання місць колективного проживання ВПО є результатом роботи кластеру CCCM в Україні, що реалізується за технічної підтримки Ініціативи REACH. Профілі відображають інформацію на рівні окремих місць колективного проживання ВПО, зібрану REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Крим_SOS, NRC та КМІС із загальною метою посилення ефективності міжсекторальних втручань на рівні місць колективного проживання та/або в межах територій. Інформація збирається шляхом проведення інтерв'ю з керівниками місць колективного проживання у період з травня по вересень 2022 року. Для отримання додаткової інформації відвідайте веб-сайт https://cccmcluster.org/operations/ukraine або надішліть відгук на електронну адресу координаторів кластерів (mirzayev@unhcr.org та alsagban@unhcr.org)."
         }
     },
@@ -46,27 +50,39 @@
     "footerLogos": [
         {
             "title": {
-                "en": "Webdev",
-                "uk": "Веб-дизайнер"
+                "en": "",
+                "uk": ""
             },
             "logos": [
+                {
+                    "name": "ACTED",
+                    "urlLogo": "Logo/acted.png",
+                    "urlRedirection": "https://www.acted.org/en/"
+                },
                 {
                     "name": "CartONG",
                     "urlLogo": "Logo/CartONG_logo_long_0_0_0.png",
                     "urlRedirection": "https://www.cartong.org"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Fieldwork",
-                "uk": "Польові дослідження"
-            },
-            "logos": [
+                },
                 {
-                    "name": "REACH",
-                    "urlLogo": "Logo/reach.png",
-                    "urlRedirection": "https://www.reach-initiative.org/"
+                    "name": "CCCM cluster in Ukraine",
+                    "urlLogo": "Logo/cccm.png",
+                    "urlRedirection": "https://cccmcluster.org/operations/ukraine"
+                },
+                {
+                    "name": "Crimea SOS",
+                    "urlLogo": "Logo/Crimea_SOS.png",
+                    "urlRedirection": "https://krymsos.com/en/"
+                },
+                {
+                    "name": "KIIS",
+                    "urlLogo": "Logo/kiis.png",
+                    "urlRedirection": "https://www.kiis.com.ua/?lang=eng"
+                },
+                {
+                    "name": "IOM",
+                    "urlLogo": "Logo/iom.png",
+                    "urlRedirection": "https://ukraine.iom.int/"
                 },
                 {
                     "name": "Neeka",
@@ -79,49 +95,9 @@
                     "urlRedirection": "https://nehemia-team.org/"
                 },
                 {
-                    "name": "Proliska",
-                    "urlLogo": "Logo/proliska.png",
-                    "urlRedirection": "https://proliska.org/en/"
-                },
-                {
-                    "name": "R2P",
-                    "urlLogo": "Logo/r2p.png",
-                    "urlRedirection": "https://www.globalr2p.org/"
-                },
-                {
-                    "name": "Rokada",
-                    "urlLogo": "Logo/rokada.png",
-                    "urlRedirection": "https://www.rokada-group.com/"
-                },
-                {
-                    "name": "ACTED",
-                    "urlLogo": "Logo/acted.png",
-                    "urlRedirection": "https://www.acted.org/en/"
-                },
-                {
-                    "name": "TTA",
-                    "urlLogo": "Logo/tta.png",
-                    "urlRedirection": "https://civitta.com/"
-                },
-                {
-                    "name": "Crimea SOS",
-                    "urlLogo": "Logo/Crimea_SOS.png",
-                    "urlRedirection": "https://krymsos.com/en/"
-                },
-                {
                     "name": "NRC",
                     "urlLogo": "Logo/nrc.png",
                     "urlRedirection": "https://www.nrc.no/"
-                },
-                {
-                    "name": "KIIS",
-                    "urlLogo": "Logo/kiis.png",
-                    "urlRedirection": "https://www.kiis.com.ua/?lang=eng"
-                },
-                {
-                    "name": "UNHCR",
-                    "urlLogo": "Logo/unhcr_uk.png",
-                    "urlRedirection": "https://www.unhcr.org/ua"
                 },
                 {
                     "name": "Ombudsman of Ukraine",
@@ -129,40 +105,34 @@
                     "urlRedirection": "https://www.ombudsman.gov.ua/"
                 },
                 {
-                    "name": "IOM",
-                    "urlLogo": "Logo/iom.png",
-                    "urlRedirection": "https://ukraine.iom.int/"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Coordination and IM support",
-                "uk": "Координація та міжнародна підтримка"
-            },
-            "logos": [
-                {
-                    "name": "CCCM cluster in Ukraine",
-                    "urlLogo": "Logo/cccm.png",
-                    "urlRedirection": "https://cccmcluster.org/operations/ukraine"
+                    "name": "Proliska",
+                    "urlLogo": "Logo/proliska.png",
+                    "urlRedirection": "https://proliska.org/en/"
                 },
                 {
                     "name": "REACH Initiative",
                     "urlLogo": "Logo/reach.png",
                     "urlRedirection": "https://www.reach-initiative.org/"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Cluster Lead",
-                "uk": "Керівник кластера"
-            },
-            "logos": [
+                },
                 {
-                    "name": "CCCM cluster in Ukraine",
-                    "urlLogo": "Logo/cccm.png",
-                    "urlRedirection": "https://cccmcluster.org/operations/ukraine"
+                    "name": "Rokada",
+                    "urlLogo": "Logo/rokada.png",
+                    "urlRedirection": "https://www.rokada-group.com/"
+                },
+                {
+                    "name": "R2P",
+                    "urlLogo": "Logo/r2p.png",
+                    "urlRedirection": "https://www.globalr2p.org/"
+                },
+                {
+                    "name": "TTA",
+                    "urlLogo": "Logo/tta.png",
+                    "urlRedirection": "https://civitta.com/"
+                },
+                {
+                    "name": "UNHCR",
+                    "urlLogo": "Logo/unhcr.png",
+                    "urlRedirection": "https://www.unhcr.org/ua"
                 }
             ]
         }
@@ -246,7 +216,7 @@
                     {
                         "type": "standard",
                         "name": {
-                            "en": "People can be hosted",
+                            "en": "Total people who can be hosted in sites covered in CSM round",
                             "uk": "Людей можна приймати"
                         },
                         "entryCode": "people_can_hosted",
