@@ -63,8 +63,6 @@ hhs_number;integer;group_demography;hhs_number;;;;Yes
 site_individuals;integer;group_demography;site_individuals;;;;Yes
 individuals_male_over_18;integer;group_demography;;;;;Yes
 individuals_female_over_18;integer;group_demography;;;;;Yes
-individuals_male_over_18;integer;group_demography;;;age_pyramid#1;m;Yes
-individuals_female_over_18;integer;group_demography;;;age_pyramid#1;f;Yes
 children_0_5;integer;group_demography;;;;;Yes
 children_6_17;integer;group_demography;;;;;Yes
 unaccompanied_children;list;group_demography;uccompanied_children;yesnodont;;;Yes
@@ -73,8 +71,6 @@ pregnant_lactating_number;integer;group_demography;;;;;Yes
 female_headed_number;integer;group_demography;;;;;Yes
 older_women_number;integer;group_demography;;;;;Yes
 older_men_number;integer;group_demography;;;;;Yes
-older_women_number;integer;group_demography;;;age_pyramid#1;f;Yes
-older_men_number;integer;group_demography;;;age_pyramid#1;m;Yes
 with_health_issues_number;integer;group_demography;;;;;Yes
 foreign_nationals_number;integer;group_demography;;;;;Yes
 without_nationality_number;integer;group_demography;;;;;Yes
