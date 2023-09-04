@@ -7,7 +7,6 @@ settlement_name;list;group_general_info;settlement_name;;;;Yes
 round;string;group_general_info;round;;;;Yes
 sites_pcode_updated;string;group_general_info;sites_pcode_updated;;;;Yes
 site_name_eng;string;group_general_info;site_name_eng;;;;Yes
-organization;string;group_general_info;organization;;;;Yes
 interview_type;string;group_general_info;interview_type;;;;Yes
 site_ownership;list;group_site_information;site_ownership;;;;Yes
 building_type;string;group_site_information;building_type;;;;Yes
