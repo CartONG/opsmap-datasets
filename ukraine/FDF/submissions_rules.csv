@@ -118,7 +118,6 @@ need_clothing;list;group_nonfood;need_clothing;;;;Yes
 types_of_clothing;list;group_nonfood;types_of_clothing;yesnosure;;;Yes
 sleeping_items_need;list;group_nonfood;;;;;Yes
 access_food;bullet;group_food_security;access_food;;;;Yes
-travel_foot_store;list;group_food_security;travel_foot_store;;;;Yes
 kitchen_availability;list;group_food_security;kitchen_availability;yesnosure;;;Yes
 kitchen_has_hot_water;bullet;group_food_security;kitchen_has_hot_water;;;;Yes
 kitchen_enmities;list;group_food_security;kitchen_enmities;;;;Yes
