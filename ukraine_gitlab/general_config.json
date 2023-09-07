@@ -1,5 +1,5 @@
 {
-    "version": "v1.1.6",
+    "version": "v1.2.0",
     "locale": {
         "locales": [
             "en"
@@ -164,7 +164,7 @@
         {
             "type": "ridl",
             "name": "UA_DATA_Round7_8",
-            "submissionsUrl": "data/UKR_Round7_8_MA.xlsx",
+            "submissionsUrl": "data/ua_data_110722_fdf_combined_30aug2023.xlsx",
             "submissionsTrUrl": "data/UKR_Round7_8_Trans_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
