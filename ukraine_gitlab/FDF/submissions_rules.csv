@@ -7,7 +7,6 @@ settlement_name;list;group_general_info;settlement_name;;;;Yes
 round;string;group_general_info;round;;;;Yes
 sites_pcode_updated;string;group_general_info;sites_pcode_updated;;;;Yes
 site_name_eng;string;group_general_info;site_name_eng;;;;Yes
-organization;string;group_general_info;organization;;;;Yes
 interview_type;string;group_general_info;interview_type;;;;Yes
 site_ownership;list;group_site_information;site_ownership;;;;Yes
 building_type;string;group_site_information;building_type;;;;Yes
@@ -63,8 +62,6 @@ hhs_number;integer;group_demography;hhs_number;;;;Yes
 site_individuals;integer;group_demography;site_individuals;;;;Yes
 individuals_male_over_18;integer;group_demography;;;;;Yes
 individuals_female_over_18;integer;group_demography;;;;;Yes
-individuals_male_over_18;integer;group_demography;;;age_pyramid#1;m;Yes
-individuals_female_over_18;integer;group_demography;;;age_pyramid#1;f;Yes
 children_0_5;integer;group_demography;;;;;Yes
 children_6_17;integer;group_demography;;;;;Yes
 unaccompanied_children;list;group_demography;uccompanied_children;yesnodont;;;Yes
@@ -73,8 +70,6 @@ pregnant_lactating_number;integer;group_demography;;;;;Yes
 female_headed_number;integer;group_demography;;;;;Yes
 older_women_number;integer;group_demography;;;;;Yes
 older_men_number;integer;group_demography;;;;;Yes
-older_women_number;integer;group_demography;;;age_pyramid#1;f;Yes
-older_men_number;integer;group_demography;;;age_pyramid#1;m;Yes
 with_health_issues_number;integer;group_demography;;;;;Yes
 foreign_nationals_number;integer;group_demography;;;;;Yes
 without_nationality_number;integer;group_demography;;;;;Yes
@@ -123,7 +118,6 @@ need_clothing;list;group_nonfood;need_clothing;;;;Yes
 types_of_clothing;list;group_nonfood;types_of_clothing;yesnosure;;;Yes
 sleeping_items_need;list;group_nonfood;;;;;Yes
 access_food;bullet;group_food_security;access_food;;;;Yes
-travel_foot_store;list;group_food_security;travel_foot_store;;;;Yes
 kitchen_availability;list;group_food_security;kitchen_availability;yesnosure;;;Yes
 kitchen_has_hot_water;bullet;group_food_security;kitchen_has_hot_water;;;;Yes
 kitchen_enmities;list;group_food_security;kitchen_enmities;;;;Yes
