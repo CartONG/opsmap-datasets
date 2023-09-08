@@ -164,7 +164,7 @@
         {
             "type": "ridl",
             "name": "UA_DATA_Round7_8",
-            "submissionsUrl": "data/ua_data_110722_fdf_combined_30aug2023.xlsx",
+            "submissionsUrl": "data/UKR_Round_8_9_MA.xlsx",
             "submissionsTrUrl": "data/UKR_Round7_8_Trans_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
