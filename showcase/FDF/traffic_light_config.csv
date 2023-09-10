@@ -19,3 +19,9 @@ nfidistrange;string;within the last 1 month;green
 TotalShowersVsIndidual;math;<=20;green
 TotalShowersVsIndidual;math;>20 and <=25;yellow
 TotalShowersVsIndidual;math;>25;red
+ShelterCondition;string;I don’t know;grey
+ShelterCondition;string;None/almost no shelters;green
+ShelterCondition;string;Few shelters;yellow
+ShelterCondition;string;Half of shelters;orange
+ShelterCondition;string;Majority of shelters;red
+ShelterCondition;string;All/almost all shelters;darkred
