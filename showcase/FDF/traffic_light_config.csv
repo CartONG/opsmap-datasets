@@ -3,9 +3,12 @@ yesno;string;Yes;green
 yesno;string;No;red
 noyes;string;Yes;red
 noyes;string;No;green
-lowurgent;string;Low;green
-lowurgent;string;Medium;orange
-lowurgent;string;Urgent;red
+lowurgent;string;Low/OK;green
+lowurgent;string;Caution;yellow
+lowurgent;string;Warning;orange
+lowurgent;string;Danger;red
+lowurgent;string;Critical;darkred
+lowurgent;string;Undefined;grey
 niveaucongestionsite;math;> 30;green
 niveaucongestionsite;math;>15 and <=30;orange
 niveaucongestionsite;math;<=15;red
