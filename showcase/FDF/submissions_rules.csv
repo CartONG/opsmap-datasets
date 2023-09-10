@@ -111,9 +111,9 @@
 "educ_num_adolsct_in_frml_schl";"integer";"group_education";;;;;;
 "educ_portug_class_avlble";"list";"group_education";"yesno";;;;;"Boolean"
 "educ_vocnl_course_avlbe";"list";"group_education";"yesno";;;;;"Boolean"
-"shelter_need_repair";"string";"group_shelternfi";"lowurgent";;;;;;
-"shelter_need_replacement";"string";"group_shelternfi";"lowurgent";;;;;;
-"shelter_need_reconstruction";"string";"group_shelternfi";"lowurgent";;;;;;
-"shelter_need_rehabilitation";"string";"group_shelternfi";"lowurgent";;;;;;
-"shelter_need_extension";"string";"group_shelternfi";"lowurgent";;;;;;
-"shelter_need_new";"string";"group_shelternfi";"lowurgent";;;;;;
+"shelter_need_repair";"string";"group_shelternfi";"ShelterCondition";;;;;;
+"shelter_need_replacement";"string";"group_shelternfi";"ShelterCondition";;;;;;
+"shelter_need_reconstruction";"string";"group_shelternfi";"ShelterCondition";;;;;;
+"shelter_need_rehabilitation";"string";"group_shelternfi";"ShelterCondition";;;;;;
+"shelter_need_extension";"string";"group_shelternfi";"ShelterCondition";;;;;;
+"shelter_need_new";"string";"group_shelternfi";"ShelterCondition";;;;;;
