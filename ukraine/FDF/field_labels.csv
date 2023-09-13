@@ -4,8 +4,8 @@ access_food;Food provider(s);Постачальники продуктів ха�
 access_pss;Psychological support for residents available ;Наявність психологічної підтримки для мешканців 
 access_water;Drinking water sources;Джерела питної води
 accommodated;Modes of residents accomodation;Способи розміщення мешканців
-adm1_pcode;Adm1 pcode;pcode Adm1
-adm2_pcode;Adm2 pcode;pcode Adm2
+Oblast;Oblast;Область
+Raion;Raion;Район
 adult_pss;PSS for adults ;ПСС для дорослих 
 adult_pss_yes;PSS services available ;Доступні послуги ПСС 
 allocation_plan;Allocation plan for IDPs with specific needs;План розміщення ВПО з особливими потребами
