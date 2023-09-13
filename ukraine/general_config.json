@@ -1,5 +1,5 @@
 {
-    "version": "v1.2.0",
+    "version": "v1.2.1",
     "locale": {
         "locales": [
             "en"
@@ -191,11 +191,11 @@
                 },
                 "admins": {
                     "admin1": {
-                        "pcode": "adm1_pcode",
+                        "pcode": "oblast",
                         "name": "strata"
                     },
                     "admin2": {
-                        "pcode": "adm2_pcode",
+                        "pcode": "raion",
                         "name": "raion_name"
                     },
                     "admin3": {
