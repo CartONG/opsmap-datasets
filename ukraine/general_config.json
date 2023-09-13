@@ -1,5 +1,5 @@
 {
-    "version": "v1.2.1",
+    "version": "v1.2.2",
     "locale": {
         "locales": [
             "en"
@@ -219,7 +219,7 @@
                             "en": "Total people who can be hosted in sites covered in CSM round",
                             "uk": "Людей можна приймати"
                         },
-                        "entryCode": "people_can_hosted",
+                        "entryCode": "people_can_hosted_number",
                         "iconOchaName": "Camp-Coordination-and-Camp-Management"
                     }
                 ],
