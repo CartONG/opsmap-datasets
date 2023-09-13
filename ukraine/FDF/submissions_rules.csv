@@ -90,7 +90,7 @@ idp_move;list;group_site_management;idp_move;;;;Yes
 idp_groups;list;group_site_management;idp_groups;;;;Yes
 hh_evicted;list;group_site_management;hh_evicted;yesnodont;;;Yes
 eviction_reason;list;group_site_management;eviction_reason;;;;Yes
-people_can_hosted;integer;group_site_management;;;;;Yes
+people_can_hosted_number;integer;group_site_management;;;;;Yes
 accommodated;bullet;group_site_management;accommodated;;;;Yes
 rooms_independent;list;group_site_management;rooms_independent;;;;Yes
 gender_rooms;list;group_site_management;gender_rooms;gender;;;Yes
