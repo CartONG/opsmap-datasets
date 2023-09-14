@@ -30,7 +30,10 @@
         "opsmapDescr": {
             "en": "More than 1.5 million displaced Yemenis have spontaneously settled in 2,300+ unplanned sites and camp-like settings. Conflict-related damage to infrastructure, and natural hazards including floods, have further disrupted safe access to a minimum level of services. The CCCM Cluster is working with +20 partners and with the authorities to improve the living conditions and protection of IDPs in sites and ensure equitable access to services and assistance of all persons in need, with a focus on moving towards durable solutions with full participation of the displaced and host communities.",
             "ar": "استقر أكثر من 1.5 مليون يمني نازح تلقائيًا في أكثر من 2300 موقع غير مخطط وأماكن شبيهة بالمخيمات. أدت الأضرار التي لحقت بالبنية التحتية المرتبطة بالنزاع ، والأخطار الطبيعية بما في ذلك الفيضانات ، إلى مزيد من تعطيل الوصول الآمن إلى الحد الأدنى من الخدمات. تعمل مجموعة تنسيق وإدارة المخيمات مع +20 شريك ومع السلطات لتحسين الظروف المعيشية وحماية النازحين داخليًا في المواقع وضمان الوصول العادل إلى الخدمات والمساعدة لجميع الأشخاص المحتاجين ، مع التركيز على التحرك نحو حلول دائمة بمشاركة كاملة من النازحين والمجتمعات المضيفة."
-        }
+        },
+    "iframe": {
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiNjY3NmVjMWItZjM4MS00NjM5LTk1ZDMtYjQzMjI5ODY3YzU2IiwidCI6ImQyMDBlOTAzLTE5YjAtNDUyZS1iZDIxLWQxYWEwMTEzOTBkNSIsImMiOjh9",
+        "display": true
     },
     "footerLogos": [
         {
@@ -174,6 +177,16 @@
                     "name": "YFCA",
                     "urlLogo": "Logo/YFCA.png",
                     "urlRedirection": "https://www.yfca.org/en/"
+                },
+                {
+                    "name": "EXU",
+                    "urlLogo": "Logo/exu.png",
+                    "urlRedirection": "https://www.exuye.org/en/home"
+                },
+                {
+                    "name": "SCMCHA",
+                    "urlLogo": "Logo/SCMCHA.png",
+                    "urlRedirection": "https://www.scmcha.org/en/about-namcha"
                 }
             ]
         },
