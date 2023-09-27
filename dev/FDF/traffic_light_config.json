@@ -1,39 +1,11 @@
 ﻿{
     "properties": {
         "colormap": {
-            "purple": {
-                "color": "pink",
+            "grey": {
+                "color": "#999999",
                 "label": {
-                    "fr": "Erreur",
-                    "en": "Error"
-                }
-            },
-            "darkred": {
-                "color": "#C00000",
-                "label": {
-                    "fr": "Critique",
-                    "en": "Critical"
-                }
-            },
-            "red": {
-                "color": "#FF0000",
-                "label": {
-                    "fr": "Danger",
-                    "en": "Danger"
-                }
-            },
-            "orange": {
-                "color": "#FFC000",
-                "label": {
-                    "fr": "Avertissement",
-                    "en": "Warning"
-                }
-            },
-            "yellow": {
-                "color": "#FFE599",
-                "label": {
-                    "fr": "Attention",
-                    "en": "Caution"
+                    "fr": "Indéterminé",
+                    "en": "Undefined"
                 }
             },
             "green": {
@@ -43,11 +15,39 @@
                     "en": "OK"
                 }
             },
-            "grey": {
-                "color": "#999999",
+            "yellow": {
+                "color": "#FFE599",
                 "label": {
-                    "fr": "Indéterminé",
-                    "en": "Undefined"
+                    "fr": "Attention",
+                    "en": "Caution"
+                }
+            },
+            "orange": {
+                "color": "#FFC000",
+                "label": {
+                    "fr": "Avertissement",
+                    "en": "Warning"
+                }
+            },
+            "red": {
+                "color": "#FF0000",
+                "label": {
+                    "fr": "Danger",
+                    "en": "Danger"
+                }
+            },
+            "darkred": {
+                "color": "#C00000",
+                "label": {
+                    "fr": "Critique",
+                    "en": "Critical"
+                }
+            },
+            "purple": {
+                "color": "pink",
+                "label": {
+                    "fr": "Erreur",
+                    "en": "Error"
                 }
             }
         },
