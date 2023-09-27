@@ -1,13 +1,55 @@
 ﻿{
     "properties": {
         "colormap": {
-            "grey": "#999999",
-            "darkred": "#C00000",
-            "red": "#FF0000",
-            "orange": "#FFC000",
-            "yellow": "#FFE599",
-            "green": "#A8D08D",
-            "purple": "pink"
+            "grey": {
+                "color": "#999999",
+                "label": {
+                    "fr": "Indéterminé",
+                    "en": "Undefined"
+                }
+            },
+            "darkred": {
+                "color": "#C00000",
+                "label": {
+                    "fr": "Critique",
+                    "en": "Critical"
+                }
+            },
+            "red": {
+                "color": "#FF0000",
+                "label": {
+                    "fr": "Danger",
+                    "en": "Danger"
+                }
+            },
+            "orange": {
+                "color": "#FFC000",
+                "label": {
+                    "fr": "Avertissement",
+                    "en": "Warning"
+                }
+            },
+            "yellow": {
+                "color": "#FFE599",
+                "label": {
+                    "fr": "Attention",
+                    "en": "Caution"
+                }
+            },
+            "green": {
+                "color": "#A8D08D",
+                "label": {
+                    "fr": "OK",
+                    "en": "OK"
+                }
+            },
+            "purple": {
+                "color": "pink",
+                "label": {
+                    "fr": "Erreur",
+                    "en": "Error"
+                }
+            }
         },
         "colorerror": "purple"
     },
