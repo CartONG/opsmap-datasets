@@ -2,6 +2,7 @@
     "properties": {
         "colormap": {
             "purple": {
+                "rank": 6,
                 "color": "pink",
                 "label": {
                     "fr": "Erreur",
@@ -9,6 +10,7 @@
                 }
             },
             "darkred": {
+                "rank": 5,
                 "color": "#C00000",
                 "label": {
                     "fr": "Critique",
@@ -16,6 +18,7 @@
                 }
             },
             "red": {
+                "rank": 4,
                 "color": "#FF0000",
                 "label": {
                     "fr": "Danger",
@@ -23,6 +26,7 @@
                 }
             },
             "orange": {
+                "rank": 3,
                 "color": "#FFC000",
                 "label": {
                     "fr": "Avertissement",
@@ -30,6 +34,7 @@
                 }
             },
             "yellow": {
+                "rank": 2,
                 "color": "#FFE599",
                 "label": {
                     "fr": "Attention",
@@ -37,6 +42,7 @@
                 }
             },
             "green": {
+                "rank": 1,
                 "color": "#A8D08D",
                 "label": {
                     "fr": "OK",
@@ -44,6 +50,7 @@
                 }
             },
             "grey": {
+                "rank": 0,
                 "color": "#999999",
                 "label": {
                     "fr": "Indéterminé",
