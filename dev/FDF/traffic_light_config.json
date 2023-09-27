@@ -1,11 +1,11 @@
 ﻿{
     "properties": {
         "colormap": {
-            "grey": {
-                "color": "#999999",
+            "purple": {
+                "color": "pink",
                 "label": {
-                    "fr": "Indéterminé",
-                    "en": "Undefined"
+                    "fr": "Erreur",
+                    "en": "Error"
                 }
             },
             "darkred": {
@@ -43,11 +43,11 @@
                     "en": "OK"
                 }
             },
-            "purple": {
-                "color": "pink",
+            "grey": {
+                "color": "#999999",
                 "label": {
-                    "fr": "Erreur",
-                    "en": "Error"
+                    "fr": "Indéterminé",
+                    "en": "Undefined"
                 }
             }
         },
