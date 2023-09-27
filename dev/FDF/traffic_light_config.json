@@ -1,14 +1,15 @@
 ﻿{
     "properties": {
         "colormap": {
-            "green": "#A8D08D",
-            "yellow": "#FFE599",
-            "orange": "#FFC000",
-            "red": "#FF0000",
-            "darkred": "#C00000",
             "grey": "#999999",
-            "purple": "purple"
-        }
+            "darkred": "#C00000",
+            "red": "#FF0000",
+            "orange": "#FFC000",
+            "yellow": "#FFE599",
+            "green": "#A8D08D",
+            "purple": "pink"
+        },
+        "colorerror": "purple"
     },
     "trafficLights": {
         "yesno": {
