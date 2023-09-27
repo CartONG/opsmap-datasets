@@ -1,0 +1,62 @@
+﻿{
+    "properties": {
+        "colormap": {
+            "yellow": "#A8D08D",
+            "orange": "#FFE599",
+            "red": "#FFC000",
+            "darkred": "#FF0000",
+            "grey": "#C00000",
+            "purple": "purple",
+            "undefined": "#999999"
+        }
+    },
+    "trafficLights": {
+        "yesno": {
+            "type": "key_value",
+            "Yes": "green",
+            "No": "red"
+        },
+        "noyes": {
+            "type": "key_value",
+            "Yes": "red",
+            "No": "green"
+        },
+        "lowurgent": {
+            "type": "key_value",
+            "Low/OK": "green",
+            "Caution": "yellow",
+            "Warning": "orange",
+            "Danger": "red",
+            "Critical": "darkred",
+            "Undefined": "grey"
+        },
+        "niveaucongestionsite": {
+            "type": "key_value",
+            "> 30": "green",
+            ">15 and <=30": "orange",
+            "<=15": "red"
+        },
+        "nfidistrange": {
+            "type": "key_value",
+            "other": "red",
+            "within the last 3 months": "orange",
+            "within the last 2 months": "yellow",
+            "within the last 1 month": "green"
+        },
+        "TotalShowersVsIndidual": {
+            "type": "key_value",
+            "<=20": "green",
+            ">20 and <=25": "yellow",
+            ">25": "red"
+        },
+        "ShelterCondition": {
+            "type": "key_value",
+            "I don’t know": "grey",
+            "None/almost no shelters": "green",
+            "Few shelters": "yellow",
+            "Half of shelters": "orange",
+            "Majority of shelters": "red",
+            "All/almost all shelters": "darkred"
+        }
+    }
+}
