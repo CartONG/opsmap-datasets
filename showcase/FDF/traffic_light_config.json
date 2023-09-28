@@ -51,7 +51,7 @@
             "values": {
                 "(y/x)<= 20": "green",
                 "(y/x)> 20 and x<=50 ": "orange",
-                "(y/x)> 50 ": "red",
+                "(y/x)> 50 ": "red"
             }
         },
         "ShelterCondition": {
