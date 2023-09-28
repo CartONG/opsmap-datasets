@@ -147,3 +147,9 @@ shelter_need_reconstruction;In need of reconstruction (for public buildings, cor
 shelter_need_rehabilitation;In need of rehabilitation (for public buildings, core housing/vacant building);Besoin de réhabilitation (pour les bâtiments publics, les logements principaux et les bâtiments vacants)
 shelter_need_extension;In need of extensionr (overcrowded);Besoin d'extension (surpeuplement)
 shelter_need_new;In need of new shelter (new HHs);Besoin d'un nouvel abri (nouveaux ménages)
+lavage_main;Increase frequency of hand washing/use of sanitary gel;Augmenter la fréquence du lavage des mains/ utilisation de gel sanitaire
+distanciation;Increase physical distance from others;Augmenter la distanciation physique avec les autres
+masque;Cover your nose and mouth in public;Couvrir votre nez et votre bouche en public
+evite_transport;Avoid public transport;Éviter les transports publics
+evite_sortir;Avoid leaving home;Éviter de sortir de chez moi
+autres_precautions;Other precautions;Autres précautions
