@@ -105,6 +105,9 @@
             "name": "Survey 2022",
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=0&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=903507497&single=true&output=csv",
+            "options": {
+                "siteZoomMode": "admin"
+            },
             "additionalFiltersDescription": [
                 {
                     "field": "adm2_pcode",
