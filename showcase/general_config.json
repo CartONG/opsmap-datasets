@@ -146,7 +146,7 @@
                 "inputDateFormat": "DD/MM/YYYY",
                 "displayDateFormat": "MM/YYYY",
                 "listSeparator": ";",
-                "anonymousMode": "none"
+                "anonymousMode": "none",
                 "siteZoomMode": "admin"
             },
             "indicators": {
