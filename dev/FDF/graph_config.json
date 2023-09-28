@@ -1,0 +1,17 @@
+﻿{
+    "graphs": {
+        "polar_area_chart#3": {
+            "type": "polar_area"
+        },
+        "age_pyramid#1": {
+            "type": "age_pyramid",
+            "colors": [
+                "#6FC5BC",
+                "#1B657C"
+            ]
+        },
+        "doughnut_chart#2": {
+            "type": "doughnut"
+        }
+    }
+}
