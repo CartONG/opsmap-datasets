@@ -129,7 +129,7 @@
                     "lastUpdate": "last_update",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": ""
+                    "manageBy": "cccm_shelter_coordination"
                 },
                 "admins": {
                     "admin1": {
@@ -147,8 +147,7 @@
                 "displayDateFormat": "MM/YYYY",
                 "listSeparator": ";",
                 "anonymousMode": "none",
-                "siteZoomMode": "site",
-                "siteZoomBuffer": 1000
+                "siteZoomMode": "admin"
             },
             "indicators": {
                 "area": [
