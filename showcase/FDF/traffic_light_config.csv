@@ -1,6 +1,9 @@
 ﻿traffic_light_name;type;value;color
 yesno;string;Yes;green
 yesno;string;No;red
+yesnona;string;Yes;green
+yesnona;string;No;red
+yesnona;string;N/A;grey
 noyes;string;Yes;red
 noyes;string;No;green
 lowurgent;string;Low/OK;green
