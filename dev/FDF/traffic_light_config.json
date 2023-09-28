@@ -43,11 +43,11 @@
             }
         },
         "TotalShowersVsIndidual": {
-            "type": "key_value",
+            "type": "math",
             "values": {
-                "<=20": "green",
-                ">20 and <=25": "yellow",
-                ">25": "red"
+                "x<=20": "green",
+                "x>20 and x<=25": "yellow",
+                "x>25": "red"
             }
         },
         "ShelterCondition": {
