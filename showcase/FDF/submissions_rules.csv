@@ -58,7 +58,7 @@ Inondations;string;group_wash;yesno;;;;;
 eliminationdechets;string;group_wash;;;;;;eliminationdechets
 latrines;list;group_wash;;;;;;latrines
 NombreLatrines;integer;group_wash;TotalLatrinesVsIndidual;;;;;
-NombreLatrines;integer;group_wash;TotalLatrines;;;;;
+NombreLatrines2;integer;group_wash;TotalLatrines;;;;;
 Typesdouche;list;group_wash;;;;;;
 Nbdouche;integer;group_wash;TotalShowersVsIndidual;;;;;
 douchesepare;string;group_wash;yesno;;;;;
