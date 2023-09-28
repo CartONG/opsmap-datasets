@@ -119,6 +119,13 @@
                         "fr": "cccm abris coordination",
                         "en": "cccm shelter coordination"
                     }
+                },
+                {
+                    "field": "cccm_shelter__mangmt",
+                    "name": {
+                        "fr": "cccm abris gestion",
+                        "en": "cccm shelter management"
+                    }
                 }
             ],
             "spatial": {
@@ -129,7 +136,7 @@
                     "lastUpdate": "last_update",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "cccm_shelter_coordination"
+                    "manageBy": "cccm_shelter__mangmt"
                 },
                 "admins": {
                     "admin1": {
