@@ -147,7 +147,8 @@
                 "displayDateFormat": "MM/YYYY",
                 "listSeparator": ";",
                 "anonymousMode": "none",
-                "siteZoomMode": "admin"
+                "siteZoomMode": "site",
+                "siteZoomBuffer": 100
             },
             "indicators": {
                 "area": [
