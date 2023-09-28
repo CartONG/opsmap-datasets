@@ -148,7 +148,7 @@
                 "listSeparator": ";",
                 "anonymousMode": "none",
                 "siteZoomMode": "site",
-                "siteZoomBuffer": 10
+                "siteZoomBuffer": 1000
             },
             "indicators": {
                 "area": [
