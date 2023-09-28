@@ -67,6 +67,18 @@
                 "(((y/x)*100)/20)>= 1000": "darkred"
             }
         },
+        "TotalLatrines": {
+            "type": "math",
+            "scope": {
+                "x": "NombreLatrines"
+            },
+            "values": {
+                "x< 10": "darkred",
+                "x>=10 and x<50 ": "red",
+                "x>= 50 and x<100": "yellow";
+                "x>= 500": "green"
+            }
+        },
         "ShelterCondition": {
             "type": "key_value",
             "values": {
