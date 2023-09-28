@@ -114,9 +114,10 @@ Disponibilitesavon;Availability of soap for hand washing;Disponibilite de savon 
 Inondations;Floods that have damaged shelters and infrastructure (within the last 6 months);Inondations qui ont  les abris et les infrastructures endommage à la suite d'inondation  (au cours des 6 derniers mois )
 eliminationdechets;Primary method of waste disposal;Principale methode d'elimination des dechets
 latrines;Types of functional latrines;Types de latrines fonctionnelles
-NombreLatrines;Number of functional latrines;Nombre de latrines fonctionnelles
+NombreLatrines;Number of functional latrines (TL ratio %);Nombre de latrines fonctionnelles (TL ratio %)
+NombreLatrines2;Number of functional latrines (TL simple);Nombre de latrines fonctionnelles (TL simple)
 Typesdouche;Types of functional showers/baths;Types de douches/bains fonctionnels
-Nombredouches;Number of functional showers/baths;Nombre de douches/bains fonctionnels
+Nombredouches;Number of functional showers/baths (TL ratio);Nombre de douches/bains fonctionnels (TL ratio)
 douchesepare;Are showers separated between men and women?;Les douches sont-elles separees entre les hommes et les femmes?
 latrinevidance;Latrine Emptying;Vidanges des latrines
 latrinevidanceMois;Date of last emptying;Date de la dernière vidange
