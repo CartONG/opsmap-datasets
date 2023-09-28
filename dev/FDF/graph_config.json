@@ -6,8 +6,8 @@
         "age_pyramid#1": {
             "type": "age_pyramid",
             "colors": [
-                "#6FC5BC",
-                "#1B657C"
+                "#FF0000",
+                "#0000FF"
             ]
         },
         "doughnut_chart#2": {
