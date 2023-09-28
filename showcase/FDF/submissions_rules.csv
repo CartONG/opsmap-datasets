@@ -58,7 +58,7 @@
 "latrines";"list";"group_wash";;;;;;"latrines"
 "NombreLatrines";"integer";"group_wash";;;;;;
 "Typesdouche";"list";"group_wash";;;;;;
-"NumberShowers";"integer";"group_wash";"TotalShowersVsIndidual";;"NumberShowers_calcPopulationVsShowers";;"IndividualPopulation/NumberShowers";
+"NumberShowers";"integer";"group_wash";"TotalShowersVsIndidual";;;;;
 "douchesepare";"string";"group_wash";"yesno";;;;;
 "latrinevidance";"string";"group_wash";"yesno";;;;;
 "latrinevidanceMois";"string";"group_wash";;;;;;
