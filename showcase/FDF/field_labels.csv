@@ -4,7 +4,8 @@ region;Region;Région
 dep;Department;Département
 city;City;Commune
 address;Address;Adresse
-adm2_pcode;PCODE Admin 2 ;Admin 2 PCODE
+adm2_pcode;PCode Admin 2 ;Admin 2 PCode
+site_pcode; Site PCode; PCode du site
 cccm_shelter_max_capacity;Shelter Max Capacity;Maximum de capacité du site
 cccm_site_at_full_capacity;Site at Full Capacity;Maximum de capacité du site atteinte
 cccm_possibility_expand_site;Possibility to Expand Site;Possibilité d'extension du site
