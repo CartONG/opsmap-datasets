@@ -14,6 +14,14 @@
                 "No": "green"
             }
         },
+        "yesnona": {
+            "type": "key_value",
+            "values": {
+                "Yes": "green",
+                "No": "red",
+                "N/A": "grey"
+            }
+        },
         "lowurgent": {
             "type": "key_value",
             "values": {
