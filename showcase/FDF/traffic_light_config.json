@@ -50,8 +50,21 @@
             },
             "values": {
                 "(y/x)<= 20": "green",
-                "(y/x)> 20 and x<=50 ": "orange",
+                "(y/x)> 20 and (y/x)<=50 ": "orange",
                 "(y/x)> 50 ": "red"
+            }
+        },
+        "TotalLatrinesVsIndidual": {
+            "type": "math",
+            "scope": {
+                "x": "NombreLatrines",
+                "y": "demo_num_indv"
+            },
+            "values": {
+                "(((y/x)*100)/20)< 100": "green",
+                "(((y/x)*100)/20) >=100 and (((y/x)*100)/20)<200 ": "yellow",
+                "(((y/x)*100)/20)>= 200 and (((y/x)*100)/20) <1000": "red";
+                "(((y/x)*100)/20)>= 1000": "darkred"
             }
         },
         "ShelterCondition": {
