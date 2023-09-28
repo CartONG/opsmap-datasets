@@ -28,38 +28,6 @@
         "url": "https://app.powerbi.com/view?r=eyJrIjoiZTRhOWVlOTgtYTk2MS00YmY3LWEyY2YtMGM1Y2MzODFjMmVjIiwidCI6ImU1YzM3OTgxLTY2NjQtNDEzNC04YTBjLTY1NDNkMmFmODBiZSIsImMiOjh9",
         "display": true
     },
-    "headerLogos": [
-        {
-            "name": "Acolhida",
-            "urlLogo": "BR_Logo/Acolhida.jpeg",
-            "urlRedirection": "https://www.gov.br/casacivil/pt-br/acolhida/"
-        },
-        {
-            "name": "AVSI",
-            "urlLogo": "BR_Logo/AVSI_BRASIL.png",
-            "urlRedirection": "http://www.avsibrasil.org.br/"
-        },
-        {
-            "name": "FSF",
-            "urlLogo": "BR_Logo/FSF.png",
-            "urlRedirection": "https://www.fraternidadesemfronteiras.org.br/"
-        },
-        {
-            "name": "UNHCR",
-            "urlLogo": "BR_Logo/UNHCR_PT.jpg",
-            "urlRedirection": "https://www.acnur.org.br"
-        },
-        {
-            "name": "Ministério da Cidadania",
-            "urlLogo": "BR_Logo/Ministrerio_da_CIDADANIA.png",
-            "urlRedirection": "https://www.gov.br/cidadania/pt-br"
-        },
-        {
-            "name": "R4V",
-            "urlLogo": "BR_Logo/R4V.png",
-            "urlRedirection": "https://www.r4v.info/"
-        }
-    ],
     "footerLogos": [
         {
             "title": {
