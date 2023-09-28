@@ -49,8 +49,9 @@
                 "y": "demo_num_indv"
             },
             "values": {
-                "(x/y)*100 < 10": "green",
-                "(x/y)*100 >= 10": "yellow"
+                "(y/x)<= 20": "green",
+                "(y/x)> 20 and x<=50 ": "orange",
+                "(y/x)> 50 ": "red",
             }
         },
         "ShelterCondition": {
