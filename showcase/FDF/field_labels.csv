@@ -104,7 +104,7 @@
 "other_shel";"Households in public facility- other";"Ménages dans un établissement public - autre"
 "transi_shel";"Households in transitional shelters";"Ménages dans des abris de transition"
 "ShowerTypes";"Total number of showers";"Nombre total de douches"
-"NumberShowers_calcPopulationVsShowers";"Rate number of showers by population";"Taux du nombre de douches par population"
+"NumberShowers;"Number of showers (TL= rate/population)";"Nombre de douches (TL= taux/population)"
 "nfi_distributed";"Last time NFI were distributed";"Dernière fois que des NFI ont été distribués"
 "litreEauPersonn";"Water: Number of liters/person/day";"Eau : Nombre de litres/personne/jour"
 "Sourceeau";"Main source of drinking water for the SITE";"Principale source d'eau potable pour le SITE"
