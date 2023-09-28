@@ -1,55 +1,4 @@
 ﻿{
-    "properties": {
-        "colormap": {
-            "grey": {
-                "color": "#999999",
-                "label": "trafficlight.undefined"
-            },
-            "green": {
-                "color": "#A8D08D",
-                "label": {
-                    "fr": "OK",
-                    "en": "OK"
-                }
-            },
-            "yellow": {
-                "color": "#FFE599",
-                "label": {
-                    "fr": "Attention",
-                    "en": "Caution"
-                }
-            },
-            "orange": {
-                "color": "#FFC000",
-                "label": {
-                    "fr": "Avertissement",
-                    "en": "Warning"
-                }
-            },
-            "red": {
-                "color": "#FF0000",
-                "label": {
-                    "fr": "Danger",
-                    "en": "Danger"
-                }
-            },
-            "darkred": {
-                "color": "#C00000",
-                "label": {
-                    "fr": "Critique",
-                    "en": "Critical"
-                }
-            },
-            "purple": {
-                "color": "pink",
-                "label": {
-                    "fr": "Erreur",
-                    "en": "Error"
-                }
-            }
-        },
-        "colorerror": "purple"
-    },
     "trafficLights": {
         "yesno": {
             "type": "key_value",
@@ -79,9 +28,9 @@
         "niveaucongestionsite": {
             "type": "math",
             "values": {
-                ">30": "green",
-                ">15 and <=30": "orange",
-                "<=15": "red"
+                "x>30": "green",
+                "x>15 and x<=30": "orange",
+                "x<=15": "red"
             }
         },
         "nfidistrange": {
