@@ -6,6 +6,7 @@ city;string;group_general_info;;;;;;
 address;string;group_general_info;;;;;;
 site_id;string;group_general_info;;;;;;
 adm2_pcode;string;group_general_info;;;;;;
+site_pcode;string;group_general_info;;;;;;
 cccm_shelter_max_capacity;integer;group_cccm;;;;;;
 cccm_site_at_full_capacity;list;group_cccm;noyes;;;;;Boolean
 cccm_possibility_expand_site;list;group_cccm;yesno;;;;;Boolean
