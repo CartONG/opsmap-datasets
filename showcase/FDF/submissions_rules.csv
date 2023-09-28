@@ -75,8 +75,8 @@ ServicesPediatriq;string;group_health;yesno;;;;;
 PrenatalServices;string;group_health;yesno;;;;;
 Ambulance;string;group_health;yesno;;;;;
 ProblemAccesSante;list;group_health;;;;;;
-Vaccination;integer;group_health;;;;;;
-TypeSupport;list;group_health;;;;;;
+Vaccination;integer;group_health;yesnona;;;;;
+TypeSupport;list;group_health;yesnona;;;;;
 covidinfo;string;group_covid;yesno;;;;;
 covidprevention;string;group_covid;yesno;;;;;
 lavage_main;string;group_covid;;;;;;
@@ -104,7 +104,7 @@ number_of_preglac_dis;integer;group_vulpop;;doughnut_chart#2;Preglact#Pregnant /
 envrn_envrntl_issues;string;group_environment;;;;;;
 envrn_flood_prone_areas;list;group_environment;yesno;;;;;Boolean
 envrn_active_veg_med_plant_gardens;list;group_environment;yesno;;;;;Boolean
-envrn_afforestn_progs;string;group_environment;;;;;;
+envrn_afforestn_progs;string;group_environment;yesnona;;;;;
 envrn_rnwble_enrgy_gen_sln;list;group_environment;yesno;;;;;Boolean
 envrn_prim_enrgy_srce_typ;string;group_environment;;;;;;
 envrn_active_envrntl_educ_progs;list;group_environment;yesno;;;;;Boolean
