@@ -44,10 +44,13 @@
         },
         "TotalShowersVsIndidual": {
             "type": "math",
+            "scope": {
+                "x": "Nbdouche",
+                "y": "demo_num_indv"
+            },
             "values": {
-                "x<=20": "green",
-                "x>20 and x<=25": "yellow",
-                "x>25": "red"
+                "(x/y)*100 < 10": "green",
+                "(x/y)*100 >= 10": "yellow"
             }
         },
         "ShelterCondition": {
