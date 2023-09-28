@@ -3,7 +3,10 @@
         "colormap": {
             "grey": {
                 "color": "#999999",
-                "label": "trafficlight.undefined"
+                "label": {
+                    "fr": "Indéterminé",
+                    "en": "Undefined"
+                }
             },
             "green": {
                 "color": "#A8D08D",
