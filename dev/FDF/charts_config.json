@@ -4,7 +4,39 @@
             "type": "polar_area"
         },
         "age_pyramid#1": {
-            "type": "age_pyramid"
+            "type": "age_pyramid",
+            "populationType": "duo",
+            "legendLabels": [
+                {
+                    "fr": "60+"
+                },
+                {
+                    "fr": "18-59"
+                },
+                {
+                    "fr": "12-17"
+                },
+                {
+                    "fr": "5-11"
+                },
+                {
+                    "fr": "0-4"
+                }
+            ],
+            "population": [
+                {
+                    "id": "m",
+                    "index": 1,
+                    "color": "#ff00ff",
+                    "label": "charts.male"
+                },
+                {
+                    "id": "f",
+                    "index": 0,
+                    "color": "#ff0000",
+                    "label": "charts.female"
+                }
+            ]
         },
         "doughnut_chart#2": {
             "type": "doughnut"
