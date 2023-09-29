@@ -1,4 +1,4 @@
-﻿traffic_light_name;type;value;color
+traffic_light_name;type;value;color
 yesno;string;Yes;green
 yesno;string;No;red
 yesnona;string;Yes;green
