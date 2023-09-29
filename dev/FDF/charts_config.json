@@ -26,13 +26,13 @@
             "population": [
                 {
                     "id": "m",
-                    "index": 1,
+                    "index": 0,
                     "color": "#ff00ff",
                     "label": "charts.male"
                 },
                 {
                     "id": "f",
-                    "index": 0,
+                    "index": 1,
                     "color": "#ff0000",
                     "label": "charts.female"
                 }
