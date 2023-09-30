@@ -4,7 +4,7 @@
             "type": "polar_area"
         },
         "age_pyramid#1": {
-            "type": "age_pyramid",
+            "type": "bar",
             "populationType": "duo",
             "valueLabels": [
                 {
