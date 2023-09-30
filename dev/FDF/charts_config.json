@@ -29,9 +29,15 @@
             },
             "population": [
                 {
-                    "id": "p",
+                    "id": "m",
                     "index": 0,
-                    "color": "#ff00ff",
+                    "color": "#6FC5BC",
+                    "label": "charts.population"
+                },
+                {
+                    "id": "f",
+                    "index": 1,
+                    "color": "#1B657C",
                     "label": "charts.population"
                 }
             ]
