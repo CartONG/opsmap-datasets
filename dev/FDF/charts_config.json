@@ -5,8 +5,8 @@
         },
         "age_pyramid#1": {
             "type": "age_pyramid",
-            "populationType": "single",
-            "legendLabels": [
+            "populationType": "duo",
+            "valueLabels": [
                 {
                     "fr": "60+"
                 },
@@ -23,6 +23,10 @@
                     "fr": "0-4"
                 }
             ],
+            "titleAxis": {
+                "value": "charts.titleX",
+                "notValue": "charts.titleY"
+            },
             "population": [
                 {
                     "id": "p",
