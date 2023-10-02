@@ -6,8 +6,8 @@
         "age_pyramid#1": {
             "type": "bar",
             "direction": "vertical",
-            "populationType": "duo",
-            "valueLabels": [
+            "barType": "duo",
+            "yLabels": [
                 {
                     "fr": "60+"
                 },
@@ -25,10 +25,10 @@
                 }
             ],
             "titleAxis": {
-                "value": "charts.titleX",
-                "notValue": "charts.titleY"
+                "x": "charts.titleX",
+                "y": "charts.titleY"
             },
-            "population": [
+            "series": [
                 {
                     "id": "m",
                     "index": 0,
@@ -46,8 +46,8 @@
         "age_pyramid#2": {
             "type": "bar",
             "direction": "vertical",
-            "populationType": "single",
-            "valueLabels": [
+            "barType": "single",
+            "yLabels": [
                 {
                     "fr": "(0 - 4)"
                 },
@@ -65,33 +65,32 @@
                 }
             ],
             "titleAxis": {
-                "value": {
+                "y": {
                     "fr": "# personne",
                     "en": "# people"
                 },
-                "notValue": {
+                "x": {
                     "fr": "Interval d'âge",
                     "en": "Age range"
                 }
             },
-            "population": [
+            "series": [
                 {
-                    
                     "id": "g",
-                    "index": 1,
+                    "index": 0,
                     "color": "#AAB4C0",
                     "label": {
-                    "fr": "Non genré/inclusif",
-                    "en": "Gender neutral/inclusive"
-                }
+                        "fr": "Non genré/inclusif",
+                        "en": "Gender neutral/inclusive"
+                    }
                 }
             ]
         },
         "bar#5": {
             "type": "bar",
             "direction": "horizontal",
-            "populationType": "single",
-            "valueLabels": [
+            "barType": "single",
+            "yLabels": [
                 {
                     "fr": "Matelas",
                     "en": "Mattress"
@@ -118,25 +117,24 @@
                 }
             ],
             "titleAxis": {
-                "value": {
+                "y": {
                     "fr": "Nombre",
                     "en": "Number"
                 },
-                "notValue": {
+                "x": {
                     "fr": "Articles non alimentaires (NFI)",
                     "en": "Non-Food Items (NFIs)"
                 }
             },
-            "population": [
+            "series": [
                 {
-                    
                     "id": "nfi",
-                    "index": 1,
+                    "index": 0,
                     "color": "#AAB4C0",
                     "label": {
-                    "fr": "XXX",
-                    "en": "AAAA"
-                }
+                        "fr": "XXX",
+                        "en": "AAAA"
+                    }
                 }
             ]
         },

@@ -5,8 +5,8 @@
         },
         "age_pyramid#1": {
             "type": "bar",
-            "populationType": "duo",
-            "valueLabels": [
+            "barType": "duo",
+            "yLabels": [
                 {
                     "fr": "60+"
                 },
@@ -24,10 +24,9 @@
                 }
             ],
             "titleAxis": {
-                "value": "charts.titleX",
-                "notValue": "charts.titleY"
+                "x": "charts.titleX""y": "charts.titleY",
             },
-            "population": [
+            "series": [
                 {
                     "id": "m",
                     "index": 0,
