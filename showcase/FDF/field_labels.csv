@@ -159,3 +159,15 @@ bien_etre_social;Social well-being and social ties;Bien-être social et lien soc
 pb_covid;Corona virus issues and concerns;Problèmes liés au corona virus et inquiétudes
 stigma_covid;Social stigma and discrimination;Stigmatisation sociale et discrimination
 bien_etre_psy;Psychological well-being;Bien-être psychologique
+mattresses_int;#Mattress access;#Accès à des matelas
+_intwater_containers_buckets;#Water containers \buckets access;#Accès à des bidons d'eau
+kitchen_items_int;#Kitchen items access;#Accès à des articles de cuisine
+hygiene_items_pct_int;#Hygiene items access;#Accès à des articles d'hygiène
+mosquito_nets_int;#Mosquito nets access;#Accès à des moustiquaires
+solar_lamps_int;#Solar lamps access;#Accès à des lampes solaires
+mattresses;Mattress access;Accès à des matelas
+water_containers_buckets;Water containers \buckets access;Accès à des bidons d'eau
+kitchen_items;Kitchen items access;Accès à des articles de cuisine
+hygiene_items_pct;Hygiene items access;Accès à des articles d'hygiène
+mosquito_nets;Mosquito nets access;Accès à des moustiquaires
+solar_lamps;Solar lamps access;Accès à des lampes solaires
