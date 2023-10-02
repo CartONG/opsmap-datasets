@@ -65,11 +65,11 @@
                 }
             ],
             "titleAxis": {
-                "y": {
+                "x": {
                     "fr": "# personne",
                     "en": "# people"
                 },
-                "x": {
+                "y": {
                     "fr": "Interval d'âge",
                     "en": "Age range"
                 }
@@ -117,11 +117,11 @@
                 }
             ],
             "titleAxis": {
-                "y": {
+                "x": {
                     "fr": "Nombre",
                     "en": "Number"
                 },
-                "x": {
+                "y": {
                     "fr": "Articles non alimentaires (NFI)",
                     "en": "Non-Food Items (NFIs)"
                 }
