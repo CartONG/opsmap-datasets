@@ -138,7 +138,6 @@ mosquito_nets_int;integer;group_shelternfi;;;;;;
 solar_lamps_int;integer;group_shelternfi;;;;;;
 blanket;string;group_shelternfi;need_hh;;;;;
 mattresses;string;group_shelternfi;need_hh;;;;;
-sleeping_matt;string;group_shelternfi;need_hh;;;;;
 water_containers_buckets;string;group_shelternfi;need_hh;;;;;
 kitchen_items;string;group_shelternfi;need_hh;;;;;
 hygiene_items_pct;string;group_shelternfi;need_hh;;;;;
