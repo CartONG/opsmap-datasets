@@ -97,6 +97,16 @@
                 "Majority of shelters": "red",
                 "All/almost all shelters": "darkred"
             }
+        },
+         "need_hh": {
+            "type": "key_value",
+            "values": {
+                "all_almost_all_households": "green",
+                "majority_of_households": "yellow",
+                "half_of_households": "orange",
+                "few_households": "red",
+                "none_almost_no_households": "darkred"
+            }
         }
     }
 }
