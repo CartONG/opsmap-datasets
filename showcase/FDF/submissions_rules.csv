@@ -137,7 +137,7 @@ shelter_need_new;string;group_shelternfi;ShelterCondition;;;;;
 blanket_int;integer;group_shelternfi;;bar#5;nfi#Blankets access;;;
 mattresses_int;integer;group_shelternfi;;bar#5;nfi#Mattress access;;;
 water_containers_buckets_int;integer;group_shelternfi;;bar#5;nfi#Water containers \buckets access;;;
-kitchen_items_int;integer;group_shelternfi;;bar#5;nfi#Kitchen items access;;;
+kitchen_items_int;integer;group_shelternfi;;bar#5;nfi4#Kitchen items access;;;
 hygiene_items_pct_int;integer;group_shelternfi;;bar#5;nfi#Hygiene items access;;;
 mosquito_nets_int;integer;group_shelternfi;;bar#5;nfi#Mosquito nets access;;;
 solar_lamps_int;integer;group_shelternfi;;bar#5;nfi#Solar lamps access;;;
