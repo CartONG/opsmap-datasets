@@ -126,7 +126,19 @@
                     "fr": "Nombre",
                     "en": "Number"
                 }
-            }
+            },
+            "population": [
+                {
+                    
+                    "id": "nfi",
+                    "index": 1,
+                    "color": "#AAB4C0",
+                    "label": {
+                    "fr": "XXX",
+                    "en": "AAAA"
+                }
+                }
+            ]
         },
         "doughnut_chart#4": {
             "type": "doughnut"
