@@ -21,6 +21,11 @@ cccm_num_of_entries_in_last_month;No. of entries in last month;Nombre d'entrées
 cccm_num_of_exits_in_last_month;No. of exits in last month;Nombre de sorties au cours du mois dernier
 demo_num_indv;No. of Individuals;Nombre d'individus
 demo_num_hh;No. of Families;Nombre de familles
+demo_allgender_0_4;Gender-neutral/inclusive (0 - 4);Non genré/inclusif (0 - 4)
+demo_allgender_5_11;Gender-neutral/inclusive (5 - 11);Non genré/inclusif (5 - 11)
+demo_allgender_12_17;Gender-neutral/inclusive (12 - 17);Non genré/inclusif (12 - 17)
+demo_allgender_18_59;Gender-neutral/inclusive (18 - 59);Non genré/inclusif (18 - 59)
+demo_allgender_60+;Gender-neutral/inclusive (60+);Non genré/inclusif (60+)
 demo_female_0_4;Females (0 - 4);Femmes (0 - 4)
 demo_female_5_11;Females (5 - 11);Femmes (5 - 11)
 demo_female_12_17;Females (12 - 17);Femmes (12 - 17)
