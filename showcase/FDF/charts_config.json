@@ -119,12 +119,12 @@
             ],
             "titleAxis": {
                 "value": {
-                    "fr": "Articles non alimentaires (NFI) ",
-                    "en": "Non-Food Items (NFIs)"
-                },
-                "notValue": {
                     "fr": "Nombre",
                     "en": "Number"
+                },
+                "notValue": {
+                    "fr": "Articles non alimentaires (NFI)",
+                    "en": "Non-Food Items (NFIs)"
                 }
             },
             "population": [
