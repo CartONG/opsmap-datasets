@@ -43,6 +43,47 @@
                 }
             ]
         },
+        "age_pyramid#2": {
+            "type": "bar",
+            "direction": "vertical",
+            "populationType": "single",
+            "valueLabels": [
+                {
+                    "fr": "(0 - 4)"
+                },
+                {
+                    "fr": "(5 - 11)"
+                },
+                {
+                    "fr": "(12 - 17)"
+                },
+                {
+                    "fr": "(18 - 59)"
+                },
+                {
+                    "fr": "(60+)"
+                }
+            ],
+            "titleAxis": {
+                "value": "# people",
+                "notValue": {
+                    "fr": "Interval d'âge",
+                    "en": "Age range"
+                },
+            },
+            "population": [
+                {
+                    
+                    "id": "g",
+                    "index": 1,
+                    "color": "#AAB4C0",
+                    "label": {
+                    "fr": "Non genré/inclusif",
+                    "en": "Gender neutral/inclusive"
+                },
+                }
+            ]
+        },
         "bar#5": {
             "type": "bar",
             "direction": "horizontal",
@@ -75,54 +116,14 @@
             ],
             "titleAxis": {
                 "value": {
-                    "fr": "NFI fr",
-                    "en": "NFI"
+                    "fr": "Articles non alimentaires (NFI) ",
+                    "en": "Non-Food Items (NFIs)"
                 },
                 "notValue": {
-                    "fr": "NFI fr 22",
-                    "en": "NFI 22"
-                },
+                    "fr": "Nombre",
+                    "en": "Number"
+                }
             }
-        },
-        "age_pyramid#2": {
-            "type": "bar",
-            "direction": "vertical",
-            "populationType": "single",
-            "valueLabels": [
-                {
-                    "fr": "(0 - 4)",
-                    "en": "(0 - 4) en"
-                },
-                {
-                    "fr": "(5 - 11)",
-                    "en": "(5 - 11) en"
-                },
-                {
-                    "fr": "(12 - 17)",
-                    "en": "(12 - 17) en"
-                },
-                {
-                    "fr": "(18 - 59)",
-                    "en": "(18 - 59) en"
-                },
-                {
-                    "fr": "(60+)",
-                    "en": "(60+) en"
-                }
-            ],
-            "titleAxis": {
-                "value": "Number of people",
-                "notValue": "Years"
-            },
-            "population": [
-                {
-                    
-                    "id": "m",
-                    "index": 0,
-                    "color": "#AAB4C0",
-                    "label": "Non genré/inclusif"
-                }
-            ]
         },
         "doughnut_chart#4": {
             "type": "doughnut"
