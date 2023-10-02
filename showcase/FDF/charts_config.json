@@ -43,7 +43,7 @@
                 }
             ]
         },
-        "bar#2": {
+        "bar#5": {
             "type": "bar",
             "direction": "vertical",
             "populationType": "single",
@@ -78,7 +78,7 @@
                 "notValue": ""
             }
         },
-        "bar#5": {
+        "age_pyramid#2": {
             "type": "bar",
             "direction": "horizontal",
             "populationType": "single",
