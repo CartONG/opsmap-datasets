@@ -65,11 +65,14 @@
                 }
             ],
             "titleAxis": {
-                "value": "# people",
+                "value": {
+                    "fr": "# personne",
+                    "en": "# people"
+                },
                 "notValue": {
                     "fr": "Interval d'âge",
                     "en": "Age range"
-                },
+                }
             },
             "population": [
                 {
@@ -80,7 +83,7 @@
                     "label": {
                     "fr": "Non genré/inclusif",
                     "en": "Gender neutral/inclusive"
-                },
+                }
                 }
             ]
         },
