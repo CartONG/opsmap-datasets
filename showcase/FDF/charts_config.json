@@ -74,8 +74,14 @@
                 }
             ],
             "titleAxis": {
-                "value": "NFI items",
-                "notValue": ""
+                "value": {
+                    "fr": "NFI fr",
+                    "en": "NFI"
+                },
+                "notValue": {
+                    "fr": "NFI fr 22",
+                    "en": "NFI 22"
+                },
             }
         },
         "age_pyramid#2": {
@@ -110,6 +116,9 @@
             },
             "population": [
                 {
+                    
+                    "id": "m",
+                    "index": 0,
                     "color": "#AAB4C0",
                     "label": "Non genré/inclusif"
                 }
