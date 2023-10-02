@@ -154,6 +154,7 @@ shelter_need_reconstruction;In need of reconstruction (for public buildings, cor
 shelter_need_rehabilitation;In need of rehabilitation (for public buildings, core housing/vacant building);Besoin de réhabilitation (pour les bâtiments publics, les logements principaux et les bâtiments vacants)
 shelter_need_extension;In need of extensionr (overcrowded);Besoin d'extension (surpeuplement)
 shelter_need_new;In need of new shelter (new HHs);Besoin d'un nouvel abri (nouveaux ménages)
+blanket_int;#Blankets access;#Accès aux couvertures
 mattresses_int;#Mattress access;#Accès à des matelas
 water_containers_buckets_int;#Water containers \buckets access;#Accès à des bidons d'eau
 kitchen_items_int;#Kitchen items access;#Accès à des articles de cuisine
