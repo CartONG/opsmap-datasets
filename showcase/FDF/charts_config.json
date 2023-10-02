@@ -84,24 +84,24 @@
             "populationType": "single",
             "valueLabels": [
                 {
-                    "fr": "Non genré/inclusif (0 - 4)",
-                    "en": "Gender-neutral/inclusive (0 - 4)"
+                    "fr": "(0 - 4)",
+                    "en": "(0 - 4) en"
                 },
                 {
-                    "fr": "Non genré/inclusif (5 - 11)",
-                    "en": "Gender-neutral/inclusive (5 - 11)"
+                    "fr": "(5 - 11)",
+                    "en": "(5 - 11) en"
                 },
                 {
-                    "fr": "Non genré/inclusif (12 - 17)",
-                    "en": "Gender-neutral/inclusive (12 - 17)"
+                    "fr": "(12 - 17)",
+                    "en": "(12 - 17) en"
                 },
                 {
-                    "fr": "Non genré/inclusif (18 - 59)",
-                    "en": "Gender-neutral/inclusive (18 - 59)"
+                    "fr": "(18 - 59)",
+                    "en": "(18 - 59) en"
                 },
                 {
-                    "fr": "Non genré/inclusif (60+)",
-                    "en": "Gender-neutral/inclusive (60+)"
+                    "fr": "(60+)",
+                    "en": "(60+) en"
                 }
             ],
             "titleAxis": {
@@ -111,7 +111,7 @@
             "population": [
                 {
                     "color": "#AAB4C0",
-                    "label": "charts.nongenre"
+                    "label": "Non genré/inclusif"
                 }
             ]
         },
