@@ -1,4 +1,4 @@
-﻿{
+{
     "charts": {
         "polar_area_chart#3": {
             "type": "polar_area"
@@ -43,7 +43,41 @@
                 }
             ]
         },
-        "doughnut_chart#2": {
+        "bar#5": {
+            "type": "bar",
+            "direction": "horizontal",
+            "populationType": "single",
+            "valueLabels": [
+                {
+                    "fr": "Non genré 60+"
+                },
+                {
+                    "fr": "Non genré 18-59"
+                },
+                {
+                    "fr": "Non genré 12-17"
+                },
+                {
+                    "fr": "Non genré 5-11"
+                },
+                {
+                    "fr": "Non genré 0-4"
+                }
+            ],
+            "titleAxis": {
+                "value": "charts.titleX",
+                "notValue": "charts.titleY"
+            },
+            "population": [
+                {
+                    "id": "m",
+                    "index": 0,
+                    "color": "#6FC5BC",
+                    "label": "charts.nongenre"
+                }
+            ]
+        },
+        "doughnut_chart#4": {
             "type": "doughnut"
         }
     }
