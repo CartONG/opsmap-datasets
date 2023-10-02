@@ -45,7 +45,7 @@
         },
         "bar#5": {
             "type": "bar",
-            "direction": "vertical",
+            "direction": "horizontal",
             "populationType": "single",
             "valueLabels": [
                 {
@@ -80,16 +80,16 @@
         },
         "age_pyramid#2": {
             "type": "bar",
-            "direction": "horizontal",
+            "direction": "vertical",
             "populationType": "single",
             "valueLabels": [
                 {
-                    "fr": "Gender-neutral/inclusive (0 - 4)",
-                    "en": "Non genré/inclusif (0 - 4)"
+                    "fr": "Non genré/inclusif (0 - 4)",
+                    "en": "Gender-neutral/inclusive (0 - 4)"
                 },
                 {
-                    "fr": "Gender-neutral/inclusive (5 - 11)",
-                    "en": "Non genré/inclusif (5 - 11)"
+                    "fr": "Non genré/inclusif (5 - 11)",
+                    "en": "Gender-neutral/inclusive (5 - 11)"
                 },
                 {
                     "fr": "Non genré/inclusif (12 - 17)",
