@@ -1,0 +1,93 @@
+﻿{
+    // (Mandatory) Very mandatory. Define a list of graphs configuration. The graphs are identified by their ids. Those ids must match the ones used in submissions_rules. 
+    // - Those configuration contains at least a type field. The rest of the config are optional and chart type dependant.
+    //   Type values: "polar" | "bar" | "doughnut" | "radar"
+    "charts": {
+        "doughnut#0": {
+            "type": "radar",
+            // color (Optional): the color as string used to draw the chart (default: #6FC5BC)
+            "color": "#6FC5BC"
+        },
+        "doughnut_chart#1": {
+            "type": "doughnut",
+            // colors (Optional): the array of colors as string used to draw the chart (default: ["#CBA0A1","#8C9CB0","#D3E0C9","#F1D7AC","#EEEDF7"])
+            "colors": [
+                "#CBA0A1",
+                "#8C9CB0",
+                "#D3E0C9",
+                "#F1D7AC",
+                "#EEEDF7"
+            ]
+        },
+        "polar_area_chart#2": {
+            "type": "polar_area",
+            // colors (Optional): the array of colors as string used to draw the chart (default: ["#6FC5BC","#1B657C","#4595AD","#F1D7AC","#EEEDF7"])
+            "colors": [
+                "#6FC5BC",
+                "#1B657C",
+                "#4595AD",
+                "#F1D7AC",
+                "#EEEDF7"
+            ]
+        },
+        "age_pyramid#3": {
+            "type": "bar",
+            // "barType" (Optional): can be "single" | "duo". By that udnerstgand the direction of the x axis. (default: "duo")
+            //    - single: a single value bar chart
+            //    - duo: a double valud bar charts, structured as an age pyramid (mirrored in its center)
+            "barType": "duo",
+            // direction (Optional): can be "horizontal" | "vertical". By that udnerstgand the direction of the x axis (default: "vertical")
+            "direction": "vertical",
+            // "yLabels" (Mandatory): labels for the axis that represents the value. Its an array of TKLabel example: [{ "fr": "balba", "en": "azeadz" }]
+            "yLabels": [
+                {
+                    "fr": "60+"
+                },
+                {
+                    "fr": "18-59"
+                },
+                {
+                    "fr": "12-17"
+                },
+                {
+                    "fr": "5-11"
+                },
+                {
+                    "fr": "0-4"
+                }
+            ],
+            // "titleAxis" (Optional): two values, x and y: title of the axis. It can be a string or a TKLabel
+            //      string: entry in the locale json file 
+            //      TKLabel, like { "fr": "balba", "en": "azeadz" }
+            // (default: "titleAxis": { "x": "charts.titleX", "y": "charts.titleY"} )
+            "titleAxis": {
+                "x": "charts.titleX",
+                "y": "charts.titleY"
+            },
+            // "series" (Optional): series represented in the chart. It has to match the series as described in the submissions rules. And the type of chart. 
+            // chart single --> only one serie
+            // chart single --> only two series
+            // a serie is {
+            //     "id": "m", --> as declared in the submissions rules 
+            //     "index": 0, --> index of the serie (for duo: 0 is left, and 1 is right)
+            //     "color": "#6FC5BC", --> color used to represent this serie
+            //     "label": "charts.male" --> string or TKLabel. If string, key in the locale file. IF TKlabel, it's like: { "fr": "balba", "en": "azeadz" }
+            // }
+            // "Default is as follow"
+            "series": [
+                {
+                    "id": "m",
+                    "index": 0,
+                    "color": "#6FC5BC",
+                    "label": "charts.male"
+                },
+                {
+                    "id": "f",
+                    "index": 1,
+                    "color": "#1B657C",
+                    "label": "charts.female"
+                }
+            ]
+        }
+    }
+}
