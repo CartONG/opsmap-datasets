@@ -43,36 +43,74 @@
                 }
             ]
         },
+        "bar#2": {
+            "type": "bar",
+            "direction": "vertical",
+            "populationType": "single",
+            "valueLabels": [
+                {
+                    "fr": "Matelas",
+                    "en": "Mattress"
+                },
+                {
+                    "fr": "Bidons d'eau",
+                    "en": "Water containers\buckets"
+                },
+                {
+                    "fr": "Articles de cuisine",
+                    "en": "Kitchen items"
+                },
+                {
+                    "fr": "Articles d'hygiène",
+                    "en": "Hygiene items"
+                },
+                {
+                    "fr": "Moustiquaires",
+                    "en": "Mosquito nets"
+                },
+                {
+                    "fr": "Lampes solaires",
+                    "en": "Solar lamps"
+                }
+            ],
+            "titleAxis": {
+                "value": "NFI items",
+                "notValue": ""
+            }
+        },
         "bar#5": {
             "type": "bar",
             "direction": "horizontal",
             "populationType": "single",
             "valueLabels": [
                 {
-                    "fr": "Non genré 60+"
+                    "fr": "Gender-neutral/inclusive (0 - 4)",
+                    "en": "Non genré/inclusif (0 - 4)"
                 },
                 {
-                    "fr": "Non genré 18-59"
+                    "fr": "Gender-neutral/inclusive (5 - 11)",
+                    "en": "Non genré/inclusif (5 - 11)"
                 },
                 {
-                    "fr": "Non genré 12-17"
+                    "fr": "Non genré/inclusif (12 - 17)",
+                    "en": "Gender-neutral/inclusive (12 - 17)"
                 },
                 {
-                    "fr": "Non genré 5-11"
+                    "fr": "Non genré/inclusif (18 - 59)",
+                    "en": "Gender-neutral/inclusive (18 - 59)"
                 },
                 {
-                    "fr": "Non genré 0-4"
+                    "fr": "Non genré/inclusif (60+)",
+                    "en": "Gender-neutral/inclusive (60+)"
                 }
             ],
             "titleAxis": {
-                "value": "charts.titleX",
-                "notValue": "charts.titleY"
+                "value": "Number of people",
+                "notValue": "Years"
             },
             "population": [
                 {
-                    "id": "m",
-                    "index": 0,
-                    "color": "#6FC5BC",
+                    "color": "#AAB4C0",
                     "label": "charts.nongenre"
                 }
             ]
