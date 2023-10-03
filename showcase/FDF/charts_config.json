@@ -88,9 +88,9 @@
         },
         "bar#5": {
             "type": "bar",
-            "direction": "horizontal",
+            "direction": "vertical",
             "barType": "single",
-            "xLabels": [
+            "yLabels": [
                 {
                     "fr": "Matelas",
                     "en": "Mattress"
@@ -117,11 +117,11 @@
                 }
             ],
             "titleAxis": {
-                "y": {
+                "x": {
                     "fr": "Nombre",
                     "en": "Number"
                 },
-                "x": {
+                "y": {
                     "fr": "Articles non alimentaires (NFI)",
                     "en": "Non-Food Items (NFIs)"
                 }
