@@ -90,7 +90,7 @@
             "type": "bar",
             "direction": "horizontal",
             "barType": "single",
-            "yLabels": [
+            "xLabels": [
                 {
                     "fr": "Matelas",
                     "en": "Mattress"
