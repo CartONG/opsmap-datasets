@@ -117,11 +117,11 @@
                 }
             ],
             "titleAxis": {
-                "x": {
+                "y": {
                     "fr": "Nombre",
                     "en": "Number"
                 },
-                "y": {
+                "x": {
                     "fr": "Articles non alimentaires (NFI)",
                     "en": "Non-Food Items (NFIs)"
                 }
