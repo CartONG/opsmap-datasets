@@ -161,6 +161,7 @@ kitchen_items_int;#Kitchen items access;#Accès à des articles de cuisine
 hygiene_items_pct_int;#Hygiene items access;#Accès à des articles d'hygiène
 mosquito_nets_int;#Mosquito nets access;#Accès à des moustiquaires
 solar_lamps_int;#Solar lamps access;#Accès à des lampes solaires
+blanket;Blankets access;Accès aux couvertures
 mattresses;Mattress access;Accès à des matelas
 water_containers_buckets;Water containers \buckets access;Accès à des bidons d'eau
 kitchen_items;Kitchen items access;Accès à des articles de cuisine
