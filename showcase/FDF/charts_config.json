@@ -193,31 +193,31 @@
                 "none_almost_no_households": {
                     "value": 1,
                     "label": {
-                        "fr": "none_almost_no_householdsFR"
+                        "fr": "Aucune"
                     }
                 },
                 "few_households": {
                     "value": 2,
                     "label": {
-                        "fr": "few_householdsFR"
+                        "fr": "Un peu"
                     }
                 },
                 "half_of_households": {
                     "value": 3,
                     "label": {
-                        "fr": "half_of_householdsFR"
+                        "fr": "Moitié"
                     }
                 },
                 "majority_of_households": {
                     "value": 4,
                     "label": {
-                        "fr": "majority_of_householdsFR"
+                        "fr": "Majorité"
                     }
                 },
                 "all_almost_all_households": {
                     "value": 5,
                     "label": {
-                        "fr": "all_almost_all_householdsFR"
+                        "fr": "Toutes"
                     }
                 }
             }
