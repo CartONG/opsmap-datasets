@@ -87,7 +87,27 @@
                     "color": "#1B657C",
                     "label": "charts.female"
                 }
-            ]
+            ],
+            // "mapping" (Optional): allows for a mapping between string and number value (like Few=1, Much=2), etc.
+            // It's a record of object with 
+            // key (possible result of the field) => {
+            //   value: number (desired value in the dataset)
+            //   label: TKLabel --> it's like: { "fr": "balba", "en": "azeadz" }
+            // }
+            "mapping": {
+                "none_almost_no_households": {
+                    "value": 1,
+                    "label": {
+                        "fr": "Aucune"
+                    }
+                },
+                "few_households": {
+                    "value": 2,
+                    "label": {
+                        "fr": "Un peu"
+                    }
+                }
+                // etc.
+            }
         }
     }
-}
