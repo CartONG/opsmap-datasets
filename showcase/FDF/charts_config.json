@@ -189,7 +189,7 @@
                     }
                 }
             ],
-            "valueMapping":{
+            "valueMapping": {
                 "none_almost_no_households": 1,
                 "few_households": 2,
                 "half_of_households": 3,
