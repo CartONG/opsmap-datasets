@@ -138,6 +138,65 @@
                 }
             ]
         },
+        "bar#6": {
+            "type": "bar",
+            "direction": "vertical",
+            "barType": "single",
+            "yLabels": [
+                {
+                    "fr": "Matelas",
+                    "en": "Mattress"
+                },
+                {
+                    "fr": "Bidons d'eau",
+                    "en": "Water containers\buckets"
+                },
+                {
+                    "fr": "Articles de cuisine",
+                    "en": "Kitchen items"
+                },
+                {
+                    "fr": "Articles d'hygiène",
+                    "en": "Hygiene items"
+                },
+                {
+                    "fr": "Moustiquaires",
+                    "en": "Mosquito nets"
+                },
+                {
+                    "fr": "Lampes solaires",
+                    "en": "Solar lamps"
+                }
+            ],
+            "titleAxis": {
+                "x": {
+                    "fr": "Nombre",
+                    "en": "Number"
+                },
+                "y": {
+                    "fr": "Articles non alimentaires (NFI)",
+                    "en": "Non-Food Items (NFIs)"
+                }
+            },
+            "series": [
+                {
+                    "id": "nfi",
+                    "index": 0,
+                    "color": "#AD1D3F",
+                    "label": {
+                        "fr": "XXX",
+                        "en": "AAAA"
+                    }
+                }
+            ],
+            "valueMapping":{
+                "none_almost_no_households": 1,
+                "few_households": 2,
+                "half_of_households": 3,
+                "majority_of_households": 4,
+                "all_almost_all_households": 5
+            }
+        },
         "doughnut_chart#4": {
             "type": "doughnut"
         }
