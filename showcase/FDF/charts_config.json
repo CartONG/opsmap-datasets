@@ -189,41 +189,41 @@
                     }
                 }
             ],
-            "valueMapping": [
-                {
+            "mapping": {
+                "none_almost_no_households": {
+                    "value": 1,
                     "label": {
-                        "fr": "none_almost_no_households"
-                    },
-                    "value": 1
+                        "fr": "none_almost_no_householdsFR"
+                    }
                 },
-                {
+                "few_households": {
+                    "value": 2,
                     "label": {
-                        "fr": "few_households"
-                    },
-                    "value": 2
+                        "fr": "few_householdsFR"
+                    }
                 },
-                {
+                "half_of_households": {
+                    "value": 3,
                     "label": {
-                        "fr": "half_of_households"
-                    },
-                    "value": 3
+                        "fr": "half_of_householdsFR"
+                    }
                 },
-                {
+                "majority_of_households": {
+                    "value": 4,
                     "label": {
-                        "fr": "majority_of_households"
-                    },
-                    "value": 4
+                        "fr": "majority_of_householdsFR"
+                    }
                 },
-                {
+                "all_almost_all_households": {
+                    "value": 5,
                     "label": {
-                        "fr": "all_almost_all_households"
-                    },
-                    "value": 5
+                        "fr": "all_almost_all_householdsFR"
+                    }
                 }
-            ]
+            }
+        },
+        "doughnut_chart#4": {
+            "type": "doughnut"
         }
-    },
-    "doughnut_chart#4": {
-        "type": "doughnut"
     }
 }
