@@ -3,23 +3,24 @@
         "yesno": {
             "type": "key_value",
             "values": {
-                "Yes": "green",
-                "No": "red"
+                "Oui": "green",
+                "Non": "red"
             }
         },
         "noyes": {
             "type": "key_value",
             "values": {
-                "Yes": "red",
-                "No": "green"
+                "Oui": "red",
+                "Non": "green"
             }
         },
         "niveaucongestionsite": {
             "type": "math",
             "values": {
-                "x>30": "green",
-                "x>15 and x<=30": "orange",
-                "x<=15": "red"
+                "x>30": "red",
+                "x>20 and x<=30": "orange",
+                "x>15 and x<=20": "yellow",
+                "x<=15": "green"
             }
         },
         "TotallatrineVsIndividu": {
