@@ -1,7 +1,7 @@
 ﻿{
     "trafficLights": {
         "yesno": {
-            "type": "math",
+            "type": "key_value",
             "values": {
                 "Yes": "green",
                 "No": "red"
