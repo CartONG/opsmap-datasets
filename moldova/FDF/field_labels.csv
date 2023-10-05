@@ -13,10 +13,10 @@ How_many_are_children_2_18_years_old;How many are children 2 - 18 years old?;Câ
 demo_elderly;How many are elderly (65+) ?;Cîte persoane sunt în vîrsta(65+)?
 vuln_groups_plw;How many pregnant and breastfeeding women?;Femei însărcinate și care alăptează
 vuln_groups_solo_child;How many unaccompanied children are there?;Cîți copii neînsoțiți aveți?
-vuln_groups_disability;How many people with disabilities?;Persoane cu dizabilități
+vuln_groups_bf;Are there breastfeeding women?;Există femei care alăptează?
 vuln_groups_medical_condition;How many people with serious medical conditions?;Condiții medicale grave
 vuln_groups_protection_need;How many people with specific needs for legal and physical protection?;Persoane cu nevoi specifice de protecție juridică și fizică
-vuln_groups_bf;Are there breastfeeding women?;Există femei care alăptează?
+vuln_groups_disability;How many people with disabilities?;Persoane cu dizabilități
 Do_children_hosted_i_o_education_services;Do children hosted in the centre have access to education services?;Copiii găzduiți în centru au acces la servicii educaționale?
 center_need_food;Does this center need food products?;Acest centru are nevoie de produse alimentare?
 center_need_cooking;Does this center need cooking and eating utensils?;Acest centru are nevoie de ustensile de gătit și de mîncat?
