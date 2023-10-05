@@ -3,15 +3,15 @@
         "yesno": {
             "type": "key_value",
             "values": {
-                "yes": "green",
-                "no": "red"
+                "Yes": "green",
+                "No": "red"
             }
         },
         "noyes": {
             "type": "key_value",
             "values": {
-                "yes": "red",
-                "no": "green"
+                "Yes": "red",
+                "No": "green"
             }
         },
         "lowurgent": {
