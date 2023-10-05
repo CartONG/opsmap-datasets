@@ -2,8 +2,6 @@
     "charts": {
         "age_pyramid#1": {
             "type": "bar",
-            "direction": "horizontal",
-            "barType": "duo",
             "yLabels": [
                 {
                     "en": "80+",
