@@ -9,10 +9,10 @@ child_0_2_number;integer;group_demo;;;
 child_2_6_number;integer;group_demo;;;
 child_7_11_number;integer;group_demo;;;
 child_12_18_number;integer;group_demo;;;
-child_12_18_number;integer;group_demo;;age_pyramid#1;g
-child_7_11_number;integer;group_demo;;age_pyramid#1;g
-child_2_6_number;integer;group_demo;;age_pyramid#1;g
-child_0_2_number;integer;group_demo;;age_pyramid#1;g
+child_12_18_number;integer;group_demo;;age_pyramid#2;g
+child_7_11_number;integer;group_demo;;age_pyramid#2;g
+child_2_6_number;integer;group_demo;;age_pyramid#2;g
+child_0_2_number;integer;group_demo;;age_pyramid#2;g
 how_many_are_children_2_18_years_old;integer;group_demo;;;
 demo_elderly;integer;group_demo;;;
 vuln_groups_plw;integer;group_demo;;;
