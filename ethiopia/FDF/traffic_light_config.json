@@ -14,13 +14,12 @@
                 "No": "green"
             }
         },
-        "boolean_plus_traffic": {
+        "status_site_t": {
             "type": "key_value",
             "values": {
-                "Yes": "green",
-                "No": "red",
-                "Partially": "orange",
-                "Not applicable": "green"
+                "Open": "green",
+                "Unknown": "orange",
+                "Close": "red"
             }
         }
     }
