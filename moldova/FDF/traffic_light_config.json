@@ -14,13 +14,12 @@
                 "No": "green"
             }
         },
-        "boolean_plus_traffic": {
+        "y_n_ns": {
             "type": "key_value",
             "values": {
-                "Yes": "green",
-                "No": "red",
-                "Partially": "orange",
-                "Not applicable": "green"
+                "yes": "green",
+                "no": "red",
+                "not sure": "yellow"
             }
         }
     }
