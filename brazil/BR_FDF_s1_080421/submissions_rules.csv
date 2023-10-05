@@ -104,7 +104,7 @@ envrn_hlth_issues_pollution;list;group_environment;noyes;;;;
 envrn_hlth_issues_sntry_vector-borne_dseas;list;group_environment;noyes;;;;
 intersn_num_indv_leaving_intrisatn;integer;group_interiorisation;;;;;
 intersn_intrisatn_modalities;string;group_interiorisation;;;;;
-intersn_destn_federal_units;;;;;;;
+intersn_destn_federal_units;string;;;;;;
 intersn_num_sesss_intrisatn;integer;group_interiorisation;;;;;
 intersn_num_ongoing_intrisatn_process;integer;group_interiorisation;;;;;
 educ_num_trains_wrkshp_year;integer;group_education;;;;;
