@@ -30,7 +30,6 @@ center_need_cleaning;list;group_wash;y_n_ns;;
 center_need_baby_children;list;group_nutrition;y_n_ns;;
 center_need_clothes;list;group_nonfood;y_n_ns;;
 center_need_firstaid;list;group_health;y_n_ns;;
-center_need_older_pwd;list;group_vulpop;y_n_ns;;
 center_need_appliances;list;group_nonfood;y_n_ns;;
 center_need_education;list;group_education;y_n_ns;;
 meals_offered;list;group_fs;yesno;;
