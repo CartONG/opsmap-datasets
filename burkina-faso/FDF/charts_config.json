@@ -2,6 +2,8 @@
     "charts": {
         "age_pyramid#1": {
             "type": "bar",
+            "direction": "horizontal",
+            "barType": "duo",
             "yLabels": [
                 {
                     "en": "60+",
@@ -22,6 +24,24 @@
                 {
                     "en": "0-4",
                     "fr": "0-4"
+                }
+            ],
+            "titleAxis": {
+                "x": "charts.titleX",
+                "y": "charts.titleY"
+            },
+            "series": [
+                {
+                    "id": "m",
+                    "index": 0,
+                    "color": "#6FC5BC",
+                    "label": "charts.male"
+                },
+                {
+                    "id": "f",
+                    "index": 1,
+                    "color": "#1B657C",
+                    "label": "charts.female"
                 }
             ]
         },
