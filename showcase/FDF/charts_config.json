@@ -128,7 +128,7 @@
             },
             "series": [
                 {
-                    "id": "nfi",
+                    "id": "nfi_int",
                     "index": 0,
                     "color": "#AD1D3F",
                     "label": {
