@@ -27,16 +27,16 @@ mgp;string;group_cccm;yesno;;
 renCoordination;string;group_cccm;;;
 FamillPopulation;integer;group_demo;;;
 IndividlPopulation;integer;group_demo;;;
-HH0_4;integer;group_demo;;age_pyramid#1;m
-Femm0_4;integer;group_demo;;age_pyramid#1;f
-HH5_17;integer;group_demo;;age_pyramid#1;m
-Femm5_17;integer;group_demo;;age_pyramid#1;f
-HH5_35;integer;group_demo;;age_pyramid#1;m
-Femm5_35;integer;group_demo;;age_pyramid#1;f
-HH5_59;integer;group_demo;;age_pyramid#1;m
-Femm5_59;integer;group_demo;;age_pyramid#1;f
 HH5_60;integer;group_demo;;age_pyramid#1;m
+HH5_59;integer;group_demo;;age_pyramid#1;m
+HH5_35;integer;group_demo;;age_pyramid#1;m
+HH5_17;integer;group_demo;;age_pyramid#1;m
+HH0_4;integer;group_demo;;age_pyramid#1;m
 Femm5_60;integer;group_demo;;age_pyramid#1;f
+Femm5_59;integer;group_demo;;age_pyramid#1;f
+Femm5_35;integer;group_demo;;age_pyramid#1;f
+Femm5_17;integer;group_demo;;age_pyramid#1;f
+Femm0_4;integer;group_demo;;age_pyramid#1;f
 arriv;integer;group_demo;;;
 arriv;integer;group_demo;;;
 Enfnonaccp;integer;group_vulpop;;doughnut_chart#2;Enf#Enfant non accompagne
