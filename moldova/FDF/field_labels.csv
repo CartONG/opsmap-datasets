@@ -16,10 +16,7 @@ vuln_groups_solo_child;How many unaccompanied children are there?;Cîți copii n
 vuln_groups_disability;How many people with disabilities?;Persoane cu dizabilități
 vuln_groups_medical_condition;How many people with serious medical conditions?;Condiții medicale grave
 vuln_groups_protection_need;How many people with specific needs for legal and physical protection?;Persoane cu nevoi specifice de protecție juridică și fizică
-disability_mobility_number;How many have difficulty with mobility?;Câte persoane au dificultăți de mobilitate?
-disability_seeing_number;How many people have difficulty with seeing, even if wearing glasses?;Câte persoane au dificultăți de vedere, chiar dacă poartă ochelari?
-disability_hearing_number;How many people have difficulty hearing, even if using a hearing aid?;Câte persoane au dificultăți de auz, chiar dacă folosesc un aparat auditiv?
-disability_learning_number;How many people have learning difficulties, such as understanding or being understood?;Câte persoane au dificultăți de învățare, cum ar fi să înțeleagă sau să fie înțelese?
+vuln_groups_bf;Are there breastfeeding women?;Există femei care alăptează?
 Do_children_hosted_i_o_education_services;Do children hosted in the centre have access to education services?;Copiii găzduiți în centru au acces la servicii educaționale?
 center_need_food;Does this center need food products?;Acest centru are nevoie de produse alimentare?
 center_need_cooking;Does this center need cooking and eating utensils?;Acest centru are nevoie de ustensile de gătit și de mîncat?
@@ -29,7 +26,6 @@ center_need_cleaning;Does this center need cleaning items?;Acest Centru are nevo
 center_need_baby_children;Does this center need baby and children products?;Acest Centru are nevoie de produse pentru sugari si copii mici (intre 0 la 3 ani)?
 center_need_clothes;Does this center need clothes for children and adults?;Are nevoie acest Centru de articole vestimentare pentru copii și adulți?
 center_need_firstaid;Does this center need first aid supplies?;Acest Centru are nevoie de articole de prim ajutor?
-center_need_older_pwd;Does this Centre need supplies for people of age and people with disabilities?;Acest Centru are nevoie de articole de prim ajutor?
 center_need_appliances;Does this center need other appliances (Microwave, cooler, fridge, oven, speace heaters, boilers, washing machine, vacuum cleaner)?;Acest Centru are nevoie de electrocasnice (Microunde, frigider, cuptor,  încălzitoare, boilere, mașină de spălat, aspirator)
 center_need_education;Does this center need school supplies?;Acest centru are nevoie de rechizite școlare?
 meals_offered;Are people hosted in the centre offered catered hot meals?;Au perosanele gazduitei acces la catering (mese calde)?
