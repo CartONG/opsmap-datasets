@@ -1,180 +1,90 @@
 field_name;field_label_en;field_label_fr
-country;Country;Pays
-region;Region;Région
-dep;Department;Département
-city;City;Commune
-address;Address;Adresse
-adm2_pcode;PCode Admin 2 ;Admin 2 PCode
-site_pcode; Site PCode; PCode du site
-cccm_shelter_max_capacity;Shelter Max Capacity;Maximum de capacité du site
-cccm_site_at_full_capacity;Site at Full Capacity;Maximum de capacité du site atteinte
-cccm_possibility_expand_site;Possibility to Expand Site;Possibilité d'extension du site
-cccm_shelter_type;Shelter Type;Type de centre d'hébergement
-cccm_shelter_opened;Shelter Opened;Ouverture du centre d'hébergement
-cccm_shelter_admin;Shelter Administration;Administration du centre d'hébergement
-cccm_shelter_coordination;Shelter Coordination;Coordination des abris
-cccm_shelter__mangmt;Shelter Management;Gestion des abris
-cccm_num_of_staff;No. of Staff;Nombre d'employés
-cccm_num_of_RHUs;No. of RHUs;Nombre d'UHR
-cccm_avg_stay_in_shelter_months;Avg stay in shelter (months);Durée moyenne de séjour au foyer (mois)
-cccm_num_of_entries_in_last_month;No. of entries in last month;Nombre d'entrées au cours du mois dernier
-cccm_num_of_exits_in_last_month;No. of exits in last month;Nombre de sorties au cours du mois dernier
-demo_num_indv;No. of Individuals;Nombre d'individus
-demo_num_hh;No. of Families;Nombre de familles
-demo_allgender_0_4;Gender-neutral/inclusive (0 - 4);Non genré/inclusif (0 - 4)
-demo_allgender_5_11;Gender-neutral/inclusive (5 - 11);Non genré/inclusif (5 - 11)
-demo_allgender_12_17;Gender-neutral/inclusive (12 - 17);Non genré/inclusif (12 - 17)
-demo_allgender_18_59;Gender-neutral/inclusive (18 - 59);Non genré/inclusif (18 - 59)
-demo_allgender_60+;Gender-neutral/inclusive (60+);Non genré/inclusif (60+)
-demo_female_0_4;Females (0 - 4);Femmes (0 - 4)
-demo_female_5_11;Females (5 - 11);Femmes (5 - 11)
-demo_female_12_17;Females (12 - 17);Femmes (12 - 17)
-demo_female_18_59;Females (18 - 59);Femmes (18 - 59)
-demo_female_60+;Females (60+);Femmes (60+)
-demo_male_0_4;Males (0 - 4);Hommes (0 - 4)
-demo_male_5_11;Males (5 - 11);Hommes (5 - 11)
-demo_male_12_17;Males (12 - 17);Hommes (12 - 17)
-demo_male_18_59;Males (18 - 59);Hommes (18 - 59)
-demo_male_60+;Males (60+);Hommes (60+)
-demo_num_indigs;No. of Indigenous;Nombre d'indigènes
-demo_num_asy;No. of Asylum Seekers;Nombre de demandeurs d'asile
-demo_num_ref;No. of Refugees;Nombre de réfugiés
-demo_num_ooc;No. of Others of Concern;Nombre d'autres personnes concernées
-demo_num_temp_resd;No. of Temporary Resident;Nombre de résidents temporaires
-demo_num_undocud;No. of Undocumented;Nombre de sans-papiers
-scrity_24_hr_scrity;24 Hour Security ;Sécurité 24 heures sur 24 
-scrity_fire_prevn_plan;Fire Prevention Plan;Plan de prévention des incendies
-scrity_num_fire_extingrs;No. Fire Extinguishers;Nombre d'extincteurs
-scrity_dt_last_fire_fight_train;Date of Last Fire Fighting Training;Date de la dernière formation à la lutte contre l'incendie
-scrity_biometric_acss_ctrl;Biometric Access Control;Contrôle d'accès biométrique
-scrity_cctv_camera;CCTV - Security Cameras;CCTV - Caméras de sécurité
-scrity_num_working_cameras;No. Working Security Cameras;Nombre de caméras de sécurité en service
-scrity_type_extl_wall;Type of External Wall;Type de mur extérieur
-scrity_public_light;Public Lighting;Éclairage public
-scrity_blind_spot;Blind Spots;Points aveugles
-scrity_crit_scrity_incdts_last_month;Critical Security Incidents Last Month ;Incidents de sécurité critiques le mois dernier 
-wash_num_toilets;No. Toilets;Nombre de toilettes
-wash_num_bthrm;No. Bathrooms;Nombre de salles de bain
-wash_num_wtr_sources;No. Water Sources;Nombre de points d'eau
-wash_avg_wtr_avlbe;Average Water Available;Quantité d'eau disponible en moyenne
-envrn_envrntl_issues;Environmental Sensitivities and Critical Environmental Issues;Sensibilités environnementales et problèmes environnementaux critiques
-envrn_flood_prone_areas;Flood Prone Areas;Zones sujettes aux inondations
-envrn_active_veg_med_plant_gardens;Active Vegetable Gardens And / Or Medicinal Plant Gardens;Jardins potagers actifs et / ou jardins de plantes médicinales
-envrn_afforestn_progs;Afforestation Programmes;Programmes de reboisement
-envrn_rnwble_enrgy_gen_sln;Existing Decentralized Renewable Energy Generation Solution;Solution existante de production décentralisée d'énergie renouvelable
-envrn_prim_enrgy_srce_typ;Additional or Primary Energy Source and Type;Source d'énergie additionelle ou primaire et type
-envrn_active_envrntl_educ_progs;Active Environmental Education Programme;Programme d'éducation environnementale actif
-envrn_active_comnl_kitchen;Active Communal Kitchen;Cuisine collective active
-envrn_srce_fuel_cooking;Source of Fuel for Cooking;Source de combustible pour la cuisine
-envrn_active_assmt_wtr_quality;Active Assessment of Water Quality;Évaluation active de la qualité de l'eau
-envrn_wtr_quality;Water Quality;Qualité de l'eau
-envrn_wtr_quality_assmt_dt;Water Quality Assessment Date;Date de l'évaluation de la qualité de l'eau
-envrn_solid_wste_colln;Selective Solid Waste Collection in Place;Collecte sélective des déchets solides en place
-envrn_gnrl_sntry_hygiene_behavior;General Sanitary/Hygiene Behaviour;Comportement général en matière de santé et d'hygiène
-envrn_hlth_issues_pollution;Health Issues Associated with Pollution;Problèmes de santé liés à la pollution
-envrn_hlth_issues_sntry_vector-borne_dseas;Health Issues Associated with Sanitary Conditions (Vector-Borne Diseases);Problèmes de santé liés aux conditions sanitaires (maladies à transmission vectorielle)
-educ_num_trains_wrkshp_year;No. Trainings / Workshops Conducted Per Year;Nombre de formations/ateliers organisés par an
-educ_educ_provided_in_shelter;Education Provided in Shelter;Éducation dispensée dans les abris
-educ_num_chldrn_in_frml_schl;No. of Children in Formal School;Nombre d'enfants scolarisés
-educ_num_adolsct_in_frml_schl;No. of Adolescent in Formal School;Nombre d'adolescents dans des écoles traditionelles
-educ_portug_class_avlble;Portuguese Class Available ;Cours de portugais disponibles 
-educ_vocnl_course_avlbe;Vocational Course Available;Cours de formation professionnelle disponibles
-hlth_hlth_facilities;Health Facilities;Centres de santé
-hlth_identified_hlth_issues;Identified Health Issues;Problèmes de santé identifiés
-hlth_dseas_outbrk;Disease Outbreaks;Epidémies
-hlth_last_dseas_outbrk;Last Disease Outbreaks;Dernières épidémies
-hlth_dseas_outbrk_type;Disease Outbreaks Type;Type d'épidémies
-hlth_ongoing_mntorng_;Ongoing Monitoring ;Surveillance continue 
-hlth_num_indv_vaccinated;No. of Individuals Vaccinated;Nombre d'individus vaccinés
-hlth_area_isolation_dseas;Area of Isolation Disease ;Zone d'isolement maladie
-hlth_mental_hlth_provide;Basic Mental Health Service Provide in Shelter ;Service de santé mentale de base fourni dans le centre d'hébergement 
-water_quality_access;Drinking water available;Eau potable disponible
-site_name;Site name;Nom du site
-last_update;Last update;Date de mise à jour
-shelter_type;Shelter type;Type d'abris
-HebergementCapacite;Maximum capacity of the site (Ha);Capacité d'accueil maximale du site (Ha)
-FemaleHoHH;Female headed households (18-59 years old);Ménages dirigés par des femmes (18-59 ans)
-ChildHoHH;Child headed households (Below 18 years old);Ménages dirigés par des enfants (âgés de moins de 18 ans)
-PhysicalDisability;Persons with permanent physical disabilities;Personnes souffrant de handicaps physiques permanents
-SpecialNeeds;Persons with mental health disabilities;Personnes souffrant d'un handicap mental
-SingleElderly;Single elderly households (above 60 years old);Ménages âgés isolés (plus de 60 ans)
-number_of_unacc;Number of unaccompanied children;Nombre d'enfants non accompagnés
-number_of_preglac_dis;Number of pregnant/lactating women;Nombre de femmes enceintes/allaitantes
-commu_partitioned;Households in communal/ collective shelters (partitioned);Ménages dans des abris collectifs/communautaires (cloisonnés)
-commu_unpartitioned;Households in collective/ communal shelters (unpartitioned);Ménages dans des abris collectifs (non cloisonnés)
-emerge_shel;Households  in emergency shelters;Ménages dans des abris d'urgence
-makeshi_localmaterial;Households in makeshift shelters built using local materials;Ménages dans des abris de fortune construits avec des matériaux locaux
-makeshi_blankets;Households in makeshift shelters built using blankets/ nets;Ménages dans des abris de fortune construits avec des couvertures/moustiquaires
-school_shel;Households in public facility- school;Ménages dans un établissement public - école
-health_shel;Households in public facility- health facility;Ménages dans un établissement public - établissement de santé
-other_shel;Households in public facility- other;Ménages dans un établissement public - autre
-transi_shel;Households in transitional shelters;Ménages dans des abris de transition
-ShowerTypes;Total number of showers;Nombre total de douches
-Nbdouche;Number of showers (TL= rate/population);Nombre de douches (TL= taux/population)
-nfi_distributed;Last time NFI were distributed;Dernière fois que des NFI ont été distribués
-litreEauPersonn;Water: Number of liters/person/day;Eau : Nombre de litres/personne/jour
-Sourceeau;Main source of drinking water for the SITE;Principale source d'eau potable pour le SITE
-eauqualite;Quality of main water source (Is it accessible?);Qualite de la principale source en eau (Elle -t-est accpetable?)
-Disponibilitesavon;Availability of soap for hand washing;Disponibilite de savon pour le lavage des mains
-Inondations;Floods that have damaged shelters and infrastructure (within the last 6 months);Inondations qui ont  les abris et les infrastructures endommage à la suite d'inondation  (au cours des 6 derniers mois )
-eliminationdechets;Primary method of waste disposal;Principale methode d'elimination des dechets
-latrines;Types of functional latrines;Types de latrines fonctionnelles
-NombreLatrines;Number of functional latrines (TL ratio %);Nombre de latrines fonctionnelles (TL ratio %)
-NombreLatrines2;Number of functional latrines (TL simple);Nombre de latrines fonctionnelles (TL simple)
-Typesdouche;Types of functional showers/baths;Types de douches/bains fonctionnels
-Nombredouches;Number of functional showers/baths (TL ratio);Nombre de douches/bains fonctionnels (TL ratio)
-douchesepare;Are showers separated between men and women?;Les douches sont-elles separees entre les hommes et les femmes?
-latrinevidance;Latrine Emptying;Vidanges des latrines
-latrinevidanceMois;Date of last emptying;Date de la dernière vidange
-LatrinesEclairage;lighting around latrines/showers at night;eclairage autour des latrines/douches la nuit
-problemeSante;Health problems encountered by SITE residents in the past 30 days;Problèmes de sante les residents du SITE ont-ils rencontres au cours des 30 derniers jours
-SoinSanteFonctionnel;Functional health care provider;Prestataire de soins de sante fonctionnel
-PresenceSite;Health care provider present inside the SITE ;Prestataire de soins de sante present à l'interieur du SITE 
-Distance;Distance to nearest health care facility (in km);Distance du poste de sante de le plus proche (en km)
-ServicesUrgences;Emergency services;Services d'urgence
-ServicesChirurgicaux;Surgical services;Services chirurgicaux
-ServicesPediatriq;Pediatric services;Services pediatriques
-PrenatalServices;Prenatal services;Services prenataux
-Ambulance;Presence of an ambulance;Presence d'une ambulance
-ProblemAccesSante;Main problems in accessing health care;Principaux problèmes pour acceder aux soins de sante
-Vaccination;Children under 5 years old do not have vaccines against polio and measles;Enfants de moins de 5 ans n'ont vaccines contre la polio et la rougeole
-TypeSupport;Types of psychosocial support services available to people in SITE, through government, humanitarian or private service providers;Types de services de soutien psychosocial disponibles pour les personnes du SITE, par le biais de prestataires de services gouvernementaux, humanitaires ou prives
-covidinfo;Information campaigns on COVID-19 (in the last 6 months);Campagnes d'information sur la COVID-19  (au cours des 6 derniers mois)
-covidprevention;Provisions for prevention of COVID-19;Dispositions de prevention contre la COVID-19
-Enfnonaccp;Unaccompanied children;Enfant non accompagne
-HandicapPhysiq;People with permanent physical disabilities;Personnes souffrant de handicaps physiques permanents
-Besoinsspeciaux;People with mental disabilities;Personnes souffrant d'un handicap mental
-Maladiechronique;People with chronic diseases;Personnes souffrant de maladies chroniques
-PersonnAgeeisol;Isolated elderly households (over 60 years old);Menages âges isoles (plus de 60 ans)
-water_quality_access;Drinking water available ?;Eau potable disponible ?
-site_id;Site ID;Identifiant du site
-shelter_need_repair;In need of repair/maintenance (for emergency shelter, transitional shelter, buildings);Besoin de réparation/entretien (pour les abris d'urgence, les abris provisoires, les bâtiments)
-shelter_need_replacement;In need of replacement (for emergency shelter, transitional shelter, makeshift shelter, tents);Besoin de remplacement (pour les abris d'urgence, les abris de transition, les abris de fortune, les tentes)
-shelter_need_reconstruction;In need of reconstruction (for public buildings, core housing/vacant building);Besoin de reconstruction (pour les bâtiments publics, les logements principaux/les bâtiments vacants)
-shelter_need_rehabilitation;In need of rehabilitation (for public buildings, core housing/vacant building);Besoin de réhabilitation (pour les bâtiments publics, les logements principaux et les bâtiments vacants)
-shelter_need_extension;In need of extensionr (overcrowded);Besoin d'extension (surpeuplement)
-shelter_need_new;In need of new shelter (new HHs);Besoin d'un nouvel abri (nouveaux ménages)
-blanket_int;#Blankets access;#Accès aux couvertures
-mattresses_int;#Mattress access;#Accès à des matelas
-water_containers_buckets_int;#Water containers \buckets access;#Accès à des bidons d'eau
-kitchen_items_int;#Kitchen items access;#Accès à des articles de cuisine
-hygiene_items_pct_int;#Hygiene items access;#Accès à des articles d'hygiène
-mosquito_nets_int;#Mosquito nets access;#Accès à des moustiquaires
-solar_lamps_int;#Solar lamps access;#Accès à des lampes solaires
-blanket;Blankets access;Accès aux couvertures
-mattresses;Mattress access;Accès à des matelas
-water_containers_buckets;Water containers \buckets access;Accès à des bidons d'eau
-kitchen_items;Kitchen items access;Accès à des articles de cuisine
-hygiene_items_pct;Hygiene items access;Accès à des articles d'hygiène
-mosquito_nets;Mosquito nets access;Accès à des moustiquaires
-solar_lamps;Solar lamps access;Accès à des lampes solaires
-lavage_main;Increase frequency of hand washing/use of sanitary gel;Augmenter la fréquence du lavage des mains/ utilisation de gel sanitaire
-distanciation;Increase physical distance from others;Augmenter la distanciation physique avec les autres
-masque;Cover your nose and mouth in public;Couvrir votre nez et votre bouche en public
-evite_transport;Avoid public transport;Éviter les transports publics
-evite_sortir;Avoid leaving home;Éviter de sortir de chez moi
-autres_precautions;Other precautions;Autres précautions
-bien_etre_social;Social well-being and social ties;Bien-être social et lien social
-pb_covid;Corona virus issues and concerns;Problèmes liés au corona virus et inquiétudes
-stigma_covid;Social stigma and discrimination;Stigmatisation sociale et discrimination
-bien_etre_psy;Psychological well-being;Bien-être psychologique
+site_id;ID;ID
+adm1_pcode;adm1 pcode;adm1 pcode
+adm2_pcode;adm2 pcode;adm2 pcode
+latitude;Latitude;Latitude
+longitude;Longitude;Longitude
+General_Site_Type;General Site type;Généralités Type de site
+Date_of_the_Monitoring_Visit;Date of visit;Date de la visite
+Province_of_the_monitored_location;Province;Province
+Municipality_of_monitored_location;Municipality;Municipalité
+Site_Location;Site Location;Emplacement du site
+Other_Location;Other Location;Autre emplacement
+site_name;Name of the Site;Nom du site
+Type_of_the_Site;Type of the Site;Type de site
+Sites_location_coordinates;Sites location coordinates;Coordonnées de l'emplacement du site
+Sites_location_coordinates_altitude;Sites location coordinates_altitude;Coordonnées de l'emplacement du site_altitude
+Sites_location_coordinates_precision;Sites location coordinates_precision;Coordonnées de l'emplacement du site_précision
+Address_of_the_Site;Address of the Site;Adresse du site
+Hotline_or_Contact_Number_of_the_Site;Hotline or Contact Number of the Site;Numéro d'urgence ou de contact du site
+Other_Type_of_the_Site;Other Type of the Site;Autre type de site
+Does_Site_works_24_7;Does Site works 24/7?;Le site fonctionne-t-il 24 heures sur 24 et 7 jours sur 7 ?
+Select_working_days;Working days;Jours ouvrables
+Indicate_sites_working_Hours;Indicate sites working Hours;Indiquer les heures de travail du site
+Sites_Capacity;Sites Capacity;Capacité des sites
+Sites_managed_by;Sites managed by;Sites gérés par
+Name_of_the_Managing_Organisation;Name of the Managing Organisation;Nom de l'organisation gestionnaire
+Are_the_volunteers_engaged;Are the volunteers engaged?;Les volontaires sont-ils engagés ?
+Select_the_sectors_of_volunteers_engagement;Sector(s) of volunteers' engagement;Secteur(s) d'engagement des volontaires
+Number_of_volunteers_mobilised;Number of volunteers mobilised;Nombre de volontaires mobilisés
+Who_is_managing_volunteers;Who is managing volunteers?;Qui gère les volontaires ?
+Are_there_interpreters_engaged;Are there interpreters engaged?;Des interprètes sont-ils engagés ?
+Number_of_interpreters_engaged;Number of interpreters engaged?;Nombre d'interprètes engagés ?
+Are_procedures_for_identificaiton_and_referral_of_Unaccompanied_and_Separated_Children_in_place;Are procedures for identificaiton and referral of Unaccompanied and Separated Children in place?;Des procédures d'identification et d'orientation des enfants non accompagnés et séparés ont-elles été mises en place ?
+Organizations_involved_in_identification_and_referral_of_UASCs;Organization(s) involved in identification and referral of UASCs;Organisation(s) impliquée(s) dans l'identification et l'orientation des UASC
+Are_family_tracing_services_available_at_the_site;Are family tracing services available at the site?;Des services de recherche des familles sont-ils disponibles sur le site ?
+Organization_providing_family_tracing_services;Organization providing family tracing services;Organisation fournissant des services de recherche des familles
+Is_Child_friendly_space_is_available_at_the_Site;Is Child-friendly space is available at the Site?;Un espace adapté aux enfants est-il disponible sur le site ?
+Is_there_specific_organization_managing_the_Child_friendly_space_If_yes_name_of_organization;Is there specific organization managing the Child-friendly space? If yes;Y a-t-il une organisation spécifique qui gère l'espace ami des enfants ? Si oui
+Number_of_staff_volunteers_working_in_the_Child_friendly_space;Number of staff/volunteers working in the Child-friendly space?;Nombre d'employés/bénévoles travaillant dans l'espace ami des enfants ?
+Is_there_registration_for_Temporary_Protection_conducted;Is there registration for Temporary Protection conducted?;L'enregistrement au titre de la protection temporaire a-t-il été effectué ?
+Number_of_staff_conducting_registration_under_TP;Number of staff conducting registration under TP;Nombre d'employés chargés de l'enregistrement dans le cadre de la protection temporaire
+Average_registration_time_processing_per_person;Average registration time processing per person;Temps moyen de traitement de l'enregistrement par personne
+TP_ID_card_is_issued_on_the_same_day_after_the_registration;TP ID card is issued on the same day after the registration;La carte d'identité TP est délivrée le jour même de l'enregistrement.
+Is_registration_for_internaitonal_protection_humanitarian_status_conducted;Is registration for internaitonal protection/humanitarian status conducted?;L'enregistrement pour la protection internationale/le statut humanitaire est-il effectué ?
+Number_of_SAR_staff_engaged;Number of SAR staff engaged?;Nombre de membres du personnel SAR engagés ?
+Is_accomodation_for_short_rest_overnight_available_within_the_Site;Is accomodation for short rest/overnight available within the Site?;Un hébergement pour un court repos/une nuit est-il disponible sur le site ?
+is_privacy_ensured_at_the_bedroom_area;is privacy ensured at the bedroom area?;L'intimité est-elle assurée dans la chambre à coucher ?
+Number_of_beds_available;Number of beds available;Nombre de lits disponibles
+Are_security_measures_in_place_in_the_Site;Are security measures in place in the Site?;Des mesures de sécurité sont-elles en place dans le site ?
+Is_there_check_in_system_in_place;Is there check-in system in place?;Un système d'enregistrement est-il en place ?
+Are_rooms_other_space_allocated_for_private_counseling;Are rooms/other space allocated for private counseling?;Des chambres/autres espaces sont-ils prévus pour les consultations privées ?
+Is_free_internet_available_in_the_Site;Is free internet available in the Site;L'internet est-il disponible gratuitement sur le site ?
+Are_there_recreational_activities_organized_in_the_Site;Are there recreational activities organized in the Site?;Des activités récréatives sont-elles organisées sur le site ?
+Organizations_providing_recreational_activities;Organization(s) providing recreational activities;Organisation(s) proposant des activités récréatives
+Describe_the_types_of_recreational_activities;Describe the types of recreational activities;Décrire les types d'activités récréatives
+Sanitation_Facilities_in_place;Sanitation Facilities in place;Installations sanitaires en place
+Are_hygiene_kits_distributed;Are hygiene kits distributed?;Des kits d'hygiène sont-ils distribués ?
+Specific_hygiene_kits_are_available_and_accessible_for_women_and_children;Specific hygiene kits are available and accessible for women and children?;Des kits d'hygiène spécifiques sont-ils disponibles et accessibles pour les femmes et les enfants ?
+List_describe_the_items_included_in_the_hygienic_kit_including_specific;Items included in the hygienic kit (including specific);Articles inclus dans le kit d'hygiène (y compris les articles spécifiques)
+Organizations_distributing_hygienic_kits;Organization(s) distributing hygienic kits;Organisation(s) distribuant les kits hygiéniques
+Is_food_distributed_in_the_Site;Is food distributed in the Site?;De la nourriture est-elle distribuée dans le site ?
+Organization_distributing_food;Organization distributing food;Organisation distribuant la nourriture
+Are_medical_services_available_in_the_Site;Are medical services available in the Site?;Des services médicaux sont-ils disponibles dans le site ?
+Organization_providing_medical_services;Organization providing medical services;Organisation fournissant des services médicaux
+Type_of_medical_services;Type of medical services;Type de services médicaux
+is_mental_health_and_psychosocial_support_MHPS_available_at_the_Site;is mental health and psychosocial support (MHPS) available at the Site?;La santé mentale et le soutien psychosocial sont-ils disponibles sur le site ?
+Organization_providing_MHPS_services;Organization providing MHPS services;Organisation fournissant des services de santé mentale et de soutien psychosocial
+Is_a_Mother_and_baby_area_available_at_the_Site;Is a Mother-and-baby area available at the Site?;Le site dispose-t-il d'un espace pour les mères et les bébés ?
+Select_types_of_information_provided_in_the_Site;Type(s) of information provided in the Site;Type(s) d'informations fournies sur le site
+Organizations_providing_information_on_accomodation;Organization(s) providing information on accomodation;Organisation(s) fournissant des informations sur l'hébergement
+Organizations_providing_information_on_Child_Services;Organization(s) providing information on Child Services;Organisation(s) fournissant des informations sur les services à l'enfance
+Organizations_providing_information_on_Entry_Exit_requirements;Organization(s) providing information on Entry/Exit requirements;Organisation(s) fournissant des informations sur les conditions d'entrée/sortie
+Organizations_providing_information_on_International_Protection_and_Humanitarian_Status;Organization(s) providing information on International Protection and Humanitarian Status;Organisation(s) fournissant des informations sur la protection internationale et le statut humanitaire
+Organizations_providing_information_on_Risks_of_Sexual_Exploitation_and_Trafficking;Organization(s) providing information on Risks of Sexual Exploitation and Trafficking;Organisation(s) fournissant des informations sur les risques d'exploitation sexuelle et de traite des êtres humains
+Organizations_providing_information_on_Services_Available;Organization(s) providing information on Services Available;Organisation(s) fournissant des informations sur les services disponibles
+Organizations_providing_information_on_Temporary_Protection;Organization(s) providing information on Temporary Protection;Organisation(s) fournissant des informations sur la protection temporaire
+Organizations_providing_information_on_Transport_including_for_people_in_transit;Organization(s) providing information on Transport including for people in transit;Organisation(s) fournissant des informations sur le transport
+Legal_counselling_and_assistance_is_available_in_the_Site;Legal counselling and assistance is available in the Site?;Des conseils et une assistance juridiques sont-ils disponibles sur le site ?
+Organizations_providing_legal_assistance;Organization(s) providing legal assistance;Organisation(s) fournissant une assistance juridique
+Type_of_staff_providing_legal_assistance;Type of staff providing legal assistance;Type de personnel fournissant une assistance juridique
+Number_of_staff_providing_legal_information_assistance;Number of staff providing legal information/assistance;Nombre de personnes fournissant des informations/une assistance juridique
+Are_referrals_for_accommodation_provision_established_in_the_Site;Are referrals for accommodation provision established in the Site?;Le site dispose-t-il d'un système d'orientation pour l'hébergement ?
+Organization_making_referrals_for_accomodation;Organization making referrals for accomodation;Organisation qui oriente les personnes vers un hébergement
+Are_services_for_persons_in_transit_available;Are services for persons in transit available?;Des services sont-ils disponibles pour les personnes en transit ?
+Organization_providing_assistance_to_people_in_tranzit;Organization providing assistance to people in tranzit;Organisation fournissant une assistance aux personnes en transit
+Is_humanitarian_assistance_provided_at_the_Entry_Point_or_Registration_Hub;Is humanitarian assistance provided at the Entry Point or Registration Hub?;L'assistance humanitaire est-elle fournie au point d'entrée ou au centre d'enregistrement ?
+Are_non_food_items_NFIs_distributed_in_the_Site;Are non-food items (NFIs) distributed in the Site?;Des articles non alimentaires (NFI) sont-ils distribués dans le site ?
+Organizaitons_distributing_NFIs;Organizaiton(s) distributing NFIs;Organisation(s) distribuant des NFIs
+List_the_NFI_items_distributed;NFI items distributed;Articles non alimentaires distribués
+COVID_19_Measures_in_place;COVID-19 Measures in place;COVID-19 Mesures en place
