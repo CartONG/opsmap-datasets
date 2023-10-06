@@ -38,31 +38,42 @@
             "barType": "duo",
             // direction (Optional): can be "horizontal" | "vertical". By that udnerstgand the direction of the x axis (default: "vertical")
             "direction": "vertical",
-            // "yLabels" (Mandatory): labels for the axis that represents the value. Its an array of TKLabel example: [{ "fr": "balba", "en": "azeadz" }]
-            "yLabels": [
-                {
-                    "fr": "60+"
+            "axis": {
+                "x": {
+                    // "title" (mandatory)): two values, x and y: title of the axis. It can be a string or a TKLabel
+                    "title": "charts.titleX",
+                    // min, max, interval (Optional): management of the min max interval
+                    "min": -100,
+                    "max": 100,
+                    "interval": 50
                 },
-                {
-                    "fr": "18-59"
-                },
-                {
-                    "fr": "12-17"
-                },
-                {
-                    "fr": "5-11"
-                },
-                {
-                    "fr": "0-4"
+                "y": {
+                    // "title" (mandatory)): two values, x and y: title of the axis. It can be a string or a TKLabel
+                    "title": "charts.titleY",
+                    // (Mandatory): labels for the axis that represents the value. Its an array of TKLabel example: [
+                    //     {
+                    //         "fr": "balba",
+                    //         "en": "azeadz"
+                    //     }
+                    // ]
+                    "labels": [
+                        {
+                            "fr": "60+"
+                        },
+                        {
+                            "fr": "18-59"
+                        },
+                        {
+                            "fr": "12-17"
+                        },
+                        {
+                            "fr": "5-11"
+                        },
+                        {
+                            "fr": "0-4"
+                        }
+                    ]
                 }
-            ],
-            // "titleAxis" (Optional): two values, x and y: title of the axis. It can be a string or a TKLabel
-            //      string: entry in the locale json file 
-            //      TKLabel, like { "fr": "balba", "en": "azeadz" }
-            // (default: "titleAxis": { "x": "charts.titleX", "y": "charts.titleY"} )
-            "titleAxis": {
-                "x": "charts.titleX",
-                "y": "charts.titleY"
             },
             // "series" (Optional): series represented in the chart. It has to match the series as described in the submissions rules. And the type of chart. 
             // chart single --> only one serie
