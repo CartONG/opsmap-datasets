@@ -5,7 +5,11 @@
             "direction": "horizontal",
             "barType": "duo",
             "axis": {
+                "x": {
+                    "title": "charts.titleX"
+                },
                 "y": {
+                    "title": "charts.titleY",
                     "labels": [
                         {
                             "en": "80+",
