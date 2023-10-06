@@ -4,32 +4,40 @@
             "type": "bar",
             "direction": "horizontal",
             "barType": "single",
-            "yLabels": [
-                {
-                    "en": "(12 - 18)",
-                    "ro": "(12 - 18)"
-                },
-                {
-                    "en": "(7 - 11)",
-                    "ro": "(7 - 11)"
-                },
-                {
-                    "en": "(2 - 6)",
-                    "ro": "(2 - 6)"
-                },
-                {
-                    "en": "(0 - 2)",
-                    "ro": "(0 - 2)"
-                }
-            ],
-            "titleAxis": {
+            "axis": {
                 "x": {
-                    "fr": "# personne",
-                    "en": "# people"
+                    "title": {
+                        "fr": "# personne",
+                        "en": "# people"
+                    }
                 },
                 "y": {
-                    "fr": "Interval d'âge",
-                    "en": "Age range"
+                    "title": {
+                        "fr": "Interval d'âge",
+                        "en": "Age range"
+                    },
+                    "labels": [
+                        {
+                            "fr": "60+",
+                            "en": "60+"
+                        },
+                        {
+                            "fr": "18-59",
+                            "en": "18-59"
+                        },
+                        {
+                            "fr": "15-17",
+                            "en": "15-17"
+                        },
+                        {
+                            "fr": "5-14",
+                            "en": "5-14"
+                        },
+                        {
+                            "fr": "0-4",
+                            "en": "0-4"
+                        }
+                    ]
                 }
             },
             "series": [

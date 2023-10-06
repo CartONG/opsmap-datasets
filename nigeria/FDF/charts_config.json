@@ -8,23 +8,31 @@
         },
         "age_pyramid#1": {
             "type": "bar",
-            "yLabels": [
-                {
-                    "en": "0-5 years"
+            "axis": {
+                "x": {
+                    "title": "charts.titleX"
                 },
-                {
-                    "en": "6-17 year"
-                },
-                {
-                    "en": "18-35 years"
-                },
-                {
-                    "en": "36-59 years"
-                },
-                {
-                    "en": "60 or older"
+                "y": {
+                    "title": "charts.titleY",
+                    "labels": [
+                        {
+                            "en": "0-5 years"
+                        },
+                        {
+                            "en": "6-17 year"
+                        },
+                        {
+                            "en": "18-35 years"
+                        },
+                        {
+                            "en": "36-59 years"
+                        },
+                        {
+                            "en": "60 or older"
+                        }
+                    ]
                 }
-            ]
+            }
         }
     }
 }

@@ -4,19 +4,23 @@
             "type": "bar",
             "direction": "horizontal",
             "barType": "duo",
-            "yLabels": [
-                {
-                    "ro": "18-64",
-                    "en": "18-64"
+            "axis": {
+                "x": {
+                    "title": "charts.titleX"
                 },
-                {
-                    "ro": "0-17",
-                    "en": "0-17"
+                "y": {
+                    "title": "charts.titleY",
+                    "labels": [
+                        {
+                            "ro": "18-64",
+                            "en": "18-64"
+                        },
+                        {
+                            "ro": "0-17",
+                            "en": "0-17"
+                        }
+                    ]
                 }
-            ],
-            "titleAxis": {
-                "x": "charts.titleX",
-                "y": "charts.titleY"
             },
             "series": [
                 {
@@ -33,5 +37,5 @@
                 }
             ]
         }
-        }
+    }
 }

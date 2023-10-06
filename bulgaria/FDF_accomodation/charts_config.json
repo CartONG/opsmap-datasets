@@ -4,31 +4,35 @@
             "type": "bar",
             "direction": "horizontal",
             "barType": "duo",
-            "yLabels": [
-                {
-                    "en": "60+",
-                    "bg": "60+",
-                    "ru": "60+"
+            "axis": {
+                "x": {
+                    "title": "charts.titleX"
                 },
-                {
-                    "en": "18-59",
-                    "bg": "18-59",
-                    "ru": "18-59"
-                },
-                {
-                    "en": "5-17",
-                    "bg": "5-17",
-                    "ru": "5-17"
-                },
-                {
-                    "en": "0-4",
-                    "bg": "0-4",
-                    "ru": "0-4"
+                "y": {
+                    "title": "charts.titleY",
+                    "labels": [
+                        {
+                            "en": "60+",
+                            "bg": "60+",
+                            "ru": "60+"
+                        },
+                        {
+                            "en": "18-59",
+                            "bg": "18-59",
+                            "ru": "18-59"
+                        },
+                        {
+                            "en": "5-17",
+                            "bg": "5-17",
+                            "ru": "5-17"
+                        },
+                        {
+                            "en": "0-4",
+                            "bg": "0-4",
+                            "ru": "0-4"
+                        }
+                    ]
                 }
-            ],
-            "titleAxis": {
-                "x": "charts.titleX",
-                "y": "charts.titleY"
             },
             "series": [
                 {
