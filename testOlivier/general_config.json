@@ -221,6 +221,5 @@
         "pdfColumnCount": 3,
         "showDemoBanner": false,
         "exportAsCSVonHomePage": true,
-        "mapLegendDisplayStyle": "hidden"
     }
 }
