@@ -220,6 +220,7 @@
         "showCCCMLogo": false,
         "pdfColumnCount": 3,
         "showDemoBanner": false,
-        "exportAsCSVonHomePage": true
+        "exportAsCSVonHomePage": true,
+        "mapLegendDisplayStyle": "folded"
     }
 }
