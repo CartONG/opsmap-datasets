@@ -9,6 +9,10 @@ child_0_2_number;integer;group_demo;;;
 child_2_6_number;integer;group_demo;;;
 child_7_11_number;integer;group_demo;;;
 child_12_18_number;integer;group_demo;;;
+child_12_18_number;integer;group_demo;;age_pyramid#2;g
+child_7_11_number;integer;group_demo;;age_pyramid#2;g
+child_2_6_number;integer;group_demo;;age_pyramid#2;g
+child_0_2_number;integer;group_demo;;age_pyramid#2;g
 how_many_are_children_2_18_years_old;integer;group_demo;;;
 demo_elderly;integer;group_demo;;;
 vuln_groups_plw;integer;group_demo;;;
@@ -26,7 +30,6 @@ center_need_cleaning;list;group_wash;y_n_ns;;
 center_need_baby_children;list;group_nutrition;y_n_ns;;
 center_need_clothes;list;group_nonfood;y_n_ns;;
 center_need_firstaid;list;group_health;y_n_ns;;
-center_need_older_pwd;list;group_vulpop;y_n_ns;;
 center_need_appliances;list;group_nonfood;y_n_ns;;
 center_need_education;list;group_education;y_n_ns;;
 meals_offered;list;group_fs;yesno;;

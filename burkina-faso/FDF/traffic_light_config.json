@@ -1,0 +1,41 @@
+﻿{
+    "trafficLights": {
+        "yesno": {
+            "type": "key_value",
+            "values": {
+                "Oui": "green",
+                "Non": "red"
+            }
+        },
+        "noyes": {
+            "type": "key_value",
+            "values": {
+                "Oui": "red",
+                "Non": "green"
+            }
+        },
+        "niveaucongestionsite": {
+            "type": "math",
+            "values": {
+                "x>30": "red",
+                "x>20 and x<=30": "orange",
+                "x>15 and x<=20": "yellow",
+                "x<=15": "green"
+            }
+        },
+        "TotallatrineVsIndividu": {
+            "type": "math",
+            "values": {
+                "x<=50": "green",
+                "x>50": "red"
+            }
+        },
+        "TotaldoucheVsIndividu": {
+            "type": "math",
+            "values": {
+                "x<=50": "green",
+                "x>50": "red"
+            }
+        }
+    }
+}

@@ -27,12 +27,12 @@ cccm_committees.dnk;integer;group_cccm;;;;Y
 cccm_committees.other;integer;group_cccm;;;;Y
 decision_making_committees;bullet;group_cccm;;;;Y
 children_under_5;integer;group_demo;;;;Y
-boys_5-12;integer;group_demo;;age_pyramid#1;m;Y
-girls_5-12;integer;group_demo;;age_pyramid#1;f;Y
-boys_12-18;integer;group_demo;;age_pyramid#1;m;Y
-girls_12-18;integer;group_demo;;age_pyramid#1;f;Y
-men_18-59;integer;group_demo;;age_pyramid#1;m;Y
 women_18-59;integer;group_demo;;age_pyramid#1;f;Y
+girls_12-18;integer;group_demo;;age_pyramid#1;f;Y
+girls_5-12;integer;group_demo;;age_pyramid#1;f;Y
+men_18-59;integer;group_demo;;age_pyramid#1;m;Y
+boys_12-18;integer;group_demo;;age_pyramid#1;m;Y
+boys_5-12;integer;group_demo;;age_pyramid#1;m;Y
 elderly_above_60;integer;group_demo;;;;Y
 idps_groups_residing.pwd;list;group_demo;;;;Y
 idps_groups_residing.minority_clan_affiliation;list;group_demo;;;;Y

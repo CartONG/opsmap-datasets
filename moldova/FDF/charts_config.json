@@ -1,0 +1,56 @@
+{
+    "charts": {
+        "age_pyramid#2": {
+            "type": "bar",
+            "direction": "horizontal",
+            "barType": "single",
+            "axis": {
+                "x": {
+                    "title": {
+                        "fr": "# personne",
+                        "en": "# people"
+                    }
+                },
+                "y": {
+                    "title": {
+                        "fr": "Interval d'âge",
+                        "en": "Age range"
+                    },
+                    "labels": [
+                        {
+                            "fr": "60+",
+                            "en": "60+"
+                        },
+                        {
+                            "fr": "18-59",
+                            "en": "18-59"
+                        },
+                        {
+                            "fr": "15-17",
+                            "en": "15-17"
+                        },
+                        {
+                            "fr": "5-14",
+                            "en": "5-14"
+                        },
+                        {
+                            "fr": "0-4",
+                            "en": "0-4"
+                        }
+                    ]
+                }
+            },
+            "series": [
+                {
+                    "id": "g",
+                    "index": 0,
+                    "color": "#8D8E74",
+                    "label": {
+                        "fr": "Non genré/inclusif",
+                        "en": "Gender neutral/inclusive"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -267,14 +267,14 @@ Training_of_GBV_service_providers_on_GBV_prevention_and_response;string;group_pa
 GBV_safety_audits;string;group_partner;;;;;;
 GBV_counselling;string;group_partner;;;;;;
 WASH;bullet;group_partner;;;;;;wash_activities
-WASH_No_WASH_activity;integer;group_partner;;polar_area_chart#3;publicfacility#No WASH activity;;;
-WASH_Hygiene_promotion_campaigns;integer;group_partner;;polar_area_chart#3;publicfacility#HH living in public facilities;;;
-WASH_Hygiene_promotion_training_to_volunteers;integer;group_partner;;polar_area_chart#3;;;;
-WASH_Latrines_rehabilitation_and_construction;integer;group_partner;;polar_area_chart#3;;;;
-WASH_provision_of_hygiene_kits_to_IDP_households;integer;group_partner;;polar_area_chart#3;;;;
-WASH_Water_infrastructure_rehabilitation;integer;group_partner;;polar_area_chart#3;;;;
-WASH_Water_trucking_tankering;integer;group_partner;;polar_area_chart#3;;;;
-WASH_Provision_of_Latrine_dislodging_services;integer;group_partner;;polar_area_chart#3;;;;
+WASH_No_WASH_activity;integer;group_partner;;polar_area_chart#3;nowa#No WASH activity;;;
+WASH_Hygiene_promotion_campaigns;integer;group_partner;;polar_area_chart#3;hygcamp#Hygiene promotion campaigns;;;
+WASH_Hygiene_promotion_training_to_volunteers;integer;group_partner;;polar_area_chart#3;hygtrain#Hygiene promotion training to volunteers;;;
+WASH_Latrines_rehabilitation_and_construction;integer;group_partner;;polar_area_chart#3;latrhabi#Latrines rehabilitation & construction;;;
+WASH_provision_of_hygiene_kits_to_IDP_households;integer;group_partner;;polar_area_chart#3;hygkit#Provision of hygiene kits to IDP households;;;
+WASH_Water_infrastructure_rehabilitation;integer;group_partner;;polar_area_chart#3;waterinfra#Water infrastructure rehabilitation;;;
+WASH_Water_trucking_tankering;integer;group_partner;;polar_area_chart#3;Watertruck#Water trucking tankering;;;
+WASH_Provision_of_Latrine_dislodging_services;integer;group_partner;;polar_area_chart#3;Latdislod#Provision of latrine dislodging services;;;
 Hygiene_promotion_campaigns;string;group_partner;;;;;;
 Hygiene_promotion_training_to_volunteers;string;group_partner;;;;;;
 Latrines_rehabilitation_and_construction;string;group_partner;;;;;;

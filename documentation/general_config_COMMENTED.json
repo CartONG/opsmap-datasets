@@ -183,11 +183,17 @@
             //           "none" --> as it is. no anonymation
             //           "text" --> sites location are set to their exact location on the map, but gps coordinates are removed from text fields
             //           "text and map" --> sites location are set to the centroid of the parent admin level (ex admin2) and gps coordinates are removed from text fields
+            //    - siteZoomMode: (Optional) "site" | "admin". Default is site
+            //           "site" --> zoom at the selected site
+            //           "admin" --> zoom at the closest admin parent of the selected site
+            //    - siteZoomBuffer: (Optional) radius in meter around the selected site (only when "siteZoomMode": "site") Don't exagerate with this one. 
             "options": {
                 "inputDateFormat": "DD/MM/YYYY",
                 "displayDateFormat": "DD/MM/YYYY",
                 "listSeparator": ";",
-                "anonymousMode": "none"
+                "anonymousMode": "none",
+                "siteZoomMode": "site",
+                "siteZoomBuffer": 100
             },
             // "additionalFiltersDescription": (Optional). List of additional filter to add to the app. Default is []
             // A filter is {
