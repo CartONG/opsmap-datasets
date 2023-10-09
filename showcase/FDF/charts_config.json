@@ -246,8 +246,6 @@
             "series": [
                 {
                     "id": "malesick",
-                    "index": 0,
-                    "color": "#AD1D3F",
                     "label": {
                         "fr": "XXX",
                         "en": "AAAA"
