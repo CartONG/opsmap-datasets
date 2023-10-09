@@ -242,7 +242,62 @@
             "type": "doughnut"
         },
         "radar#7": {
-            "type": "radar"
+            "type": "radar",
+            "series": [
+                {
+                    "id": "shelterneed",
+                    "index": 0,
+                    "color": "#AD1D3F",
+                    "label": {
+                        "fr": "XXX",
+                        "en": "AAAA"
+                    }
+                }
+            ],
+            "mapping": {
+                "I don’t know": {
+                    "value": 1,
+                    "label": {
+                        "fr": "Je ne sais pas",
+                        "en": "I don’t know"
+                    }
+                    },
+                "None/almost no shelters": {
+                    "value": 2,
+                    "label": {
+                        "fr": "Aucun/ presque aucun abris",
+                        "en": "None/almost no shelters"
+                    }
+                },
+                "Few shelters": {
+                    "value": 3,
+                    "label": {
+                        "fr": "Quelques abris",
+                        "en":"Few shelters"
+                    }
+                },
+                "Half of shelters": {
+                    "value": 4,
+                    "label": {
+                        "fr": "La moitié des abris",
+                        "en": "Half of shelters"
+                    }
+                },
+                "Majority of shelters": {
+                    "value": 5,
+                    "label": {
+                        "fr": "Majorité les abris",
+                        "en": "Majority of shelters"
+                    }
+                },
+                "All/almost all shelters": {
+                    "value": 6,
+                    "label": {
+                        "fr": "Tous/ presque tous les abris",
+                        "en": "All/almost all shelters"
+                    }
+                }
+            }
         }
     }
 }
