@@ -255,46 +255,32 @@
                 }
             ],
             "mapping": {
-                "I don’t know": {
+               "none": {
                     "value": 1,
                     "label": {
-                        "fr": "Je ne sais pas",
-                        "en": "I don’t know"
+                        "fr": "Aucun",
+                        "en": "None"
                     }
-                    },
-                "None/almost no shelters": {
+                },
+                "few": {
                     "value": 2,
                     "label": {
-                        "fr": "Aucun/ presque aucun abris",
-                        "en": "None/almost no shelters"
+                        "fr": "Peu",
+                        "en":"Few"
                     }
                 },
-                "Few shelters": {
+                "some": {
                     "value": 3,
                     "label": {
-                        "fr": "Quelques abris",
-                        "en":"Few shelters"
+                        "fr": "Certains",
+                        "en": "Somes"
                     }
                 },
-                "Half of shelters": {
+                "all": {
                     "value": 4,
                     "label": {
-                        "fr": "La moitié des abris",
-                        "en": "Half of shelters"
-                    }
-                },
-                "Majority of shelters": {
-                    "value": 5,
-                    "label": {
-                        "fr": "Majorité les abris",
-                        "en": "Majority of shelters"
-                    }
-                },
-                "All/almost all shelters": {
-                    "value": 6,
-                    "label": {
-                        "fr": "Tous/ presque tous les abris",
-                        "en": "All/almost all shelters"
+                        "fr": "Tous",
+                        "en": "All"
                     }
                 }
             }
