@@ -245,7 +245,7 @@
             "type": "radar",
             "series": [
                 {
-                    "id": "shelterneed",
+                    "id": "malesick",
                     "index": 0,
                     "color": "#AD1D3F",
                     "label": {
@@ -269,11 +269,11 @@
                         "en":"Few"
                     }
                 },
-                "some": {
+                "lot": {
                     "value": 3,
                     "label": {
-                        "fr": "Certains",
-                        "en": "Somes"
+                        "fr": "Beaucoup",
+                        "en": "A lot of"
                     }
                 },
                 "all": {
