@@ -5,10 +5,6 @@ centre_address_correct;string;group_general_info;;;
 shelter_max_capacity;integer;group_cccm;;;
 center_ind;integer;group_cccm;;;
 site_at_full_capacity;string;group_cccm;noyes;;
-child_0_2_number;integer;group_demo;;;
-child_2_6_number;integer;group_demo;;;
-child_7_11_number;integer;group_demo;;;
-child_12_18_number;integer;group_demo;;;
 child_12_18_number;integer;group_demo;;age_pyramid#2;g
 child_7_11_number;integer;group_demo;;age_pyramid#2;g
 child_2_6_number;integer;group_demo;;age_pyramid#2;g
