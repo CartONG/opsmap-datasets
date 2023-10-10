@@ -59,7 +59,7 @@
                     },
                     "min": 0,
                     "max": 300,
-                    "interval": 10
+                    "interval": 100
                 },
                 "y": {
                     "title": {
