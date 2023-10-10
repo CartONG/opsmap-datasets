@@ -20,7 +20,7 @@
             ]
         },
         "polar_area_chart#2": {
-            "type": "polar_area",
+            "type": "polar",
             // colors (Optional): the array of colors as string used to draw the chart (default: ["#6FC5BC","#1B657C","#4595AD","#F1D7AC","#EEEDF7"])
             "colors": [
                 "#6FC5BC",

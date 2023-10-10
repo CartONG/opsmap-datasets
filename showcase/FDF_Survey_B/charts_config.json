@@ -1,7 +1,7 @@
 {
     "charts": {
         "polar_area_chart#3": {
-            "type": "polar_area"
+            "type": "polar"
         },
         "age_pyramid#1": {
             "type": "bar",
