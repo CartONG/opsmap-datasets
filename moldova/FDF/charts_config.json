@@ -39,12 +39,15 @@
             "series": [
                 {
                     "id": "g",
-                    "index": 0,
+                    "index": 1,
                     "color": "#6FC5BC",
                     "label": {
                         "fr": "Non genré/inclusif",
                         "en": "Gender neutral/inclusive"
-                    }
+                    },
+                    "min": 0,
+                    "max": 50,
+                    "interval": 5
                 }
             ]
         }
