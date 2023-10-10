@@ -65,19 +65,24 @@
                     },
                     "labels": [
                         {
-                            "fr": "(0 - 4)"
+                            "fr": "(60+)", 
+                            "en": "(60+)"
                         },
                         {
-                            "fr": "(5 - 11)"
+                            "fr": "(18-59)", 
+                            "en":"(18-59)"
                         },
                         {
-                            "fr": "(12 - 17)"
+                            "fr": "(12-17)", 
+                            "en":"(12-17)"
                         },
                         {
-                            "fr": "(18 - 59)"
+                            "fr": "(5-11)", 
+                            "en":"(5-11)"
                         },
                         {
-                            "fr": "(60+)"
+                            "fr": "(0-4)", 
+                            "en":"(0-4)"
                         }
                     ]
                 }
@@ -144,12 +149,8 @@
             "series": [
                 {
                     "id": "nfi_int",
-                    "index": 0,
-                    "color": "#AD1D3F",
-                    "label": {
-                        "fr": "XXX",
-                        "en": "AAAA"
-                    }
+                    "index": 1,
+                    "color": "#6FC5BC"
                 }
             ]
         },
@@ -200,11 +201,11 @@
             "series": [
                 {
                     "id": "nfi",
-                    "index": 0,
-                    "color": "#AD1D3F",
+                    "index": 1,
+                    "color": "#EC6B4D",
                     "label": {
-                        "fr": "XXX",
-                        "en": "AAAA"
+                        "fr": "Articles non alimentaires du site",
+                        "en": "Site Non-Food Items"
                     }
                 }
             ],
