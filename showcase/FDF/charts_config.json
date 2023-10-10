@@ -56,7 +56,10 @@
                     "title": {
                         "fr": "# personne",
                         "en": "# people"
-                    }
+                    },
+                    "min": 0,
+                    "max": 300,
+                    "interval": 10
                 },
                 "y": {
                     "title": {
@@ -95,10 +98,7 @@
                     "label": {
                         "fr": "Non genré/inclusif",
                         "en": "Gender neutral/inclusive"
-                    },
-                    "min": 0,
-                    "max": 300,
-                    "interval": 10
+                    }
                 }
             ]
         },
