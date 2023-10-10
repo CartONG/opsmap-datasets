@@ -14,11 +14,11 @@
                 "No": "green"
             }
         },
-        "y_n_ns": {
+        "n_y_ns": {
             "type": "key_value",
             "values": {
-                "Yes": "green",
-                "No": "red",
+                "Yes": "red",
+                "No": "green",
                 "not_sure": "yellow"
             }
         },
