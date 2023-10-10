@@ -6,25 +6,30 @@
         "age_pyramid#1": {
             "type": "bar",
             "barType": "duo",
-            "yLabels": [
-                {
-                    "fr": "60+"
+            "axis": {
+                "x": {
+                    "title": "charts.titleX"
                 },
-                {
-                    "fr": "18-59"
-                },
-                {
-                    "fr": "12-17"
-                },
-                {
-                    "fr": "5-11"
-                },
-                {
-                    "fr": "0-4"
+                "y": {
+                    "title": "charts.titleY",
+                    "labels": [
+                        {
+                            "fr": "60+"
+                        },
+                        {
+                            "fr": "18-59"
+                        },
+                        {
+                            "fr": "12-17"
+                        },
+                        {
+                            "fr": "5-11"
+                        },
+                        {
+                            "fr": "0-4"
+                        }
+                    ]
                 }
-            ],
-            "titleAxis": {
-                "x": "charts.titleX""y": "charts.titleY",
             },
             "series": [
                 {
