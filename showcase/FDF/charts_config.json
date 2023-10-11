@@ -247,45 +247,80 @@
         },
         "radar#7": {
             "type": "radar",
+            "axis": {
+                "x": {
+                    "title": {
+                        "fr": "Type",
+                        "en": "Type"
+                    }
+                },
+                "y": {
+                    "title": {
+                        "fr": "Nombre de cas",
+                        "en": "Number of case"
+                    },
+                    "min": 0,
+                    "max": 6,
+                    "interval": 1,
+                    "labels": [
+                        {
+                            "fr": "Maladie masculine",
+                            "en": "Male sickness2"
+                        },
+                        {
+                            "fr": "Blessure masculine2",
+                            "en": "Male wound2"
+                        },
+                        {
+                            "fr": "Handicaps masculins2",
+                            "en": "Male disabilities2"
+                        },
+                        {
+                            "fr": "Santé mentale masculine2",
+                            "en": "Male mental health2"
+                        }
+                    ]
+                }
+            },
             "series": [
                 {
                     "id": "malesick",
                     "label": {
-                        "fr": "XXX",
-                        "en": "AAAA"
+                        "fr": "Santé des hommes",
+                        "en": "Male health"
                     }
                 }
             ],
             "mapping": {
-                "none": {
+                "all": {
                     "value": 1,
                     "label": {
-                        "fr": "Aucun",
-                        "en": "None"
-                    }
-                },
-                "few": {
-                    "value": 2,
-                    "label": {
-                        "fr": "Peu",
-                        "en": "Few"
+                        "fr": "Tous",
+                        "en":"All"
                     }
                 },
                 "lot": {
-                    "value": 3,
+                    "value": 2,
                     "label": {
-                        "fr": "Beaucoup",
-                        "en": "A lot of"
+                        "fr": "Majorité",
+                        "en":"Lot"
                     }
                 },
-                "all": {
+                "few": {
+                    "value": 3,
+                    "label": {
+                        "fr": "Minorité",
+                        "en":"Few"
+                    }
+                },
+                "none": {
                     "value": 4,
                     "label": {
-                        "fr": "Tous",
-                        "en": "All"
+                        "fr": "Aucun",
+                        "en":"None"
                     }
                 }
-            }
+            }            
         }
     }
 }
