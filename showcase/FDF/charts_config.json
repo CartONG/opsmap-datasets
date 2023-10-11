@@ -248,13 +248,13 @@
         "radar#7": {
             "type": "radar",
             "axis": {
-                "x": {
+                "y": {
                     "title": {
                         "fr": "Type",
                         "en": "Type"
                     }
                 },
-                "y": {
+                "x": {
                     "title": {
                         "fr": "Nombre de cas",
                         "en": "Number of case"
@@ -264,7 +264,7 @@
                     "interval": 1,
                     "labels": [
                         {
-                            "fr": "Maladie masculine",
+                            "fr": "Maladie masculine2",
                             "en": "Male sickness2"
                         },
                         {
