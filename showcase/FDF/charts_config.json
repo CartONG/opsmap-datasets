@@ -246,30 +246,7 @@
             "type": "doughnut"
         },
         "radar#7": {
-            "type": "radar",
-            "axis": {
-                "x": {
-                    "labels": [
-                        {
-                            "fr": "Maladie masculine2",
-                            "en": "Male sickness2"
-                        },
-                        {
-                            "fr": "Blessure masculine2",
-                            "en": "Male wound2"
-                        },
-                        {
-                            "fr": "Handicaps masculins2",
-                            "en": "Male disabilities2"
-                        },
-                        {
-                            "fr": "Santé mentale masculine2",
-                            "en": "Male mental health2"
-                        }
-                    ]
-                }
-            },
-            "y": {},                
+            "type": "radar",         
             "series": [
                 {
                     "id": "malesick",
