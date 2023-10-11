@@ -93,7 +93,7 @@
             "series": [
                 {
                     "id": "g",
-                    "index": 1,
+                    "index": 0,
                     "color": "#F5F3E8",
                     "label": {
                         "fr": "Non genré/inclusif",
@@ -107,13 +107,13 @@
             "direction": "vertical",
             "barType": "single",
             "axis": {
-                "x": {
+                "y": {
                     "title": {
                         "fr": "Nombre",
                         "en": "Number"
                     }
                 },
-                "y": {
+                "x": {
                     "title": {
                         "fr": "Articles non alimentaires (NFI)",
                         "en": "Non-Food Items (NFIs)"
@@ -149,7 +149,7 @@
             "series": [
                 {
                     "id": "nfi_int",
-                    "index": 1,
+                    "index": 0,
                     "color": "#6FC5BC"
                 }
             ]
@@ -201,7 +201,7 @@
             "series": [
                 {
                     "id": "nfi",
-                    "index": 1,
+                    "index": 0,
                     "color": "#EC6B4D",
                     "label": {
                         "fr": "Articles non alimentaires du site",
