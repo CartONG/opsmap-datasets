@@ -248,20 +248,11 @@
         "radar#7": {
             "type": "radar",
             "axis": {
-                "y": {
-                    "title": {
-                        "fr": "Type",
-                        "en": "Type"
-                    }
-                },
                 "x": {
                     "title": {
                         "fr": "Nombre de cas",
                         "en": "Number of case"
                     },
-                    "min": 0,
-                    "max": 6,
-                    "interval": 1,
                     "labels": [
                         {
                             "fr": "Maladie masculine2",
@@ -282,6 +273,13 @@
                     ]
                 }
             },
+            "y": {
+                    "title": {
+                        "fr": "Type",
+                        "en": "Type"
+                    }
+                },
+                
             "series": [
                 {
                     "id": "malesick",
