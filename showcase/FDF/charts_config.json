@@ -246,7 +246,38 @@
             "type": "doughnut"
         },
         "radar#7": {
-            "type": "radar"           
+            "type": "radar",         
+            "mapping": {
+                "all": {
+                    "value": 1,
+                    "label": {
+                        "fr": "Tous",
+                        "en":"All"
+                    }
+                },
+                "lot": {
+                    "value": 2,
+                    "label": {
+                        "fr": "Majorité",
+                        "en":"Lot"
+                    }
+                },
+                "few": {
+                    "value": 3,
+                    "label": {
+                        "fr": "Minorité",
+                        "en":"Few"
+                    }
+                },
+                "none": {
+                    "value": 4,
+                    "label": {
+                        "fr": "Aucun",
+                        "en":"None"
+                    }
+                }
+            }
+         
         }
     }
 }
