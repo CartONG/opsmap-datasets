@@ -249,10 +249,6 @@
             "type": "radar",
             "axis": {
                 "x": {
-                    "title": {
-                        "fr": "Nombre de cas",
-                        "en": "Number of case"
-                    },
                     "labels": [
                         {
                             "fr": "Maladie masculine2",
@@ -273,13 +269,7 @@
                     ]
                 }
             },
-            "y": {
-                    "title": {
-                        "fr": "Type",
-                        "en": "Type"
-                    }
-                },
-                
+            "y": {},                
             "series": [
                 {
                     "id": "malesick",
