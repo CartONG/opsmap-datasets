@@ -70,7 +70,7 @@ douchesepare;string;group_wash;yesno;;;;;
 latrinevidance;string;group_wash;yesno;;;;;
 latrinevidanceMois;string;group_wash;;;;;;
 LatrinesEclairage;string;group_wash;yesno;;;;;
-problemeSante;bullet;group_health;;;;;;
+problemeSante;list;group_health;pb_sante;;;;;
 SoinSanteFonctionnel;string;group_health;yesno;;;;;
 PresenceSite;string;group_health;yesno;;;;;
 Distance;integer;group_health;;;;;;
