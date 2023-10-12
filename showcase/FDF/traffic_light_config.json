@@ -116,6 +116,15 @@
                 "lot": "orange",
                 "all": "red"
             }
-        }
+        },
+        "Sourceeau": {
+            "type": "list_count",
+            "values": {
+                "x<1": "red",
+                "x>=1 and x<4": "orange",
+                "x>=4": "green"
+            }
+}
+
     }
 }
