@@ -4,7 +4,7 @@
             "type": "doughnut"
         },
         "polar_area_chart#1": {
-            "type": "polar_area"
+            "type": "polar"
         },
         "age_pyramid#1": {
             "type": "bar",

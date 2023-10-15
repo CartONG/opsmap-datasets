@@ -100,6 +100,14 @@ SpecialNeeds;Persons with mental health disabilities;Personnes souffrant d'un ha
 SingleElderly;Single elderly households (above 60 years old);Ménages âgés isolés (plus de 60 ans)
 number_of_unacc;Number of unaccompanied children;Nombre d'enfants non accompagnés
 number_of_preglac_dis;Number of pregnant/lactating women;Nombre de femmes enceintes/allaitantes
+male_sikness;Male sickness;Maladie masculine
+male_wound;Male wound;Blessure masculine
+male_disabilities;Male disabilities;Handicaps masculins
+male_mental_health;Male mental health;Santé mentale masculine
+female_sikness;Female sickness;Femme maladie
+female_wound;Female wound;Blessure féminine
+female_disabilities;Female disabilities;Handicap féminin
+female_mental_health;Female mental health;Santé mentale de la femme
 commu_partitioned;Households in communal/ collective shelters (partitioned);Ménages dans des abris collectifs/communautaires (cloisonnés)
 commu_unpartitioned;Households in collective/ communal shelters (unpartitioned);Ménages dans des abris collectifs (non cloisonnés)
 emerge_shel;Households  in emergency shelters;Ménages dans des abris d'urgence

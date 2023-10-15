@@ -1,32 +1,36 @@
 {
     "charts": {
         "polar_area_chart#3": {
-            "type": "polar_area"
+            "type": "polar"
         },
         "age_pyramid#1": {
             "type": "bar",
             "direction": "horizontal",
             "barType": "duo",
-            "yLabels": [
-                {
-                    "fr": "60+"
+            "axis": {
+                "x": {
+                    "title": "charts.titleX"
                 },
-                {
-                    "fr": "18-59"
-                },
-                {
-                    "fr": "12-17"
-                },
-                {
-                    "fr": "5-11"
-                },
-                {
-                    "fr": "0-4"
+                "y": {
+                    "title": "charts.titleY",
+                    "labels": [
+                        {
+                            "fr": "60+"
+                        },
+                        {
+                            "fr": "18-59"
+                        },
+                        {
+                            "fr": "12-17"
+                        },
+                        {
+                            "fr": "5-11"
+                        },
+                        {
+                            "fr": "0-4"
+                        }
+                    ]
                 }
-            ],
-            "titleAxis": {
-                "x": "charts.titleX",
-                "y": "charts.titleY"
             },
             "series": [
                 {
@@ -47,31 +51,35 @@
             "type": "bar",
             "direction": "horizontal",
             "barType": "single",
-            "yLabels": [
-                {
-                    "fr": "(0 - 4)"
-                },
-                {
-                    "fr": "(5 - 11)"
-                },
-                {
-                    "fr": "(12 - 17)"
-                },
-                {
-                    "fr": "(18 - 59)"
-                },
-                {
-                    "fr": "(60+)"
-                }
-            ],
-            "titleAxis": {
+            "axis": {
                 "x": {
-                    "fr": "# personne",
-                    "en": "# people"
+                    "title": {
+                        "fr": "# personne",
+                        "en": "# people"
+                    }
                 },
                 "y": {
-                    "fr": "Interval d'âge",
-                    "en": "Age range"
+                    "title": {
+                        "fr": "Interval d'âge",
+                        "en": "Age range"
+                    },
+                    "labels": [
+                        {
+                            "fr": "(0 - 4)"
+                        },
+                        {
+                            "fr": "(5 - 11)"
+                        },
+                        {
+                            "fr": "(12 - 17)"
+                        },
+                        {
+                            "fr": "(18 - 59)"
+                        },
+                        {
+                            "fr": "(60+)"
+                        }
+                    ]
                 }
             },
             "series": [
@@ -90,40 +98,44 @@
             "type": "bar",
             "direction": "vertical",
             "barType": "single",
-            "yLabels": [
-                {
-                    "fr": "Matelas",
-                    "en": "Mattress"
-                },
-                {
-                    "fr": "Bidons d'eau",
-                    "en": "Water containers\buckets"
-                },
-                {
-                    "fr": "Articles de cuisine",
-                    "en": "Kitchen items"
-                },
-                {
-                    "fr": "Articles d'hygiène",
-                    "en": "Hygiene items"
-                },
-                {
-                    "fr": "Moustiquaires",
-                    "en": "Mosquito nets"
-                },
-                {
-                    "fr": "Lampes solaires",
-                    "en": "Solar lamps"
-                }
-            ],
-            "titleAxis": {
+            "axis": {
                 "x": {
-                    "fr": "Nombre",
-                    "en": "Number"
+                    "title": {
+                        "fr": "Nombre",
+                        "en": "Number"
+                    }
                 },
                 "y": {
-                    "fr": "Articles non alimentaires (NFI)",
-                    "en": "Non-Food Items (NFIs)"
+                    "title": {
+                        "fr": "Articles non alimentaires (NFI)",
+                        "en": "Non-Food Items (NFIs)"
+                    },
+                    "labels": [
+                        {
+                            "fr": "Matelas",
+                            "en": "Mattress"
+                        },
+                        {
+                            "fr": "Bidons d'eau",
+                            "en": "Water containers\buckets"
+                        },
+                        {
+                            "fr": "Articles de cuisine",
+                            "en": "Kitchen items"
+                        },
+                        {
+                            "fr": "Articles d'hygiène",
+                            "en": "Hygiene items"
+                        },
+                        {
+                            "fr": "Moustiquaires",
+                            "en": "Mosquito nets"
+                        },
+                        {
+                            "fr": "Lampes solaires",
+                            "en": "Solar lamps"
+                        }
+                    ]
                 }
             },
             "series": [
@@ -142,40 +154,44 @@
             "type": "bar",
             "direction": "vertical",
             "barType": "single",
-            "yLabels": [
-                {
-                    "fr": "Matelas",
-                    "en": "Mattress"
-                },
-                {
-                    "fr": "Bidons d'eau",
-                    "en": "Water containers\buckets"
-                },
-                {
-                    "fr": "Articles de cuisine",
-                    "en": "Kitchen items"
-                },
-                {
-                    "fr": "Articles d'hygiène",
-                    "en": "Hygiene items"
-                },
-                {
-                    "fr": "Moustiquaires",
-                    "en": "Mosquito nets"
-                },
-                {
-                    "fr": "Lampes solaires",
-                    "en": "Solar lamps"
-                }
-            ],
-            "titleAxis": {
+            "axis": {
                 "x": {
-                    "fr": "Nombre",
-                    "en": "Number"
+                    "title": {
+                        "fr": "Nombre",
+                        "en": "Number"
+                    }
                 },
                 "y": {
-                    "fr": "Articles non alimentaires (NFI)",
-                    "en": "Non-Food Items (NFIs)"
+                    "title": {
+                        "fr": "Articles non alimentaires (NFI)",
+                        "en": "Non-Food Items (NFIs)"
+                    },
+                    "labels": [
+                        {
+                            "fr": "Matelas",
+                            "en": "Mattress"
+                        },
+                        {
+                            "fr": "Bidons d'eau",
+                            "en": "Water containers\buckets"
+                        },
+                        {
+                            "fr": "Articles de cuisine",
+                            "en": "Kitchen items"
+                        },
+                        {
+                            "fr": "Articles d'hygiène",
+                            "en": "Hygiene items"
+                        },
+                        {
+                            "fr": "Moustiquaires",
+                            "en": "Mosquito nets"
+                        },
+                        {
+                            "fr": "Lampes solaires",
+                            "en": "Solar lamps"
+                        }
+                    ]
                 }
             },
             "series": [

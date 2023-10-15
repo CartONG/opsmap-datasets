@@ -1,7 +1,7 @@
 {
     "charts": {
         "polar_area_chart#3": {
-            "type": "polar_area"
+            "type": "polar"
         },
         "age_pyramid#1": {
             "type": "bar",
@@ -56,7 +56,10 @@
                     "title": {
                         "fr": "# personne",
                         "en": "# people"
-                    }
+                    },
+                    "min": 0,
+                    "max": 300,
+                    "interval": 10
                 },
                 "y": {
                     "title": {
@@ -65,19 +68,24 @@
                     },
                     "labels": [
                         {
-                            "fr": "(0 - 4)"
+                            "fr": "(60+)",
+                            "en": "(60+)"
                         },
                         {
-                            "fr": "(5 - 11)"
+                            "fr": "(18-59)",
+                            "en": "(18-59)"
                         },
                         {
-                            "fr": "(12 - 17)"
+                            "fr": "(12-17)",
+                            "en": "(12-17)"
                         },
                         {
-                            "fr": "(18 - 59)"
+                            "fr": "(5-11)",
+                            "en": "(5-11)"
                         },
                         {
-                            "fr": "(60+)"
+                            "fr": "(0-4)",
+                            "en": "(0-4)"
                         }
                     ]
                 }
@@ -86,7 +94,7 @@
                 {
                     "id": "g",
                     "index": 0,
-                    "color": "#8D8E74",
+                    "color": "#F5F3E8",
                     "label": {
                         "fr": "Non genré/inclusif",
                         "en": "Gender neutral/inclusive"
@@ -99,13 +107,13 @@
             "direction": "vertical",
             "barType": "single",
             "axis": {
-                "x": {
+                "y": {
                     "title": {
                         "fr": "Nombre",
                         "en": "Number"
                     }
                 },
-                "y": {
+                "x": {
                     "title": {
                         "fr": "Articles non alimentaires (NFI)",
                         "en": "Non-Food Items (NFIs)"
@@ -142,11 +150,7 @@
                 {
                     "id": "nfi_int",
                     "index": 0,
-                    "color": "#AD1D3F",
-                    "label": {
-                        "fr": "XXX",
-                        "en": "AAAA"
-                    }
+                    "color": "#6FC5BC"
                 }
             ]
         },
@@ -198,10 +202,10 @@
                 {
                     "id": "nfi",
                     "index": 0,
-                    "color": "#AD1D3F",
+                    "color": "#EC6B4D",
                     "label": {
-                        "fr": "XXX",
-                        "en": "AAAA"
+                        "fr": "Articles non alimentaires du site",
+                        "en": "Site Non-Food Items"
                     }
                 }
             ],
@@ -240,6 +244,40 @@
         },
         "doughnut_chart#4": {
             "type": "doughnut"
+        },
+        "radar#7": {
+            "type": "radar",         
+            "mapping": {
+                "all": {
+                    "value": 1,
+                    "label": {
+                        "fr": "Tous",
+                        "en":"All"
+                    }
+                },
+                "lot": {
+                    "value": 2,
+                    "label": {
+                        "fr": "Majorité",
+                        "en":"Lot"
+                    }
+                },
+                "few": {
+                    "value": 3,
+                    "label": {
+                        "fr": "Minorité",
+                        "en":"Few"
+                    }
+                },
+                "none": {
+                    "value": 4,
+                    "label": {
+                        "fr": "Aucun",
+                        "en":"None"
+                    }
+                }
+            }
+         
         }
     }
 }

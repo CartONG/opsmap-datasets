@@ -107,6 +107,31 @@
                 "few_households": "red",
                 "none_almost_no_households": "darkred"
             }
+        },
+         "female_sick": {
+            "type": "key_value",
+            "values": {
+                "none": "green",
+                "few": "yellow",
+                "lot": "orange",
+                "all": "red"
+            }
+        },
+        "Source_eau": {
+            "type": "list_count",
+            "values": {
+                "x<1": "red",
+                "x>=1 and x<4": "orange",
+                "x>=4": "green"
+            }
+        },
+        "pb_sante": {
+            "type": "list_count",
+            "values": {
+                "x<1": "red",
+                "x>=1 and x<4": "orange",
+                "x>=4": "green"
+            }
         }
     }
 }
