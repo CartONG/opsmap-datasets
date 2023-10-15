@@ -187,13 +187,32 @@
             //           "site" --> zoom at the selected site
             //           "admin" --> zoom at the closest admin parent of the selected site
             //    - siteZoomBuffer: (Optional) radius in meter around the selected site (only when "siteZoomMode": "site") Don't exagerate with this one. 
+        //     - "sitesMapVisualisation": (Optional) description of other way to visualise sites on map. Default is []
+        // A visualisation is {
+            // - "label": name that will appears in the legend
+            // - "visualisationType": {
+                //     "type": "population_count", -> type of representation
+                //     "field": "demo_num_indv", -> name of the field to use
+                //     "color": "#EC6B4D" -> color for the representation
+                // }
+            // }
             "options": {
                 "inputDateFormat": "DD/MM/YYYY",
                 "displayDateFormat": "DD/MM/YYYY",
                 "listSeparator": ";",
                 "anonymousMode": "none",
                 "siteZoomMode": "site",
-                "siteZoomBuffer": 100
+                "siteZoomBuffer": 100,
+                "sitesMapVisualisation": [
+                    {
+                        "label": "Population Count",
+                        "visualisationType": {
+                            "type": "population_count",
+                            "field": "demo_num_indv",
+                            "color": "#EC6B4D"
+                        }
+                    }
+                ]
             },
             // "additionalFiltersDescription": (Optional). List of additional filter to add to the app. Default is []
             // A filter is {
