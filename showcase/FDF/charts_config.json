@@ -55,7 +55,8 @@
                 "x": {
                     "title": {
                         "fr": "# personne",
-                        "en": "# people"
+                        "en": "# people",
+                        "ar": "# الناس"
                     },
                     "min": 0,
                     "max": 300,
@@ -64,7 +65,8 @@
                 "y": {
                     "title": {
                         "fr": "Interval d'âge",
-                        "en": "Age range"
+                        "en": "Age range",
+                        "ar": "الفئة العمرية"
                     },
                     "labels": [
                         {
@@ -97,7 +99,8 @@
                     "color": "#F5F3E8",
                     "label": {
                         "fr": "Non genré/inclusif",
-                        "en": "Gender neutral/inclusive"
+                        "en": "Gender neutral/inclusive",
+                        "ar": "محايد/شامل بين الجنسين"
                     }
                 }
             ]
@@ -121,27 +124,33 @@
                     "labels": [
                         {
                             "fr": "Matelas",
-                            "en": "Mattress"
+                            "en": "Mattress",
+                            "ar": "فراش"
                         },
                         {
                             "fr": "Bidons d'eau",
-                            "en": "Water containers\buckets"
+                            "en": "Water containers\buckets",
+                            "ar": "حاويات/دلاء المياه"
                         },
                         {
                             "fr": "Articles de cuisine",
-                            "en": "Kitchen items"
+                            "en": "Kitchen items",
+                            "ar": "مستلزمات المطبخ"
                         },
                         {
                             "fr": "Articles d'hygiène",
-                            "en": "Hygiene items"
+                            "en": "Hygiene items",
+                            "ar": "مواد النظافة"
                         },
                         {
                             "fr": "Moustiquaires",
-                            "en": "Mosquito nets"
+                            "en": "Mosquito nets",
+                            "ar": "شبكات البعوض"
                         },
                         {
                             "fr": "Lampes solaires",
-                            "en": "Solar lamps"
+                            "en": "Solar lamps",
+                            "ar": "المصابيح الشمسية"
                         }
                     ]
                 }
@@ -162,38 +171,46 @@
                 "x": {
                     "title": {
                         "fr": "Nombre",
-                        "en": "Number"
+                        "en": "Number",
+                        "ar": "رقم"
                     }
                 },
                 "y": {
                     "title": {
                         "fr": "Articles non alimentaires (NFI)",
-                        "en": "Non-Food Items (NFIs)"
+                        "en": "Non-Food Items (NFIs)",
+                        "ar": "المواد غير الغذائية"
                     },
                     "labels": [
                         {
                             "fr": "Matelas",
-                            "en": "Mattress"
+                            "en": "Mattress",
+                            "ar": "فراش"
                         },
                         {
                             "fr": "Bidons d'eau",
-                            "en": "Water containers\buckets"
+                            "en": "Water containers\buckets",
+                            "ar": "حاويات/دلاء المياه"
                         },
                         {
                             "fr": "Articles de cuisine",
-                            "en": "Kitchen items"
+                            "en": "Kitchen items",
+                            "ar": "مستلزمات المطبخ"
                         },
                         {
                             "fr": "Articles d'hygiène",
-                            "en": "Hygiene items"
+                            "en": "Hygiene items",
+                            "ar": "مواد النظافة"
                         },
                         {
                             "fr": "Moustiquaires",
-                            "en": "Mosquito nets"
+                            "en": "Mosquito nets",
+                            "ar": "شبكات البعوض"
                         },
                         {
                             "fr": "Lampes solaires",
-                            "en": "Solar lamps"
+                            "en": "Solar lamps",
+                            "ar": "المصابيح الشمسية"
                         }
                     ]
                 }
@@ -205,7 +222,8 @@
                     "color": "#EC6B4D",
                     "label": {
                         "fr": "Articles non alimentaires du site",
-                        "en": "Site Non-Food Items"
+                        "en": "Site Non-Food Items",
+                        "ar": "موقع المواد غير الغذائية"
                     }
                 }
             ],
@@ -213,31 +231,41 @@
                 "none_almost_no_households": {
                     "value": 1,
                     "label": {
-                        "fr": "Aucune"
+                        "fr": "Aucune",
+                        "ar": "لا أحد",
+                        "en": ""
                     }
                 },
                 "few_households": {
                     "value": 2,
                     "label": {
-                        "fr": "Un peu"
+                        "fr": "Un peu",
+                        "ar": "عدد قليل",
+                        "en": "Few"
                     }
                 },
                 "half_of_households": {
                     "value": 3,
                     "label": {
-                        "fr": "Moitié"
+                        "fr": "Moitié",
+                        "ar": "نصف",
+                        "en": "Half"
                     }
                 },
                 "majority_of_households": {
                     "value": 4,
                     "label": {
-                        "fr": "Majorité"
+                        "fr": "Majorité",
+                        "ar": "غالبية",
+                        "en": "Majority"
                     }
                 },
                 "all_almost_all_households": {
                     "value": 5,
                     "label": {
-                        "fr": "Toutes"
+                        "fr": "Toutes",
+                        "ar": "الكل، الكل تقريبًا",
+                        "en": "All, almost all"
                     }
                 }
             }
@@ -246,38 +274,41 @@
             "type": "doughnut"
         },
         "radar#7": {
-            "type": "radar",         
+            "type": "radar",
             "mapping": {
                 "all": {
                     "value": 1,
                     "label": {
                         "fr": "Tous",
-                        "en":"All"
+                        "en": "All",
+                        "ar": "الجميع"
                     }
                 },
                 "lot": {
                     "value": 2,
                     "label": {
                         "fr": "Majorité",
-                        "en":"Lot"
+                        "en": "Lot",
+                        "ar": "كثير"
                     }
                 },
                 "few": {
                     "value": 3,
                     "label": {
                         "fr": "Minorité",
-                        "en":"Few"
+                        "en": "Few",
+                        "ar": "عدد قليل"
                     }
                 },
                 "none": {
                     "value": 4,
                     "label": {
                         "fr": "Aucun",
-                        "en":"None"
+                        "en": "None",
+                        "ar": "لا أحد"
                     }
                 }
             }
-         
         }
     }
 }
