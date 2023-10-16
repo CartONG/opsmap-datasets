@@ -242,7 +242,7 @@
                         "label": "Population Count",
                         "visualisationType": {
                             "type": "population_count",
-                            "field": "demo_num_indv",
+                            "field": "nb_site_residents_ind",
                             "color": "#EC6B4D"
                         }
                     }
