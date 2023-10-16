@@ -55,7 +55,7 @@ demo_num_ooc;integer;group_demo;;;;;;
 demo_num_temp_resd;integer;group_demo;;;;;;
 demo_num_undocud;integer;group_demo;;;;;;
 litreEauPersonn;integer;group_wash;;;;;;
-Sourceeau;list;group_wash;Source_eau;;;;;
+Sourceeau;bullet;group_wash;Source_eau;;;;;
 eauqualite;string;group_wash;yesno;;;;;
 water_quality_access;string;group_wash;yesno;;;;;
 Disponibilitesavon;string;group_wash;yesno;;;;;
