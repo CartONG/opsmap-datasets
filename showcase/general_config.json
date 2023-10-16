@@ -3,7 +3,8 @@
     "locale": {
         "locales": [
             "en",
-            "fr"
+            "fr", 
+            "ar"
         ],
         "default": "fr",
         "override": {
@@ -18,23 +19,33 @@
                     "admin1": "Région",
                     "admin2": "Département"
                 }
+            },
+            "ar": {
+                "infosAdmins": {
+                    "admin1": "منطقة",
+                    "admin2": "قسم"
+                }
             }
         }
     },
     "textContent": {
         "name": {
             "fr": "show",
-            "en": "show"
+            "en": "show",
+            "ar":"يعرض"
         },
         "opsmapDescr": {
             "en": "A large number of refugees and migrants have traveled to France in search of protection as a result of the political, social and economic crisis ravaging neighbouring countries.<br>Considering the urgent needs for humanitarian assistance, such as food, shelter, health and protection, especially for people with vulnerabilities (children, pregnant women, the elderly, people with disabilities, etc.), the Government edited Law no. 13,684/2018, providing for the execution of emergency assistance measures for the reception of affected people.<br>Currently, Savoie has 10 reception spaces.",
-            "fr": "Un grand nombre de réfugiés et de migrants se sont rendus en France en quête de protection en raison de la crise politique, sociale et économique qui ravage les pays voisins.<br>Considérant les besoins urgents d'assistance humanitaire, en termes de nourriture, logement, santé et protection des personnes vulnérables (enfants, femmes enceintes, personnes âgées, personnes handicapées, etc.), le gouvernement a édité la loi n° 22 208/2022, prévoyant l'exécution de mesures d'aide d'urgence pour l'accueil des personnes affectées.<br>Actuellement, la Savoie dispose de 10 places d'accueil. "
+            "fr": "Un grand nombre de réfugiés et de migrants se sont rendus en France en quête de protection en raison de la crise politique, sociale et économique qui ravage les pays voisins.<br>Considérant les besoins urgents d'assistance humanitaire, en termes de nourriture, logement, santé et protection des personnes vulnérables (enfants, femmes enceintes, personnes âgées, personnes handicapées, etc.), le gouvernement a édité la loi n° 22 208/2022, prévoyant l'exécution de mesures d'aide d'urgence pour l'accueil des personnes affectées.<br>Actuellement, la Savoie dispose de 10 places d'accueil. ",
+            "ar": "وقد سافر عدد كبير من اللاجئين والمهاجرين إلى فرنسا بحثاً عن الحماية بسبب الأزمة السياسية والاجتماعية والاقتصادية التي تعصف بالبلدان المجاورة.<br>بالنظر إلى الاحتياجات العاجلة للمساعدة الإنسانية، من حيث الغذاء والسكن والصحة وحماية الفئات الضعيفة (الأطفال والنساء الحوامل وكبار السن والمعوقين، وما إلى ذلك)، أصدرت الحكومة القانون رقم 22208/2022، الذي ينص على لتنفيذ تدابير المساعدة الطارئة لاستقبال المتضررين.<br>يوجد حاليًا في سافوا 10 أماكن للاستقبال. "
         }
     },
     "footerLogos": [
         {
             "title": {
-                "en": "Webdev"
+                "en": "Webdev",
+                "fr":"Webdev",
+                "ar": "ويب ديف"
             },
             "logos": [
                 {
@@ -47,7 +58,8 @@
         {
             "title": {
                 "en": "Fieldwork",
-                "fr": "Travail de terrain"
+                "fr": "Travail de terrain",
+                "ar":"العمل الميداني"
             },
             "logos": [
                 {
@@ -65,7 +77,8 @@
         {
             "title": {
                 "en": "Coordination and IM support",
-                "fr": "Coordination et support IM"
+                "fr": "Coordination et support IM",
+                "ar":"التنسيق ودعم المراسلة الفورية"
             },
             "logos": [
                 {
@@ -78,7 +91,8 @@
         {
             "title": {
                 "en": "Cluster Lead",
-                "fr": "Direction du cluster"
+                "fr": "Direction du cluster",
+                "ar":"الرصاص العنقودي"
             },
             "logos": [
                 {
@@ -110,21 +124,24 @@
                     "field": "site_pcode",
                     "name": {
                         "fr": "PCode du site",
-                        "en": "Site PCode"
+                        "en": "Site PCode",
+                        "ar": "رمز PC للموقع"
                     }
                 },
                 {
                     "field": "cccm_shelter_coordination",
                     "name": {
                         "fr": "cccm abris coordination",
-                        "en": "cccm shelter coordination"
+                        "en": "cccm shelter coordination",
+                        "ar": "تنسيق المأوى cccm"
                     }
                 },
                 {
                     "field": "cccm_shelter__mangmt",
                     "name": {
                         "fr": "cccm abris gestion",
-                        "en": "cccm shelter management"
+                        "en": "cccm shelter management",
+                        "ar": "إدارة المأوى cccm"
                     }
                 }
             ],
@@ -169,7 +186,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Shelter Max Capacity",
-                            "fr": "Capacité maximale"
+                            "fr": "Capacité maximale",
+                            "ar":"سعة المأوى القصوى"
                         },
                         "entryCode": "cccm_shelter_max_capacity",
                         "iconOchaName": "Camp-Coordination-and-Camp-Management"
@@ -180,7 +198,8 @@
                         "type": "site_occupation",
                         "name": {
                             "en": "Site at Full Capacity",
-                            "fr": "Capacité maximale du site atteinte"
+                            "fr": "Capacité maximale du site atteinte",
+                            "ar":"الموقع بكامل طاقته"
                         },
                         "iconOchaName": "Camp-Coordination-and-Camp-Management",
                         "entryCodeMaxCapacity": "cccm_site_at_full_capacity",
@@ -191,7 +210,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Individuals",
-                            "fr": "Personnes"
+                            "fr": "Personnes",
+                            "ar":"فرادى"
                         },
                         "entryCode": "demo_num_indv",
                         "iconOchaName": "People-in-need"
@@ -200,7 +220,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Drinking water available ?",
-                            "fr": "Accès eau potable?"
+                            "fr": "Accès eau potable?",
+                            "ar":"مياه الشرب متوفرة؟"
                         },
                         "entryCode": "water_quality_access",
                         "iconOchaName": "Potable-water"
