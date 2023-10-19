@@ -254,6 +254,16 @@
             "options": {
                 "anonymousMode": "text"
             },
+            "additionalFiltersDescription": [
+                {
+                    "field": "round",
+                    "name": {
+                        "fr": "Tour d'enquête",
+                        "en": "Survey round",
+                        "ar": "جولة المسح"
+                    }
+                }        
+            ],
             "spatial": {
                 "siteFields": {
                     "id": "site_id",
@@ -267,15 +277,15 @@
                 "admins": {
                     "admin1": {
                         "pcode": "adm1_pcode",
-                        "name": "Province_of_the_monitored_location"
+                        "name": "Region"
                     },
                     "admin2": {
                         "pcode": "adm2_pcode",
-                        "name": "Municipality_of_monitored_location"
+                        "name": "Province_of_the_monitored_location"
                     },
                     "admin3": {
                         "pcode": "adm3_pcode",
-                        "name": "Municipality"
+                        "name": "Municipality_of_monitored_location"
                     }
                 }
             },
