@@ -5,6 +5,7 @@ adm2_pcode;string;group_general_info;;;;;;;;;;;;;;;;;;;
 latitude;float;group_general_info;;;;;;;;;;;;;;;;;;;
 longitude;float;group_general_info;;;;;;;;;;;;;;;;;;;
 General_Site_Type;list;group_general_info;;;;;;;;;;;;;;;;;;;
+round;string;group_general_info;;;;;;;;;;;;;;;;;;;
 Date_of_the_Monitoring_Visit;date;group_general_info;;;;;;;;;;;;;;;;;;;
 Province_of_the_monitored_location;string;group_general_info;;;;;;;;;;;;;;;;;;;
 Site_Location;string;group_general_info;;;;;;;;;;;;;;;;;;;
