@@ -245,7 +245,12 @@
         }
     ],
     "options": {
+        "showCCCMLogo": true,
+        "dark": false,
+        "pdfColumnCount": 3,
+        "exportForEsite": true,
         "showDemoBanner": true,
+        "exportAsCSVonHomePage": true,
         "keepThematicOrderFromFDF": true
     }
 }
