@@ -108,11 +108,14 @@ female_sikness;Female sickness;Femme maladie;مرض الأنثى
 female_wound;Female wound;Blessure féminine;جرح انثى
 female_disabilities;Female disabilities;Handicap féminin;إعاقات الإناث
 female_mental_health;Female mental health;Santé mentale de la femme;الصحة النفسية للإناث
+All_commu_shelter;Households in communal/ collective shelters;Ménages dans des abris collectifs/communautaires;الأسر في الملاجئ الجماعية/الجماعية
 commu_partitioned;Households in communal/ collective shelters (partitioned);Ménages dans des abris collectifs/communautaires (cloisonnés);الأسر في الملاجئ الجماعية/الجماعية (المقسمة)
 commu_unpartitioned;Households in collective/ communal shelters (unpartitioned);Ménages dans des abris collectifs (non cloisonnés);الأسر في الملاجئ الجماعية/المجتمعية (غير المقسمة)
 emerge_shel;Households  in emergency shelters;Ménages dans des abris d'urgence;الأسر في ملاجئ الطوارئ
+All_makeshift_shelter; Households in makeshift shelters;Ménages dans des abris de fortune;الأسر في ملاجئ مؤقتة
 makeshi_localmaterial;Households in makeshift shelters built using local materials;Ménages dans des abris de fortune construits avec des matériaux locaux;أسر تعيش في ملاجئ مؤقتة مبنية باستخدام مواد محلية
 makeshi_blankets;Households in makeshift shelters built using blankets/ nets;Ménages dans des abris de fortune construits avec des couvertures/moustiquaires;الأسر التي تعيش في ملاجئ مؤقتة مبنية باستخدام البطانيات/الشبكات
+All_public_facility_shelter;Households in public facility;Ménages dans un établissement public;الأسر في المرافق العامة
 school_shel;Households in public facility- school;Ménages dans un établissement public - école;الأسر في المرافق العامة- المدرسة
 health_shel;Households in public facility- health facility;Ménages dans un établissement public - établissement de santé;الأسر في المنشأة العامة- المنشأة الصحية
 other_shel;Households in public facility- other;Ménages dans un établissement public - autre;الأسر في المرافق العامة - أخرى
