@@ -12,14 +12,14 @@
                 "infosAdmins": {
                     "admin1": "Region",
                     "admin2": "Department",
-                    "admin3": "Commune"
+                    "admin3": "Municipality"
                 }
             },
             "fr": {
                 "infosAdmins": {
                     "admin1": "Région",
                     "admin2": "Département",
-                    "admin3": "Municipality"
+                    "admin3": "Commune"
                 }
             },
             "ar": {
@@ -138,21 +138,21 @@
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=903507497&single=true&output=csv",
             "additionalFiltersDescription": [
                 {
+                    "field": "cccm_shelter_management",
+                    "name": {
+                        "fr": "Gérer par",
+                        "en": "Manage by",
+                        "ar": "إدارة بواسطة"
+                    }
+                },
+                {
                     "field": "site_pcode",
                     "name": {
                         "fr": "PCode du site",
                         "en": "Site PCode",
                         "ar": "رمز PC للموقع"
                     }
-                },
-                {
-                    "field": "cccm_shelter__mangmt",
-                    "name": {
-                        "fr": "cccm abris gestion",
-                        "en": "cccm shelter management",
-                        "ar": "إدارة المأوى cccm"
-                    }
-                }
+                }                
             ],
             "spatial": {
                 "siteFields": {
@@ -162,7 +162,7 @@
                     "lastUpdate": "last_update",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "cccm_shelter__mangmt"
+                    "manageBy": "cccm_shelter_management"
                 },
                 "admins": {
                     "admin1": {
@@ -184,7 +184,8 @@
                 "displayDateFormat": "MM/YYYY",
                 "listSeparator": ";",
                 "anonymousMode": "none",
-                "siteZoomMode": "admin"
+                "siteZoomMode": "site",
+                "siteZoomBuffer": 1000
             },
             "indicators": {
                 "area": [
