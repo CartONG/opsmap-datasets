@@ -239,7 +239,7 @@
                 "anonymousMode": "text",
                 "sitesMapVisualisation": [
                     {
-                        "type": "population_count",
+                        "type": "populationCount",
                         "field": "nb_site_residents_ind"
                     }
                 ]
