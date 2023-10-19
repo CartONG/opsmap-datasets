@@ -146,14 +146,6 @@
                     }
                 },
                 {
-                    "field": "cccm_shelter_coordination",
-                    "name": {
-                        "fr": "cccm abris coordination",
-                        "en": "cccm shelter coordination",
-                        "ar": "تنسيق المأوى cccm"
-                    }
-                },
-                {
                     "field": "cccm_shelter__mangmt",
                     "name": {
                         "fr": "cccm abris gestion",
