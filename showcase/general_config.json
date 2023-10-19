@@ -117,18 +117,15 @@
         },
         "dbConfig": {
             "admin1": "pcode",
-            "admin2": "pcode",
-            "admin3": "pcode"
+            "admin2": "pcode"
         },
        "adminLevels": [
             "admin1",
-            "admin2",
-            "admin3"
+            "admin2"
         ],
         "adminLevelsMap": [
             "admin1",
-            "admin2",
-            "admin3"
+            "admin2"
         ]
     },
     "surveys": [
