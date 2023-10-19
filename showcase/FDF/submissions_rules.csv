@@ -59,7 +59,7 @@ cccm_shelter_type;bullet;group_cccm;;;;;;
 cccm_shelter_opened;date;group_cccm;;;;;;
 cccm_shelter_admin;string;group_cccm;;;;;;
 cccm_shelter_coordination;string;group_cccm;;;;;;
-cccm_shelter__mangmt;string;group_cccm;;;;;;
+cccm_shelter_management;string;group_cccm;;;;;;
 cccm_num_of_staff;integer;group_cccm;;;;;;
 cccm_num_of_RHUs;integer;group_cccm;;;;;;
 All_makeshift_shelter;integer;group_cccm;;polar_area_chart#3;HHliving;;;
