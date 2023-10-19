@@ -6,6 +6,7 @@ latitude;Latitude;Latitude
 longitude;Longitude;Longitude
 General_Site_Type;General Site type;Généralités Type de site
 Date_of_the_Monitoring_Visit;Date of visit;Date de la visite
+round;Survey round ID;ID du tour d'enquête
 Province_of_the_monitored_location;Province;Province
 Site_Location;Site Location;Emplacement du site
 site_name;Name of the Site;Nom du site
