@@ -1,5 +1,5 @@
 {
-    "version": "v1.3.0",
+    "version": "v1.3.1",
     "locale": {
         "locales": [
             "en",
@@ -272,6 +272,10 @@
                     "admin2": {
                         "pcode": "adm2_pcode",
                         "name": "Municipality_of_monitored_location"
+                    },
+                    "admin3": {
+                        "pcode": "adm3_pcode",
+                        "name": "Municipality"
                     }
                 }
             },
