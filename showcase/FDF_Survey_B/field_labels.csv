@@ -7,17 +7,11 @@ longitude;Longitude;Longitude
 General_Site_Type;General Site type;Généralités Type de site
 Date_of_the_Monitoring_Visit;Date of visit;Date de la visite
 Province_of_the_monitored_location;Province;Province
-Municipality_of_monitored_location;Municipality;Municipalité
 Site_Location;Site Location;Emplacement du site
-Other_Location;Other Location;Autre emplacement
 site_name;Name of the Site;Nom du site
 Type_of_the_Site;Type of the Site;Type de site
-Sites_location_coordinates;Sites location coordinates;Coordonnées de l'emplacement du site
-Sites_location_coordinates_altitude;Sites location coordinates_altitude;Coordonnées de l'emplacement du site_altitude
-Sites_location_coordinates_precision;Sites location coordinates_precision;Coordonnées de l'emplacement du site_précision
 Address_of_the_Site;Address of the Site;Adresse du site
 Hotline_or_Contact_Number_of_the_Site;Hotline or Contact Number of the Site;Numéro d'urgence ou de contact du site
-Other_Type_of_the_Site;Other Type of the Site;Autre type de site
 Does_Site_works_24_7;Does Site works 24/7?;Le site fonctionne-t-il 24 heures sur 24 et 7 jours sur 7 ?
 Select_working_days;Working days;Jours ouvrables
 Indicate_sites_working_Hours;Indicate sites working Hours;Indiquer les heures de travail du site
@@ -35,7 +29,7 @@ Organizations_involved_in_identification_and_referral_of_UASCs;Organization(s) i
 Are_family_tracing_services_available_at_the_site;Are family tracing services available at the site?;Des services de recherche des familles sont-ils disponibles sur le site ?
 Organization_providing_family_tracing_services;Organization providing family tracing services;Organisation fournissant des services de recherche des familles
 Is_Child_friendly_space_is_available_at_the_Site;Is Child-friendly space is available at the Site?;Un espace adapté aux enfants est-il disponible sur le site ?
-Is_there_specific_organization_managing_the_Child_friendly_space_If_yes_name_of_organization;Is there specific organization managing the Child-friendly space? If yes;Y a-t-il une organisation spécifique qui gère l'espace ami des enfants ? Si oui
+Is_there_specific_organization_managing_the_Child_friendly_space_If_yes_name_of_organization;Is there specific organization managing the Child-friendly space? If yes, name of organization;Y a-t-il une organisation spécifique qui gère l'espace ami des enfants ? Si oui, nom de l'organisation
 Number_of_staff_volunteers_working_in_the_Child_friendly_space;Number of staff/volunteers working in the Child-friendly space?;Nombre d'employés/bénévoles travaillant dans l'espace ami des enfants ?
 Is_there_registration_for_Temporary_Protection_conducted;Is there registration for Temporary Protection conducted?;L'enregistrement au titre de la protection temporaire a-t-il été effectué ?
 Number_of_staff_conducting_registration_under_TP;Number of staff conducting registration under TP;Nombre d'employés chargés de l'enregistrement dans le cadre de la protection temporaire
@@ -74,7 +68,7 @@ Organizations_providing_information_on_International_Protection_and_Humanitarian
 Organizations_providing_information_on_Risks_of_Sexual_Exploitation_and_Trafficking;Organization(s) providing information on Risks of Sexual Exploitation and Trafficking;Organisation(s) fournissant des informations sur les risques d'exploitation sexuelle et de traite des êtres humains
 Organizations_providing_information_on_Services_Available;Organization(s) providing information on Services Available;Organisation(s) fournissant des informations sur les services disponibles
 Organizations_providing_information_on_Temporary_Protection;Organization(s) providing information on Temporary Protection;Organisation(s) fournissant des informations sur la protection temporaire
-Organizations_providing_information_on_Transport_including_for_people_in_transit;Organization(s) providing information on Transport including for people in transit;Organisation(s) fournissant des informations sur le transport
+Organizations_providing_information_on_Transport_including_for_people_in_transit;Organization(s) providing information on Transport including for people in transit;Organisation(s) fournissant des informations sur le transport, y compris pour les personnes en transit
 Legal_counselling_and_assistance_is_available_in_the_Site;Legal counselling and assistance is available in the Site?;Des conseils et une assistance juridiques sont-ils disponibles sur le site ?
 Organizations_providing_legal_assistance;Organization(s) providing legal assistance;Organisation(s) fournissant une assistance juridique
 Type_of_staff_providing_legal_assistance;Type of staff providing legal assistance;Type de personnel fournissant une assistance juridique
