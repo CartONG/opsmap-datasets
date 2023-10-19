@@ -1,5 +1,5 @@
 {
-    "version": "v1.2.3",
+    "version": "v1.3.0",
     "locale": {
         "locales": [
             "en",
@@ -239,6 +239,93 @@
                         },
                         "entryCode": "water_quality_access",
                         "iconOchaName": "Potable-water"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "gsheet",
+            "fdf": {
+                "folder": "FDF_Survey_B"
+            },
+            "name": "Survey B",
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=287797693&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=1363403091&single=true&output=csv",
+            "options": {
+                "anonymousMode": "text"
+            },
+            "spatial": {
+                "siteFields": {
+                    "id": "site_id",
+                    "lastUpdate": "Date_of_the_Monitoring_Visit",
+                    "latitude": "latitude",
+                    "longitude": "longitude",
+                    "manageBy": "Who_is_managing_the_site",
+                    "name": "site_name",
+                    "type": "General_Site_Type"
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "adm1_pcode",
+                        "name": "Province_of_the_monitored_location"
+                    },
+                    "admin2": {
+                        "pcode": "adm2_pcode",
+                        "name": "Municipality_of_monitored_location"
+                    }
+                }
+            },
+            "indicators": {
+                "area": [
+                    {
+                        "type": "site_count"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Number of volunteers",
+                            "fr": "Nombre de bénévoles"
+                        },
+                        "entryCode": "Number_of_volunteers_mobilised",
+                        "iconOchaName": "Staff-management"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Number of interprets",
+                            "fr": "Nombre d'interprètes"
+                        },
+                        "entryCode": "Number_of_interpreters_engaged",
+                        "iconOchaName": "Staff-management"
+                    }
+                ],
+                "site": [
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Does Site works 24/7?",
+                            "fr": "Le site fonctionne-t-il 24/7?"
+                        },
+                        "entryCode": "Does_Site_works_24_7",
+                        "iconOchaName": "Time"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Accomodation available ?",
+                            "bg": "Hébergement disponible ?"
+                        },
+                        "entryCode": "Is_accomodation_for_short_rest_overnight_available_within_the_Site",
+                        "iconOchaName": "Distribution-site"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Food provided ?",
+                            "bg": "Nourriture fournie ?"
+                        },
+                        "entryCode": "Is_food_provided_to_the_site",
+                        "iconOchaName": "Food"
                     }
                 ]
             }
