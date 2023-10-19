@@ -239,12 +239,8 @@
                 "anonymousMode": "text",
                 "sitesMapVisualisation": [
                     {
-                        "label": "Population Count",
-                        "visualisationType": {
-                            "type": "population_count",
-                            "field": "nb_site_residents_ind",
-                            "color": "#EC6B4D"
-                        }
+                        "type": "population_count",
+                        "field": "nb_site_residents_ind"
                     }
                 ]
             },
