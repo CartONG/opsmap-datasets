@@ -1,9 +1,9 @@
 formatted_name;icon_file_name;thematic_label_en;thematic_label_fr
 group_general_info;About;General;Général
-group_cccm;Camp-Coordination-and-Camp-Management;Site Management;Gestion des sites
-group_protection;Protection;Protection;Protection de l'environnement
+group_cccm;Camp-Coordination-and-Camp-Management;Site Management;Gestion du site
+group_protection;Protection;Protection;Protection
 group_shelternfi;Shelter;Shelter - NFI;Abris - NFI
-group_wash;Water-Sanitation-and-Hygiene;Water;Eau et assainissement
+group_wash;Water-Sanitation-and-Hygiene;Water, sanitation and hygiene;Eau, assainissement et hygiène
 group_nutrition;Nutrition;Nutrition;Nutrition
 group_health;Health;Health;Santé
 group_vulpop;Elderly;Vulnerable population;Population vulnérable

@@ -1,12 +1,12 @@
-﻿formatted_name;icon_file_name;traffic_light_name;thematic_label_en;thematic_label_fr
-group_general_info;About;;General;Généralité
-group_cccm;Camp-Coordination-and-Camp-Management;max;Camp Management;Gestion des Sites
-group_demo;People-in-need;;Demographic distribution;Démographie
-group_shelternfi;Shelter;mean;Shelter - NFI;Abris
-group_wash;Water-Sanitation-and-Hygiene;;Water, sanitation and hygiene;Eau, Hygiène et Assainissement
-group_health;Health;min;Health;Santé
-group_education;Education;;Education;Education
-group_security;Security;;Security;Sécurité
-group_environment;Environment;;Environment;Environnement
-group_vulpop;Elderly;;Vulnerable population;Population vulnérable
-group_covid;COVID-19;;COVID-19;COVID-19
+﻿formatted_name;icon_file_name;traffic_light_name;thematic_label_en;thematic_label_fr;thematic_label_ar
+group_general_info;About;;General;Généralité;عام
+group_shelternfi;Shelter;min;Shelter - NFI;Abris;المأوى - المواد غير الغذائية
+group_demo;People-in-need;mean;Demographic distribution;Démographie;التوزيع الديموغرافي
+group_cccm;Camp-Coordination-and-Camp-Management;max;Camp Management;Gestion des Sites;إدارة المخيم
+group_wash;Water-Sanitation-and-Hygiene;mean;Water, sanitation and hygiene;Eau, Hygiène et Assainissement;المياه والصرف الصحي والنظافة
+group_vulpop;Elderly;mean;Vulnerable population;Population vulnérable;السكان الضعفاء
+group_education;Education;mean;Education;Education;تعليم
+group_environment;Environment;mean;Environment;Environnement;بيئة
+group_health;Health;mean;Health;Santé;صحة
+group_security;Security;mean;Security;Sécurité;حماية
+group_covid;COVID-19;mean;COVID-19;COVID-19;كوفيد-19

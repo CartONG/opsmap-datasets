@@ -1,5 +1,5 @@
 {
-    "version": "v1.2.3",
+    "version": "v1.3.1",
     "locale": {
         "locales": [
             "en",
@@ -11,19 +11,22 @@
             "en": {
                 "infosAdmins": {
                     "admin1": "Region",
-                    "admin2": "Department"
+                    "admin2": "Department",
+                    "admin3": "Municipality"
                 }
             },
             "fr": {
                 "infosAdmins": {
                     "admin1": "Région",
-                    "admin2": "Département"
+                    "admin2": "Département",
+                    "admin3": "Commune"
                 }
             },
             "ar": {
                 "infosAdmins": {
                     "admin1": "منطقة",
-                    "admin2": "قسم"
+                    "admin2": "قسم",
+                    "admin3": "البلدية"
                 }
             }
         }
@@ -111,15 +114,37 @@
                 8,
                 42
             ]
-        }
+        },
+        "dbConfig": {
+            "admin1": "pcode",
+            "admin2": "pcode",
+            "admin3": "pcode"
+        },
+       "adminLevels": [
+            "admin1",
+            "admin2",
+            "admin3"
+        ],
+        "adminLevelsMap": [
+            "admin1",
+            "admin2"
+        ]
     },
     "surveys": [
         {
             "type": "gsheet",
-            "name": "Survey 2022",
+            "name": "Survey A",
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=0&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=903507497&single=true&output=csv",
             "additionalFiltersDescription": [
+                {
+                    "field": "cccm_shelter_management",
+                    "name": {
+                        "fr": "Gérer par",
+                        "en": "Manage by",
+                        "ar": "إدارة بواسطة"
+                    }
+                },
                 {
                     "field": "site_pcode",
                     "name": {
@@ -127,23 +152,7 @@
                         "en": "Site PCode",
                         "ar": "رمز PC للموقع"
                     }
-                },
-                {
-                    "field": "cccm_shelter_coordination",
-                    "name": {
-                        "fr": "cccm abris coordination",
-                        "en": "cccm shelter coordination",
-                        "ar": "تنسيق المأوى cccm"
-                    }
-                },
-                {
-                    "field": "cccm_shelter__mangmt",
-                    "name": {
-                        "fr": "cccm abris gestion",
-                        "en": "cccm shelter management",
-                        "ar": "إدارة المأوى cccm"
-                    }
-                }
+                }                
             ],
             "spatial": {
                 "siteFields": {
@@ -153,7 +162,7 @@
                     "lastUpdate": "last_update",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "cccm_shelter__mangmt"
+                    "manageBy": "cccm_shelter_management"
                 },
                 "admins": {
                     "admin1": {
@@ -163,6 +172,10 @@
                     "admin2": {
                         "pcode": "adm2_pcode",
                         "name": "dep"
+                    },
+                    "admin3": {
+                        "pcode": "adm3_pcode",
+                        "name": "city"
                     }
                 }
             },
@@ -171,7 +184,8 @@
                 "displayDateFormat": "MM/YYYY",
                 "listSeparator": ";",
                 "anonymousMode": "none",
-                "siteZoomMode": "admin"
+                "siteZoomMode": "site",
+                "siteZoomBuffer": 1000
             },
             "indicators": {
                 "area": [
@@ -228,9 +242,122 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "gsheet",
+            "fdf": {
+                "folder": "FDF_Survey_B"
+            },
+            "name": "Survey B on other topic",
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=287797693&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=1363403091&single=true&output=csv",
+            "options": {
+                "anonymousMode": "text",
+                "siteZoomMode": "admin"
+            },
+            "additionalFiltersDescription": [
+                {
+                    "field": "round",
+                    "name": {
+                        "fr": "Tour d'enquête",
+                        "en": "Survey round",
+                        "ar": "جولة المسح"
+                    }
+                }        
+            ],
+            "spatial": {
+                "siteFields": {
+                    "id": "site_id",
+                    "lastUpdate": "Date_of_the_Monitoring_Visit",
+                    "latitude": "latitude",
+                    "longitude": "longitude",
+                    "manageBy": "Who_is_managing_the_site",
+                    "name": "site_name",
+                    "type": "General_Site_Type"
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "adm1_pcode",
+                        "name": "Region"
+                    },
+                    "admin2": {
+                        "pcode": "adm2_pcode",
+                        "name": "Province_of_the_monitored_location"
+                    },
+                    "admin3": {
+                        "pcode": "adm3_pcode",
+                        "name": "Municipality_of_monitored_location"
+                    }
+                }
+            },
+            "indicators": {
+                "area": [
+                    {
+                        "type": "site_count"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Number of volunteers",
+                            "fr": "Nombre de bénévoles",
+                            "ar":"عدد المتطوعين"
+                        },
+                        "entryCode": "Number_of_volunteers_mobilised",
+                        "iconOchaName": "Staff-management"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Number of interprets",
+                            "fr": "Nombre d'interprètes",
+                            "ar":"عدد المترجمين"
+                        },
+                        "entryCode": "Number_of_interpreters_engaged",
+                        "iconOchaName": "Staff-management"
+                    }
+                ],
+                "site": [
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Does Site works 24/7?",
+                            "fr": "Le site fonctionne-t-il 24/7?",
+                            "ar":"هل يعمل الموقع 24/7؟"
+                        },
+                        "entryCode": "Does_Site_works_24_7",
+                        "iconOchaName": "Time"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Accomodation available ?",
+                            "fr": "Hébergement disponible ?",
+                            "ar":"السكن متاح؟"
+                        },
+                        "entryCode": "Is_accomodation_for_short_rest_overnight_available_within_the_Site",
+                        "iconOchaName": "Distribution-site"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Food provided ?",
+                            "fr": "Nourriture fournie ?",
+                            "ar":"الطعام المقدم؟"
+                        },
+                        "entryCode": "Is_food_provided_to_the_site",
+                        "iconOchaName": "Food"
+                    }
+                ]
+            }
         }
     ],
     "options": {
-        "showDemoBanner": true
+        "showCCCMLogo": true,
+        "dark": false,
+        "pdfColumnCount": 3,
+        "exportForEsite": true,
+        "showDemoBanner": true,
+        "exportAsCSVonHomePage": true,
+        "keepThematicOrderFromFDF": true
     }
 }
