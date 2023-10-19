@@ -205,12 +205,8 @@
                 "siteZoomBuffer": 100,
                 "sitesMapVisualisation": [
                     {
-                        "label": "Population Count",
-                        "visualisationType": {
-                            "type": "population_count",
-                            "field": "demo_num_indv",
-                            "color": "#EC6B4D"
-                        }
+                        "type": "population_count",
+                        "field": "demo_num_indv"
                     }
                 ]
             },
