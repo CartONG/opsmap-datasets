@@ -248,7 +248,7 @@
             "fdf": {
                 "folder": "FDF_Survey_B"
             },
-            "name": "Survey B",
+            "name": "Survey B on other topic",
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=287797693&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=1363403091&single=true&output=csv",
             "options": {
@@ -298,7 +298,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Number of volunteers",
-                            "fr": "Nombre de bénévoles"
+                            "fr": "Nombre de bénévoles",
+                            "ar":"عدد المتطوعين"
                         },
                         "entryCode": "Number_of_volunteers_mobilised",
                         "iconOchaName": "Staff-management"
@@ -307,7 +308,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Number of interprets",
-                            "fr": "Nombre d'interprètes"
+                            "fr": "Nombre d'interprètes",
+                            "ar":"عدد المترجمين"
                         },
                         "entryCode": "Number_of_interpreters_engaged",
                         "iconOchaName": "Staff-management"
@@ -318,7 +320,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Does Site works 24/7?",
-                            "fr": "Le site fonctionne-t-il 24/7?"
+                            "fr": "Le site fonctionne-t-il 24/7?",
+                            "ar":"هل يعمل الموقع 24/7؟"
                         },
                         "entryCode": "Does_Site_works_24_7",
                         "iconOchaName": "Time"
@@ -327,7 +330,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Accomodation available ?",
-                            "bg": "Hébergement disponible ?"
+                            "fr": "Hébergement disponible ?",
+                            "ar":"السكن متاح؟"
                         },
                         "entryCode": "Is_accomodation_for_short_rest_overnight_available_within_the_Site",
                         "iconOchaName": "Distribution-site"
@@ -336,7 +340,8 @@
                         "type": "standard",
                         "name": {
                             "en": "Food provided ?",
-                            "bg": "Nourriture fournie ?"
+                            "fr": "Nourriture fournie ?",
+                            "ar":"الطعام المقدم؟"
                         },
                         "entryCode": "Is_food_provided_to_the_site",
                         "iconOchaName": "Food"
