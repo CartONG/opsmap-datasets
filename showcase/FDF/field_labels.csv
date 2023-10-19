@@ -13,7 +13,7 @@ cccm_shelter_type;Shelter Type;Type de centre d'hébergement;نوع المأوى
 cccm_shelter_opened;Shelter Opened;Ouverture du centre d'hébergement;تم فتح المأوى
 cccm_shelter_admin;Shelter Administration;Administration du centre d'hébergement;إدارة الملجأ
 cccm_shelter_coordination;Shelter Coordination;Coordination des abris;تنسيق المأوى
-cccm_shelter__mangmt;Shelter Management;Gestion des abris;إدارة المأوى
+cccm_shelter_management;Shelter Management;Gestion des abris;إدارة المأوى
 cccm_num_of_staff;No. of Staff;Nombre d'employés;عدد الموظفين
 cccm_num_of_RHUs;No. of RHUs;Nombre d'UHR;عدد وحدات RHUs
 cccm_avg_stay_in_shelter_months;Avg stay in shelter (months);Durée moyenne de séjour au foyer (mois);متوسط ​​الإقامة في المأوى (أشهر)
