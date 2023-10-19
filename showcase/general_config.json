@@ -11,19 +11,22 @@
             "en": {
                 "infosAdmins": {
                     "admin1": "Region",
-                    "admin2": "Department"
+                    "admin2": "Department",
+                    "admin3": "Commune"
                 }
             },
             "fr": {
                 "infosAdmins": {
                     "admin1": "Région",
-                    "admin2": "Département"
+                    "admin2": "Département",
+                    "admin3": "Municipality"
                 }
             },
             "ar": {
                 "infosAdmins": {
                     "admin1": "منطقة",
-                    "admin2": "قسم"
+                    "admin2": "قسم",
+                    "admin3": "البلدية"
                 }
             }
         }
@@ -111,12 +114,27 @@
                 8,
                 42
             ]
-        }
+        },
+        "dbConfig": {
+            "admin1": "pcode",
+            "admin2": "pcode",
+            "admin3": "pcode"
+        },
+       "adminLevels": [
+            "admin1",
+            "admin2",
+            "admin3"
+        ],
+        "adminLevelsMap": [
+            "admin1",
+            "admin2",
+            "admin3"
+        ]
     },
     "surveys": [
         {
             "type": "gsheet",
-            "name": "Survey 2022",
+            "name": "Survey A",
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=0&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=903507497&single=true&output=csv",
             "additionalFiltersDescription": [
@@ -231,6 +249,7 @@
         }
     ],
     "options": {
-        "showDemoBanner": true
+        "showDemoBanner": true,
+        "keepThematicOrderFromFDF": true
     }
 }
