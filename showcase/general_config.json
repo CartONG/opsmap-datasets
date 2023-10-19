@@ -117,11 +117,13 @@
         },
         "dbConfig": {
             "admin1": "pcode",
-            "admin2": "pcode"
+            "admin2": "pcode",
+            "admin3": "pcode"
         },
        "adminLevels": [
             "admin1",
-            "admin2"
+            "admin2",
+            "admin3"
         ],
         "adminLevelsMap": [
             "admin1",
@@ -178,6 +180,10 @@
                     "admin2": {
                         "pcode": "adm2_pcode",
                         "name": "dep"
+                    },
+                    "admin3": {
+                        "pcode": "adm3_pcode",
+                        "name": "city"
                     }
                 }
             },
