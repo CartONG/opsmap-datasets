@@ -371,6 +371,6 @@
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
         "keepThematicOrderFromFDF": true,
-        "mapLegendDisplayStyle":"folded"
+        "mapLegendDisplayStyle":"default"
     }
 }
