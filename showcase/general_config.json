@@ -367,7 +367,7 @@
         "showCCCMLogo": true,
         "dark": false,
         "pdfColumnCount": 3,
-        "exportForEsite": true,
+        "exportForEsite": false,
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
         "keepThematicOrderFromFDF": true,
