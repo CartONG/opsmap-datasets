@@ -263,7 +263,7 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "population_count",
-                        "field": "demo_num_indv"
+                        "field": "Number_of_volunteers_mobilised"
                     }
                 ]
             },
