@@ -188,7 +188,7 @@
                 "siteZoomBuffer": 1000,
                 "sitesMapVisualisation": [
                     {
-                        "type": "population_count",
+                        "type": "populationCount",
                         "field": "demo_num_indv"
                     }
                 ]
