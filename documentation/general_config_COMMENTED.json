@@ -191,7 +191,7 @@
         // A visualisation is {
             // - "label": name that will appears in the legend
             // - "visualisationType": {
-                //     "type": "population_count", -> type of representation
+                //     "type": "populationCount", -> type of representation
                 //     "field": "demo_num_indv", -> name of the field to use
                 //     "color": "#EC6B4D" -> color for the representation
                 // }
@@ -205,7 +205,7 @@
                 "siteZoomBuffer": 100,
                 "sitesMapVisualisation": [
                     {
-                        "type": "population_count",
+                        "type": "populationCount",
                         "field": "demo_num_indv"
                     }
                 ]
@@ -373,6 +373,7 @@
     // - "showDemoBanner": (Optional) display the demo banner? Default is "false"
     // - "exportAsCSVonHomePage": (Optional) display the export as CSV on the home page? Default is "false"
     // - "keepThematicOrderFromFDF": (Optional) keep thematic order from FDF? if false, it is computed on the fly. Default is "false"
+    // - "mapLegendDisplayStyle": (Optional) Display of the legend , possibles valyes are 'default', 'folded' and 'hidden'
     "options": {
         "showCCCMLogo": true,
         "dark": false,
@@ -380,6 +381,7 @@
         "exportForEsite": false,
         "showDemoBanner": false,
         "exportAsCSVonHomePage": false,
-        "keepThematicOrderFromFDF": false
+        "keepThematicOrderFromFDF": false,
+        "mapLegendDisplayStyle": "default"
     }
 }
