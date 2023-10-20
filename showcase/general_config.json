@@ -189,9 +189,7 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "population_count",
-                        "field": "demo_num_indv",
-                        "label": "Population",
-                        "color":"#EC6B4D"
+                        "field": "demo_num_indv"
                     }
                 ]
             },
@@ -265,9 +263,7 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "population_count",
-                        "field": "demo_num_indv",
-                        "label": "Population",
-                        "color":"#EC6B4D"
+                        "field": "demo_num_indv"
                     }
                 ]
             },
