@@ -185,7 +185,13 @@
                 "listSeparator": ";",
                 "anonymousMode": "none",
                 "siteZoomMode": "site",
-                "siteZoomBuffer": 1000
+                "siteZoomBuffer": 1000,
+                "sitesMapVisualisation": [
+                    {
+                        "type": "population_count",
+                        "field": "demo_num_indv"
+                    }
+                ]
             },
             "indicators": {
                 "area": [
