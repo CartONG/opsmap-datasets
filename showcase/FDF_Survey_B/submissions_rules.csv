@@ -83,3 +83,4 @@ Are_non_food_items_NFIs_distributed_in_the_Site;list;group_nonfood;;;;;;boolean;
 Organizaitons_distributing_NFIs;string;group_nonfood;;;;;;;;;;;;;;;;;;;
 List_the_NFI_items_distributed;string;group_covid;;;;;;;;;;;;;;;;;;;
 COVID_19_Measures_in_place;list;group_covid;;;;;;pj8xh93;;;;;;;;;;;;;
+demo_num_indv;integer;group_demo;;;;;
