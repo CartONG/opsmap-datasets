@@ -188,7 +188,7 @@
                 "siteZoomBuffer": 1000,
                 "sitesMapVisualisation": [
                     {
-                        "type": "people_count",
+                        "type": "population_count",
                         "field": "demo_num_indv"
                     }
                 ]
@@ -262,7 +262,7 @@
                 "siteZoomMode": "admin",
                 "sitesMapVisualisation": [
                     {
-                        "type": "people_count",
+                        "type": "population_count",
                         "field": "demo_num_indv"
                     }
                 ]
