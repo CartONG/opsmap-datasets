@@ -189,7 +189,9 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "population_count",
-                        "field": "demo_num_indv"
+                        "field": "demo_num_indv",
+                        "label": "Population",
+                        "color":"#EC6B4D"
                     }
                 ]
             },
@@ -259,7 +261,15 @@
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=1363403091&single=true&output=csv",
             "options": {
                 "anonymousMode": "text",
-                "siteZoomMode": "admin"
+                "siteZoomMode": "admin",
+                "sitesMapVisualisation": [
+                    {
+                        "type": "population_count",
+                        "field": "demo_num_indv",
+                        "label": "Population",
+                        "color":"#EC6B4D"
+                    }
+                ]
             },
             "additionalFiltersDescription": [
                 {
