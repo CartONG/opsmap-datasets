@@ -1,5 +1,5 @@
 {
-    "version": "v1.3.1",
+    "version": "v1.3.2",
     "locale": {
         "locales": [
             "en",
@@ -185,7 +185,13 @@
                 "listSeparator": ";",
                 "anonymousMode": "none",
                 "siteZoomMode": "site",
-                "siteZoomBuffer": 1000
+                "siteZoomBuffer": 1000,
+                "sitesMapVisualisation": [
+                    {
+                        "type": "population_count",
+                        "field": "demo_num_indv"
+                    }
+                ]
             },
             "indicators": {
                 "area": [
@@ -253,7 +259,13 @@
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=1363403091&single=true&output=csv",
             "options": {
                 "anonymousMode": "text",
-                "siteZoomMode": "admin"
+                "siteZoomMode": "admin",
+                "sitesMapVisualisation": [
+                    {
+                        "type": "population_count",
+                        "field": "demo_num_indv"
+                    }
+                ]
             },
             "additionalFiltersDescription": [
                 {
@@ -355,9 +367,10 @@
         "showCCCMLogo": true,
         "dark": false,
         "pdfColumnCount": 3,
-        "exportForEsite": true,
+        "exportForEsite": false,
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
-        "keepThematicOrderFromFDF": true
+        "keepThematicOrderFromFDF": true,
+        "mapLegendDisplayStyle":"folded"
     }
 }

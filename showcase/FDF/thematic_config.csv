@@ -1,8 +1,8 @@
 ﻿formatted_name;icon_file_name;traffic_light_name;thematic_label_en;thematic_label_fr;thematic_label_ar
 group_general_info;About;;General;Généralité;عام
-group_overview;Preparedness;mean;Overview;Aperçu;ملخص
 group_shelternfi;Shelter;min;Shelter - NFI;Abris;المأوى - المواد غير الغذائية
 group_demo;People-in-need;mean;Demographic distribution;Démographie;التوزيع الديموغرافي
+group_overview;Preparedness;mean;Overview;Aperçu;ملخص
 group_cccm;Camp-Coordination-and-Camp-Management;max;Camp Management;Gestion des Sites;إدارة المخيم
 group_wash;Water-Sanitation-and-Hygiene;mean;Water, sanitation and hygiene;Eau, Hygiène et Assainissement;المياه والصرف الصحي والنظافة
 group_vulpop;Elderly;mean;Vulnerable population;Population vulnérable;السكان الضعفاء

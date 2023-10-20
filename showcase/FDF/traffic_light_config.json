@@ -1,4 +1,4 @@
-﻿{
+{
     "trafficLights": {
         "yesno": {
             "type": "key_value",
@@ -98,7 +98,7 @@
                 "All/almost all shelters": "darkred"
             }
         },
-         "need_hh": {
+        "need_hh": {
             "type": "key_value",
             "values": {
                 "all_almost_all_households": "green",
@@ -108,7 +108,7 @@
                 "none_almost_no_households": "darkred"
             }
         },
-         "female_sick": {
+        "female_sick": {
             "type": "key_value",
             "values": {
                 "none": "green",
@@ -131,6 +131,28 @@
                 "x<1": "red",
                 "x>=1 and x<4": "orange",
                 "x>=4": "green"
+            }
+        },
+        "ind_per_latrines_showers": {
+            "type": "math",
+            "values": {
+                "x<=20": "green",
+                "x>20": "red"
+            }
+        },
+        "nb_ind_vs_staff": {
+            "type": "math",
+            "values": {
+                "x<=1000": "green",
+                "x>1000": "red"
+            }
+        },
+        "pct_occ": {
+            "type": "math",
+            "values": {
+                "x<0.8": "green",
+                "x>=0.8 and x<1": "orange",
+                "x>=1": "red"
             }
         }
     }
