@@ -370,6 +370,7 @@
         "exportForEsite": true,
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
-        "keepThematicOrderFromFDF": true
+        "keepThematicOrderFromFDF": true,
+        "mapLegendDisplayStyle":"hidden"
     }
 }
