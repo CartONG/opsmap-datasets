@@ -1,8 +1,8 @@
 field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;computed_rule
 country;string;group_general_info;;;;;
-region;string;group_general_info;;;;;
-dep;string;group_general_info;;;;;
-city;string;group_general_info;;;;;
+region;list;group_general_info;;;;;
+dep;list;group_general_info;;;;;
+city;list;group_general_info;;;;;
 address;string;group_general_info;;;;;
 site_id;string;group_general_info;;;;;
 adm2_pcode;string;group_general_info;;;;;
