@@ -120,8 +120,9 @@
         "Source_eau": {
             "type": "list_count",
             "values": {
-                "x<1": "red",
-                "x>=1 and x<4": "orange",
+                "x<1": "darkred",
+                "x>=1 and x<2": "red",
+                "x>=2 and x<4": "orange",
                 "x>=4": "green"
             }
         },
