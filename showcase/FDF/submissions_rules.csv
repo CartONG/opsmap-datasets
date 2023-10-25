@@ -25,6 +25,7 @@ mosquito_nets;string;group_shelternfi;;bar#6;nfi;;
 solar_lamps;string;group_shelternfi;;bar#6;nfi;;
 demo_num_indv;integer;group_demo;;;;;
 demo_num_hh;integer;group_demo;;;;;
+demo_child_5to17;computed;group_demo;;;;;demo_allgender_12_17#+#demo_allgender_5_11
 demo_female_60+;integer;group_demo;;age_pyramid#1;f;;
 demo_female_18_59;integer;group_demo;;age_pyramid#1;f;;
 demo_female_12_17;integer;group_demo;;age_pyramid#1;f;;
