@@ -1,8 +1,8 @@
 field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;computed_rule
 country;string;group_general_info;;;;;
-region;list;group_general_info;;;;;
-dep;list;group_general_info;;;;;
-city;list;group_general_info;;;;;
+region;string;group_general_info;;;;;
+dep;string;group_general_info;;;;;
+city;string;group_general_info;;;;;
 address;string;group_general_info;;;;;
 site_id;string;group_general_info;;;;;
 adm2_pcode;string;group_general_info;;;;;
@@ -155,7 +155,7 @@ ServicesChirurgicaux;string;group_health;yesno;;;;
 ServicesPediatriq;string;group_health;yesno;;;;
 PrenatalServices;string;group_health;yesno;;;;
 Ambulance;string;group_health;yesno;;;;
-ProblemAccesSante;bullet;group_health;;;;;
+ProblemAccesSante;bullet;group_health;pb_sante;;;;
 Vaccination;string;group_health;yesnona;;;;
 TypeSupport;string;group_health;yesnona;;;;
 covidinfo;string;group_covid;yesno;;;;
