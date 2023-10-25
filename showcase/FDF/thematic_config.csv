@@ -1,16 +1,13 @@
-formatted_name;icon_file_name;traffic_light_name;thematic_label_en;thematic_label_pt
-group_general_info;About;;General;Geral
-group_cccm;Camp-Coordination-and-Camp-Management;;Shelter / Emergency Space Management;Gestão de abrigo / Espaço Emergencial
-group_demo;People-in-need;;Demographic distribution;Distribuição Demográfica
-group_protection;Protection;;Citizenship and Social Protection;Cidadania e Proteção Social
-group_wash;Water-Sanitation-and-Hygiene;;Water, Sanitation and Hygiene;Água, Saneamento e Higiene
-group_health;Health;;Health;Saúde
-group_education;Education;;Education and Training;Educação e Capacitação
-group_com;Public-information;;Community Actions;Ações Comunitárias
-group_sports;Add-sport;;Sports;Esportes
-group_security;Security;;Security;Segurança
-group_nonfood;Non-food-items;;Non-food Items;Itens Não-alimentícios
-group_environment;Environment;;Environment;Meio Ambiente
-group_interiorisation;Add-relocation;;Interiorisation;Interiorização
-group_infrastructure;Infrastructure;;Structure and Maintenance;Estrutura e Manutenção
-group_staff;Staff-management;;Staff;Pessoal
+formatted_name;icon_file_name;traffic_light_name;thematic_label_en;thematic_label_fr;thematic_label_ar
+group_general_info;About;;General;Généralité;عام
+group_overview;Preparedness;mean;Overview;Aperçu;ملخص
+group_demo;People-in-need;;Demographic distribution;Démographie;التوزيع الديموغرافي
+group_cccm;Camp-Coordination-and-Camp-Management;mean;Camp Management;Gestion des Sites;إدارة المخيم
+group_shelternfi;Shelter;mean;Shelter - NFI;Abris;المأوى - المواد غير الغذائية
+group_wash;Water-Sanitation-and-Hygiene;mean;Water, sanitation and hygiene;Eau, Hygiène et Assainissement;المياه والصرف الصحي والنظافة
+group_environment;Environment;mean;Environment;Environnement;بيئة
+group_vulpop;Elderly;mean;Vulnerable population;Population vulnérable;السكان الضعفاء
+group_health;Health;mean;Health;Santé;صحة
+group_security;Security;mean;Security;Sécurité;حماية
+group_education;Education;mean;Education;Education;تعليم
+group_covid;COVID-19;mean;COVID-19;COVID-19;كوفيد-19
