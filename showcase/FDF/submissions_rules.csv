@@ -127,7 +127,7 @@ SpecialNeeds;integer;group_vulpop;;doughnut_chart#4;SN#Persons with mental healt
 educ_num_trains_wrkshp_year;integer;group_education;nb_an;;;;
 educ_educ_provided_in_shelter;string;group_education;yesno;;;;
 educ_num_chldrn_in_frml_schl;integer;group_education;nb_enfant;;;;
-educ_num_adolsct_in_frml_schl;integer;group_education;nb_enfant;;;;
+educ_num_adolsct_in_frml_schl;integer;group_education;nb_ado;;;;
 educ_eng_class_avlble;string;group_education;yesno;;;;
 educ_vocnl_course_avlbe;string;group_education;yesno;;;;
 envrn_envrntl_issues;string;group_environment;;;;;
