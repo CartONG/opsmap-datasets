@@ -87,10 +87,10 @@ eliminationdechets;Primary method of waste disposal;Principale methode d'elimina
 latrines;Types of functional latrines;Types de latrines fonctionnelles;أنواع المراحيض الوظيفية
 NombreLatrines;Number of functional latrines (TL ratio %);Nombre de latrines fonctionnelles (TL ratio %);عدد المراحيض الصالحة للاستخدام (نسبة إجمالي الموارد البشرية %)
 NombreLatrines2;Number of functional latrines (TL simple);Nombre de latrines fonctionnelles (TL simple);عدد المراحيض العاملة (TL بسيطة)
-nb_ind_per_latrines;# Number of individuals per latrine;# Nombre d'individus par latrine;# عدد الأفراد لكل مرحاض
+nb_ind_per_latrines;# Number of individuals per latrine (values calculated on-the-fly);# Nombre d'individus par latrine (valeurs calculées à la volée);# عدد الأفراد لكل مرحاض (القيم المحسوبة بشكل فوري)
 Typesdouche;Types of functional showers/baths;Types de douches/bains fonctionnels;أنواع الدش/الحمامات الوظيفية
 Nbdouche;Number of showers (TL= rate/population);Nombre de douches (TL= taux/population);عدد مرات الاستحمام (TL= المعدل/عدد السكان)
-nb_ind_per_showers;# Number of individuals per shower;# Nombre de personnes par douche;# عدد الأفراد لكل دش
+nb_ind_per_showers;# Number of individuals per shower (values calculated on-the-fly);# Nombre de personnes par douche (valeurs calculées à la volée);# عدد الأفراد لكل دش (القيم المحسوبة بسرعة)
 douchesepare;Are showers separated between men and women?;Les douches sont-elles separees entre les hommes et les femmes?;هل يتم فصل الاستحمام بين الرجال والنساء؟
 latrinevidance;Latrine Emptying;Vidanges des latrines;تفريغ المراحيض
 latrinevidanceMois;Date of last emptying;Date de la dernière vidange;تاريخ آخر إفراغ
@@ -175,7 +175,7 @@ stigma_covid;Social stigma and discrimination;Stigmatisation sociale et discrimi
 bien_etre_psy;Psychological well-being;Bien-être psychologique;الراحه النفسية
 shelter_type;Shelter type;Type d'abris;اكتب دابريس
 site_name;Site name;Nom du site;اسم الموقع
-hh_size;Number of individuals per household;Nombre d'individus par ménage;عدد الأفراد لكل أسرة
-pct_occupation;Number of household per shelter;Nombre de ménages par abri;معدل إشغال المأوى حسب الأسرة
-staff_hh;Number of individuals per staff;Nombre de personnes par employé;عدد الأسرة لكل موظف
-demo_child_5to17;Number of children of school age (5 -17); Nombre d'enfants en âge d'être scolarisés (5-17);عدد الأطفال في سن المدرسة (5 -17)
+hh_size;Number of individuals per household (value calculated on-the-fly);Nombre d'individus par ménage (valeur calculée à la volée);عدد الأفراد في كل أسرة (القيمة المحسوبة بشكل فوري)
+pct_occupation;Number of household per shelter (value calculated on-the-fly);Nombre de ménages par abri (valeur calculée à la volée);عدد الأسرة في كل مأوى (القيمة المحسوبة بشكل فوري)؛
+staff_hh;Number of individuals per staff (value calculated on-the-fly);Nombre de personnes par employé (valeur calculée à la volée);عدد الأفراد لكل موظف (القيمة المحسوبة بسرعة)
+demo_child_5to17;Number of children of school age (5 -17)(value calculated on-the-fly); Nombre d'enfants en âge d'être scolarisés (5-17)(valeur calculée à la volée);عدد الأطفال في سن المدرسة (5 - 17) (القيمة المحسوبة بشكل فوري)
