@@ -123,11 +123,11 @@ Besoinsspeciaux;integer;group_vulpop;;doughnut_chart#4;BS#People with mental dis
 Maladiechronique;integer;group_vulpop;;doughnut_chart#4;MC#People with chronic diseases;;
 PhysicalDisability;integer;group_vulpop;;doughnut_chart#4;PD#ersons with permanent physical disabilities;;
 SpecialNeeds;integer;group_vulpop;;doughnut_chart#4;SN#Persons with mental health disabilities;;
-educ_num_trains_wrkshp_year;integer;group_education;;;;;
+educ_num_trains_wrkshp_year;integer;group_education;nb_an;;;;
 educ_educ_provided_in_shelter;string;group_education;yesno;;;;
-educ_num_chldrn_in_frml_schl;integer;group_education;;;;;
-educ_num_adolsct_in_frml_schl;integer;group_education;;;;;
-educ_portug_class_avlble;string;group_education;yesno;;;;
+educ_num_chldrn_in_frml_schl;integer;group_education;nb_enfant;;;;
+educ_num_adolsct_in_frml_schl;integer;group_education;nb_enfant;;;;
+educ_eng_class_avlble;string;group_education;yesno;;;;
 educ_vocnl_course_avlbe;string;group_education;yesno;;;;
 envrn_envrntl_issues;string;group_environment;;;;;
 envrn_flood_prone_areas;string;group_environment;yesno;;;;
