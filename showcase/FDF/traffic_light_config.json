@@ -171,23 +171,23 @@
                 "y": "educ_num_chldrn_in_frml_schl"
             },
             "values": {
-                "((y*100)/x)< 5": "darkred",
-                "((y*100)/x) >=5 and ((y*100)/x)<50 ": "red",
-                "((y*100)/x)>= 50 and ((y*100)/x) <90": "yellow",
-                "((y*100)/x)>= 90": "green"
+                "((y*100)/x)<5": "darkred",
+                "((y*100)/x)>=5 and ((y*100)/x)<50": "red",
+                "((y*100)/x)>=50 and ((y*100)/x)<90": "yellow",
+                "((y*100)/x)>=90": "green"
             }
         },
         "nb_ado": {
             "type": "math",
             "scope": {
-                "x": "demo_allgender_12_17",
-                "y": "educ_num_adolsct_in_frml_schl"
+                "y": "demo_allgender_12_17",
+                "x": "educ_num_adolsct_in_frml_schl"
             },
             "values": {
-                "((y*100)/x)< 5": "darkred",
-                "((y*100)/x) >=5 and ((y*100)/x)<50 ": "red",
-                "((y*100)/x)>= 50 and ((y*100)/x) <90": "yellow",
-                "((y*100)/x)>= 90": "green"
+                "((x*100)/y)<5": "darkred",
+                "((x*100)/y)>=5 and ((x*100)/y)<50": "red",
+                "((x*100)/y)>=50 and ((x*100)/y)<90": "yellow",
+                "((x*100)/y)>=90": "green"
             }
         },
         "list_default": {
