@@ -164,19 +164,6 @@
                 "x>=12": "green"
             }
         },
-        "nb_enfant": {
-            "type": "math",
-            "scope": {
-                "x": "demo_child_5to17",
-                "y": "educ_num_chldrn_in_frml_schl"
-            },
-            "values": {
-                "((y*100)/x)<5": "darkred",
-                "((y*100)/x)>=5 and ((y*100)/x)<50": "red",
-                "((y*100)/x)>=50 and ((y*100)/x)<90": "yellow",
-                "((y*100)/x)>=90": "green"
-            }
-        },
         "nb_ado": {
             "type": "math",
             "scope": {
