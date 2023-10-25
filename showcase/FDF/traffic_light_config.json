@@ -166,11 +166,38 @@
         },
         "nb_enfant": {
             "type": "math",
+            "scope": {
+                "x": "demo_child_5to17",
+                "y": "educ_num_chldrn_in_frml_schl"
+            },
             "values": {
-                "x<5": "red",
-                "x>=5 and x<50": "orange",
-                "x>=50": "green"
+                "((y*100)/x)< 5": "darkred",
+                "((y*100)/x) >=5 and ((y*100)/x)<50 ": "red",
+                "((y*100)/x)>= 50 and ((y*100)/x) <90": "yellow",
+                "((y*100)/x)>= 90": "green"
             }
-        }
+        },
+        "nb_ado": {
+            "type": "math",
+            "scope": {
+                "x": "demo_allgender_12_17",
+                "y": "educ_num_adolsct_in_frml_schl"
+            },
+            "values": {
+                "((y*100)/x)< 5": "darkred",
+                "((y*100)/x) >=5 and ((y*100)/x)<50 ": "red",
+                "((y*100)/x)>= 50 and ((y*100)/x) <90": "yellow",
+                "((y*100)/x)>= 90": "green"
+            }
+        },
+        "list_default": {
+            "type": "list_count",
+            "values": {
+                "x<1": "darkred",
+                "x>=1 and x<2": "red",
+                "x>=2 and x<4": "orange",
+                "x>=4": "green"
+            }
+        },
     }
 }
