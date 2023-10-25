@@ -178,4 +178,4 @@ site_name;Site name;Nom du site;اسم الموقع
 hh_size;Number of individuals per household;Nombre d'individus par ménage;عدد الأفراد لكل أسرة
 pct_occupation;Number of household per shelter;Nombre de ménages par abri;معدل إشغال المأوى حسب الأسرة
 staff_hh;Number of individuals per staff;Nombre de personnes par employé;عدد الأسرة لكل موظف
-demo_child_5to17;Number of children of school age; Nombre d'enfants en âge d'être scolarisés;عدد الأطفال في سن المدرسة
+demo_child_5to17;Number of children of school age (5 -17); Nombre d'enfants en âge d'être scolarisés (5-17);عدد الأطفال في سن المدرسة (5 -17)
