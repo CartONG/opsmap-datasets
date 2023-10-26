@@ -37,6 +37,16 @@
                 "pnta": "green"
             }
         },
+        "latr_pwd": {
+            "type": "key_value",
+            "values": {
+                "all": "green",
+                "many": "yellow",
+                "some": "orange",
+                "few": "red",
+                "none": "darkred"
+            }
+        },
         "cccm_cfm": {
             "type": "key_value",
             "values": {
