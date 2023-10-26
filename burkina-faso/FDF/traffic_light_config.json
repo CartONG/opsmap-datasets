@@ -36,6 +36,21 @@
                 "x<=50": "green",
                 "x>50": "red"
             }
+        },
+        "ind_per_latrines_showers": {
+            "type": "math",
+            "values": {
+                "x<=50": "green",
+                "x>50": "red"
+            }
+        },
+        "pct_occ": {
+            "type": "math",
+            "values": {
+                "x<0.8": "green",
+                "x>=0.8 and x<1": "orange",
+                "x>=1": "red"
+            }
         }
     }
 }
