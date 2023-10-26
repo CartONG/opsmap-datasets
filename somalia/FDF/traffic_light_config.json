@@ -140,6 +140,17 @@
                 "x>0 and x<=2": "orange",
                 "x>=2": "green"
             }
-        }
+        },
+        "sickness": {
+            "type": "key_value",
+            "values": {
+                "none": "green",
+                "few": "green",
+                "some": "orange",
+                "many": "red",
+                "all": "darkred",
+                "NC": "grey"
+            }
+        },
     }
 }
