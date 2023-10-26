@@ -179,3 +179,4 @@ hh_size;Number of individuals per household (value calculated on-the-fly);Nombre
 pct_occupation;Number of household per shelter (value calculated on-the-fly);Nombre de ménages par abri (valeur calculée à la volée);عدد الأسرة في كل مأوى (القيمة المحسوبة بشكل فوري)؛
 staff_hh;Number of individuals per staff (value calculated on-the-fly);Nombre de personnes par employé (valeur calculée à la volée);عدد الأفراد لكل موظف (القيمة المحسوبة بسرعة)
 demo_child_5to17;Number of children of school age (5 -17)(value calculated on-the-fly); Nombre d'enfants en âge d'être scolarisés (5-17)(valeur calculée à la volée);عدد الأطفال في سن المدرسة (5 - 17) (القيمة المحسوبة بشكل فوري)
+nb_shelters;Number of shelters in the site;Nombre d'abris sur le site;عدد المآوي في الموقع
