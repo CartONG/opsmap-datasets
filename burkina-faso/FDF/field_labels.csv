@@ -153,10 +153,8 @@ partner_livelihood_name;Livelihood partners;Partenaires de moyens de subsistance
 communication_presence;Presence of a communication service;Présence d'un service de communication
 Nom_partenaire_Communication;Communication service stakeholders with communities (mass communication);Partenaires de service de communication avec les communautés (communication de masse)
 NiveauCongestionSite;Level of congestion of the site;Niveau de congestion du site
-Nb_indiv_par_latrine;Number of people per functional latrine;Nombre de personne par latrine fonctionnelle
 Nb_latrine_semi_durable;Number of semi-sustainable latrines;Nombre de latrine semi-durable
 Nb_latrine_urgence;Number of emergency latrines;Nombre de latrine urgence
-Nb_indiv_par_douche;Number of people per functional shower;Nombre de personne par douche fonctionnelle
 Nb_douche_semi_durable;Number of semi-sustainable showers;Nombre de douche semi durable
 Nb_douche_urgence;Number of emergency shower;Nombre de douche urgence
 nb_ind_per_latrines2;# Number of individuals per latrine;# Personne par latrine
