@@ -34,7 +34,8 @@
     "footerLogos": [
         {
             "title": {
-                "en": "Webdev"
+                "en": "Webdev",
+                "fr":"Webdev"
             },
             "logos": [
                 {
@@ -46,7 +47,8 @@
         },
         {
             "title": {
-                "en": "Fieldwork"
+                "en": "Fieldwork",
+                "fr":"Travail de terrain"
             },
             "logos": [
                 {
@@ -83,7 +85,8 @@
         },
         {
             "title": {
-                "en": "Coordination and IM support"
+                "en": "Coordination and IM support",
+                "fr":"Coordination et support IM"
             },
             "logos": [
                 {
@@ -95,7 +98,8 @@
         },
         {
             "title": {
-                "en": "Cluster Lead"
+                "en": "Cluster Lead",
+                "fr":"Responsable de Cluster"
             },
             "logos": [
                 {
