@@ -159,3 +159,5 @@ Nb_latrine_urgence;Number of emergency latrines;Nombre de latrine urgence
 Nb_indiv_par_douche;Number of people per functional shower;Nombre de personne par douche fonctionnelle
 Nb_douche_semi_durable;Number of semi-sustainable showers;Nombre de douche semi durable
 Nb_douche_urgence;Number of emergency shower;Nombre de douche urgence
+nb_ind_per_latrines2;# Number of individuals per latrine;# Personne par latrine
+nb_ind_per_showers2;# Number of individuals per shower;# Personne par douche
