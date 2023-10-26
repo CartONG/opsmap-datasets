@@ -151,6 +151,16 @@
                 "all": "darkred",
                 "NC": "grey"
             }
+        },
+        "difficulty": {
+            "type": "key_value",
+            "values": {
+                "no_difficulty": "green",
+                "some_difficulty": "orange",
+                "cannot_at_all": "green",
+                "lot_difficulty": "red"
+                "NC": "grey"
+            }
         }
     }
 }
