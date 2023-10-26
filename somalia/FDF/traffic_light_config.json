@@ -158,7 +158,7 @@
                 "no_difficulty": "green",
                 "some_difficulty": "orange",
                 "cannot_at_all": "green",
-                "lot_difficulty": "red"
+                "lot_difficulty": "red",
                 "NC": "grey"
             }
         }
