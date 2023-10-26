@@ -3,15 +3,15 @@
         "yesno": {
             "type": "key_value",
             "values": {
-                "Yes": "green",
-                "No": "red"
+                "yes": "green",
+                "no": "red"
             }
         },
         "noyes": {
             "type": "key_value",
             "values": {
-                "Yes": "red",
-                "No": "green"
+                "yes": "red",
+                "no": "green"
             }
         },
         "eviction": {
