@@ -118,7 +118,7 @@ SecondaireEducation;integer;group_education;;;;;;
 NumbreEleve;integer;group_education;;;;;;
 EnfanstNonScolarises;bullet;group_education;;;;;;
 ActiviteInformelle;string;group_education;yesno;;;;;
-EducationInformelle;string;group_education;yesno;;;;;
+EducationInformelle;string;group_education;;;;;;
 MarcheInterieurSite;string;group_livelihoods;yesno;;;;;
 marcheDistance;integer;group_livelihoods;;;;;;
 SourcesMoyenSubsistance;bullet;group_livelihoods;;;;;;
