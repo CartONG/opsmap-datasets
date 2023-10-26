@@ -178,7 +178,7 @@
                             "en": "Peoples per latrine",
                             "fr": "Personnes par latrine"
                         },
-                        "entryCode": "Nb_indiv_par_latrine",
+                        "entryCode": "nb_ind_per_latrines2",
                         "iconOchaName": "Latrine-cabin"
                     }
                 ]
