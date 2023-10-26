@@ -125,8 +125,8 @@ SourcesMoyenSubsistance;bullet;group_livelihoods;;;;;;
 NombreFamilleTravaillant;integer;group_livelihoods;;;;;;
 NombreEnfantTravaillant;integer;group_livelihoods;;;;;;
 enclos;string;group_livelihoods;yesno;;;;;
-covidinfo;string;group_covid;yesno;;;;;hide
-covidprevention;string;group_covid;yesno;;;;;hide
+covidinfo;string;group_covid;yesno;;;hide;;
+covidprevention;string;group_covid;yesno;;;hide;;
 protection_presence;string;group_partner;yesno;;;;;
 partner_protection_name;bullet;group_partner;;;;;;
 gbv_presence;string;group_partner;yesno;;;;;
