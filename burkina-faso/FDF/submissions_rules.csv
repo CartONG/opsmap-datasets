@@ -70,13 +70,11 @@ Inondations;string;group_wash;noyes;;;;;
 eliminationdechets;string;group_wash;;;;;;
 latrines;bullet;group_wash;;;;;;
 NombreLatrines;integer;group_wash;;;;;;
-Nb_indiv_par_latrine;integer;group_wash;TotallatrineVsIndividu;;;;;
 nb_ind_per_latrines2;computed;group_wash;ind_per_latrines_showers;;;;IndividlPopulation#/#NombreLatrines;
 Nb_latrine_semi_durable;integer;group_wash;;;;;;
 Nb_latrine_urgence;integer;group_wash;;;;;;
 Typesdouche;bullet;group_wash;;;;;;
 Nombredouches;integer;group_wash;;;;;;
-Nb_indiv_par_douche;integer;group_wash;TotaldoucheVsIndividu;;;;;
 nb_ind_per_showers2;computed;group_wash;ind_per_latrines_showers;;;;IndividlPopulation#/#Nombredouches;
 Nb_douche_semi_durable;integer;group_wash;;;;;;
 Nb_douche_urgence;integer;group_wash;;;;;;
@@ -127,8 +125,8 @@ SourcesMoyenSubsistance;bullet;group_livelihoods;;;;;;
 NombreFamilleTravaillant;integer;group_livelihoods;;;;;;
 NombreEnfantTravaillant;integer;group_livelihoods;;;;;;
 enclos;string;group_livelihoods;yesno;;;;;
-covidinfo;string;group_covid;yesno;;;;;
-covidprevention;string;group_covid;yesno;;;;;
+covidinfo;string;group_covid;yesno;;;;;hide
+covidprevention;string;group_covid;yesno;;;;;hide
 protection_presence;string;group_partner;yesno;;;;;
 partner_protection_name;bullet;group_partner;;;;;;
 gbv_presence;string;group_partner;yesno;;;;;
