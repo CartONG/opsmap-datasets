@@ -11,7 +11,7 @@ additional_minorities_index;integer;group_cccm;score;;;Y
 cccm_site_capacity;list;group_cccm;yesno;;;Y
 cccm_idps_arrival;list;group_cccm;;;;Y
 duration_site_established_in_months;integer;group_cccm;;;;Y
-cccm_management;bullet;group_cccm;;;;Y
+cccm_management;list;group_cccm;;;;Y
 cccm_committees;bullet;group_cccm;;;;Y
 cccm_committees.residents_committee;integer;group_cccm;;;;Y
 cccm_committees.camp_mgmt_committee;integer;group_cccm;;;;Y
