@@ -55,7 +55,7 @@ cccm_site_at_full_capacity;Site at Full Capacity;Maximum de capacité du site at
 cccm_possibility_expand_site;Possibility to Expand Site;Possibilité d'extension du site;إمكانية توسيع الموقع
 HebergementCapacite;Maximum capacity of the site (Ha);Capacité d'accueil maximale du site (Ha);السعة القصوى للموقع (ها)
 nfi_distributed;Last time NFI were distributed;Dernière fois que des NFI ont été distribués;آخر مرة تم فيها توزيع المواد غير الغذائية
-cccm_shelter_type;Shelter Type;Type de centre d'hébergement;نوع المأوى
+shelter_equip_type;Shelter equipements type;Type d'équipement de l'hébergement;نوع معدات المأوى
 cccm_shelter_opened;Shelter Opened;Ouverture du centre d'hébergement;تم فتح المأوى
 cccm_shelter_admin;Shelter Administration;Administration du centre d'hébergement;إدارة الملجأ
 cccm_shelter_coordination;Shelter Coordination;Coordination des abris;تنسيق المأوى
