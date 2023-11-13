@@ -3,15 +3,15 @@
         "yesno": {
             "type": "key_value",
             "values": {
-                "Yes": "green",
-                "No": "red"
+                "yes": "green",
+                "no": "red"
             }
         },
         "noyes": {
             "type": "key_value",
             "values": {
-                "Yes": "red",
-                "No": "green"
+                "yes": "red",
+                "no": "green"
             }
         },
         "eviction": {
@@ -35,6 +35,16 @@
                 "NC": "green",
                 "very_high": "red",
                 "pnta": "green"
+            }
+        },
+        "latr_pwd": {
+            "type": "key_value",
+            "values": {
+                "all": "green",
+                "many": "yellow",
+                "some": "orange",
+                "few": "red",
+                "none": "darkred"
             }
         },
         "cccm_cfm": {
@@ -129,6 +139,27 @@
                 "x==0": "red",
                 "x>0 and x<=2": "orange",
                 "x>=2": "green"
+            }
+        },
+        "sickness": {
+            "type": "key_value",
+            "values": {
+                "none": "green",
+                "few": "green",
+                "some": "orange",
+                "many": "red",
+                "all": "darkred",
+                "NC": "grey"
+            }
+        },
+        "difficulty": {
+            "type": "key_value",
+            "values": {
+                "no_difficulty": "green",
+                "some_difficulty": "orange",
+                "cannot_at_all": "green",
+                "lot_difficulty": "red",
+                "NC": "grey"
             }
         }
     }

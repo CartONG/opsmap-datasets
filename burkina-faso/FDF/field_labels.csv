@@ -85,7 +85,7 @@ ServicesPediatriq;Pediatric services;Services pédiatriques
 PrenatalServices;Prenatal services;Services prénataux
 Ambulance;Presence of an ambulance;Presence d'une ambulance
 ProblemAccesSante;Main problems in accessing health care;Principaux problèmes pour accéder aux soins de santé
-Vaccination;Children under 5 years of age not vaccinated against polio and measles;Enfants de moins de 5 ans n'ont vaccinés contre la polio et la rougeole
+Vaccination;Children under 5 years of age not vaccinated against polio and measles;Enfants de moins de 5 ans non vaccinés contre la polio et la rougeole
 Accesalimentation;Number of meals per day (on average);Nombre de repas par jour (en moyenne)
 Defisalimentation;Main difficulties encountered by households in accessing food ;Principales difficultés rencontrées par les familles pour accéder à la nourriture 
 stockagemagasin;Food storage facilities;Magasins de stockage des vivres
@@ -153,9 +153,9 @@ partner_livelihood_name;Livelihood partners;Partenaires de moyens de subsistance
 communication_presence;Presence of a communication service;Présence d'un service de communication
 Nom_partenaire_Communication;Communication service stakeholders with communities (mass communication);Partenaires de service de communication avec les communautés (communication de masse)
 NiveauCongestionSite;Level of congestion of the site;Niveau de congestion du site
-Nb_indiv_par_latrine;Number of people per functional latrine;Nombre de personne par latrine fonctionnelle
 Nb_latrine_semi_durable;Number of semi-sustainable latrines;Nombre de latrine semi-durable
 Nb_latrine_urgence;Number of emergency latrines;Nombre de latrine urgence
-Nb_indiv_par_douche;Number of people per functional shower;Nombre de personne par douche fonctionnelle
 Nb_douche_semi_durable;Number of semi-sustainable showers;Nombre de douche semi durable
 Nb_douche_urgence;Number of emergency shower;Nombre de douche urgence
+nb_ind_per_latrines2;# Number of individuals per latrine;# Personne par latrine
+nb_ind_per_showers2;# Number of individuals per shower;# Personne par douche

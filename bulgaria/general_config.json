@@ -173,7 +173,7 @@
                             "bg": "Осигурена храна ?",
                             "ru": "Питание предоставляется ?"
                         },
-                        "entryCode": "Is_food_provided_to_the_site",
+                        "entryCode": "Is_food_distributed_in_the_Site",
                         "iconOchaName": "Food"
                     }
                 ]

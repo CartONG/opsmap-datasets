@@ -326,6 +326,8 @@
     ],
     "options": {
         "showDemoBanner": false,
-        "keepThematicOrderFromFDF": true
+        "keepThematicOrderFromFDF": true,
+        "exportAsCSVonHomePage": true,
+        "mapLegendDisplayStyle":"folded"
     }
 }

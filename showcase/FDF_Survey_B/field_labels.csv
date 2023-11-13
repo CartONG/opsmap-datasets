@@ -53,7 +53,8 @@ Are_hygiene_kits_distributed;Are hygiene kits distributed?;Des kits d'hygiène s
 Specific_hygiene_kits_are_available_and_accessible_for_women_and_children;Specific hygiene kits are available and accessible for women and children?;Des kits d'hygiène spécifiques sont-ils disponibles et accessibles pour les femmes et les enfants ?;هل تتوفر مجموعات النظافة المحددة ويمكن الوصول إليها للنساء والأطفال؟
 List_describe_the_items_included_in_the_hygienic_kit_including_specific;Items included in the hygienic kit (including specific);Articles inclus dans le kit d'hygiène (y compris les articles spécifiques);العناصر المدرجة في مجموعة أدوات النظافة (بما في ذلك العناصر المحددة)
 Organizations_distributing_hygienic_kits;Organization(s) distributing hygienic kits;Organisation(s) distribuant les kits hygiéniques;المنظمة (المنظمات) التي تقوم بتوزيع أطقم النظافة
-Is_food_distributed_in_the_Site;Is food distributed in the Site?;De la nourriture est-elle distribuée dans le site ?;هل يتم توزيع الطعام في الموقع؟
+Is_food_provided_to_the_site;Is food provided to the site ?;De la nourriture est-elle fournie sur le site ?;هل يتم توفير الطعام للموقع؟
+list_food_distributed_in_the_Site;List of food distributed in the Site?;Liste de la nourriture distribuée dans le site ?;قائمة المواد الغذائية الموزعة في الموقع؟
 Organization_distributing_food;Organization distributing food;Organisation distribuant la nourriture;منظمة توزيع المواد الغذائية
 Are_medical_services_available_in_the_Site;Are medical services available in the Site?;Des services médicaux sont-ils disponibles dans le site ?;هل الخدمات الطبية متوفرة في الموقع؟
 Organization_providing_medical_services;Organization providing medical services;Organisation fournissant des services médicaux;منظمة تقدم الخدمات الطبية

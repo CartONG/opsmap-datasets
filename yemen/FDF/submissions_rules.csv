@@ -5,9 +5,9 @@ staff_hh;computed;group_manage_ind;nb_ind_vs_staff;;;;nb_site_residents_ind#/#sm
 smc_agency;bullet;group_general_info;;;;;;
 reporting_month;bullet;group_general_info;;;;;;
 hub;string;group_general_info;;;;;;
-governorate;string;group_general_info;;;;;;
-district;string;group_general_info;;;;;;
-sub_district;string;group_general_info;;;;;;
+governorate;list;group_general_info;;;;;;
+district;list;group_general_info;;;;;;
+sub_district;list;group_general_info;;;;;;
 site_name_en;string;group_general_info;;;;;;
 site;string;group_general_info;;;;;;
 site_single_clustered;string;group_general_info;;;;;;

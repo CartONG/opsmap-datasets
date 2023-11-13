@@ -55,7 +55,7 @@ cccm_site_at_full_capacity;Site at Full Capacity;Maximum de capacité du site at
 cccm_possibility_expand_site;Possibility to Expand Site;Possibilité d'extension du site;إمكانية توسيع الموقع
 HebergementCapacite;Maximum capacity of the site (Ha);Capacité d'accueil maximale du site (Ha);السعة القصوى للموقع (ها)
 nfi_distributed;Last time NFI were distributed;Dernière fois que des NFI ont été distribués;آخر مرة تم فيها توزيع المواد غير الغذائية
-cccm_shelter_type;Shelter Type;Type de centre d'hébergement;نوع المأوى
+shelter_equip_type;Shelter equipements type;Type d'équipement de l'hébergement;نوع معدات المأوى
 cccm_shelter_opened;Shelter Opened;Ouverture du centre d'hébergement;تم فتح المأوى
 cccm_shelter_admin;Shelter Administration;Administration du centre d'hébergement;إدارة الملجأ
 cccm_shelter_coordination;Shelter Coordination;Coordination des abris;تنسيق المأوى
@@ -87,10 +87,10 @@ eliminationdechets;Primary method of waste disposal;Principale methode d'elimina
 latrines;Types of functional latrines;Types de latrines fonctionnelles;أنواع المراحيض الوظيفية
 NombreLatrines;Number of functional latrines (TL ratio %);Nombre de latrines fonctionnelles (TL ratio %);عدد المراحيض الصالحة للاستخدام (نسبة إجمالي الموارد البشرية %)
 NombreLatrines2;Number of functional latrines (TL simple);Nombre de latrines fonctionnelles (TL simple);عدد المراحيض العاملة (TL بسيطة)
-nb_ind_per_latrines;# Number of individuals per latrine;# Nombre d'individus par latrine;# عدد الأفراد لكل مرحاض
+nb_ind_per_latrines;# Number of individuals per latrine (values calculated on-the-fly);# Nombre d'individus par latrine (valeurs calculées à la volée);# عدد الأفراد لكل مرحاض (القيم المحسوبة بشكل فوري)
 Typesdouche;Types of functional showers/baths;Types de douches/bains fonctionnels;أنواع الدش/الحمامات الوظيفية
 Nbdouche;Number of showers (TL= rate/population);Nombre de douches (TL= taux/population);عدد مرات الاستحمام (TL= المعدل/عدد السكان)
-nb_ind_per_showers;# Number of individuals per shower;# Nombre de personnes par douche;# عدد الأفراد لكل دش
+nb_ind_per_showers;# Number of individuals per shower (values calculated on-the-fly);# Nombre de personnes par douche (valeurs calculées à la volée);# عدد الأفراد لكل دش (القيم المحسوبة بسرعة)
 douchesepare;Are showers separated between men and women?;Les douches sont-elles separees entre les hommes et les femmes?;هل يتم فصل الاستحمام بين الرجال والنساء؟
 latrinevidance;Latrine Emptying;Vidanges des latrines;تفريغ المراحيض
 latrinevidanceMois;Date of last emptying;Date de la dernière vidange;تاريخ آخر إفراغ
@@ -131,7 +131,7 @@ educ_num_trains_wrkshp_year;No. Trainings / Workshops Conducted Per Year;Nombre 
 educ_educ_provided_in_shelter;Education Provided in Shelter;Éducation dispensée dans les abris;التعليم الاستغناء عن les abris
 educ_num_chldrn_in_frml_schl;No. of Children in Formal School;Nombre d'enfants scolarisés;أسماء الأطفال الحاصلين على شهادات
 educ_num_adolsct_in_frml_schl;No. of Adolescent in Formal School;Nombre d'adolescents dans des écoles traditionelles;أسماء المراهقين في المدارس التقليدية
-educ_portug_class_avlble;Portuguese Class Available;Cours de portugais disponibles;الدورات البرتغالية المتاحة
+educ_eng_class_avlble;English Class Available;Cours d'anglais disponibles;الدورات البرتغالية المتاحة
 educ_vocnl_course_avlbe;Vocational Course Available;Cours de formation professionnelle disponibles;دورات التكوين المهني المتاحة
 envrn_envrntl_issues;Environmental Sensitivities and Critical Environmental Issues;Sensibilités environnementales et problèmes environnementaux critiques;الحساسيات البيئية والقضايا البيئية الحرجة
 envrn_flood_prone_areas;Flood Prone Areas;Zones sujettes aux inondations;المناطق المعرضة للفيضانات
@@ -159,7 +159,7 @@ ServicesPediatriq;Pediatric services;Services pediatriques;خدمات طب ال�
 PrenatalServices;Prenatal services;Services prenataux;خدمات ما قبل الولادة
 Ambulance;Presence of an ambulance;Presence d'une ambulance;وجود سيارة إسعاف
 ProblemAccesSante;Main problems in accessing health care;Principaux problèmes pour acceder aux soins de sante;المشاكل الأساسية للوصول إلى أصول الصحة
-Vaccination;Children under 5 years old do not have vaccines against polio and measles;Enfants de moins de 5 ans n'ont vaccines contre la polio et la rougeole;الأطفال الذين تقل أعمارهم عن 5 أعوام لم يحصلوا على لقاحات ضد شلل الأطفال والأحمر
+Vaccination;Children under 5 years old do not have vaccines against polio and measles;Enfants de moins de 5 ans non vaccinés contre la polio et la rougeole;الأطفال الذين تقل أعمارهم عن 5 أعوام لم يحصلوا على لقاحات ضد شلل الأطفال والأحمر
 TypeSupport;Types of psychosocial support services available to people in SITE, through government, humanitarian or private service providers;Types de services de soutien psychosocial disponibles pour les personnes du SITE, par le biais de prestataires de services gouvernementaux, humanitaires ou prives;أنواع خدمات الدعم النفسي الاجتماعي المتاحة لأفراد الموقع، سواء من جانب مقدمي الخدمات الحكومية أو الإنسانية أو الخاصة
 covidinfo;Information campaigns on COVID-19 (in the last 6 months);Campagnes d'information sur la COVID-19  (au cours des 6 derniers mois);حملات المعلومات حول فيروس كورونا (COVID-19) (خلال 6 أشهر)
 covidprevention;Provisions for prevention of COVID-19;Dispositions de prevention contre la COVID-19;تدابير الوقاية من كوفيد-19
@@ -175,6 +175,8 @@ stigma_covid;Social stigma and discrimination;Stigmatisation sociale et discrimi
 bien_etre_psy;Psychological well-being;Bien-être psychologique;الراحه النفسية
 shelter_type;Shelter type;Type d'abris;اكتب دابريس
 site_name;Site name;Nom du site;اسم الموقع
-hh_size;Number of individuals per household;Nombre d'individus par ménage;عدد الأفراد لكل أسرة
-pct_occupation;Number of household per shelter;Nombre de ménages par abri;معدل إشغال المأوى حسب الأسرة
-staff_hh;Number of individuals per staff;Nombre de personnes par employé;عدد الأسرة لكل موظف
+hh_size;Number of individuals per household (value calculated on-the-fly);Nombre d'individus par ménage (valeur calculée à la volée);عدد الأفراد في كل أسرة (القيمة المحسوبة بشكل فوري)
+pct_occupation;Number of household per shelter (value calculated on-the-fly);Nombre de ménages par abri (valeur calculée à la volée);عدد الأسرة في كل مأوى (القيمة المحسوبة بشكل فوري)؛
+staff_hh;Number of individuals per staff (value calculated on-the-fly);Nombre de personnes par employé (valeur calculée à la volée);عدد الأفراد لكل موظف (القيمة المحسوبة بسرعة)
+demo_child_5to17;Number of children of school age (5 -17)(value calculated on-the-fly); Nombre d'enfants en âge d'être scolarisés (5-17)(valeur calculée à la volée);عدد الأطفال في سن المدرسة (5 - 17) (القيمة المحسوبة بشكل فوري)
+nb_shelters;Number of shelters in the site;Nombre d'abris sur le site;عدد المآوي في الموقع
