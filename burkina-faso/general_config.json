@@ -205,5 +205,14 @@
                 }
             }
         }
-    ]
+    ],
+    "options": {
+        "showCCCMLogo": true,
+        "dark": false,
+        "pdfColumnCount": 3,
+        "exportForEsite": false,
+        "showDemoBanner": true,
+        "exportAsCSVonHomePage": true,
+        "keepThematicOrderFromFDF": true
+    }
 }
