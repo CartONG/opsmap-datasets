@@ -1,46 +1,54 @@
 {
-    "version": "v1.2.2",
+    "version": "v1.3.2",
     "locale": {
         "locales": [
             "en",
+            "fr", 
             "ar"
         ],
+        "default": "fr",
         "override": {
             "en": {
                 "infosAdmins": {
-                    "admin1": "Governorate",
-                    "admin2": "District",
-                    "admin3": "Sub district"
+                    "admin1": "Region",
+                    "admin2": "Department",
+                    "admin3": "Municipality"
+                }
+            },
+            "fr": {
+                "infosAdmins": {
+                    "admin1": "Région",
+                    "admin2": "Département",
+                    "admin3": "Commune"
                 }
             },
             "ar": {
                 "infosAdmins": {
-                    "admin1": "محافظة",
-                    "admin2": "يصرف",
-                    "admin3": "العزلة"
+                    "admin1": "منطقة",
+                    "admin2": "قسم",
+                    "admin3": "البلدية"
                 }
             }
         }
     },
     "textContent": {
         "name": {
-            "en": "Yemen",
-            "ar": "اليمن"
+            "fr": "show",
+            "en": "show",
+            "ar":"يعرض"
         },
         "opsmapDescr": {
-            "en": "More than 1.5 million displaced Yemenis have spontaneously settled in 2,300+ unplanned sites and camp-like settings. Conflict-related damage to infrastructure, and natural hazards including floods, have further disrupted safe access to a minimum level of services. The CCCM Cluster is working with +20 partners and with the authorities to improve the living conditions and protection of IDPs in sites and ensure equitable access to services and assistance of all persons in need, with a focus on moving towards durable solutions with full participation of the displaced and host communities.",
-            "ar": "استقر أكثر من 1.5 مليون يمني نازح تلقائيًا في أكثر من 2300 موقع غير مخطط وأماكن شبيهة بالمخيمات. أدت الأضرار التي لحقت بالبنية التحتية المرتبطة بالنزاع ، والأخطار الطبيعية بما في ذلك الفيضانات ، إلى مزيد من تعطيل الوصول الآمن إلى الحد الأدنى من الخدمات. تعمل مجموعة تنسيق وإدارة المخيمات مع +20 شريك ومع السلطات لتحسين الظروف المعيشية وحماية النازحين داخليًا في المواقع وضمان الوصول العادل إلى الخدمات والمساعدة لجميع الأشخاص المحتاجين ، مع التركيز على التحرك نحو حلول دائمة بمشاركة كاملة من النازحين والمجتمعات المضيفة."
+            "en": "A large number of refugees and migrants have traveled to France in search of protection as a result of the political, social and economic crisis ravaging neighbouring countries.<br>Considering the urgent needs for humanitarian assistance, such as food, shelter, health and protection, especially for people with vulnerabilities (children, pregnant women, the elderly, people with disabilities, etc.), the Government edited Law no. 13,684/2018, providing for the execution of emergency assistance measures for the reception of affected people.<br>Currently, Savoie has 10 reception spaces.",
+            "fr": "Un grand nombre de réfugiés et de migrants se sont rendus en France en quête de protection en raison de la crise politique, sociale et économique qui ravage les pays voisins.<br>Considérant les besoins urgents d'assistance humanitaire, en termes de nourriture, logement, santé et protection des personnes vulnérables (enfants, femmes enceintes, personnes âgées, personnes handicapées, etc.), le gouvernement a édité la loi n° 22 208/2022, prévoyant l'exécution de mesures d'aide d'urgence pour l'accueil des personnes affectées.<br>Actuellement, la Savoie dispose de 10 places d'accueil. ",
+            "ar": "وقد سافر عدد كبير من اللاجئين والمهاجرين إلى فرنسا بحثاً عن الحماية بسبب الأزمة السياسية والاجتماعية والاقتصادية التي تعصف بالبلدان المجاورة.<br>بالنظر إلى الاحتياجات العاجلة للمساعدة الإنسانية، من حيث الغذاء والسكن والصحة وحماية الفئات الضعيفة (الأطفال والنساء الحوامل وكبار السن والمعوقين، وما إلى ذلك)، أصدرت الحكومة القانون رقم 22208/2022، الذي ينص على لتنفيذ تدابير المساعدة الطارئة لاستقبال المتضررين.<br>يوجد حاليًا في سافوا 10 أماكن للاستقبال. "
         }
-    },
-    "iframe": {
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiNjY3NmVjMWItZjM4MS00NjM5LTk1ZDMtYjQzMjI5ODY3YzU2IiwidCI6ImQyMDBlOTAzLTE5YjAtNDUyZS1iZDIxLWQxYWEwMTEzOTBkNSIsImMiOjh9",
-        "display": true
     },
     "footerLogos": [
         {
             "title": {
                 "en": "Webdev",
-                "ar": "ويبديف"
+                "fr":"Webdev",
+                "ar": "ويب ديف"
             },
             "logos": [
                 {
@@ -52,155 +60,48 @@
         },
         {
             "title": {
-                "en": "Sector Lead",
-                "ar": "قيادة القطاع"
+                "en": "Fieldwork",
+                "fr": "Travail de terrain",
+                "ar":"العمل الميداني"
             },
             "logos": [
                 {
-                    "name": "UNHCR",
-                    "urlLogo": "Logo/UNHCR.png",
-                    "urlRedirection": "https://www.unhcr.org"
+                    "name": "CartONG",
+                    "urlLogo": "Logo/fieldwork_logo.png",
+                    "urlRedirection": "https://www.cartong.org"
                 },
                 {
-                    "name": "DRC",
-                    "urlLogo": "Logo/DRC.png",
-                    "urlRedirection": "https://www.facebook.com/drcyemen"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Fieldwork - CCCM members",
-                "ar": "العمل الميداني - أعضاء قطاع تنسيق وإدارة المخيمات"
-            },
-            "logos": [
-                {
-                    "name": "NRC",
-                    "urlLogo": "Logo/NRC.png",
-                    "urlRedirection": "https://www.nrc.no/countries/middle-east/yemen/"
-                },
-                {
-                    "name": "JAAHD",
-                    "urlLogo": "Logo/JAAHD.png",
-                    "urlRedirection": "https://jaahd.org"
-                },
-                {
-                    "name": "YGUSSWP",
-                    "urlLogo": "Logo/YGUSSWP.png",
-                    "urlRedirection": "http://www.ygusswp.org"
-                },
-                {
-                    "name": "BCFHD",
-                    "urlLogo": "Logo/BCFHD.png",
-                    "urlRedirection": "https://www.benaye.org"
-                },
-                {
-                    "name": "ACTED",
-                    "urlLogo": "Logo/ACTED.png",
-                    "urlRedirection": "https://www.acted.org"
-                },
-                {
-                    "name": "DRC",
-                    "urlLogo": "Logo/DRC.png",
-                    "urlRedirection": "https://www.facebook.com/drcyemen"
-                },
-                {
-                    "name": "RADF",
-                    "urlLogo": "Logo/RADF.png",
-                    "urlRedirection": "http://radf-y.org/"
-                },
-                {
-                    "name": "GWQ",
-                    "urlLogo": "Logo/GWQ.png",
-                    "urlRedirection": "http://gwq-ye.org"
-                },
-                {
-                    "name": "YCRs",
-                    "urlLogo": "Logo/YCRs.png",
-                    "urlRedirection": "http://www.yrcamran.org"
-                },
-                {
-                    "name": "TYF",
-                    "urlLogo": "Logo/TYF.png",
-                    "urlRedirection": "https://www.tamdeen-ye.org"
-                },
-                {
-                    "name": "SDF",
-                    "urlLogo": "Logo/SDF.png",
-                    "urlRedirection": "http://sdf-yemen.org/"
-                },
-                {
-                    "name": "Mona Relief",
-                    "urlLogo": "Logo/Mona.png",
-                    "urlRedirection": "https://www.monarelief.ngo/"
-                },
-                {
-                    "name": "AOBWC",
-                    "urlLogo": "Logo/AOBWC.png",
-                    "urlRedirection": "https://alaman.org/en/home-2/"
-                },
-                {
-                    "name": "DEEM",
-                    "urlLogo": "Logo/DEEM.png",
-                    "urlRedirection": "https://deemyemen.org/"
-                },
-                {
-                    "name": "FMF",
-                    "urlLogo": "Logo/FMF.png",
-                    "urlRedirection": "https://fmfyemen.org/en/"
-                },
-                {
-                    "name": "NMO",
-                    "urlLogo": "Logo/NMO.png",
-                    "urlRedirection": "https://nahdamakers.org/"
-                },
-                {
-                    "name": "PAH",
-                    "urlLogo": "Logo/PAH.png",
-                    "urlRedirection": "https://www.pah.org.pl/en/yemen-2/"
-                },
-                {
-                    "name": "SHS",
-                    "urlLogo": "Logo/SHS.png",
-                    "urlRedirection": "https://shsye.org/en/"
-                },
-                {
-                    "name": "YARD",
-                    "urlLogo": "Logo/YARD.png",
-                    "urlRedirection": "https://yard-yemen.org/"
-                },
-                {
-                    "name": "YDF",
-                    "urlLogo": "Logo/YDF.png",
-                    "urlRedirection": "https://ydfy.org/subpages.php?keyID=24"
-                },
-                {
-                    "name": "YFCA",
-                    "urlLogo": "Logo/YFCA.png",
-                    "urlRedirection": "https://www.yfca.org/en/"
-                },
-                {
-                    "name": "EXU",
-                    "urlLogo": "Logo/exu.png",
-                    "urlRedirection": "https://www.exuye.org/en/home"
-                },
-                {
-                    "name": "SCMCHA",
-                    "urlLogo": "Logo/SCMCHA.png",
-                    "urlRedirection": "https://www.scmcha.org/en/about-namcha"
+                    "name": "CartONG2",
+                    "urlLogo": "Logo/fieldwork_logo_2.png",
+                    "urlRedirection": "https://www.cartong.org"
                 }
             ]
         },
         {
             "title": {
                 "en": "Coordination and IM support",
-                "ar": "التنسيق ودعم الرسائل الفورية"
+                "fr": "Coordination et support IM",
+                "ar":"التنسيق ودعم المراسلة الفورية"
             },
             "logos": [
                 {
-                    "name": "Impact Initiatives",
-                    "urlLogo": "Logo/impact.png",
-                    "urlRedirection": "https://www.impact-initiatives.org"
+                    "name": "CartONG2",
+                    "urlLogo": "Logo/coord_logo.png",
+                    "urlRedirection": "https://www.cartong.org"
+                }
+            ]
+        },
+        {
+            "title": {
+                "en": "Cluster Lead",
+                "fr": "Direction du cluster",
+                "ar":"الرصاص العنقودي"
+            },
+            "logos": [
+                {
+                    "name": "CartONG2",
+                    "urlLogo": "Logo/lead_logo.png",
+                    "urlRedirection": "https://www.cartong.org"
                 }
             ]
         }
@@ -208,18 +109,18 @@
     "spatial": {
         "mapConfig": {
             "bounds": [
-                43.28,
-                12.401,
-                52.35,
-                19.43
+                -5,
+                51.5,
+                8,
+                42
             ]
         },
         "dbConfig": {
-            "admin1": "adm1_source_code",
-            "admin2": "adm2_source_code",
-            "admin3": "adm3_source_code"
+            "admin1": "pcode",
+            "admin2": "pcode",
+            "admin3": "pcode"
         },
-        "adminLevels": [
+       "adminLevels": [
             "admin1",
             "admin2",
             "admin3"
@@ -232,49 +133,172 @@
     "surveys": [
         {
             "type": "gsheet",
-            "name": "CCCM Yemen - Site Reporting Tool (SMT)",
-            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2DKV-aqg-9SZMBBtg7A3bWShMdZPLoT5HLOQY_bjpREMa4cC91YAu-DWsMDNdo5rm71G2uh7b8DBl/pub?gid=0&single=true&output=csv",
-            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2DKV-aqg-9SZMBBtg7A3bWShMdZPLoT5HLOQY_bjpREMa4cC91YAu-DWsMDNdo5rm71G2uh7b8DBl/pub?gid=845458241&single=true&output=csv",
+            "name": "Survey A",
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=0&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=903507497&single=true&output=csv",
+            "additionalFiltersDescription": [
+                {
+                    "field": "cccm_shelter_management",
+                    "name": {
+                        "fr": "Gérer par",
+                        "en": "Manage by",
+                        "ar": "إدارة بواسطة"
+                    }
+                },
+                {
+                    "field": "site_pcode",
+                    "name": {
+                        "fr": "PCode du site",
+                        "en": "Site PCode",
+                        "ar": "رمز PC للموقع"
+                    }
+                }                
+            ],
+            "spatial": {
+                "siteFields": {
+                    "id": "site_id",
+                    "name": "site_name",
+                    "type": "shelter_type",
+                    "lastUpdate": "last_update",
+                    "latitude": "latitude",
+                    "longitude": "longitude",
+                    "manageBy": "cccm_shelter_management"
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "adm1_pcode",
+                        "name": "region"
+                    },
+                    "admin2": {
+                        "pcode": "adm2_pcode",
+                        "name": "dep"
+                    },
+                    "admin3": {
+                        "pcode": "adm3_pcode",
+                        "name": "city"
+                    }
+                }
+            },
             "options": {
-                "anonymousMode": "text",
+                "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "MM/YYYY",
+                "listSeparator": ";",
+                "anonymousMode": "none",
+                "siteZoomMode": "site",
+                "siteZoomBuffer": 1000,
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
-                        "field": "nb_site_residents_ind"
+                        "field": "demo_num_indv"
+                    }
+                ]
+            },
+            "indicators": {
+                "area": [
+                    {
+                        "type": "site_count"
+                    },
+                    {
+                        "type": "people_count",
+                        "entryCode": "demo_num_indv"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Shelter Max Capacity",
+                            "fr": "Capacité maximale",
+                            "ar":"سعة المأوى القصوى"
+                        },
+                        "entryCode": "cccm_shelter_max_capacity",
+                        "iconOchaName": "Camp-Coordination-and-Camp-Management"
+                    }
+                ],
+                "site": [
+                    {
+                        "type": "site_occupation",
+                        "name": {
+                            "en": "Site at Full Capacity",
+                            "fr": "Capacité maximale du site atteinte",
+                            "ar":"الموقع بكامل طاقته"
+                        },
+                        "iconOchaName": "Camp-Coordination-and-Camp-Management",
+                        "entryCodeMaxCapacity": "cccm_site_at_full_capacity",
+                        "entryCodePeopleCount": "demo_num_indv",
+                        "entryCodeMaxPeopleCount": "cccm_shelter_max_capacity"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Individuals",
+                            "fr": "Personnes",
+                            "ar":"فرادى"
+                        },
+                        "entryCode": "demo_num_indv",
+                        "iconOchaName": "People-in-need"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Drinking water available ?",
+                            "fr": "Accès eau potable?",
+                            "ar":"مياه الشرب متوفرة؟"
+                        },
+                        "entryCode": "water_quality_access",
+                        "iconOchaName": "Potable-water"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "gsheet",
+            "fdf": {
+                "folder": "FDF_Survey_B"
+            },
+            "name": "Survey B on other topic",
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=287797693&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=1363403091&single=true&output=csv",
+            "options": {
+                "anonymousMode": "text",
+                "siteZoomMode": "admin",
+                "sitesMapVisualisation": [
+                    {
+                        "type": "population_count",
+                        "field": "demo_num_indv"
                     }
                 ]
             },
             "additionalFiltersDescription": [
                 {
-                    "field": "smc_agency",
+                    "field": "round",
                     "name": {
-                        "en": "Organization",
-                        "ar": "وكالة تنسيق وإدارة الموقع (SMC)"
+                        "fr": "Tour d'enquête",
+                        "en": "Survey round",
+                        "ar": "جولة المسح"
                     }
-                }
+                }        
             ],
             "spatial": {
                 "siteFields": {
-                    "id": "site",
-                    "lastUpdate": "reporting_month",
+                    "id": "site_id",
+                    "lastUpdate": "Date_of_the_Monitoring_Visit",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "smc_agency",
-                    "name": "site_name_en",
-                    "type": "type_of_settlement"
+                    "manageBy": "Who_is_managing_the_site",
+                    "name": "site_name",
+                    "type": "General_Site_Type"
                 },
                 "admins": {
                     "admin1": {
-                        "pcode": "Admin1",
-                        "name": "governorate"
+                        "pcode": "adm1_pcode",
+                        "name": "Region"
                     },
                     "admin2": {
-                        "pcode": "Admin2",
-                        "name": "district"
+                        "pcode": "adm2_pcode",
+                        "name": "Province_of_the_monitored_location"
                     },
                     "admin3": {
-                        "pcode": "Admin3",
-                        "name": "sub_district"
+                        "pcode": "adm3_pcode",
+                        "name": "Municipality_of_monitored_location"
                     }
                 }
             },
@@ -284,53 +308,69 @@
                         "type": "site_count"
                     },
                     {
-                        "type": "people_count",
-                        "entryCode": "nb_site_residents_ind"
+                        "type": "standard",
+                        "name": {
+                            "en": "Number of volunteers",
+                            "fr": "Nombre de bénévoles",
+                            "ar":"عدد المتطوعين"
+                        },
+                        "entryCode": "Number_of_volunteers_mobilised",
+                        "iconOchaName": "Staff-management"
                     },
                     {
                         "type": "standard",
                         "name": {
-                            "en": "# Shelters",
-                            "ar": "عدد المآوي في الموقع"
+                            "en": "Number of interprets",
+                            "fr": "Nombre d'interprètes",
+                            "ar":"عدد المترجمين"
                         },
-                        "entryCode": "nb_shelters",
-                        "iconOchaName": "Shelter"
+                        "entryCode": "Number_of_interpreters_engaged",
+                        "iconOchaName": "Staff-management"
                     }
                 ],
                 "site": [
                     {
                         "type": "standard",
                         "name": {
-                            "en": "Site Residents",
-                            "ar": "ادخل إجمالي عدد سكان الموقع -  الأفراد"
+                            "en": "Does Site works 24/7?",
+                            "fr": "Le site fonctionne-t-il 24/7?",
+                            "ar":"هل يعمل الموقع 24/7؟"
                         },
-                        "entryCode": "nb_site_residents_ind",
-                        "iconOchaName": "People-affected"
+                        "entryCode": "Does_Site_works_24_7",
+                        "iconOchaName": "Time"
                     },
                     {
                         "type": "standard",
                         "name": {
-                            "en": "# Shelters",
-                            "ar": "عدد المآوي في الموقع"
+                            "en": "Accomodation available ?",
+                            "fr": "Hébergement disponible ?",
+                            "ar":"السكن متاح؟"
                         },
-                        "entryCode": "nb_shelters",
-                        "iconOchaName": "Shelter"
+                        "entryCode": "Is_accomodation_for_short_rest_overnight_available_within_the_Site",
+                        "iconOchaName": "Distribution-site"
                     },
                     {
                         "type": "standard",
                         "name": {
-                            "en": "# SMC Staff",
-                            "ar": "العدد الكلي لموظفي إدارة وتنسيق الموقع"
+                            "en": "Food provided ?",
+                            "fr": "Nourriture fournie ?",
+                            "ar":"الطعام المقدم؟"
                         },
-                        "entryCode": "smc_total",
-                        "iconOchaName": "Staff-management"
+                        "entryCode": "Is_food_provided_to_the_site",
+                        "iconOchaName": "Food"
                     }
                 ]
             }
         }
     ],
     "options": {
-        "showDemoBanner": false,
-        "keepThematicOrderFromFDF": true
+        "showCCCMLogo": true,
+        "dark": false,
+        "pdfColumnCount": 3,
+        "exportForEsite": false,
+        "showDemoBanner": true,
+        "exportAsCSVonHomePage": true,
+        "keepThematicOrderFromFDF": true,
+        "mapLegendDisplayStyle":"folded"
     }
 }
