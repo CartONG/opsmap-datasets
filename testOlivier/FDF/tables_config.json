@@ -1,0 +1,16 @@
+{
+    "tables": {
+        "table1": {
+            "label": "Test chart",
+            "values": [
+                "Majority of shelters",
+                "All/almost all shelters",
+                "Few shelters",
+                "None/almost no shelters",
+                "I dont know"
+            ]
+        }
+    }
+}
+
+
