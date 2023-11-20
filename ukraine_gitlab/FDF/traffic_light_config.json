@@ -1,4 +1,4 @@
-﻿{
+{
     "trafficLights": {
         "yesno": {
             "type": "key_value",
@@ -30,6 +30,22 @@
                 "dont_know": "orange"
             }
         },
+        "noyesdont": {
+            "type": "key_value",
+            "values": {
+                "no": "green",
+                "yes": "red",
+                "dont_know": "orange"
+            }
+        },
+        "caregiver_support": {
+            "type": "key_value",
+            "values": {
+                "yes_they_can_be_taken_care_this_collective_site": "orange",
+                "yes_but_they_cannot_be_taken_care_this_collective_site": "red",
+                "no": "green"
+            }
+        },
         "yesnosure": {
             "type": "key_value",
             "values": {
@@ -43,35 +59,201 @@
             "values": {
                 "yes": "green",
                 "no": "red",
-                "no_host": "orange"
+                "no_host_but_ready": "orange"
             }
         },
-        "yes10facility": {
+        "bomb_shelter_opt": {
             "type": "key_value",
             "values": {
-                "yes_nearby_less_than_10_minutes_by_foot": "green",
+                "yes_nearby_less_than_10_minutes_by_foot": "orange",
                 "yes_in_the_facility_itself": "green",
                 "no": "red",
                 "yes": "green",
-                "dont_know": "orange"
+                "dont_know": "red"
             }
         },
-        "wifi": {
+        "wifi_connection_opt": {
             "type": "key_value",
             "values": {
-                "yes_occasional_access": "orange",
                 "yes_full_access": "green",
+                "yes_occasional_access": "orange",
                 "no_access_at_all": "red",
                 "not_sure": "red"
             }
         },
-        "gender": {
+        "site_listed": {
             "type": "key_value",
             "values": {
+                "yes_included": "green",
+                "no_but_information_was_submitted": "orange",
+                "no_information_was_not_submitted": "red",
+                "dont_know": "red"
+            }
+        },
+        "ydvn_opt": {
+            "type": "key_value",
+            "values": {
+                "yes_someone": "green",
+                "during_day": "green",
+                "visit_periodically": "orange",
+                "no": "red"
+            }
+        },
+        "enroll_system_opt": {
+            "type": "key_value",
+            "values": {
+                "yes_both_new_arrivals_and_those_who_leave": "green",
+                "yes_but_only_new_arrivals": "orange",
+                "yes_but_only_those_who_leave": "orange",
                 "no": "red",
-                "partially": "orange",
+                "dont_know": "red"
+            }
+        },
+        "accommodation_contract_opt": {
+            "type": "key_value",
+            "values": {
                 "yes": "green",
-                "not_sure": "red"
+                "only_with_new_arrivals": "orange",
+                "no": "red",
+                "dont_know": "red"
+            }
+        },
+        "charge_opt": {
+            "type": "key_value",
+            "values": {
+                "yes": "red",
+                "no_charge": "green",
+                "dont_know": "red"
+            }
+        },
+        "mechanism_opt": {
+            "type": "key_value",
+            "values": {
+                "none": "red"
+            }
+        },
+        "administration_training_opt": {
+            "type": "key_value",
+            "values": {
+                "no": "red"
+            }
+        },
+        "vulnerability_opt": {
+            "type": "key_value",
+            "values": {
+                "none": "green"
+            }
+        },
+        "period_opt": {
+            "type": "key_value",
+            "values": {
+                "Up to 1 month": "orange",
+                "Up to 3 months": "orange",
+                "Up to 6 months": "orange",
+                "Up to 9 months": "red",
+                "Up to 1 year": "red",
+                "Up to 1,5 year": "red",
+                "no_hosted_idps_yet": "green"
+            }
+        },
+        "yndr_opt": {
+            "type": "key_value",
+            "values": {
+                "yes": "red",
+                "no": "green",
+                "dont_know": "orange",
+                "refuse_to_answer": "red"
+            }
+        },
+        "allocation_opt": {
+            "type": "key_value",
+            "values": {
+                "yes_full": "green",
+                "to_an_extent_some_people": "orange",
+                "no_considerations": "red"
+            }
+        },
+        "used_collective_site_opt": {
+            "type": "key_value",
+            "values": {
+                "yes": "green",
+                "no_also_used_primary_function": "red",
+                "dont_know": "orange"
+            }
+        },
+        "kitchen_availability_opt": {
+            "type": "key_value",
+            "values": {
+                "none": "red"
+            }
+        },
+        "square_meters_per_person": {
+            "type": "math",
+            "values": {
+                "x>=6": "green",
+                "x<6": "red"
+            },
+            "maintain_temperature_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "green",
+                    "no_temperature_lower_winter_season": "orange",
+                    "no_temperature_higher_warm_season": "orange",
+                    "no": "red",
+                    "dont_know": "red"
+                }
+            },
+            "ypn_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "green",
+                    "partially": "orange",
+                    "no": "red",
+                    "dont_know": "red"
+                }
+            },
+            "rate_opt": {
+                "type": "key_value",
+                "values": {
+                    "good": "orange",
+                    "ok": "green",
+                    "poor": "red",
+                    "dont_know": "red"
+                }
+            },
+            "back_up_source_of_power_extent_opt": {
+                "type": "key_value",
+                "values": {
+                    "fully": "green",
+                    "partially": "orange",
+                    "not_at_all": "red",
+                    "not_sure": "orange"
+                }
+            },
+            "quality_drinking_water_opt": {
+                "type": "key_value",
+                "values": {
+                    "very_good": "green",
+                    "good": "green",
+                    "regular": "orange",
+                    "poor": "red",
+                    "very_poor": "red"
+                }
+            },
+            "number_toilets": {
+                "type": "math",
+                "values": {
+                    "x>=10": "green",
+                    "x<10": "red"
+                }
+            },
+            "toilet_private_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "green",
+                    "no_partially": "orange",
+                    "no": "red"
+                }
             }
         }
     }
