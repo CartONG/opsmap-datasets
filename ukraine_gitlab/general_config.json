@@ -1,8 +1,9 @@
 {
-    "version": "v1.3",
+    "version": "v1.4",
     "locale": {
         "locales": [
-            "en"
+            "en",
+            "uk"
         ],
         "override": {
             "en": {
@@ -39,8 +40,8 @@
             "uk": "Україна"
         },
         "opsmapDescr": {
-            "en": "The Collective Sites Monitoring (CSM) site profile dashboard is an output of the CCCM cluster in Ukraine implemented with the technical support of the REACH Initiative. The profiles display site-level information collected by REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Crimea_SOS, NRC, UNHCR, and KIIS with the overall objective of strengthening the effectiveness of multi-sectorial interventions at site level. Information is collected through key informant interviews with site managers reflecting the latest two rounds of Collective Site Monitoring surveys. For further information, please visit the CCCM Cluster Ukraine website https://cccmcluster.org/operations/ukraine, or provide feedback to the cluster Coordinator Miranda Gaanderse at gaanders@unhcr.org or Information Management Officer at takagid@unhcr.org.",
-            "uk": "Iнформаційна панель з профілювання місць колективного проживання ВПО є результатом роботи кластеру CCCM в Україні, що реалізується за технічної підтримки Ініціативи REACH. Профілі відображають інформацію на рівні окремих місць колективного проживання ВПО, зібрану REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Крим_SOS, NRC та КМІС із загальною метою посилення ефективності міжсекторальних втручань на рівні місць колективного проживання та/або в межах територій. Інформація збирається шляхом опитування ключових інформаторів з керівниками об’єктів, що відображає останні два раунди опитувань колективного моніторингу об’єктів. Для отримання додаткової інформації відвідайте веб-сайт https://cccmcluster.org/operations/ukraine або надішліть відгук на електронну адресу координаторів кластерів (mirzayev@unhcr.org та alsagban@unhcr.org)."
+            "en": "The Collective Sites Monitoring (CSM) site profile dashboard is an output of the CCCM cluster in Ukraine implemented with the technical support of the REACH Initiative. The profiles display site-level information collected by REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Crimea SOS, NRC, UNHCR, and KIIS with the overall objective of strengthening the effectiveness of multi-sectorial interventions at site level. Information is collected through key informant interviews with site managers reflecting the latest two rounds of Collective Site Monitoring surveys. For further information, please visit the CCCM Cluster Ukraine website https://cccmcluster.org/operations/ukraine, or provide feedback to the cluster Coordinator Miranda Gaanderse at gaanders@unhcr.org or Information Management Officer at saifutdi@unhcr.org",
+            "uk": "Iнформаційна панель з профілювання місць колективного проживання ВПО є результатом роботи кластеру CCCM в Україні, що реалізується за технічної підтримки Ініціативи REACH. Профілі відображають інформацію на рівні окремих місць колективного проживання ВПО, зібрану REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Крим SOS, NRC та КМІС із загальною метою посилення ефективності міжсекторальних втручань на рівні місць колективного проживання. Інформація збирається шляхом опитування ключових інформаторів з керівниками об’єктів, що відображає останні два раунди опитувань у рамках моніторингу місць колективного проживання ВПО. Для отримання додаткової інформації відвідайте веб-сайт Кластеру з питань управління та координації МКП в Україні https://cccmcluster.org/operations/ukraine або надішліть відгук на електронну адресу Координатора кластера (Міранда Гаандерсе) за адресою gaanders@unhcr.org або Спеціаліста з управління інформацією за адресою saifutdi@unhcr.org"
         }
     },
     "iframe": {
@@ -141,8 +142,8 @@
         "mapConfig": {
             "bounds": [
                 43.74,
-                52.70,
-                20.90,
+                52.7,
+                20.9,
                 42.97
             ]
         },
@@ -163,30 +164,36 @@
     "surveys": [
         {
             "type": "ridl",
-            "name": "UA_DATA_Round7_8",
-            "submissionsUrl": "data/UKR_Round_8_9_MA.xlsx",
-            "submissionsTrUrl": "data/UKR_Round_8_9_Trans_MA.xlsx",
+            "name": "UA_DATA_Round9_10",
+            "submissionsUrl": "data/UKR_Round_9_10_MA.xlsx",
+            "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
-                "inputDateFormat": "YYYY/MM/DD"
+                "inputDateFormat": "DD/MM/YYYY",
+                "sitesMapVisualisation": [
+                    {
+                        "type": "populationCount",
+                        "field": "site_individuals"
+                    }
+                ]
             },
             "additionalFiltersDescription": [
                 {
                     "field": "round",
                     "name": {
                         "en": "Round",
-                        "uk": "Круглий"
+                        "uk": "Раунд"
                     }
                 }
             ],
             "spatial": {
                 "siteFields": {
-                    "id": "sites_pcode_updated",
+                    "id": "site_pcode_updated",
                     "lastUpdate": "date_assessment",
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "organization",
-                    "name": "sites_pcode_updated",
+                    "name": "site_name_eng",
                     "type": "site_type"
                 },
                 "admins": {
