@@ -170,6 +170,8 @@
             "options": {
                 "anonymousMode": "text",
                 "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "DD/MM/YYYY",
+                "listSeparator": ";",
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
