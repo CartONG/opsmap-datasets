@@ -81,7 +81,7 @@
             "type": "gsheet",
             "name": "Survey A",
             "fdf": {
-                "folder": "BGD_DATA_201123_FDF_s1"
+                "folder": "FDF"
             },
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=0&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=2106117370&single=true&output=csv",
