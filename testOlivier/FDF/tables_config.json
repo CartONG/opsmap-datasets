@@ -1,10 +1,10 @@
 {
     "tables": {
         "table1": {
-            "label": "Test chart",
+            "label": "Shelters status",
             "values": [
-                "Majority of shelters",
                 "All/almost all shelters",
+                "Majority of shelters",
                 "Few shelters",
                 "None/almost no shelters",
                 "I dont know"
