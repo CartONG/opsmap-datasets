@@ -169,7 +169,9 @@
             "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
-                "inputDateFormat": "DD/MM/YYYY",
+                "inputDateFormat": "MM/DD/YYYY",
+                "displayDateFormat": "MM/DD/YYYY",
+                "listSeparator": ";",
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",

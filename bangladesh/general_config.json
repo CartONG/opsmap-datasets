@@ -1,43 +1,31 @@
 {
-    "version": "v1.2.2",
+    "version": "v1.0.0",
     "textContent": {
         "name": {
-            "en": "Brazil",
-            "pt": "Brasil"
+            "en": "Bangladesh",
+            "bn": "বাংলাদেশ"
         },
         "opsmapDescr": {
-            "en": "More than 260,000 refugees and migrants have traveled to Brazil in search of protection as a result of the political, social and economic crisis ravaging Venezuela.<br/>Considering the urgent needs for humanitarian assistance, such as food, shelter, health and protection, especially for people with vulnerabilities (children, pregnant women, the elderly, people with disabilities, etc.), the Brazilian Federal Government edited Law no. 13,684/2018, providing for the execution of emergency assistance measures for the reception of affected people.<br/>Currently, Roraima has 9 reception spaces, including shelters (indigenous and non-indigenous), with the potential to serve more than nine thousand refugees, asylum seekers, and migrants. Of these, 7 are in the city of Boa Vista, 2 in the city of Pacaraima.<br/>All 9 spaces are coordinated by UNHCR, because of the agreement signed with the Ministry of Citizenship, in partnership with the Armed Forces.",
-            "pt": "Mais de 260 mil refugiados e migrantes deslocaram-se ao Brasil em busca de proteção em decorrência da crise política, social e econômica que assola a Venezuela.<br/>Considerando-se as necessidades urgentes de assistência humanitária, como alimentação, abrigamento, saúde e proteção, especialmente para pessoas com vulnerabilidades (crianças, mulheres grávidas, idosos, pessoas com deficiência, etc.), o Governo Federal Brasileiro editou a Lei no. 13.684/2018, prevendo a execução de medidas de assistência emergencial para acolhimento da pessoas afetadas.<br/>Atualmente, Roraima conta com 9 espaços de acolhimento, entre abrigos (entre abrigos indígenas e não-indígenas), com potencial de atender mais de nove mil refugiados, solicitantes de refúgio e migrantes. Desses abrigos, 7 estão na cidade de Boa Vista, 2 cidade de Pacaraima.<br/>Todos os 9 espaços são coordenados pelo ACNUR, por conta do convênio firmado com o Ministério da Cidadania, em parceria com as Forças Armadas."
+            "en": "The Site Management and Site Development (SMSD) Sector, and the Shelter and Non-Food Items (NFI) Sector are interlinked by nature. The merger of the two Sectors in 2023 will lead to cohesive planning and an integrated response under the co-leadership of IOM and UNHCR, who manage the humanitarian interventions in the two areas of their respective responsibility, following the guidance of the Government of Bangladesh. From the first quarter of 2023, this sector is named the Shelter & Camp Coordination and Camp Management sector.",
+            "bn": "সাইট ম্যানেজমেন্ট অ্যান্ড সাইট ডেভেলপমেন্ট (এসএমএসডি) সেক্টর এবং আশ্রয় ও অখাদ্য আইটেম (এনএফআই) সেক্টর প্রকৃতির দ্বারা পরস্পর সংযুক্ত। 2023 সালে দুটি সেক্টরের একত্রীকরণ আইওএম এবং ইউএনএইচসিআর-এর সহ-নেতৃত্বের অধীনে সমন্বিত পরিকল্পনা এবং একটি সমন্বিত প্রতিক্রিয়ার দিকে পরিচালিত করবে, যারা বাংলাদেশ সরকারের নির্দেশনা অনুসরণ করে তাদের নিজ নিজ দায়িত্বের দুটি ক্ষেত্রে মানবিক হস্তক্ষেপ পরিচালনা করে। 2023 সালের প্রথম ত্রৈমাসিক থেকে, এই সেক্টরটির নামকরণ করা হয় আশ্রয় ও ক্যাম্প সমন্বয় এবং ক্যাম্প ব্যবস্থাপনা সেক্টর।."
         }
     },
     "locale": {
         "locales": [
-            "pt",
-            "en"
-        ],
-        "override": {
-            "en": {
-                "title": "Profile of the shelters in Roraima"
-            },
-            "pt": {
-                "title": "Perfil do site"
-            }
-        }
-    },
-    "iframe": {
-        "url": "https://app.powerbi.com/view?r=eyJrIjoiZTRhOWVlOTgtYTk2MS00YmY3LWEyY2YtMGM1Y2MzODFjMmVjIiwidCI6ImU1YzM3OTgxLTY2NjQtNDEzNC04YTBjLTY1NDNkMmFmODBiZSIsImMiOjh9",
-        "display": true
-    },
+            "en",
+            "bn"
+        ]
+        },
     "footerLogos": [
         {
             "title": {
                 "en": "Webdev",
-                "pt": "Desenvolvimento Web"
+                "bn": "ওয়েবডেভ"
             },
             "logos": [
                 {
                     "name": "CartONG",
-                    "urlLogo": "BR_Logo/CartONG_logo_long_0_0_0.png",
+                    "urlLogo": "Logo/CartONG_logo_long_0_0_0.png",
                     "urlRedirection": "https://www.cartong.org"
                 }
             ]
@@ -45,71 +33,67 @@
         {
             "title": {
                 "en": "Fieldwork",
-                "pt": "Trabalho de campo"
+                "bn": "মাঠকর্ম"
             },
-            "logos": [
-                {
-                    "name": "FSF",
-                    "urlLogo": "BR_Logo/FSF.png",
-                    "urlRedirection": "https://www.fraternidadesemfronteiras.org.br/"
-                },
-                {
-                    "name": "AVSI",
-                    "urlLogo": "BR_Logo/AVSI_BRASIL.png",
-                    "urlRedirection": "http://www.avsibrasil.org.br/"
-                }
-            ]
+            "logos": []
         },
         {
             "title": {
                 "en": "Coordination and IM support",
-                "pt": "Coordenação e IM apoio"
+                "bn": "সমন্বয় এবং IM সমর্থন"
             },
-            "logos": [
-                {
-                    "name": "UNHCR",
-                    "urlLogo": "BR_Logo/UNHCR_PT.jpg",
-                    "urlRedirection": "https://www.acnur.org.br"
-                }
-            ]
+            "logos": []
         },
         {
             "title": {
                 "en": "Sector Lead",
-                "pt": "Líder do seto"
+                "bn": "সেক্টর লিড"
             },
-            "logos": [
-                {
-                    "name": "UNHCR",
-                    "urlLogo": "BR_Logo/UNHCR_PT.jpg",
-                    "urlRedirection": "https://www.acnur.org.br"
-                },
-                {
-                    "name": "Ministério da Cidadania",
-                    "urlLogo": "BR_Logo/Ministrerio_da_CIDADANIA.png",
-                    "urlRedirection": "https://www.gov.br/cidadania/pt-br"
-                }
-            ]
+            "logos": []
         }
     ],
     "spatial": {
         "mapConfig": {
             "bounds": [
-                -74.17,
-                -33.34,
-                -33.57,
-                5.02
+                87.517,
+                26.695,
+                93.11,
+                20.83
             ]
-        }
+        },
+        "dbConfig": {
+            "admin1": "pcode",
+            "admin2": "pcode",
+            "admin3": "pcode"
+        },
+       "adminLevels": [
+            "admin1",
+            "admin2",
+            "admin3"
+        ],
+        "adminLevelsMap": [
+            "admin1",
+            "admin2"
+        ]
     },
     "surveys": [
         {
             "type": "gsheet",
+            "name": "Survey A",
             "fdf": {
-                "folder": "BR_FDF_s1_080421"
+                "folder": "FDF"
             },
-            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRblO4ExeANFNL0ti5S4d-4x1k9AxCA93lfarcRyrUZMUABV7NwezMAUUmwKKN9AMLywoSTZZRSIfdn/pub?gid=0&single=true&output=csv",
-            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRblO4ExeANFNL0ti5S4d-4x1k9AxCA93lfarcRyrUZMUABV7NwezMAUUmwKKN9AMLywoSTZZRSIfdn/pub?gid=1157434408&single=true&output=csv",
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=0&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=2106117370&single=true&output=csv",
+            "additionalFiltersDescription": [
+                {
+                    "field": "cccm_shelter__mangmt",
+                    "name": {
+                        "en": "Manage by",
+                        "bn": "দ্বারা পরিচালনা করুন"
+                    }
+                }            
+            ],
             "indicators": {
                 "area": [
                     {
@@ -122,72 +106,85 @@
                     {
                         "type": "standard",
                         "name": {
-                            "en": "Shelter Max Capacity",
-                            "pt": "Capacidade Máxima dos Abrigos"
+                            "en": "Number families",
+                            "bn": "সংখ্যা পরিবার"
                         },
-                        "entryCode": "cccm_shelter_max_capacity",
-                        "iconOchaName": "Camp-Coordination-and-Camp-Management"
+                        "entryCode": "demo_num_hh",
+                        "iconOchaName": "People-targeted"
                     }
                 ],
                 "site": [
                     {
-                        "type": "site_occupation",
+                        "type": "standard",
                         "name": {
-                            "en": "Site at Full Capacity",
-                            "pt": "Abrigo em plena capacidade"
+                            "en": "Number families",
+                            "bn": "সংখ্যা পরিবার"
                         },
-                        "iconOchaName": "Camp-Coordination-and-Camp-Management",
-                        "entryCodeMaxCapacity": "cccm_site_at_full_capacity",
-                        "entryCodePeopleCount": "demo_num_indv",
-                        "entryCodeMaxPeopleCount": "cccm_shelter_max_capacity"
+                        "entryCode": "demo_num_hh",
+                        "iconOchaName": "People-targeted"
                     },
                     {
                         "type": "standard",
                         "name": {
-                            "en": "Shelter Type",
-                            "pt": "Tipo de Abrigo"
-                        },
-                        "entryCode": "cccm_shelter_type",
-                        "iconOchaName": "Camp-Coordination-and-Camp-Management"
-                    },
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "No. of Individuals",
-                            "pt": "Nº de Indivíduos"
+                            "en": "Number individuals",
+                            "bn": "সংখ্যা ব্যক্তি"
                         },
                         "entryCode": "demo_num_indv",
                         "iconOchaName": "People-in-need"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "# Shelters & NFI",
+                            "pbnt": "# আশ্রয়কেন্দ্র এবং NFI"
+                        },
+                        "entryCode": "Total_Shelter_and_NFI_distribution_points",
+                        "iconOchaName": "Shelter"
                     }
                 ]
             },
             "spatial": {
                 "siteFields": {
-                    "id": "mp_site_id",
-                    "lastUpdate": "mp_last_date",
-                    "latitude": "mp_latitude",
-                    "longitude": "mp_longitude",
+                    "id": "site_id",
+                    "lastUpdate": "last_update",
+                    "latitude": "latitude",
+                    "longitude": "longitude",
                     "manageBy": "cccm_shelter__mangmt",
-                    "name": "mp_site_name",
-                    "type": "mp_shelter_type"
+                    "name": "site_name",
+                    "type": "type"
                 },
                 "admins": {
                     "admin1": {
-                        "pcode": "adm1pcode",
-                        "name": "ggi_state"
+                        "pcode": "adm1_pcode",
+                        "name": "Division"
                     },
                     "admin2": {
-                        "pcode": "adm2pcode",
-                        "name": "ggi_city"
+                        "pcode": "adm2_pcode",
+                        "name": "Upazila"
+                    },
+                    "admin3": {
+                        "pcode": "adm3_pcode",
+                        "name": "city"
                     }
                 }
-            }
+            },
+            "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "DD/MM/YYYY",
+                "listSeparator": ";",
+                "anonymousMode": "none",
+                "sitesMapVisualisation": [
+                    {
+                        "type": "populationCount",
+                        "field": "demo_num_indv"
+                    }
+                ]
         }
     ],
     "options": {
-        "showCCCMLogo": false,
+        "showCCCMLogo": true,
         "pdfColumnCount": 3,
-        "showDemoBanner": false,
-        "exportAsCSVonHomePage": true
+        "showDemoBanner": true,
+        "exportAsCSVonHomePage": true,
+        "keepThematicOrderFromFDF": true
     }
 }
