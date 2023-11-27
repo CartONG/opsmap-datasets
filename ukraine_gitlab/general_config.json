@@ -169,8 +169,9 @@
             "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
-                "inputDateFormat": "MM/DD/YYYY",
-                "displayDateFormat": "MM/DD/YYYY",
+                "siteZoomMode": "admin",
+                "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "DD/MM/YYYY",
                 "listSeparator": ";",
                 "sitesMapVisualisation": [
                     {
