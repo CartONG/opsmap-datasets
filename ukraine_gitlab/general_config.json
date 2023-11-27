@@ -25,6 +25,10 @@
                     "admin3": "Громада"
                 },
                 "infosSite": "П-код МКП",
+                "indicator": {
+                    "siteCount": "Кількість MКП, які були досліджені під час моніторингу",
+                    "peopleCount": "Кількість ВПО у МКП, які були досліджені під час моніторингу"
+                },
                 "home": {
                     "lastUpdate": "Останнє оновлення",
                     "moreInfosTitle": "Більше інформації",
@@ -227,7 +231,7 @@
                         "type": "standard",
                         "name": {
                             "en": "Total people who can be hosted in sites covered in CSM round",
-                            "uk": "Людей можна приймати"
+                            "uk": "Місткість МКП, які були досліджені під час моніторингу"
                         },
                         "entryCode": "people_can_hosted_number",
                         "iconOchaName": "Camp-Coordination-and-Camp-Management"
@@ -237,8 +241,8 @@
                     {
                         "type": "standard",
                         "name": {
-                            "en": "Site active ?",
-                            "uk": "Активний сайт?"
+                            "en": "Site active?",
+                            "uk": "Чи активне MКП?"
                         },
                         "entryCode": "site_active",
                         "iconOchaName": "Selected"
@@ -256,7 +260,7 @@
                         "type": "standard",
                         "name": {
                             "en": "Individuals",
-                            "uk": "Фізичні особи"
+                            "uk": "Кількість осіб, розміщених в МКП"
                         },
                         "entryCode": "site_individuals",
                         "iconOchaName": "People-in-need"
