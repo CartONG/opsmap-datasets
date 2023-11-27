@@ -185,7 +185,7 @@
                     "lastUpdate": "date_assessment",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "organization",
+                    "manageBy": "organization_manages",
                     "name": "sites_pcode_updated",
                     "type": "site_type"
                 },
