@@ -195,8 +195,8 @@
                     "lastUpdate": "date_assessment",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "organization",
-                    "name": "site name eng",
+                    "manageBy": "organization_manages_2",
+                    "name": "site_name_eng",
                     "type": "site_type"
                 },
                 "admins": {
