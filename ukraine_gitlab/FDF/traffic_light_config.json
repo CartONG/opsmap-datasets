@@ -129,19 +129,33 @@
         "mechanism_opt": {
             "type": "key_value",
             "values": {
-                "none": "red"
+                "none": "red",
+                "site_management": "green",
+                "ombudsman": "green",
+                "toll_free": "green",
+                "suggestion_box": "green",
+                "other": "green"
             }
         },
         "administration_training_opt": {
             "type": "key_value",
             "values": {
+                "yes_cccm_induction_training": "green",
+                "yes_training_psea_gbv_prevention_protection_mainstreaming": "green",
+                "yes_training_rules_handling_explosive_objects": "green",
+                "yes_first_aid_training_and_or_psychological_assistance": "green",
+                "yes_training_on_site_management_other_than_cccm_training": "green",
+                "other": "green",
                 "no": "red"
             }
         },
         "vulnerability_opt": {
-            "type": "key_value",
+            "type": "list_count",
             "values": {
-                "none": "green"
+                "x<1": "green",
+                "x>=1 and x<4": "orange",
+                "x>=4 and x<9": "red",
+                "x>=9": "green"
             }
         },
         "period_opt": {
@@ -182,9 +196,12 @@
             }
         },
         "kitchen_availability_opt": {
-            "type": "key_value",
+            "type": "list_count",
             "values": {
-                "none": "red"
+                "x<1": "red",
+                "x>=1 and x<3": "orange",
+                "x>=3 and x<9": "green",
+                "x>=9": "red"
             }
         },
         "square_meters_per_person": {
@@ -192,16 +209,6 @@
             "values": {
                 "x>=6": "green",
                 "x<6": "red"
-            },
-            "maintain_temperature_opt": {
-                "type": "key_value",
-                "values": {
-                    "yes": "green",
-                    "no_temperature_lower_winter_season": "orange",
-                    "no_temperature_higher_warm_season": "orange",
-                    "no": "red",
-                    "dont_know": "red"
-                }
             },
             "ypn_opt": {
                 "type": "key_value",
@@ -242,9 +249,13 @@
             },
             "number_toilets": {
                 "type": "math",
+                "scope": {
+                    "x": "site_individuals",
+                    "y": "number_toilets"
+                },
                 "values": {
-                    "x>=10": "green",
-                    "x<10": "red"
+                    "(x/y)<= 10": "green",
+                    "(y/x)>10" : "red"
                 }
             },
             "toilet_private_opt": {
@@ -253,6 +264,98 @@
                     "yes": "green",
                     "no_partially": "orange",
                     "no": "red"
+                }
+            },
+            "social_activity_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes_not_many_25_%": "orange",
+                    "yes_many_50_%": "green",
+                    "yes_almost_all_more_50_%": "green",
+                    "no": "red",
+                    "dont_know": "red"
+                }
+            },
+            "consulting_on_site_management_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes_through_general_meetings": "green",
+                    "yes_through_individual_consultations": "green",
+                    "yes_through_groups_on_social_media": "green",
+                    "yes_through_active_groups_focal_points": "green",
+                    "yes_other": "green",
+                    "no": "red",
+                    "refuse_to_answer": "red"
+                }
+            },
+            "maintain_temperature_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "green",
+                    "no_temperature_lower_winter_season": "red",
+                    "no_temperature_higher_warm_season": "red",
+                    "no": "red"
+                }
+            },
+            "access_education_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes_both_kindergartens_and_schools": "green",
+                    "yes_but_only_kindergartens": "orange",
+                    "yes_but_only_schools": "orange",
+                    "no_kindergartens_nor_schools": "red",
+                    "not_sure": "orange"
+                }
+            },
+            "prevented_access_education_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes_considerably_including_full_suspension_of_original_function": "red",
+                    "to_some_extent": "orange",
+                    "no": "green",
+                    "dont_know": "orange"
+                }
+            },
+            "barriers_access_education_opt": {
+                "type": "key_value",
+                "values": {
+                    "none": "green",
+                    "lack_of_separate_space_css_for_distance_learning": "red",
+                    "lack_of_internet_connection": "red",
+                    "lack_of_equipment": "red",
+                    "other": "orange",
+                    "dont_know": "red"
+                }
+            },
+            "food_products_needs_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "red",
+                    "partially": "orange",
+                    "no": "green",
+                    "not_sure": "orange"
+                }
+            },
+            "winterization_support_opt": {
+                "type": "key_value",
+                "values": {
+                    "finance_cover_utility_bills": "red",
+                    "fuel_generator": "red",
+                    "alternative_heating_source": "red",
+                    "insulation_repairs": "red",
+                    "other": "orange",
+                    "none": "green"
+                }
+            },
+            "number_showers": {
+                "type": "math",
+                "scope": {
+                    "x": "site_individuals",
+                    "y": "number_showers"
+                },
+                "values": {
+                    "(x/y)<= 12": "green",
+                    "(y/x)>12" : "red"
                 }
             }
         }

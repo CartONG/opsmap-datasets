@@ -2,7 +2,7 @@ field_name;field_label_en;field_label_uk
 round;Round;Раунд
 start;Start;Старт
 end;End;Кінець
-date_assessment;Assessment date;Дата оцінювання
+date_assessment;Assessment date;Дата моніторингу
 deviceid;NA;NA
 organization;Reporting organization/ partner;Організація / Партнер
 enum_id;Enumerator's ID;ID інтерв'юера
@@ -25,7 +25,7 @@ site_closure;Potential site closure in the nearest future;Потенційне �
 yes_site_closure;Site closure reasons;Причини закриття МКП
 site_closure_other;If other, please specify:;Інше, уточніть
 responsible;Organization/authority responsible for the site;Організація, відповідальна за МКП
-organization_manages;What organizations/authority manages the site?;Яка саме організація / уповноважений орган керує МКП?
+organization_manages;Manage by;Організація / уповноважений орган, яка керує МКП
 non_governmental_organization;Non governmental organization;Громадська організація
 non_governmental_organization_other;If other, please specify:;Інше, уточніть
 focal_point;Organization's focal point availability ;Доступність контактної особи організації 
@@ -312,3 +312,7 @@ site_name_eng;Site name Eng;Назва МКП англ.
 latitude;Latitude;Широта
 longitude;Longitude;Довгота
 site_type;Site type;Тип МКП
+vulnerable_2;Vulnerable groups 2;Вразливі групи населення 2
+vulnerable_3;Vulnerable groups 3;Вразливі групи населення 3
+spaces_cooking_eating_food_storage_2;Are there common spaces for the purposes of cooking (kitchen), eating, and food storage? 2;Чи існують приміщення спільного користування для приготування їжі (кухня), прийому їжі та зберігання продуктів? 2
+spaces_cooking_eating_food_storage_3;Are there common spaces for the purposes of cooking (kitchen), eating, and food storage? 3;Чи існують приміщення спільного користування для приготування їжі (кухня), прийому їжі та зберігання продуктів? 3

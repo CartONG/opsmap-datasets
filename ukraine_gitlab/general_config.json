@@ -24,7 +24,11 @@
                     "admin2": "Район",
                     "admin3": "Громада"
                 },
-                "infosSite": "Код сайтів",
+                "infosSite": "П-код МКП",
+                "indicator": {
+                    "siteCount": "Кількість MКП, які були досліджені під час моніторингу",
+                    "peopleCount": "Кількість ВПО у МКП, які були досліджені під час моніторингу"
+                },
                 "home": {
                     "lastUpdate": "Останнє оновлення",
                     "moreInfosTitle": "Більше інформації",
@@ -169,6 +173,7 @@
             "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
+                "siteZoomMode": "admin",
                 "inputDateFormat": "MM/DD/YYYY",
                 "displayDateFormat": "MM/DD/YYYY",
                 "listSeparator": ";",
@@ -194,22 +199,22 @@
                     "lastUpdate": "date_assessment",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "organization",
+                    "manageBy": "organization_manages_2",
                     "name": "site_name_eng",
                     "type": "site_type"
                 },
                 "admins": {
                     "admin1": {
                         "pcode": "oblast",
-                        "name": "strata"
+                        "name": "oblast"
                     },
                     "admin2": {
                         "pcode": "raion",
-                        "name": "raion_name"
+                        "name": "raion"
                     },
                     "admin3": {
                         "pcode": "hromada",
-                        "name": "hromada_name"
+                        "name": "hromada"
                     }
                 }
             },
@@ -226,7 +231,7 @@
                         "type": "standard",
                         "name": {
                             "en": "Total people who can be hosted in sites covered in CSM round",
-                            "uk": "Людей можна приймати"
+                            "uk": "Місткість МКП, які були досліджені під час моніторингу"
                         },
                         "entryCode": "people_can_hosted_number",
                         "iconOchaName": "Camp-Coordination-and-Camp-Management"
@@ -236,8 +241,8 @@
                     {
                         "type": "standard",
                         "name": {
-                            "en": "Site active ?",
-                            "uk": "Активний сайт?"
+                            "en": "Site active?",
+                            "uk": "Чи активне MКП?"
                         },
                         "entryCode": "site_active",
                         "iconOchaName": "Selected"
@@ -255,7 +260,7 @@
                         "type": "standard",
                         "name": {
                             "en": "Individuals",
-                            "uk": "Фізичні особи"
+                            "uk": "Кількість осіб, розміщених в МКП"
                         },
                         "entryCode": "site_individuals",
                         "iconOchaName": "People-in-need"
