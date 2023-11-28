@@ -190,7 +190,7 @@
                     {
                         "type": "populationCount",
                         "field": "demo_num_indv",
-                        "tresholds": [1000, 10000]
+                        "tresholds": [500, 1000]
                     }
                 ]
             },
