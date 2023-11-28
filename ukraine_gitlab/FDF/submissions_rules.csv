@@ -34,7 +34,7 @@ settlement_documents;bullet;group_site_management;;;;hide;;settlement_documents_
 settlement_documents_other;string;group_site_management;;;;settlement_documents#===#other;;
 writing_rules;list;group_site_management;yesnodont;;;;;ynd_opt
 accommodation_contract;list;group_site_management;accommodation_contract_opt;;;;;accommodation_contract_opt
-consulting_on_site_management;bullet;group_site_management;;;;;;consulting_on_site_management_opt
+consulting_on_site_management;bullet;group_site_management;consulting_on_site_management_opt;;;;;consulting_on_site_management_opt
 support_administration_cs;list;group_site_management;yesnodont;;;;;support_administration_cs_opt
 form_of_participation;bullet;group_site_management;;;;support_administration_cs#===#yes;;form_of_participation_opt
 form_of_participation_other;string;group_site_management;;;;form_of_participation#===#other;;
@@ -103,7 +103,7 @@ idp_groups_other;string;group_site_management;;;;idp_groups#===#other;;
 individuals_evicted;list;group_protection;yndr_opt;;;;;yndr_opt
 eviction_reason;bullet;group_protection;;;;individuals_evicted#===#yes;;eviction_opt
 eviction_reason_other;string;group_protection;;;;eviction_reason#===#other;;
-allocation_plan;list;group_site_management;;;;;;allocation_opt
+allocation_plan;list;group_site_management;allocation_opt;;;;;allocation_opt
 evacuation_plan;list;group_site_management;yesnodont;;;;;ynd_opt
 used_collective_site;list;group_shelter;used_collective_site_opt;;;;;used_collective_site_opt
 individual_zones;list;group_shelter;yesnodont;;;used_collective_site#===#no_also_used_primary_function;;ynd_opt
@@ -174,7 +174,7 @@ access_food;bullet;group_food_security;;;;;;food_access_opt
 food_products_needs;list;group_food_security;food_products_needs_opt;;;;;food_products_needs_opt
 food_products_type;bullet;group_food_security;;;;food_products_needs#===#yes;;food_opt
 food_products_type_other;string;group_food_security;;;;food_products_type#===#yes;;
-top_3_food_products_needs;bullet;group_food_security;;;;food_products_needs#===#yes or {food_products_needs#===#partially;;food_opt
+top_3_food_products_needs;bullet;group_food_security;;;;food_products_needs#===#yes or food_products_needs#===#partially;;food_opt
 top_3_food_products_needs_other;string;group_food_security;;;;top_3_food_products_needs#===#other;;
 types_food_provided;bullet;group_food_security;;;;;;food_support_opt
 types_food_provided_other;string;group_food_security;;;;types_food_provided#===#other;;
