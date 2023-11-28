@@ -193,7 +193,7 @@
             // - "visualisationType": {
                 //     "type": "populationCount", -> type of representation
                 //     "field": "demo_num_indv", -> name of the field to use
-                //     "color": "#EC6B4D" -> color for the representation
+                //     "tresholds": [300, 600] -> limits for circles size and legends
                 // }
             // }
             "options": {
@@ -206,7 +206,8 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
-                        "field": "demo_num_indv"
+                        "field": "demo_num_indv",
+                        "tresholds": [300, 600]
                     }
                 ]
             },
