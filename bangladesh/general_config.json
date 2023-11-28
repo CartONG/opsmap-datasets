@@ -23,7 +23,8 @@
                     "admin3": "Upazila"
                 }
             }
-        },
+        }
+    },
     "footerLogos": [
         {
             "title": {
@@ -195,5 +196,4 @@
         "exportAsCSVonHomePage": true,
         "keepThematicOrderFromFDF": true
     }
-}
 }
