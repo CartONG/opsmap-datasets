@@ -156,7 +156,7 @@
                         "type": "standard",
                         "name": {
                             "en": "# Shelters & NFI",
-                            "pbnt": "# আশ্রয়কেন্দ্র এবং NFI"
+                            "bn": "# আশ্রয়কেন্দ্র এবং NFI"
                         },
                         "entryCode": "Total_Shelter_and_NFI_distribution_points",
                         "iconOchaName": "Shelter"
