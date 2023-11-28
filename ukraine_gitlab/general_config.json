@@ -206,15 +206,15 @@
                 "admins": {
                     "admin1": {
                         "pcode": "oblast",
-                        "name": "strata"
+                        "name": "oblast"
                     },
                     "admin2": {
                         "pcode": "raion",
-                        "name": "raion_name"
+                        "name": "raion"
                     },
                     "admin3": {
                         "pcode": "hromada",
-                        "name": "hromada_name"
+                        "name": "hromada"
                     }
                 }
             },
