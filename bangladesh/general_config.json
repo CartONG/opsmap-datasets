@@ -160,11 +160,11 @@
                     },
                     "admin2": {
                         "pcode": "adm2_pcode",
-                        "name": "Upazila"
+                        "name": "District"
                     },
                     "admin3": {
                         "pcode": "adm3_pcode",
-                        "name": "city"
+                        "name": "Upazila"
                     }
                 }
             },
