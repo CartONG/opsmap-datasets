@@ -25,6 +25,15 @@
             }
         }
     },
+    "headerLogos": [
+        {
+            "logos": [
+                {
+                    "name": "CCCM Bangladesh",
+                    "urlLogo": "Logo/SCCCM_Logo_small.png",
+                    "urlRedirection": "https://www.cccmcluster.org/where-we-work/bangladesh"
+                }
+            ],
     "footerLogos": [
         {
             "title": {
@@ -190,7 +199,7 @@
         }
     ],
     "options": {
-        "showCCCMLogo": true,
+        "showCCCMLogo": false,
         "pdfColumnCount": 3,
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
