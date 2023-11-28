@@ -1,8 +1,8 @@
 field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition
 geopoint 1;float;group_general_info;;;;hide
-geopoint 1 latitude;float;group_general_info;;;;hide
-geopoint 1 longitude;float;group_general_info;;;;hide
-Date;date;group_general_info;;;;
+latitude;float;group_general_info;;;;hide
+longitude;float;group_general_info;;;;hide
+last_update;date;group_general_info;;;;
 blocks;integer;group_general_info;;;;
 sublocks;integer;group_general_info;;;;
 Camp_Area_SqM;integer;group_general_info;;;;
