@@ -14,7 +14,15 @@
         "locales": [
             "en",
             "bn"
-        ]
+        ],
+        "override": {
+            "en": {
+                "infosAdmins": {
+                    "admin1": "Division",
+                    "admin2": "District",
+                    "admin3": "Upazila"
+                }
+            }
         },
     "footerLogos": [
         {
