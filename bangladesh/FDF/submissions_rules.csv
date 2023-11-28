@@ -1,6 +1,6 @@
-field_name;type;thematic_group;traffic_light_name;chart_id;chart_data
- geopoint 1 latitude;;group_general_info;;;
- geopoint 1 longitude;;group_general_info;;;
+field_name;type;thematic_group;traffic_light_name;chart_id;chart_data; 
+geopoint 1 latitude;;group_general_info;;;
+geopoint 1 longitude;;group_general_info;;;
 Date;date;group_general_info;;;
 blocks;integer;group_general_info;;;
 sublocks;integer;group_general_info;;;
