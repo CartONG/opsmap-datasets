@@ -73,6 +73,8 @@ sum_unaccompanied_children;integer;group_demography;;;;hide;;
 caregiver_support;list;group_demography;caregiver_support;;;;;caregiver_support_opt
 caregiver_support_number;integer;group_demography;;;;hide;;
 vulnerable;bullet;group_demography;vulnerability_opt;;;;;vulnerability_opt
+vulnerable_2;bullet;group_demography;vulnerability_opt;;;;;vulnerability_opt
+vulnerable_3;bullet;group_demography;vulnerability_opt;;;;;vulnerability_opt
 vulnerable_other;string;group_demography;;;;vulnerable#===#other;;
 pregnant_lactating_number;integer;group_demography;;;;hide;;
 female_headed_number;integer;group_demography;;;;hide;;
@@ -107,6 +109,8 @@ used_collective_site;list;group_shelter;used_collective_site_opt;;;;;used_collec
 individual_zones;list;group_shelter;yesnodont;;;used_collective_site#===#no_also_used_primary_function;;ynd_opt
 overcrowded_collective_site;list;group_shelter;noyesdont;;;site_active#===#yes;;ynd_opt
 spaces_cooking_eating_food_storage;bullet;group_shelter;kitchen_availability_opt;;;;;kitchen_availability_opt
+spaces_cooking_eating_food_storage_2;bullet;group_shelter;kitchen_availability_opt;;;;;kitchen_availability_opt
+spaces_cooking_eating_food_storage_3;bullet;group_shelter;kitchen_availability_opt;;;;;kitchen_availability_opt
 common_spaces_other_kitchens;list;group_shelter;;;;;;ynd_opt
 purpose_spaces_serves;bullet;group_shelter;;;;common_spaces_other_kitchens#===#yes;;purpose_spaces_serves_opt
 purpose_spaces_serves_other;string;group_shelter;;;;purpose_spaces_serves#===#other;;
