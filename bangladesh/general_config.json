@@ -27,13 +27,11 @@
     },
     "headerLogos": [
         {
-            "logos": [
-                {
-                    "name": "CCCM Bangladesh",
-                    "urlLogo": "Logo/SCCCM_Logo_small.png",
-                    "urlRedirection": "https://www.cccmcluster.org/where-we-work/bangladesh"
-                }
-            ],
+            "name": "CCCM Bangladesh",
+            "urlLogo": "Logo/SCCCM_Logo_small.png",
+            "urlRedirection": "https://www.cccmcluster.org/where-we-work/bangladesh"
+        }
+    ],
     "footerLogos": [
         {
             "title": {
