@@ -44,11 +44,11 @@ PSN_UASC;integer;Specific_Groups;;doughnut_chart#2;Sneeds#Persons with mental he
 PSN_OlderAtRisk;integer;Specific_Groups;;doughnut_chart#2;Selderly#Single elderly  households;;
 PSN_OtherPSN;integer;Specific_Groups;;doughnut_chart#2;Unacc#Unaccompanied children;;
 Percent_of_health_facilities_with_operational_CFRMs;string;group_health;;;;;
-Percent_of_CFRM_health_cases_resolved_within_30_days;integer;group_health;CFRMCasesResolved;;;;
+Percent_of_CFRM_health_cases_resolved_within_30_days;float;group_health;CFRMCasesResolved;;;;
 Percent_of_distribution_centers_that_are_accessible_for_people_with_special_needs_and_women;string;group_fs;;;;;
-Percent_Nutritiona_facilities_accessible_for_PWSN;integer;group_nutrition;facilities_accessible_PWDs;;;;
-Percent__Shelter_distribution_points_that_are_accessible_for_people_with_special_needs;integer;group_nutrition;facilities_accessible_PWDs;;;;
+Percent_Nutritiona_facilities_accessible_for_PWSN;float;group_nutrition;facilities_accessible_PWDs;;;;
+Percent__Shelter_distribution_points_that_are_accessible_for_people_with_special_needs;float;group_nutrition;facilities_accessible_PWDs;;;;
 Total_Shelter_and_NFI_distribution_points;string;group_shelternfi;;;;;
-Percent_of_shelter-related_feedback_received_at_the_CFRM_that_is_resolved_within_30_days;integer;group_shelternfi;CFRMCasesResolved;;;;
-Percent_Protection_refferal_cases_actioned;integer;group_protection;CFRMCasesResolved;;;;
+Percent_of_shelter-related_feedback_received_at_the_CFRM_that_is_resolved_within_30_days;float;group_shelternfi;CFRMCasesResolved;;;;
+Percent_Protection_refferal_cases_actioned;float;group_protection;CFRMCasesResolved;;;;
 Percent_Child_friendly_space__in_risk_zones;string;group_protection;;;;;
