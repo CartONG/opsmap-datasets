@@ -1,10 +1,10 @@
 field_name;field_label_en;field_label_bn
 geopoint 1;;
-geopoint 1 latitude;Latitude:;অক্ষাংশ:
-geopoint 1 longitude;Longitude:;দ্রাঘিমাংশ:
+latitude;Latitude:;অক্ষাংশ:
+longitude;Longitude:;দ্রাঘিমাংশ:
 geopoint 1 altitude;;
 geopoint 1 precision;;
-Date;Date of Report:;রিপোর্টের তারিখ:
+last_update;Date of Report:;রিপোর্টের তারিখ:
 blocks;Number of Blocks:;ব্লকের সংখ্যা:
 sublocks;Number of Sub-blocks:;সাব-ব্লকের সংখ্যা:
 Camp_Area_SqM;Camp Area (Sq.M);ক্যাম্প এলাকা (Sq.M)
