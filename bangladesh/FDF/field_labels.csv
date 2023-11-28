@@ -1,4 +1,17 @@
 field_name;field_label_en;field_label_bn
+site_id;site id;সাইট আইডি
+site_name;site name;সাইটের নাম
+country;country;দেশ
+Division;Division;বিভাগ
+Upazila;Upazila;উপজেলা
+District;District;জেলা
+adm1_pcode;adm1 pcode;adm1 পিকোড
+adm2_pcode;adm2 pcode;adm2 পিকোড
+adm3_pcode;adm3 pcode;adm3 পিকোড
+Shelters;Shelters;আশ্রয়
+cccm_shelter__mangmt;cccm shelter mangmt;cccm আশ্রয় mangmt
+Camp_Area_SqM;Camp Area SqM;ক্যাম্প এলাকা SqM
+camp_perimeter;camp perimeter;ক্যাম্প পরিধি
 geopoint 1;;
 latitude;Latitude:;অক্ষাংশ:
 longitude;Longitude:;দ্রাঘিমাংশ:
