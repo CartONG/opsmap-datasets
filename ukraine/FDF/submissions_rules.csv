@@ -73,7 +73,7 @@ sum_unaccompanied_children;integer;group_demography;;;;hide;;
 caregiver_support;list;group_demography;caregiver_support;;;;;caregiver_support_opt
 caregiver_support_number;integer;group_demography;;;;hide;;
 vulnerable_3;bullet;group_demography;vulnerability_opt;;;;;vulnerability_opt
-vulnerable_other;string;group_demography;;;;vulnerable#===#other;;
+vulnerable_other;string;group_demography;;;;vulnerable_3#===#other;;
 pregnant_lactating_number;integer;group_demography;;;;hide;;
 female_headed_number;integer;group_demography;;;;hide;;
 older_women_number;integer;group_demography;;;;hide;;
