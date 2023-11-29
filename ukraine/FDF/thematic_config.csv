@@ -4,7 +4,7 @@ group_site_information;Document;mean;Site information;Інформація пр�
 group_demography;Group;mean;Demography;Демографічний профіль
 group_protection;Protection;mean;Protection & Information provision;Захищеність та інфозабезпечення
 group_shelter;Shelter;mean;Shelter;Проживання
-group_wash;Water-source;mean;Water,sanitation and hygiene;Водопостачання, санітарія та гігієна
+group_wash;Water-source;mean;Water, sanitation and hygiene;Водопостачання, санітарія та гігієна
 group_site_management;Spontaneous-site;mean;Site management;Управління МКП
 group_public_services;School;mean;Availability of public services;Доступ до послуг
 group_food_security;Food-Security;mean;Food Security;Продовольча безпека
