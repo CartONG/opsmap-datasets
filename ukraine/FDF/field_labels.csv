@@ -72,7 +72,6 @@ unaccompanied_children;Presence of unaccompanied children ;Наявність д
 sum_unaccompanied_children;No. of unaccompanied children;Кількість дітей без супроводу батьків
 caregiver_support;Presence of people who require caregiver support;Наявність людей, які потребують догляду
 caregiver_support_number;How many people who require caregiver support but cannot be taken care of in the site are there?;Скільки людей в МКП, які потребують догляду, але не отримують безпосередньо в МКП?
-vulnerable;Vulnerable groups;Вразливі групи населення
 vulnerable_other;If other, please specify:;Інше, уточніть
 pregnant_lactating_number;No. of pregnant or lactating mothers;Кількість вагітних або годуючих матерів
 female_headed_number;No. of female-headed households;Кількість домогосподарств, очолюваних жінками
@@ -106,7 +105,6 @@ evacuation_plan;Is there an evacuation plan on site;Чи існує в МКП п
 used_collective_site;Is the collective site building solely used for hosting IDPs?;Чи використовується приміщення МКП виключно для розміщення ВПО?
 individual_zones;Are spaces allocated for IDPs separated from the spaces used for the site's primary function?;Чи відокремлені місця для ВПО від приміщень, які використовуються за основним призначенням МКП?
 overcrowded_collective_site;Is the collective site overcrowded, in your opinion?;На Вашу думку, чи перенаселений МКП?
-spaces_cooking_eating_food_storage;Are there common spaces for the purposes of cooking (kitchen), eating, and food storage?;Чи існують приміщення спільного користування для приготування їжі (кухня), прийому їжі та зберігання продуктів?
 common_spaces_other_kitchens;Are there common spaces other than kitchens, eating spaces, and food storage?;Чи існують приміщення спільного користування, крім кухонь, місць для прийому їжі та зберігання продуктів?
 purpose_spaces_serves;Which purpose do these spaces serve?;Яку функцію виконують ці приміщення?
 purpose_spaces_serves_other;Other (specify);Інше, уточніть
@@ -312,7 +310,5 @@ site_name_eng;Site name Eng;Назва МКП англ.
 latitude;Latitude;Широта
 longitude;Longitude;Довгота
 site_type;Site type;Тип МКП
-vulnerable_2;Vulnerable groups 2;Вразливі групи населення 2
 vulnerable_3;Vulnerable groups 3;Вразливі групи населення 3
-spaces_cooking_eating_food_storage_2;Are there common spaces for the purposes of cooking (kitchen), eating, and food storage? 2;Чи існують приміщення спільного користування для приготування їжі (кухня), прийому їжі та зберігання продуктів? 2
 spaces_cooking_eating_food_storage_3;Are there common spaces for the purposes of cooking (kitchen), eating, and food storage? 3;Чи існують приміщення спільного користування для приготування їжі (кухня), прийому їжі та зберігання продуктів? 3
