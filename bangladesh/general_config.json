@@ -17,23 +17,28 @@
         ],
         "override": {
             "en": {
+                "title": "Camp profile",
                 "infosAdmins": {
                     "admin1": "Division",
                     "admin2": "District",
                     "admin3": "Upazila"
+                }
+            },
+            "bn": {
+                "title": "ক্যাম্প প্রোফাইল",
+                "infosAdmins": {
+                    "admin1": "বিভাগ",
+                    "admin2": "জেলা",
+                    "admin3": "উপজেলা"
                 }
             }
         }
     },
     "headerLogos": [
         {
-            "logos": [
-                {
-                    "name": "CCCM Bangladesh",
-                    "urlLogo": "Logo/SCCCM_Logo_small.png",
-                    "urlRedirection": "https://www.cccmcluster.org/where-we-work/bangladesh"
-                }
-            ]
+            "name": "CCCM Bangladesh",
+            "urlLogo": "Logo/SCCCM_Logo_small.png",
+            "urlRedirection": "https://www.cccmcluster.org/where-we-work/bangladesh"
         }
     ],
     "footerLogos": [
