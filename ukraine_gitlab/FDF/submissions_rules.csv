@@ -7,9 +7,9 @@ deviceid;string;group_general_info;;;;hide;;
 organization;list;group_general_info;;;;hide;;organization_opt
 enum_id;list;group_general_info;;;;hide;;enum_id_opt
 interview_type;list;group_general_info;;;;;;interview_type_opt
-oblast;string;group_general_info;;;;;;oblast_opt
-raion;string;group_general_info;;;;;;raion_opt
-hromada;string;group_general_info;;;;;;hromada_opt
+oblast;string;group_general_info;;;;hide;;oblast_opt
+raion;string;group_general_info;;;;hide;;raion_opt
+hromada;string;group_general_info;;;;hide;;hromada_opt
 settlement;string;group_general_info;;;;;;settlement_opt
 site_name_uid_list;list;group_general_info;;;;hide;;site_name_uid_opt
 informed_consent;list;group_general_info;;;;hide;;yn_opt
@@ -34,7 +34,7 @@ settlement_documents;bullet;group_site_management;;;;hide;;settlement_documents_
 settlement_documents_other;string;group_site_management;;;;settlement_documents#===#other;;
 writing_rules;list;group_site_management;yesnodont;;;;;ynd_opt
 accommodation_contract;list;group_site_management;accommodation_contract_opt;;;;;accommodation_contract_opt
-consulting_on_site_management;bullet;group_site_management;consulting_on_site_management_opt;;;;;consulting_on_site_management_opt
+consulting_on_site_management;bullet;group_site_management;;;;;;consulting_on_site_management_opt
 support_administration_cs;list;group_site_management;yesnodont;;;;;support_administration_cs_opt
 form_of_participation;bullet;group_site_management;;;;support_administration_cs#===#yes;;form_of_participation_opt
 form_of_participation_other;string;group_site_management;;;;form_of_participation#===#other;;
@@ -49,7 +49,7 @@ idps_pay_utility_bills_yn;list;group_site_management;;;;hide;;yn_opt
 idps_pay_utility_bills;integer;group_site_management;;;;hide;;
 feedback_mechanism;bullet;group_protection;mechanism_opt;;;;;mechanism_opt
 feedback_mechanism_other;string;group_protection;;;;feedback_mechanism#===#other;;
-administration_training;bullet;group_protection;administration_training_opt;;;;;administration_training_opt
+administration_training;bullet;group_protection;;;;;;administration_training_opt
 administration_training_other;string;group_protection;;;;administration_training#===#other;;
 data_availability;bullet;group_protection;;;;;;data_availability_opt
 gbv_report;list;group_protection;yesnosure;;;;;ynn_opt
@@ -72,10 +72,8 @@ unaccompanied_children;list;group_demography;noyesdont;;;children_0_17_number}>0
 sum_unaccompanied_children;integer;group_demography;;;;hide;;
 caregiver_support;list;group_demography;caregiver_support;;;;;caregiver_support_opt
 caregiver_support_number;integer;group_demography;;;;hide;;
-vulnerable;bullet;group_demography;vulnerability_opt;;;;;vulnerability_opt
-vulnerable_2;bullet;group_demography;vulnerability_opt;;;;;vulnerability_opt
 vulnerable_3;bullet;group_demography;vulnerability_opt;;;;;vulnerability_opt
-vulnerable_other;string;group_demography;;;;vulnerable#===#other;;
+vulnerable_other;string;group_demography;;;;vulnerable_3#===#other;;
 pregnant_lactating_number;integer;group_demography;;;;hide;;
 female_headed_number;integer;group_demography;;;;hide;;
 older_women_number;integer;group_demography;;;;hide;;
@@ -108,8 +106,6 @@ evacuation_plan;list;group_site_management;yesnodont;;;;;ynd_opt
 used_collective_site;list;group_shelter;used_collective_site_opt;;;;;used_collective_site_opt
 individual_zones;list;group_shelter;yesnodont;;;used_collective_site#===#no_also_used_primary_function;;ynd_opt
 overcrowded_collective_site;list;group_shelter;noyesdont;;;site_active#===#yes;;ynd_opt
-spaces_cooking_eating_food_storage;bullet;group_shelter;kitchen_availability_opt;;;;;kitchen_availability_opt
-spaces_cooking_eating_food_storage_2;bullet;group_shelter;kitchen_availability_opt;;;;;kitchen_availability_opt
 spaces_cooking_eating_food_storage_3;bullet;group_shelter;kitchen_availability_opt;;;;;kitchen_availability_opt
 common_spaces_other_kitchens;list;group_shelter;;;;;;ynd_opt
 purpose_spaces_serves;bullet;group_shelter;;;;common_spaces_other_kitchens#===#yes;;purpose_spaces_serves_opt
@@ -174,7 +170,7 @@ access_food;bullet;group_food_security;;;;;;food_access_opt
 food_products_needs;list;group_food_security;food_products_needs_opt;;;;;food_products_needs_opt
 food_products_type;bullet;group_food_security;;;;food_products_needs#===#yes;;food_opt
 food_products_type_other;string;group_food_security;;;;food_products_type#===#yes;;
-top_3_food_products_needs;bullet;group_food_security;;;;food_products_needs#===#yes or food_products_needs#===#partially;;food_opt
+top_3_food_products_needs;bullet;group_food_security;;;;;;food_opt
 top_3_food_products_needs_other;string;group_food_security;;;;top_3_food_products_needs#===#other;;
 types_food_provided;bullet;group_food_security;;;;;;food_support_opt
 types_food_provided_other;string;group_food_security;;;;types_food_provided#===#other;;
@@ -306,9 +302,9 @@ _submitted_by;string;group_general_info;;;;hide;;
 __version__;string;group_general_info;;;;hide;;
 _index;string;group_general_info;;;;hide;;
 strata;list;group_general_info;;;;hide;;oblast_opt
-raion_name;list;group_general_info;;;;hide;;raion_opt
-hromada_name;list;group_general_info;;;;hide;;hromada_opt
-settlement_name;list;group_general_info;;;;hide;;settlement_opt
+raion_name;list;group_general_info;;;;;;raion_opt
+hromada_name;list;group_general_info;;;;;;hromada_opt
+settlement_name;list;group_general_info;;;;;;settlement_opt
 Hub;list;group_general_info;;;;;;hub_opt
 admin4ClassType_1;list;group_general_info;;;;;;admin4ClassType_1_opt
 site_pcode_updated;string;group_general_info;;;;;;
