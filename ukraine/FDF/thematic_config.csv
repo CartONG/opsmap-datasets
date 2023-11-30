@@ -11,4 +11,4 @@ group_food_security;Food-Security;mean;Food Security;Продовольча бе
 group_healthcare;Health;mean;Healthcare;Охорона здоров’я
 group_nonfood;Non-food-items;mean;Non-food items;Непродовольчі товари
 group_hum_assistance;Partnership;mean;Humanitarian Assistance;Отримана гуманітарна допомога
-group_winterization;Heatwave;mean;Winterization;Підготовка до опалювального сезону
+group_winterization;Heatwave;;Winterization;Підготовка до опалювального сезону
