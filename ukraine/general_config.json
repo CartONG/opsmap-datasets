@@ -191,6 +191,13 @@
                         "en": "Round",
                         "uk": "Раунд"
                     }
+                },
+                {
+                    "field": "settlement_name",
+                    "name": {
+                        "en": "Settlement",
+                        "uk": "Населений пункт"
+                    }
                 }
             ],
             "spatial": {
