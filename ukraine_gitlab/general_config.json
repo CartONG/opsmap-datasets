@@ -1,5 +1,5 @@
 {
-    "version": "v1.4",
+    "version": "v1.5",
     "locale": {
         "locales": [
             "en",
@@ -191,6 +191,13 @@
                         "en": "Round",
                         "uk": "Раунд"
                     }
+                },
+                {
+                    "field": "settlement_name",
+                    "name": {
+                        "en": "Settlement",
+                        "uk": "Населений пункт"
+                    }
                 }
             ],
             "spatial": {
@@ -200,21 +207,21 @@
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "organization_manages_2",
-                    "name": "site_name_eng",
+                    "name": "site_pcode_updated",
                     "type": "site_type"
                 },
                 "admins": {
                     "admin1": {
                         "pcode": "oblast",
-                        "name": "oblast"
+                        "name": "strata"
                     },
                     "admin2": {
                         "pcode": "raion",
-                        "name": "raion"
+                        "name": "raion_name"
                     },
                     "admin3": {
                         "pcode": "hromada",
-                        "name": "hromada"
+                        "name": "hromada_name"
                     }
                 }
             },
@@ -268,5 +275,12 @@
                 ]
             }
         }
-    ]
+    ],
+    "options": {
+        "showCCCMLogo": false,
+        "pdfColumnCount": 3,
+        "showDemoBanner": true,
+        "exportAsCSVonHomePage": true,
+        "keepThematicOrderFromFDF": true
+    }
 }
