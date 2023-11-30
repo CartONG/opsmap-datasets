@@ -265,14 +265,7 @@
                         "entryCode": "site_individuals",
                         "iconOchaName": "People-in-need"
                     }
-                ],
-    "options": {
-        "showCCCMLogo": false,
-        "pdfColumnCount": 3,
-        "showDemoBanner": true,
-        "exportAsCSVonHomePage": true,
-        "keepThematicOrderFromFDF": true
-    }
+                ]
             }
         }
     ]
