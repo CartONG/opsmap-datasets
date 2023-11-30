@@ -189,7 +189,8 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
-                        "field": "demo_num_indv"
+                        "field": "demo_num_indv",
+                        "tresholds": [300, 600]
                     }
                 ]
             },
