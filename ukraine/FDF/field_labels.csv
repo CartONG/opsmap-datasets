@@ -7,9 +7,9 @@ deviceid;NA;NA
 organization;Reporting organization/ partner;Організація / Партнер
 enum_id;Enumerator's ID;ID інтерв'юера
 interview_type;Interview type;Тип інтерв'ю
-oblast;Oblast p-code;Область п-код
-raion;Raion  p-code;Район п-код
-hromada;Hromada p-code;Громада п-код
+oblast;Oblast;Область
+raion;Raion;Район
+hromada;Hromada;Громада
 settlement;Settlement p-code;Населений пункт п-код
 site_name_uid_list;Site name;Назва МКП
 informed_consent;Informed consent;Поінформована згода
