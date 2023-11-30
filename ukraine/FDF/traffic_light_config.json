@@ -209,6 +209,7 @@
             "values": {
                 "x>=6": "green",
                 "x<6": "red"
+                }
             },
             "ypn_opt": {
                 "type": "key_value",
