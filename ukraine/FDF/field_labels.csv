@@ -7,9 +7,9 @@ deviceid;NA;NA
 organization;Reporting organization/ partner;Організація / Партнер
 enum_id;Enumerator's ID;ID інтерв'юера
 interview_type;Interview type;Тип інтерв'ю
-oblast;Oblast;Область
-raion;Raion;Район
-hromada;Hromada;Громада
+oblast;Oblast p-code;Область п-код
+raion;Raion p-code;Район п-код
+hromada;Hromada p-code;Громада п-код
 settlement;Settlement p-code;Населений пункт п-код
 site_name_uid_list;Site name;Назва МКП
 informed_consent;Informed consent;Поінформована згода
@@ -299,14 +299,14 @@ _status;NA;NA
 _submitted_by;NA;NA
 __version__;NA;NA
 _index;Index;Індекс
-strata;Oblast ;Область 
+strata;Oblast;Область 
 raion_name;Raion;Район
 hromada_name;Hromada;Громада
 settlement_name;Settlement;Населений пункт
 Hub;Hub;Регіон
 admin4ClassType_1;Settlement type;Тип населеного пункту
 site_pcode_updated;Site Pcode;П-код МКП
-site_name_eng;Site name Eng;Назва МКП англ.
+site_name_eng;Site name (EN);Назва МКП англ.
 latitude;Latitude;Широта
 longitude;Longitude;Довгота
 site_type;Site type;Тип МКП
