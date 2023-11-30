@@ -49,7 +49,7 @@ idps_pay_utility_bills_yn;list;group_site_management;;;;hide;;yn_opt
 idps_pay_utility_bills;integer;group_site_management;;;;hide;;
 feedback_mechanism;bullet;group_protection;mechanism_opt;;;;;mechanism_opt
 feedback_mechanism_other;string;group_protection;;;;feedback_mechanism#===#other;;
-administration_training;bullet;group_protection;administration_training_opt;;;;;administration_training_opt
+administration_training;bullet;group_protection;;;;;;administration_training_opt
 administration_training_other;string;group_protection;;;;administration_training#===#other;;
 data_availability;bullet;group_protection;;;;;;data_availability_opt
 gbv_report;list;group_protection;yesnosure;;;;;ynn_opt
