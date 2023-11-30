@@ -207,7 +207,7 @@
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "organization_manages_2",
-                    "name": "site_name_eng",
+                    "name": "site_pcode_updated",
                     "type": "site_type"
                 },
                 "admins": {
