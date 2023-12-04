@@ -66,6 +66,7 @@
             "type": "key_value",
             "values": {
                 "yes_nearby_less_than_10_minutes_by_foot": "orange",
+                "yes_nearby": "orange",
                 "yes_in_the_facility_itself": "green",
                 "no": "red",
                 "yes": "green",
