@@ -143,9 +143,9 @@ sufficient_needs_shelter_support_doors_windows_heavy_repair;list;group_shelter;;
 sufficient_needs_shelter_support_oth;list;group_shelter;;;;hide;;ypn_opt
 maintain_temperature;bullet;group_shelter;maintain_temperature_opt;;;;;maintain_temperature_opt
 disability_infrastructure;list;group_shelter;ypn_opt;;;;;ypn_opt
-bomb_shelter;list;group_shelter;bomb_shelter_opt;;;;;bomb_shelter_opt
-capacity_bomb_shelter_yn;list;group_shelter;;;;hide;;ynd_opt
-bomb_shelter_for_disabilities;list;group_shelter;yesnodont;;;;;ynd_opt
+bomb_shelter;string;group_shelter;bomb_shelter_opt;;;;;bomb_shelter_opt
+capacity_bomb_shelter_yn;string;group_shelter;;;;hide;;ynd_opt
+bomb_shelter_for_disabilities;string;group_shelter;yesnodont;;;;;ynd_opt
 types_nfi_need;bullet;group_nonfood;;;;;;types_nfi_need_opt
 types_nfi_need_other;string;group_nonfood;;;;types_nfi_need#===#other;;
 furniture_need;bullet;group_nonfood;;;;types_nfi_need#===#furniture;;furniture_need_opt
