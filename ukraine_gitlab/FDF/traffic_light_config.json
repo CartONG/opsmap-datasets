@@ -295,6 +295,9 @@
                     "yes": "green",
                     "no_temperature_lower_winter_season": "red",
                     "no_temperature_higher_warm_season": "red",
+                    "no_temperature_lower_winter_season;no_temperature_higher_warm_season": "red",
+                    "no_temperature_higher_warm_season;no_temperature_lower_winter_season": "red", 
+                    "dont_know": "grey",
                     "no": "red"
                 }
             },
@@ -356,7 +359,18 @@
                 },
                 "values": {
                     "(x/y)<= 12": "green",
-                    "(y/x)>12" : "red"
+                    "(x/y)>12" : "red"
+                }
+            },
+            "number_washing_machines": {
+                "type": "math",
+                "scope": {
+                    "x": "site_individuals",
+                    "y": "number_washing_machines"
+                },
+                "values": {
+                    "(x/y)<= 10": "green",
+                    "(x/y)>10" : "red"
                 }
             }
         }
