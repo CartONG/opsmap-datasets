@@ -252,7 +252,7 @@ number_disability_toilets_yn;list;group_wash;;;;hide;;yn_opt
 number_disability_toilets;integer;group_wash;;;;number_disability_toilets_yn#===#yes;;
 washing_machines;list;group_wash;yesnosure;;;;;ynn_opt
 number_washing_machines_yn;list;group_wash;;;;hide;;yn_opt
-number_washing_machines;integer;group_wash;;;;number_washing_machines_yn#===#yes;;
+number_washing_machines;integer;group_wash;number_washing_machines;;;number_washing_machines_yn#===#yes;;
 drying_machines;list;group_wash;yesnosure;;;;;ynn_opt
 number_drying_machines_yn;list;group_wash;;;;hide;;yn_opt
 number_drying_machines;integer;group_wash;;;;number_drying_machines_yn#===#yes;;
