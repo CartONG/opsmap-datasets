@@ -295,6 +295,9 @@
                     "yes": "green",
                     "no_temperature_lower_winter_season": "red",
                     "no_temperature_higher_warm_season": "red",
+                    "no_temperature_lower_winter_season;no_temperature_higher_warm_season": "red",
+                    "no_temperature_higher_warm_season;no_temperature_lower_winter_season": "red", 
+                    "dont_know": "grey",
                     "no": "red"
                 }
             },
