@@ -206,10 +206,12 @@
             }
         },
         "square_meters_per_person": {
-            "type": "math",
+            "type": "key_value",
             "values": {
-                "x>=6": "green",
-                "x<6": "red"
+                "6_and_more": "green",
+                "up_to_6": "red",
+                "both_modalities": "orange",
+                "dont_know": "grey"
                 }
             },
             "ypn_opt": {
