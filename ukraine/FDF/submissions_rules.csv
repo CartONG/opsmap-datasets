@@ -10,7 +10,7 @@ interview_type;list;group_general_info;;;;;;interview_type_opt
 oblast;string;group_general_info;;;;hide;;oblast_opt
 raion;string;group_general_info;;;;hide;;raion_opt
 hromada;string;group_general_info;;;;hide;;hromada_opt
-settlement;string;group_general_info;;;;;;settlement_opt
+settlement;string;group_general_info;;;;hide;;settlement_opt
 site_name_uid_list;list;group_general_info;;;;hide;;site_name_uid_opt
 informed_consent;list;group_general_info;;;;hide;;yn_opt
 gender;list;group_general_info;;;;hide;;gender_opt
@@ -301,7 +301,7 @@ _status;string;group_general_info;;;;hide;;
 _submitted_by;string;group_general_info;;;;hide;;
 __version__;string;group_general_info;;;;hide;;
 _index;string;group_general_info;;;;hide;;
-strata;list;group_general_info;;;;hide;;oblast_opt
+strata;string;group_general_info;;;;;;oblast2_opt
 raion_name;list;group_general_info;;;;;;raion_opt
 hromada_name;list;group_general_info;;;;;;hromada_opt
 settlement_name;list;group_general_info;;;;;;settlement_opt
