@@ -10,7 +10,7 @@ interview_type;list;group_general_info;;;;;;interview_type_opt
 oblast;string;group_general_info;;;;hide;;oblast_opt
 raion;string;group_general_info;;;;hide;;raion_opt
 hromada;string;group_general_info;;;;hide;;hromada_opt
-settlement;string;group_general_info;;;;;;settlement_opt
+settlement;string;group_general_info;;;;hide;;settlement_opt
 site_name_uid_list;list;group_general_info;;;;hide;;site_name_uid_opt
 informed_consent;list;group_general_info;;;;hide;;yn_opt
 gender;list;group_general_info;;;;hide;;gender_opt
@@ -143,9 +143,9 @@ sufficient_needs_shelter_support_doors_windows_heavy_repair;list;group_shelter;;
 sufficient_needs_shelter_support_oth;list;group_shelter;;;;hide;;ypn_opt
 maintain_temperature;bullet;group_shelter;maintain_temperature_opt;;;;;maintain_temperature_opt
 disability_infrastructure;list;group_shelter;ypn_opt;;;;;ypn_opt
-bomb_shelter;list;group_shelter;bomb_shelter_opt;;;;;bomb_shelter_opt
-capacity_bomb_shelter_yn;list;group_shelter;;;;hide;;ynd_opt
-bomb_shelter_for_disabilities;list;group_shelter;yesnodont;;;;;ynd_opt
+bomb_shelter;string;group_shelter;bomb_shelter_opt;;;;;bomb_shelter_opt
+capacity_bomb_shelter_yn;string;group_shelter;;;;hide;;ynd_opt
+bomb_shelter_for_disabilities;string;group_shelter;yesnodont;;;;;ynd_opt
 types_nfi_need;bullet;group_nonfood;;;;;;types_nfi_need_opt
 types_nfi_need_other;string;group_nonfood;;;;types_nfi_need#===#other;;
 furniture_need;bullet;group_nonfood;;;;types_nfi_need#===#furniture;;furniture_need_opt
@@ -291,7 +291,7 @@ reachable_by_ambulance;list;group_healthcare;yesnodont;;;;;ynd_opt
 first_aid;list;group_healthcare;yesnosure;;;;;ynn_opt
 access_education;list;group_public_services;access_education_opt;;;;;access_education_opt
 mode_of_education;list;group_public_services;;;;;;mode_of_education_opt
-barriers_access_education;bullet;group_public_services;barriers_access_education_opt;;;;;barriers_access_education_opt
+barriers_access_education;bullet;group_public_services;;;;;;barriers_access_education_opt
 barriers_access_education_other;string;group_public_services;;;;barriers_access_education#===#other;;
 prevented_access_education;list;group_public_services;prevented_access_education_opt;;;;;prevented_access_education_opt
 _id;string;group_general_info;;;;hide;;
@@ -301,7 +301,7 @@ _status;string;group_general_info;;;;hide;;
 _submitted_by;string;group_general_info;;;;hide;;
 __version__;string;group_general_info;;;;hide;;
 _index;string;group_general_info;;;;hide;;
-strata;list;group_general_info;;;;hide;;oblast_opt
+strata;string;group_general_info;;;;;;oblast2_opt
 raion_name;list;group_general_info;;;;;;raion_opt
 hromada_name;list;group_general_info;;;;;;hromada_opt
 settlement_name;list;group_general_info;;;;;;settlement_opt
@@ -313,3 +313,4 @@ latitude;float;group_general_info;;;;hide;;
 longitude;float;group_general_info;;;;hide;;
 site_type;string;group_general_info;;;;hide;;site_type_opt
 organization_manages_2;string;group_site_management;;;;hide;;authority_opt
+maintain_temperature_3;string;group_shelter;maintain_temperature_opt;;;;;maintain_temperature_opt
