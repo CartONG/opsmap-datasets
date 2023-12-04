@@ -359,7 +359,18 @@
                 },
                 "values": {
                     "(x/y)<= 12": "green",
-                    "(y/x)>12" : "red"
+                    "(x/y)>12" : "red"
+                }
+            },
+            "number_washing_machines": {
+                "type": "math",
+                "scope": {
+                    "x": "site_individuals",
+                    "y": "number_washing_machines"
+                },
+                "values": {
+                    "(x/y)<= 10": "green",
+                    "(x/y)>10" : "red"
                 }
             }
         }
