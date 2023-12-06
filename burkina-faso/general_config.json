@@ -190,7 +190,7 @@
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "GestionnaireSiteNom",
-                    "name": "ID",
+                    "name": "site",
                     "type": "type_installation"
                 },
                 "admins": {
