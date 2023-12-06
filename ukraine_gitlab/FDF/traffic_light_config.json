@@ -375,6 +375,15 @@
                     "(x/y)<= 10": "green",
                     "(x/y)>10" : "red"
                 }
+            },
+            "lockers_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "green",
+                    "yes_but_insufficient_capacity": "orange",
+                    "no": "red",
+                    "dont_know": "red"
+                }
             }
         }
 }
