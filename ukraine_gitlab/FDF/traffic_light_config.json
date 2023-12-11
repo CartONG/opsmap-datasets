@@ -168,6 +168,7 @@
                 "Up to 9 months": "red",
                 "Up to 1 year": "red",
                 "Up to 1,5 year": "red",
+                "up_1_year_and_half": "red",
                 "no_hosted_idps_yet": "green"
             }
         },
