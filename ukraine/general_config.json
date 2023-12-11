@@ -168,9 +168,9 @@
     "surveys": [
         {
             "type": "ridl",
-            "name": "UA_DATA_Round9_10",
-            "submissionsUrl": "data/UKR_Round_9_10_MA.xlsx",
-            "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
+            "name": "",
+            "submissionsUrl": "",
+            "submissionsTrUrl": "",
             "options": {
                 "anonymousMode": "text",
                 "siteZoomMode": "admin",
