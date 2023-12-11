@@ -121,7 +121,7 @@ sleeping_space_division;bullet;group_shelter;;;;;;sleeping_space_division_opt
 square_meters_per_person;list;group_shelter;square_meters_per_person;;;;;square_meters_per_person_opt
 sleeping_in_common_use;list;group_shelter;noyesdont;;;;;ynd_opt
 gender_individual_zones;list;group_shelter;yesnodont;;;;;individual_zones_opt
-lockers;list;group_shelter;yesnodont;;;;;lockers_opt
+lockers;list;group_shelter;lockers_opt;;;;;lockers_opt
 shelter_concerns_or_needs;bullet;group_shelter;;;;hide;;shelter_concerns_or_needs_opt
 shelter_concerns_or_needs_other;string;group_shelter;;;;shelter_concerns_or_needs#===#other;;
 shelter_concerns_or_needs_top_3;bullet;group_shelter;;;;;;shelter_concerns_or_needs_opt
