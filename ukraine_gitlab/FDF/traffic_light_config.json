@@ -164,12 +164,18 @@
             "values": {
                 "Up to 1 month": "orange",
                 "Up to 3 months": "orange",
+                "up_3_months": "orange",
                 "Up to 6 months": "orange",
+                "up_6_months": "orange",
                 "Up to 9 months": "red",
+                "up_9_months": "red",
                 "Up to 1 year": "red",
+                "up_1_year": "red",
                 "Up to 1,5 year": "red",
                 "up_1_year_and_half": "red",
-                "no_hosted_idps_yet": "green"
+                "no_hosted_idps_yet": "green",
+                "up_1_year_and_3_months": "red",
+                "less_month": "orange"
             }
         },
         "yndr_opt": {
