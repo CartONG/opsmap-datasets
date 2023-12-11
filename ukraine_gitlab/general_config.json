@@ -167,10 +167,9 @@
     },
     "surveys": [
         {
-            "type": "ridl",
-            "name": "UKR_Round_9_10",
-            "submissionsUrl": "data/UKR_Round_9_10_MA.xlsx",
-            "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
+            "type": "gsheet",
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=1300856791&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=1362757150&single=true&output=csv",
             "options": {
                 "anonymousMode": "text",
                 "siteZoomMode": "admin",
