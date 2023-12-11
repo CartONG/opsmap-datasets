@@ -1,5 +1,5 @@
 {
-    "version": "v1.5",
+    "version": "v1.6",
     "locale": {
         "locales": [
             "en",
@@ -168,9 +168,9 @@
     "surveys": [
         {
             "type": "ridl",
-            "name": "",
-            "submissionsUrl": "",
-            "submissionsTrUrl": "",
+            "name": "UKR_Round_9_10",
+            "submissionsUrl": "data/UKR_Round_9_10_MA.xlsx",
+            "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
             "options": {
                 "anonymousMode": "text",
                 "siteZoomMode": "admin",
