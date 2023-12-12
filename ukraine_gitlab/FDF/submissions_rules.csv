@@ -313,4 +313,3 @@ latitude;float;group_general_info;;;;hide;;
 longitude;float;group_general_info;;;;hide;;
 site_type;string;group_general_info;;;;hide;;site_type_opt
 organization_manages_2;string;group_site_management;;;;hide;;authority_opt
-maintain_temperature_3;string;group_shelter;maintain_temperature_opt;;;;;maintain_temperature_opt
