@@ -23,7 +23,7 @@
                     "admin2": "District",
                     "admin3": "Upazila"
                 },
-                "infosSite": "Camp",
+                "infosSite": "Camp"
             },
             "bn": {
                 "title": "ক্যাম্প প্রোফাইল",
@@ -32,7 +32,7 @@
                     "admin2": "জেলা",
                     "admin3": "উপজেলা"
                 },
-                "infosSite": "শিবির",
+                "infosSite": "শিবির"
             }
         }
     },
