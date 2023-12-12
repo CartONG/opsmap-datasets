@@ -386,7 +386,7 @@
             "number_showers": {
                 "type": "math",
                 "scope": {
-                    "x": "site_individuals",
+                    "x": "people_can_hosted_number",
                     "y": "number_showers"
                 },
                 "values": {
@@ -397,7 +397,7 @@
             "number_washing_machines": {
                 "type": "math",
                 "scope": {
-                    "x": "site_individuals",
+                    "x": "people_can_hosted_number",
                     "y": "number_washing_machines"
                 },
                 "values": {
