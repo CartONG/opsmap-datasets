@@ -18,21 +18,21 @@
         "override": {
             "en": {
                 "title": "Camp profile",
+                 "infosSite": "Camp",
                 "infosAdmins": {
                     "admin1": "Division",
                     "admin2": "District",
                     "admin3": "Upazila"
-                },
-                "infosSite": "Camp"
+                }
             },
             "bn": {
                 "title": "ক্যাম্প প্রোফাইল",
+                "infosSite": "শিবির",
                 "infosAdmins": {
                     "admin1": "বিভাগ",
                     "admin2": "জেলা",
                     "admin3": "উপজেলা"
-                },
-                "infosSite": "শিবির"
+                }
             }
         }
     },
