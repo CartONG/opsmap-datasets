@@ -173,8 +173,6 @@
             "options": {
                 "anonymousMode": "text",
                 "siteZoomMode": "admin",
-                "inputDateFormat": "MM/DD/YYYY",
-                "displayDateFormat": "MM/DD/YYYY",
                 "listSeparator": ";",
                 "sitesMapVisualisation": [
                     {
