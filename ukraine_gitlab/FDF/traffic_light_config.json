@@ -283,12 +283,12 @@
             "number_toilets": {
                 "type": "math",
                 "scope": {
-                    "x": "site_individuals",
+                    "x": "people_can_hosted_number",
                     "y": "number_toilets"
                 },
                 "values": {
                     "(x/y)<= 10": "green",
-                    "(y/x)>10" : "red"
+                    "(x/y)>10" : "red"
                 }
             },
             "toilet_private_opt": {
