@@ -375,12 +375,12 @@
             "winterization_support_opt": {
                 "type": "key_value",
                 "values": {
-                    "finance_cover_utility_bills": "red",
-                    "fuel_generator": "red",
-                    "alternative_heating_source": "red",
-                    "insulation_repairs": "red",
+                    "finance_cover_utility_bills": "green",
+                    "fuel_generator": "green",
+                    "alternative_heating_source": "green",
+                    "insulation_repairs": "green",
                     "other": "orange",
-                    "none": "green"
+                    "none": "red"
                 }
             },
             "number_showers": {
