@@ -192,7 +192,7 @@ winterization_needs;bullet;group_winterization;;;;hide;;winterization_needs_opt
 winterization_needs_other;string;group_winterization;;;;winterization_needs#===#other;;
 top_3_winterization_needs;bullet;group_winterization;;;;;;winterization_needs_opt
 top_3_winterization_needs_other;string;group_winterization;;;;top_3_winterization_needs#===#other;;
-winterization_support;bullet;group_winterization;winterization_support_opt;;;;;winterization_support_opt
+winterization_support;bullet;group_winterization;;;;;;winterization_support_opt
 winterization_support_other;string;group_winterization;;;;winterization_support#===#other;;
 sufficient_winterization_support_finance_cover_utility_bills;list;group_winterization;;;;hide;;ypn_opt
 sufficient_winterization_support_fuel_generator;list;group_winterization;;;;hide;;ypn_opt
