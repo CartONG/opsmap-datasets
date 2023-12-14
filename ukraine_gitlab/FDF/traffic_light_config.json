@@ -124,7 +124,11 @@
             "values": {
                 "yes": "red",
                 "no_charge": "green",
-                "dont_know": "red"
+                "dont_know": "red",
+                "yes_staying": "red",
+                "yes_utilities": "red",
+                "other": "red",
+                "yes_both_staying_utilities": "red"
             }
         },
         "mechanism_opt": {
@@ -197,7 +201,8 @@
                 "up_1_year_and_half": "red",
                 "no_hosted_idps_yet": "green",
                 "up_1_year_and_3_months": "red",
-                "less_month": "orange"
+                "less_month": "orange",
+                "other": "orange"
             }
         },
         "yndr_opt": {
