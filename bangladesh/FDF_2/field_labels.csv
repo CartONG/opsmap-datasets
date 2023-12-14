@@ -1,59 +1,138 @@
 field_name;field_label_en;field_label_bn
-site_id;site id;সাইট আইডি
-site_name;site name;সাইটের নাম
-country;country;দেশ
-Division;Division;বিভাগ
-Upazila;Upazila;উপজেলা
-District;District;জেলা
-adm1_pcode;adm1 pcode;adm1 পিকোড
-adm2_pcode;adm2 pcode;adm2 পিকোড
-adm3_pcode;adm3 pcode;adm3 পিকোড
-Shelters;Shelters;আশ্রয়
-cccm_shelter__mangmt;cccm shelter mangmt;cccm আশ্রয় mangmt
-Camp_Area_SqM;Camp Area SqM;ক্যাম্প এলাকা SqM
-camp_perimeter;camp perimeter;ক্যাম্প পরিধি
-geopoint 1;;
-latitude;Latitude:;অক্ষাংশ:
-longitude;Longitude:;দ্রাঘিমাংশ:
-geopoint 1 altitude;;
-geopoint 1 precision;;
-last_update;Date of Report:;রিপোর্টের তারিখ:
-blocks;Number of Blocks:;ব্লকের সংখ্যা:
-sublocks;Number of Sub-blocks:;সাব-ব্লকের সংখ্যা:
-Camp_Area_SqM;Camp Area (Sq.M);ক্যাম্প এলাকা (Sq.M)
-cccm_shelter__mangmt;Camp managed by:;ক্যাম্প পরিচালিত:
-CiC_Officer;CiC Officer:;সিআইসি অফিসার:
-Camp_Commander;Camp Commander:;ক্যাম্প কমান্ডার:
-Camp_Manager;Camp Manager:;ক্যাম্প ম্যানেজার:
-type;Location type:;অবস্থানের ধরন:
-demo_num_hh;Number families:;পরিবারের সংখ্যা:
-demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
-demo_male_0_1;Males 0-1 years:;পুরুষ 0-1 বছর:
-demo_female_0_1;Females 0-1 years:;মহিলা 0-1 বছর:
-demo_male_1_4;Males 1-4 years:;পুরুষ 1-4 বছর:
-demo_female_1_4;Females 1-4 year:;মহিলা 1-4 বছর:
-demo_male_5_11;Males 5-11 years:;পুরুষ 5-11 বছর:
-demo_female_5_11;Females 5-11 years:;মহিলা 5-11 বছর:
-demo_male_12_17;Males 12-17 years:;পুরুষ 12-17 বছর:
-demo_female_12_17;Females 12-17 years:;মহিলা 12-17 বছর:
-demo_male_18_59;Males 18-59 years:;পুরুষ 18-59 বছর:
-demo_female_18_59;Females 18-59 years:;মহিলা 18-59 বছর:
-demo_male_60+;Males 60 or older:;60 বা তার বেশি বয়সী পুরুষ:
-demo_female_60+;Females 60 or older:;মহিলা 60 বা তার বেশি বয়সী:
-PSN_SingleParent;Single Parent of Caregivers:;যত্নশীলদের একক অভিভাবক:
-PSN_PersonsDisability;Persons with Disability:;প্রতিবন্ধী ব্যক্তি:
-PSN_Legal_ProtectionNeeds;Persons with Specific Legal & Physical Protection Needs:;নির্দিষ্ট আইনি ও শারীরিক সুরক্ষার প্রয়োজন আছে এমন ব্যক্তিদের:
-PSN_SeriousMedical;Persons with Serious medical Condition;গুরুতর মেডিকেল অবস্থার ব্যক্তিদের
-PSN_ChildrenRisk;Children at Risk;ঝুঁকিতে শিশু
-PSN_UASC;Unaccompanied/Seperated Children:;সঙ্গহীন/বিচ্ছিন্ন শিশু:
-PSN_OlderAtRisk;Older Persons at Risk:;ঝুঁকিপূর্ণ বয়স্ক ব্যক্তিরা:
-PSN_OtherPSN;Other PSNs:;অন্যান্য PSN:
-Percent_of_health_facilities_with_operational_CFRMs;Perc of health facilities with operational CFRMs:;কর্মক্ষম CFRM সহ স্বাস্থ্য সুবিধার %:
-Percent_of_CFRM_health_cases_resolved_within_30_days;Perc of CFRM health cases resolved within 30 days:;30 দিনের মধ্যে সিএফআরএম স্বাস্থ্যের ক্ষেত্রে সমাধান করা হয়েছে:
-Percent_of_distribution_centers_that_are_accessible_for_people_with_special_needs_and_women;% of distribution centers that are accessible for people with special needs and women:;বন্টন কেন্দ্রের % যা বিশেষ চাহিদা সম্পন্ন ব্যক্তি এবং মহিলাদের জন্য অ্যাক্সেসযোগ্য:
-Percent_Nutritiona_facilities_accessible_for_PWSN;% Nutritiona facilities accessible for PWSN:;PWSN-এর জন্য % পুষ্টি সুবিধা অ্যাক্সেসযোগ্য:
-Percent__Shelter_distribution_points_that_are_accessible_for_people_with_special_needs;%  Shelter distribution points that are accessible for people with special needs:;% আশ্রয় বন্টন পয়েন্ট যা বিশেষ চাহিদা সম্পন্ন ব্যক্তিদের জন্য অ্যাক্সেসযোগ্য:
-Total_Shelter_and_NFI_distribution_points;Total Shelter and NFI distribution points:;মোট আশ্রয় এবং NFI বিতরণ পয়েন্ট:
-Percent_of_shelter-related_feedback_received_at_the_CFRM_that_is_resolved_within_30_days;% of shelter-related feedback received at the CFRM that is resolved within 30 days:;CFRM-এ প্রাপ্ত আশ্রয়-সম্পর্কিত প্রতিক্রিয়ার % যা 30 দিনের মধ্যে সমাধান করা হয়:
-Percent_Protection_refferal_cases_actioned;% Protection refferal cases actioned:;% সুরক্ষা রেফারাল কেস অ্যাকশন করা হয়েছে:
-Percent_Child_friendly_space__in_risk_zones;% Child friendly space  in risk zones:;ঝুঁকিপূর্ণ অঞ্চলে % শিশুবান্ধব স্থান:
+group_cwc/CWC_1;CWC_1;CWC_1
+group_cwc/CWC_2;CWC_2;CWC_2
+group_cwc/CWC_3_a;CWC_3_a;CWC_3_a
+group_cwc/CWC_3_b;CWC_3_b;CWC_3_b
+group_cwc/CWC_4;CWC_4;CWC_4
+group_education/EDU_1;EDU_1;EDU_1
+group_education/EDU_2;EDU_2;EDU_2
+group_education/EDU_3;EDU_3;EDU_3
+group_education/EDU_4;EDU_4;EDU_4
+group_education/EDU_5;EDU_5;EDU_5
+group_education/EDU_6_a;EDU_6_a;EDU_6_a
+group_education/EDU_6_b;EDU_6_b;EDU_6_b
+group_education/EDU_6_c;EDU_6_c;EDU_6_c
+group_education/EDU_7;EDU_7;EDU_7
+group_education/EDU_8;EDU_8;EDU_8
+group_education/EDU_9;EDU_9;EDU_9
+group_education/EDU_10;EDU_10;EDU_10
+group_education/EDU_11;EDU_11;EDU_11
+group_education/EDU_12;EDU_12;EDU_12
+group_education/EDU_13;EDU_13;EDU_13
+group_education/EDU_14;EDU_14;EDU_14
+group_education/EDU_15_a;EDU_15_a;EDU_15_a
+group_education/EDU_15_b;EDU_15_b;EDU_15_b
+group_food_security/FS_1;FS_1;FS_1
+group_food_security/FS_2_a;FS_2_a;FS_2_a
+group_food_security/FS_2_b;FS_2_b;FS_2_b
+group_food_security/FS_3;FS_3;FS_3
+group_food_security/FS_4;FS_4;FS_4
+group_food_security/FS_5;FS_5;FS_5
+group_food_security/FS_6;FS_6;FS_6
+group_food_security/FS_7_a;FS_7_a;FS_7_a
+group_food_security/FS_7_b;FS_7_b;FS_7_b
+group_health/HEA_1;HEA_1;HEA_1
+group_health/HEA_2_a;HEA_2_a;HEA_2_a
+group_health/HEA_2_b;HEA_2_b;HEA_2_b
+group_health/HEA_3;HEA_3;HEA_3
+group_health/HEA_4_a;HEA_4_a;HEA_4_a
+group_health/HEA_4_b;HEA_4_b;HEA_4_b
+group_nutrition/NUT_1;NUT_1;NUT_1
+group_nutrition/NUT_2;NUT_2;NUT_2
+group_nutrition/NUT_3_a;NUT_3_a;NUT_3_a
+group_nutrition/NUT_3_b;NUT_3_b;NUT_3_b
+group_nutrition/NUT_4;NUT_4;NUT_4
+group_nutrition/NUT_5;NUT_5;NUT_5
+group_nutrition/NUT_6;NUT_6;NUT_6
+group_nutrition/NUT_7;NUT_7;NUT_7
+group_nutrition/NUT_8_a;NUT_8_a;NUT_8_a
+group_nutrition/NUT_8_b;NUT_8_b;NUT_8_b
+group_protection/PRO_1;PRO_1;PRO_1
+group_protection/PRO_2;PRO_2;PRO_2
+group_protection/PRO_3;PRO_3;PRO_3
+group_protection/PRO_4_a;PRO_4_a;PRO_4_a
+group_protection/PRO_4_b;PRO_4_b;PRO_4_b
+group_protection/PRO_5;PRO_5;PRO_5
+group_protection/PRO_6;PRO_6;PRO_6
+group_protection/PRO_7;PRO_7;PRO_7
+group_protection/PRO_8;PRO_8;PRO_8
+group_protection/PRO_9;PRO_9;PRO_9
+group_protection/PRO_10;PRO_10;PRO_10
+group_protection/PRO_11;PRO_11;PRO_11
+group_protection/PRO_12;PRO_12;PRO_12
+group_protection/PRO_13_a;PRO_13_a;PRO_13_a
+group_protection/PRO_13_B.1;PRO_13_B.1;PRO_13_B.1
+group_protection/PRO_14;PRO_14;PRO_14
+group_protection/PRO_15_a;PRO_15_a;PRO_15_a
+group_protection/PRO_15_b;PRO_15_b;PRO_15_b
+group_protection/PRO_16;PRO_16;PRO_16
+group_protection/PRO_17;PRO_17;PRO_17
+group_protection/PRO_18;PRO_18;PRO_18
+group_protection/PRO_19_a;PRO_19_a;PRO_19_a
+group_protection/PRO_19_B;PRO_19_B;PRO_19_B
+group_protection/PRO_20;PRO_20;PRO_20
+group_snfi/SNFI_1;SNFI_1;SNFI_1
+group_snfi/SNFI_2;SNFI_2;SNFI_2
+group_snfi/SNFI_3;SNFI_3;SNFI_3
+group_snfi/SNFI_4;SNFI_4;SNFI_4
+group_snfi/SNFI_5;SNFI_5;SNFI_5
+group_snfi/SNFI_6_a;SNFI_6_a;SNFI_6_a
+group_snfi/SNFI_6_b;SNFI_6_b;SNFI_6_b
+group_snfi/SNFI_7;SNFI_7;SNFI_7
+group_snfi/SNFI_8_a;SNFI_8_a;SNFI_8_a
+group_snfi/SNFI_8_b;SNFI_8_b;SNFI_8_b
+group_snfi/SNFI_9;SNFI_9;SNFI_9
+group_snfi/SNFI_10;SNFI_10;SNFI_10
+group_snfi/SNFI_11;SNFI_11;SNFI_11
+group_snfi/SNFI_12;SNFI_12;SNFI_12
+group_snfi/SNFI_13;SNFI_13;SNFI_13
+group_snfi/SNFI_14_a;SNFI_14_a;SNFI_14_a
+group_snfi/SNFI_14_b;SNFI_14_b;SNFI_14_b
+group_snfi/SNFI_15;SNFI_15;SNFI_15
+group_snfi/SNFI_16;SNFI_16;SNFI_16
+group_snfi/SNFI_17;SNFI_17;SNFI_17
+group_snfi/SNFI_18;SNFI_18;SNFI_18
+group_snfi/SNFI_19;SNFI_19;SNFI_19
+group_snfi/SNFI_20;SNFI_20;SNFI_20
+group_snfi/SNFI_21;SNFI_21;SNFI_21
+group_snfi/SNFI_22;SNFI_22;SNFI_22
+group_snfi/SNFI_23_a;SNFI_23_a;SNFI_23_a
+group_snfi/SNFI_23_b;SNFI_23_b;SNFI_23_b
+group_snfi/SNFI_24;SNFI_24;SNFI_24
+group_smsd/SMS_1;SMS_1;SMS_1
+group_smsd/SMS_2;SMS_2;SMS_2
+group_smsd/SMS_3;SMS_3;SMS_3
+group_smsd/SMS_4;SMS_4;SMS_4
+group_smsd/SMS_5;SMS_5;SMS_5
+group_smsd/SMS_6_a;SMS_6_a;SMS_6_a
+group_smsd/SMS_6_b;SMS_6_b;SMS_6_b
+group_smsd/SMS_7;SMS_7;SMS_7
+group_smsd/SMS_8;SMS_8;SMS_8
+group_smsd/SMS_9_a;SMS_9_a;SMS_9_a
+group_smsd/SMS_9_b;SMS_9_b;SMS_9_b
+group_smsd/SMS_11_a;SMS_11_a;SMS_11_a
+group_smsd/SMS_11_b;SMS_11_b;SMS_11_b
+group_smsd/SMS_12;SMS_12;SMS_12
+group_smsd/SMS_13_a;SMS_13_a;SMS_13_a
+group_smsd/SMS_13_b;SMS_13_b;SMS_13_b
+group_smsd/SMS_14;SMS_14;SMS_14
+group_wash/WSH_1;WSH_1;WSH_1
+group_wash/WSH_2;WSH_2;WSH_2
+group_wash/WSH_3;WSH_3;WSH_3
+group_wash/WSH_4;WSH_4;WSH_4
+group_wash/WSH_5;WSH_5;WSH_5
+group_wash/WSH_6;WSH_6;WSH_6
+group_wash/WSH_7;WSH_7;WSH_7
+group_wash/WSH_8;WSH_8;WSH_8
+group_wash/WSH_9_a;WSH_9_a;WSH_9_a
+group_wash/WSH_10_b;WSH_10_b;WSH_10_b
+group_protection/PRO_13_b;PRO_13_b;PRO_13_b
+group_smsd/SMS_10_a;SMS_10_a;SMS_10_a
+group_smsd/SMS_10_b;SMS_10_b;SMS_10_b
+group_smsd/SMS_11;SMS_11;SMS_11
+group_smsd/SMS_12_a;SMS_12_a;SMS_12_a
+group_smsd/SMS_12_b;SMS_12_b;SMS_12_b
+group_smsd/SMS_13;SMS_13;SMS_13
+group_wash/WSH_9_b;WSH_9_b;WSH_9_b
+group_protection/PRO_13_b.12;PRO_13_b.12;PRO_13_b.12
+group_protection/PRO_13_B3;PRO_13_B3;PRO_13_B3
