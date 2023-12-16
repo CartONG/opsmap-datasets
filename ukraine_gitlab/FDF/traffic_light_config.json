@@ -124,7 +124,11 @@
             "values": {
                 "yes": "red",
                 "no_charge": "green",
-                "dont_know": "red"
+                "dont_know": "red",
+                "yes_staying": "red",
+                "yes_utilities": "red",
+                "other": "red",
+                "yes_both_staying_utilities": "red"
             }
         },
         "mechanism_opt": {
@@ -132,9 +136,31 @@
             "values": {
                 "none": "red",
                 "site_management": "green",
+                "site_management;ombudsman": "green",
+                "site_management;ombudsman;suggestion_box": "green",
+                "site_management;ombudsman;suggestion_box;toll_free": "green",
+                "site_management;ombudsman;toll_free": "green",
+                "site_management;ombudsman;toll_free;suggestion_box": "green",
+                "site_management;other": "green",
+                "site_management;suggestion_box": "green",
+                "site_management;suggestion_box;toll_free": "green",
+                "site_management;toll_free": "green",
+                "site_management;toll_free;suggestion_box": "green",
                 "ombudsman": "green",
+                "ombudsman;site_management": "green",
+                "ombudsman;suggestion_box": "green",
+                "ombudsman;toll_free;suggestion_box": "green",
                 "toll_free": "green",
+                "toll_free;ombudsman;site_management": "green",
+                "toll_free;site_management": "green",
+                "toll_free;site_management;suggestion_box": "green",
+                "toll_free;suggestion_box": "green",
+                "toll_free;suggestion_box;site_management": "green",
                 "suggestion_box": "green",
+                "suggestion_box;site_management": "green",
+                "suggestion_box;site_management;ombudsman": "green",
+                "suggestion_box;site_management;toll_free": "green",
+                "suggestion_box;toll_free;site_management": "green",
                 "other": "green"
             }
         },
@@ -164,11 +190,19 @@
             "values": {
                 "Up to 1 month": "orange",
                 "Up to 3 months": "orange",
+                "up_3_months": "orange",
                 "Up to 6 months": "orange",
+                "up_6_months": "orange",
                 "Up to 9 months": "red",
+                "up_9_months": "red",
                 "Up to 1 year": "red",
+                "up_1_year": "red",
                 "Up to 1,5 year": "red",
-                "no_hosted_idps_yet": "green"
+                "up_1_year_and_half": "red",
+                "no_hosted_idps_yet": "green",
+                "up_1_year_and_3_months": "red",
+                "less_month": "orange",
+                "other": "orange"
             }
         },
         "yndr_opt": {
@@ -254,12 +288,12 @@
             "number_toilets": {
                 "type": "math",
                 "scope": {
-                    "x": "site_individuals",
+                    "x": "people_can_hosted_number",
                     "y": "number_toilets"
                 },
                 "values": {
                     "(x/y)<= 10": "green",
-                    "(y/x)>10" : "red"
+                    "(x/y)>10" : "red"
                 }
             },
             "toilet_private_opt": {
@@ -346,18 +380,18 @@
             "winterization_support_opt": {
                 "type": "key_value",
                 "values": {
-                    "finance_cover_utility_bills": "red",
-                    "fuel_generator": "red",
-                    "alternative_heating_source": "red",
-                    "insulation_repairs": "red",
+                    "finance_cover_utility_bills": "green",
+                    "fuel_generator": "green",
+                    "alternative_heating_source": "green",
+                    "insulation_repairs": "green",
                     "other": "orange",
-                    "none": "green"
+                    "none": "red"
                 }
             },
             "number_showers": {
                 "type": "math",
                 "scope": {
-                    "x": "site_individuals",
+                    "x": "people_can_hosted_number",
                     "y": "number_showers"
                 },
                 "values": {
@@ -368,7 +402,7 @@
             "number_washing_machines": {
                 "type": "math",
                 "scope": {
-                    "x": "site_individuals",
+                    "x": "people_can_hosted_number",
                     "y": "number_washing_machines"
                 },
                 "values": {

@@ -1,9 +1,8 @@
 {
-    "version": "v1.5",
+    "version": "v1.6",
     "locale": {
         "locales": [
-            "en",
-            "uk"
+            "en"
         ],
         "override": {
             "en": {
@@ -168,7 +167,7 @@
     "surveys": [
         {
             "type": "ridl",
-            "name": "UA_DATA_Round9_10",
+            "name": "UKR_Round_9_10",
             "submissionsUrl": "data/UKR_Round_9_10_MA.xlsx",
             "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
             "options": {
