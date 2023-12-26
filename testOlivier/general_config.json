@@ -1,107 +1,143 @@
 {
-    "version": "v1.3.2",
+    "version": "v1.7",
     "locale": {
         "locales": [
             "en",
-            "fr", 
-            "ar"
+            "uk"
         ],
-        "default": "fr",
         "override": {
             "en": {
                 "infosAdmins": {
-                    "admin1": "Region",
-                    "admin2": "Department",
-                    "admin3": "Municipality"
+                    "admin1": "Oblast",
+                    "admin2": "Raion",
+                    "admin3": "Hromada"
+                },
+                "infosSite": "Site Pcode",
+                "indicator": {
+                    "siteCount": "Sites surveyed in CSM round",
+                    "peopleCount": "People residing in sites covered in CSM round"
                 }
             },
-            "fr": {
+            "uk": {
                 "infosAdmins": {
-                    "admin1": "Région",
-                    "admin2": "Département",
-                    "admin3": "Commune"
-                }
-            },
-            "ar": {
-                "infosAdmins": {
-                    "admin1": "منطقة",
-                    "admin2": "قسم",
-                    "admin3": "البلدية"
+                    "admin1": "Область",
+                    "admin2": "Район",
+                    "admin3": "Громада"
+                },
+                "infosSite": "П-код МКП",
+                "indicator": {
+                    "siteCount": "Кількість MКП, які були досліджені під час моніторингу",
+                    "peopleCount": "Кількість ВПО у МКП, які були досліджені під час моніторингу"
+                },
+                "home": {
+                    "lastUpdate": "Останнє оновлення",
+                    "moreInfosTitle": "Більше інформації",
+                    "combosTitle": "Приблизити на карті",
+                    "exportToCSV": "Експорт поточної вибірки в CSV"
                 }
             }
         }
     },
     "textContent": {
         "name": {
-            "fr": "show",
-            "en": "show",
-            "ar":"يعرض"
+            "en": "Ukraine",
+            "uk": "Україна"
         },
         "opsmapDescr": {
-            "en": "A large number of refugees and migrants have traveled to France in search of protection as a result of the political, social and economic crisis ravaging neighbouring countries.<br>Considering the urgent needs for humanitarian assistance, such as food, shelter, health and protection, especially for people with vulnerabilities (children, pregnant women, the elderly, people with disabilities, etc.), the Government edited Law no. 13,684/2018, providing for the execution of emergency assistance measures for the reception of affected people.<br>Currently, Savoie has 10 reception spaces.",
-            "fr": "Un grand nombre de réfugiés et de migrants se sont rendus en France en quête de protection en raison de la crise politique, sociale et économique qui ravage les pays voisins.<br>Considérant les besoins urgents d'assistance humanitaire, en termes de nourriture, logement, santé et protection des personnes vulnérables (enfants, femmes enceintes, personnes âgées, personnes handicapées, etc.), le gouvernement a édité la loi n° 22 208/2022, prévoyant l'exécution de mesures d'aide d'urgence pour l'accueil des personnes affectées.<br>Actuellement, la Savoie dispose de 10 places d'accueil. ",
-            "ar": "وقد سافر عدد كبير من اللاجئين والمهاجرين إلى فرنسا بحثاً عن الحماية بسبب الأزمة السياسية والاجتماعية والاقتصادية التي تعصف بالبلدان المجاورة.<br>بالنظر إلى الاحتياجات العاجلة للمساعدة الإنسانية، من حيث الغذاء والسكن والصحة وحماية الفئات الضعيفة (الأطفال والنساء الحوامل وكبار السن والمعوقين، وما إلى ذلك)، أصدرت الحكومة القانون رقم 22208/2022، الذي ينص على لتنفيذ تدابير المساعدة الطارئة لاستقبال المتضررين.<br>يوجد حاليًا في سافوا 10 أماكن للاستقبال. "
+            "en": "The Collective Sites Monitoring (CSM) site profile dashboard is an output of the CCCM cluster in Ukraine implemented with the technical support of the REACH Initiative. The profiles display site-level information collected by REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Crimea SOS, NRC, UNHCR, and KIIS with the overall objective of strengthening the effectiveness of multi-sectorial interventions at site level. Information is collected through key informant interviews with site managers reflecting the latest two rounds of Collective Site Monitoring surveys. For further information, please visit the CCCM Cluster Ukraine website https://cccmcluster.org/operations/ukraine, or provide feedback to the cluster Coordinator Miranda Gaanderse at gaanders@unhcr.org or Information Management Officer at saifutdi@unhcr.org",
+            "uk": "Iнформаційна панель з профілювання місць колективного проживання ВПО є результатом роботи кластеру CCCM в Україні, що реалізується за технічної підтримки Ініціативи REACH. Профілі відображають інформацію на рівні окремих місць колективного проживання ВПО, зібрану REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Крим SOS, NRC та КМІС із загальною метою посилення ефективності міжсекторальних втручань на рівні місць колективного проживання. Інформація збирається шляхом опитування ключових інформаторів з керівниками об’єктів, що відображає останні два раунди опитувань у рамках моніторингу місць колективного проживання ВПО. Для отримання додаткової інформації відвідайте веб-сайт Кластеру з питань управління та координації МКП в Україні https://cccmcluster.org/operations/ukraine або надішліть відгук на електронну адресу Координатора кластера (Міранда Гаандерсе) за адресою gaanders@unhcr.org або Спеціаліста з управління інформацією за адресою saifutdi@unhcr.org"
         }
+    },
+    "iframe": {
+        "url": "https://reach-info.org/ukr/unhcr_cccm/",
+        "display": true
     },
     "footerLogos": [
         {
             "title": {
-                "en": "Webdev",
-                "fr":"Webdev",
-                "ar": "ويب ديف"
+                "en": "",
+                "uk": ""
             },
             "logos": [
+                {
+                    "name": "ACTED",
+                    "urlLogo": "Logo/acted.png",
+                    "urlRedirection": "https://www.acted.org/en/"
+                },
                 {
                     "name": "CartONG",
                     "urlLogo": "Logo/CartONG_logo_long_0_0_0.png",
                     "urlRedirection": "https://www.cartong.org"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Fieldwork",
-                "fr": "Travail de terrain",
-                "ar":"العمل الميداني"
-            },
-            "logos": [
-                {
-                    "name": "CartONG",
-                    "urlLogo": "Logo/fieldwork_logo.png",
-                    "urlRedirection": "https://www.cartong.org"
                 },
                 {
-                    "name": "CartONG2",
-                    "urlLogo": "Logo/fieldwork_logo_2.png",
-                    "urlRedirection": "https://www.cartong.org"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Coordination and IM support",
-                "fr": "Coordination et support IM",
-                "ar":"التنسيق ودعم المراسلة الفورية"
-            },
-            "logos": [
+                    "name": "CCCM cluster in Ukraine",
+                    "urlLogo": "Logo/cccm.png",
+                    "urlRedirection": "https://cccmcluster.org/operations/ukraine"
+                },
                 {
-                    "name": "CartONG2",
-                    "urlLogo": "Logo/coord_logo.png",
-                    "urlRedirection": "https://www.cartong.org"
-                }
-            ]
-        },
-        {
-            "title": {
-                "en": "Cluster Lead",
-                "fr": "Direction du cluster",
-                "ar":"الرصاص العنقودي"
-            },
-            "logos": [
+                    "name": "Crimea SOS",
+                    "urlLogo": "Logo/Crimea_SOS.png",
+                    "urlRedirection": "https://krymsos.com/en/"
+                },
                 {
-                    "name": "CartONG2",
-                    "urlLogo": "Logo/lead_logo.png",
-                    "urlRedirection": "https://www.cartong.org"
+                    "name": "KIIS",
+                    "urlLogo": "Logo/kiis.png",
+                    "urlRedirection": "https://www.kiis.com.ua/?lang=eng"
+                },
+                {
+                    "name": "IOM",
+                    "urlLogo": "Logo/iom.png",
+                    "urlRedirection": "https://ukraine.iom.int/"
+                },
+                {
+                    "name": "Neeka",
+                    "urlLogo": "Logo/neeka.png",
+                    "urlRedirection": "http://new.neeka.org/"
+                },
+                {
+                    "name": "Nehemia",
+                    "urlLogo": "Logo/nehemia.png",
+                    "urlRedirection": "https://nehemia-team.org/"
+                },
+                {
+                    "name": "NRC",
+                    "urlLogo": "Logo/nrc.png",
+                    "urlRedirection": "https://www.nrc.no/"
+                },
+                {
+                    "name": "Ombudsman of Ukraine",
+                    "urlLogo": "Logo/ombudsman.png",
+                    "urlRedirection": "https://www.ombudsman.gov.ua/"
+                },
+                {
+                    "name": "Proliska",
+                    "urlLogo": "Logo/proliska.png",
+                    "urlRedirection": "https://proliska.org/en/"
+                },
+                {
+                    "name": "REACH Initiative",
+                    "urlLogo": "Logo/reach.png",
+                    "urlRedirection": "https://www.reach-initiative.org/"
+                },
+                {
+                    "name": "Rokada",
+                    "urlLogo": "Logo/rokada.png",
+                    "urlRedirection": "https://www.rokada-group.com/"
+                },
+                {
+                    "name": "R2P",
+                    "urlLogo": "Logo/r2p.png",
+                    "urlRedirection": "https://www.globalr2p.org/"
+                },
+                {
+                    "name": "TTA",
+                    "urlLogo": "Logo/tta.png",
+                    "urlRedirection": "https://civitta.com/"
+                },
+                {
+                    "name": "UNHCR",
+                    "urlLogo": "Logo/unhcr.png",
+                    "urlRedirection": "https://www.unhcr.org/ua"
                 }
             ]
         }
@@ -109,18 +145,17 @@
     "spatial": {
         "mapConfig": {
             "bounds": [
-                -5,
-                51.5,
-                8,
-                42
+                43.74,
+                52.7,
+                20.9,
+                42.97
             ]
         },
         "dbConfig": {
-            "admin1": "pcode",
-            "admin2": "pcode",
-            "admin3": "pcode"
+            "admin1": "adm1_source_code",
+            "admin2": "adm2_source_code"
         },
-       "adminLevels": [
+        "adminLevels": [
             "admin1",
             "admin2",
             "admin3"
@@ -133,66 +168,59 @@
     "surveys": [
         {
             "type": "gsheet",
-            "name": "Survey A",
-            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=0&single=true&output=csv",
-            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=903507497&single=true&output=csv",
-            "additionalFiltersDescription": [
-                {
-                    "field": "cccm_shelter_management",
-                    "name": {
-                        "fr": "Gérer par",
-                        "en": "Manage by",
-                        "ar": "إدارة بواسطة"
-                    }
-                },
-                {
-                    "field": "site_pcode",
-                    "name": {
-                        "fr": "PCode du site",
-                        "en": "Site PCode",
-                        "ar": "رمز PC للموقع"
-                    }
-                }                
-            ],
-            "spatial": {
-                "siteFields": {
-                    "id": "site_id",
-                    "name": "site_name",
-                    "type": "shelter_type",
-                    "lastUpdate": "last_update",
-                    "latitude": "latitude",
-                    "longitude": "longitude",
-                    "manageBy": "cccm_shelter_management"
-                },
-                "admins": {
-                    "admin1": {
-                        "pcode": "adm1_pcode",
-                        "name": "region"
-                    },
-                    "admin2": {
-                        "pcode": "adm2_pcode",
-                        "name": "dep"
-                    },
-                    "admin3": {
-                        "pcode": "adm3_pcode",
-                        "name": "city"
-                    }
-                }
-            },
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=1300856791&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=1362757150&single=true&output=csv",
             "options": {
-                "inputDateFormat": "DD/MM/YYYY",
-                "displayDateFormat": "MM/YYYY",
+                "anonymousMode": "text",
+                "siteZoomMode": "admin",
                 "listSeparator": ";",
-                "anonymousMode": "none",
-                "siteZoomMode": "site",
-                "siteZoomBuffer": 1000,
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
-                        "field": "demo_num_indv",
-                        "tresholds": [300, 600]
+                        "field": "site_individuals"
                     }
                 ]
+            },
+            "additionalFiltersDescription": [
+                {
+                    "field": "round",
+                    "name": {
+                        "en": "Round",
+                        "uk": "Раунд"
+                    }
+                },
+                {
+                    "field": "settlement_name",
+                    "name": {
+                        "en": "Settlement",
+                        "uk": "Населений пункт"
+                    }
+                }
+            ],
+            "spatial": {
+                "siteFields": {
+                    "id": "site_pcode_updated",
+                    "lastUpdate": "date_assessment",
+                    "latitude": "latitude",
+                    "longitude": "longitude",
+                    "manageBy": "organization_manages_2",
+                    "name": "site_pcode_updated",
+                    "type": "site_type"
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "oblast",
+                        "name": "strata"
+                    },
+                    "admin2": {
+                        "pcode": "raion",
+                        "name": "raion_name"
+                    },
+                    "admin3": {
+                        "pcode": "hromada",
+                        "name": "hromada_name"
+                    }
+                }
             },
             "indicators": {
                 "area": [
@@ -201,177 +229,55 @@
                     },
                     {
                         "type": "people_count",
-                        "entryCode": "demo_num_indv"
+                        "entryCode": "site_individuals"
                     },
                     {
                         "type": "standard",
                         "name": {
-                            "en": "Shelter Max Capacity",
-                            "fr": "Capacité maximale",
-                            "ar":"سعة المأوى القصوى"
+                            "en": "Total people who can be hosted in sites covered in CSM round",
+                            "uk": "Місткість МКП, які були досліджені під час моніторингу"
                         },
-                        "entryCode": "cccm_shelter_max_capacity",
+                        "entryCode": "people_can_hosted_number",
                         "iconOchaName": "Camp-Coordination-and-Camp-Management"
                     }
                 ],
                 "site": [
                     {
-                        "type": "site_occupation",
+                        "type": "standard",
                         "name": {
-                            "en": "Site at Full Capacity",
-                            "fr": "Capacité maximale du site atteinte",
-                            "ar":"الموقع بكامل طاقته"
+                            "en": "Site active?",
+                            "uk": "Чи активне MКП?"
                         },
-                        "iconOchaName": "Camp-Coordination-and-Camp-Management",
-                        "entryCodeMaxCapacity": "cccm_site_at_full_capacity",
-                        "entryCodePeopleCount": "demo_num_indv",
-                        "entryCodeMaxPeopleCount": "cccm_shelter_max_capacity"
+                        "entryCode": "site_active",
+                        "iconOchaName": "Selected"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Type of building",
+                            "uk": "Тип будівлі"
+                        },
+                        "entryCode": "building_type",
+                        "iconOchaName": "Building"
                     },
                     {
                         "type": "standard",
                         "name": {
                             "en": "Individuals",
-                            "fr": "Personnes",
-                            "ar":"فرادى"
+                            "uk": "Кількість осіб, розміщених в МКП"
                         },
-                        "entryCode": "demo_num_indv",
+                        "entryCode": "site_individuals",
                         "iconOchaName": "People-in-need"
-                    },
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "Drinking water available ?",
-                            "fr": "Accès eau potable?",
-                            "ar":"مياه الشرب متوفرة؟"
-                        },
-                        "entryCode": "water_quality_access",
-                        "iconOchaName": "Potable-water"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "gsheet",
-            "fdf": {
-                "folder": "FDF_Survey_B"
-            },
-            "name": "Survey B on other topic",
-            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=287797693&single=true&output=csv",
-            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSI61S5yGSzHnLsuurRQOeOA4GP28Fl2VD8kNxgc5Msq-d6hNuB1RP6wZ9UupC2IpIej8h7Phg6115j/pub?gid=1363403091&single=true&output=csv",
-            "options": {
-                "anonymousMode": "text",
-                "siteZoomMode": "admin",
-                "sitesMapVisualisation": [
-                    {
-                        "type": "population_count",
-                        "field": "demo_num_indv"
-                    }
-                ]
-            },
-            "additionalFiltersDescription": [
-                {
-                    "field": "round",
-                    "name": {
-                        "fr": "Tour d'enquête",
-                        "en": "Survey round",
-                        "ar": "جولة المسح"
-                    }
-                }        
-            ],
-            "spatial": {
-                "siteFields": {
-                    "id": "site_id",
-                    "lastUpdate": "Date_of_the_Monitoring_Visit",
-                    "latitude": "latitude",
-                    "longitude": "longitude",
-                    "manageBy": "Who_is_managing_the_site",
-                    "name": "site_name",
-                    "type": "General_Site_Type"
-                },
-                "admins": {
-                    "admin1": {
-                        "pcode": "adm1_pcode",
-                        "name": "Region"
-                    },
-                    "admin2": {
-                        "pcode": "adm2_pcode",
-                        "name": "Province_of_the_monitored_location"
-                    },
-                    "admin3": {
-                        "pcode": "adm3_pcode",
-                        "name": "Municipality_of_monitored_location"
-                    }
-                }
-            },
-            "indicators": {
-                "area": [
-                    {
-                        "type": "site_count"
-                    },
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "Number of volunteers",
-                            "fr": "Nombre de bénévoles",
-                            "ar":"عدد المتطوعين"
-                        },
-                        "entryCode": "Number_of_volunteers_mobilised",
-                        "iconOchaName": "Staff-management"
-                    },
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "Number of interprets",
-                            "fr": "Nombre d'interprètes",
-                            "ar":"عدد المترجمين"
-                        },
-                        "entryCode": "Number_of_interpreters_engaged",
-                        "iconOchaName": "Staff-management"
-                    }
-                ],
-                "site": [
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "Does Site works 24/7?",
-                            "fr": "Le site fonctionne-t-il 24/7?",
-                            "ar":"هل يعمل الموقع 24/7؟"
-                        },
-                        "entryCode": "Does_Site_works_24_7",
-                        "iconOchaName": "Time"
-                    },
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "Accomodation available ?",
-                            "fr": "Hébergement disponible ?",
-                            "ar":"السكن متاح؟"
-                        },
-                        "entryCode": "Is_accomodation_for_short_rest_overnight_available_within_the_Site",
-                        "iconOchaName": "Distribution-site"
-                    },
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "Food provided ?",
-                            "fr": "Nourriture fournie ?",
-                            "ar":"الطعام المقدم؟"
-                        },
-                        "entryCode": "Is_food_provided_to_the_site",
-                        "iconOchaName": "Food"
                     }
                 ]
             }
         }
     ],
     "options": {
-        "showCCCMLogo": true,
-        "dark": false,
+        "showCCCMLogo": false,
         "pdfColumnCount": 3,
-        "exportForEsite": false,
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
-        "keepThematicOrderFromFDF": true,
-        "mapLegendDisplayStyle":"folded"
+        "keepThematicOrderFromFDF": true
     }
 }
