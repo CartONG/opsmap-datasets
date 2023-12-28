@@ -181,7 +181,7 @@
             },
             "options": {
                 "inputDateFormat": "DD/MM/YYYY",
-                "displayDateFormat": "MM/YYYY",
+                "displayDateFormat": "DD/MM/YYYY",
                 "listSeparator": ";",
                 "anonymousMode": "none",
                 "siteZoomMode": "site",
