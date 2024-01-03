@@ -194,7 +194,8 @@
                     "name": {
                         "en": "Settlement",
                         "uk": "Населений пункт"
-                    }
+                    },
+                    "afterAdminFilters": true
                 }
             ],
             "spatial": {
