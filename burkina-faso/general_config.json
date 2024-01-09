@@ -10,13 +10,15 @@
             "en": {
                 "infosAdmins": {
                     "admin1": "Region",
-                    "admin2": "Province"
+                    "admin2": "Province",
+                    "admin3": "Commune"
                 }
             },
             "fr": {
                 "infosAdmins": {
-                    "admin1": "Région",
-                    "admin2": "Province"
+                    "admin1": "Region",
+                    "admin2": "Province",
+                    "admin3": "City"
                 }
             }
         }
@@ -201,6 +203,10 @@
                     "admin2": {
                         "pcode": "adm2pcode",
                         "name": "province"
+                    },
+                    "admin3": {
+                        "pcode": "adm3pcode",
+                        "name": "commune"
                     }
                 }
             }
