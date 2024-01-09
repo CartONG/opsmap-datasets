@@ -158,5 +158,5 @@ latitude;float;group_general_info;;;;hide;
 longitude;float;group_general_info;;;;hide;
 cccm_shelter__mangmt;string;group_general_info;;;;;
 type;string;group_general_info;;;;;
-demo_num_hh;integer;group_demo;;;;;
-demo_num_indv;integer;group_demo;;;;;
+demo_num_hh;integer;group_general_info;;;;hide;
+demo_num_indv;integer;group_general_info;;;;hide;
