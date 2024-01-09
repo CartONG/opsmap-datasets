@@ -168,8 +168,8 @@
         {
             "type": "ridl",
             "name": "UKR_Round_9_10",
-            "submissionsUrl": "data/UKR_Round_9_10_MA.xlsx",
-            "submissionsTrUrl": "data/UKR_Round_9_10_Trans_MA.xlsx",
+            "submissionsUrl": "data/UKR_Round_9_10_Dec.xlsx",
+            "submissionsTrUrl": "data/UKR_Round_9_10_Trans_Dec.xlsx",
             "options": {
                 "anonymousMode": "text",
                 "siteZoomMode": "admin",
