@@ -14,12 +14,11 @@
                 "No": "green"
             }
         },
-        "CFRMCasesResolved": {
-            "type": "math",
+        "truefalse": {
+            "type": "key_value",
             "values": {
-                "x<=0.74": "red",
-                "x>0.75 and x<=0.99": "yellow",
-                "x>0.99": "green"
+                "TRUE": "green",
+                "FALSE": "red"
             }
         },
         "facilities_accessible_PWDs": {
