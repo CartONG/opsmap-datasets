@@ -51,6 +51,14 @@
                 "x>=0.8 and x<1": "orange",
                 "x>=1": "red"
             }
+        },
+        "need": {
+            "type": "key_value",
+            "values": {
+                "Inadequat": "yellow",
+                "Adequat": "green",
+                "Inexistant": "red"
+            }
         }
     }
 }
