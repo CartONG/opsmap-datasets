@@ -1,6 +1,6 @@
 formatted_name;icon_file_name;traffic_light_name;thematic_label_en;thematic_label_bn
 group_general_info;About;;General information;সাধারণ জ্ঞাতব্য
-group_cwc;Community-engagement;Communication with communities
+group_cwc;Community-engagement;;Communication with communities;সম্প্রদায়ের সাথে যোগাযোগ
 group_education;Education;;Education;শিক্ষা
 group_food_security;Food-Security;;Food Security;খাদ্য নিরাপত্তা
 group_healthcare;Health;;Healthcare;স্বাস্থ্যসেবা
