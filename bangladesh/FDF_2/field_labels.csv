@@ -133,3 +133,6 @@ group_wash/WSH_7;Soap distributed last month?;গত মাসে সাবা�
 group_wash/WSH_8;Date of of last received menstrual hygiene management (mhm) items;সর্বশেষ প্রাপ্ত মাসিক স্বাস্থ্যবিধি ব্যবস্থাপনা (mhm) আইটেমগুলির তারিখ৷
 group_wash/WSH_9_a;Total CFRM issues related to WASH recorded in the reporting period;রিপোর্টিং সময়ের মধ্যে রেকর্ড করা ওয়াশ সম্পর্কিত মোট CFRM সমস্যা
 group_wash/WSH_10_b;Total CFRM issues related to WASH resolved within the reporting period;ওয়াশ সম্পর্কিত মোট CFRM সমস্যা রিপোর্টিং সময়ের মধ্যে সমাধান করা হয়েছে
+type;Location type:;অবস্থানের ধরন:
+demo_num_hh;Number families:;পরিবারের সংখ্যা:
+demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
