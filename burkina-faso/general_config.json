@@ -138,9 +138,108 @@
     },
     "surveys": [
         {
-            "type": "gsheet",
+            "type": "gsheet",,
+            "name": "Sites fonctionnels",
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqHYWvLt3uEfNwicLy4ySHA_DBUOA8XFdinalMD2yVqKyd0qAXT61jZ-6DHZTdTAN7nSyT7NOhF3D0/pub?gid=43995107&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqHYWvLt3uEfNwicLy4ySHA_DBUOA8XFdinalMD2yVqKyd0qAXT61jZ-6DHZTdTAN7nSyT7NOhF3D0/pub?gid=2018622187&single=true&output=csv",
+            "options": {
+                "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "MM/YYYY",
+                "listSeparator": ";",
+                "anonymousMode": "none"
+            },
+            "additionalFiltersDescription": [
+                {
+                    "field": "GestionnaireSiteNom",
+                    "name": {
+                        "en": "Manage by",
+                        "fr": "Gérer par"
+                    }
+                }
+            ],
+            "indicators": {
+                "area": [
+                    {
+                        "type": "site_count"
+                    },
+                    {
+                        "type": "people_count",
+                        "entryCode": "IndividlPopulation"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Households",
+                            "fr": "Familles"
+                        },
+                        "entryCode": "FamillPopulation",
+                        "iconOchaName": "Children"
+                    }
+                ],
+                "site": [
+                    {
+                        "type": "site_occupation",
+                        "name": {
+                            "en": "Site capacity",
+                            "fr": "Capacité du site"
+                        },
+                        "iconOchaName": "Camp-Coordination-and-Camp-Management",
+                        "entryCodePeopleCount": "FamillPopulation",
+                        "entryCodeMaxPeopleCount": "HebergementCapacite"
+                    },
+                    {
+                        "type": "computation",
+                        "name": {
+                            "en": "Unsuitable occupied shelters",
+                            "fr": "Abris occupés non adéquat"
+                        },
+                        "entryCode1": "abrietat",
+                        "entryCode2": "abriremplac",
+                        "operator": "+",
+                        "iconOchaName": "House-destroyed"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Peoples per latrine",
+                            "fr": "Personnes par latrine"
+                        },
+                        "entryCode": "nb_ind_per_latrines2",
+                        "iconOchaName": "Latrine-cabin"
+                    }
+                ]
+            },
+            "spatial": {
+                "siteFields": {
+                    "id": "ID",
+                    "lastUpdate": "DateUpdate",
+                    "latitude": "latitude",
+                    "longitude": "longitude",
+                    "manageBy": "GestionnaireSiteNom",
+                    "name": "site",
+                    "type": "type_installation"
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "adm1pcode",
+                        "name": "region"
+                    },
+                    "admin2": {
+                        "pcode": "adm2pcode",
+                        "name": "province"
+                    },
+                    "admin3": {
+                        "pcode": "adm3pcode",
+                        "name": "Comm"
+                    }
+                }
+            }
+        },
+                {
+            "type": "gsheet",,
+            "name": "Sites fermés",
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqHYWvLt3uEfNwicLy4ySHA_DBUOA8XFdinalMD2yVqKyd0qAXT61jZ-6DHZTdTAN7nSyT7NOhF3D0/pub?gid=1746694017&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqHYWvLt3uEfNwicLy4ySHA_DBUOA8XFdinalMD2yVqKyd0qAXT61jZ-6DHZTdTAN7nSyT7NOhF3D0/pub?gid=1490870118&single=true&output=csv",
             "options": {
                 "inputDateFormat": "DD/MM/YYYY",
                 "displayDateFormat": "MM/YYYY",
