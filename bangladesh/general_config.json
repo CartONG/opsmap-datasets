@@ -295,7 +295,7 @@
                     "latitude": "latitude",
                     "longitude": "longitude",
                     "manageBy": "cccm_shelter__mangmt",
-                    "name": "site_name",
+                    "name": "group_general_question/camp",
                     "type": "type"
                 },
                 "admins": {
