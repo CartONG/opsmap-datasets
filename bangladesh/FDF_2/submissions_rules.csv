@@ -1,7 +1,7 @@
 field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;computed_rule
 formhub/uuid;string;;;;;;
 today;date;;;;;;
-phonenumber;string;group_general_question;;;;;
+phonenumber;string;group_general_info;;;;;
 group_general_question/organization;string;group_general_info;;;;;
 group_general_question/name;string;group_general_info;;;;;
 group_general_question/camp;string;group_general_info;;;;;
