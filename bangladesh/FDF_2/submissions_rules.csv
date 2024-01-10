@@ -160,3 +160,4 @@ cccm_shelter__mangmt;string;group_general_info;;;;;
 type;string;group_general_info;;;;;
 demo_num_hh;integer;group_general_info;;;;;
 demo_num_indv;integer;group_general_info;;;;;
+blocks;integer;group_general_info;;;;;
