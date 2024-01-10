@@ -137,3 +137,4 @@ type;Location type:;অবস্থানের ধরন:
 demo_num_hh;Number families:;পরিবারের সংখ্যা:
 demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
 cccm_shelter__mangmt;cccm shelter management;cccm আশ্রয় ব্যবস্থাপনা
+blocks;Number of Blocks:;ব্লকের সংখ্যা:
