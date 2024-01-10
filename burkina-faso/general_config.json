@@ -210,7 +210,7 @@
                     "lastUpdate": "DateUpdate",
                     "latitude": "latitude",
                     "longitude": "longitude",
-                    "manageBy": "GestionnaireSiteNom",
+                    "manageBy": "SupportSiteAgence",
                     "name": "site",
                     "type": "type_installation"
                 },
