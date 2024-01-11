@@ -145,10 +145,10 @@
             },
             "additionalFiltersDescription": [
                 {
-                    "field": "GestionnaireSiteNom",
+                    "field": "SupportSiteAgence",
                     "name": {
-                        "en": "Manage by",
-                        "fr": "Gérer par"
+                        "en": "Support organization",
+                        "fr": "Organisation de support"
                     }
                 }
             ],
