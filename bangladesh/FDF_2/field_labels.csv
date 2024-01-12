@@ -169,6 +169,12 @@ group_smsd/SMS_14;XX;XX
 group_smsd/Comp_SMS6ba;% of blocks with AGD groups represented including women, men, older persons, young men, young women and people with disabilities;নারী, পুরুষ, বয়স্ক ব্যক্তি, যুবক, যুবতী এবং প্রতিবন্ধী ব্যক্তিদের সহ প্রতিনিধিত্বকারী AGD গ্রুপ সহ ব্লকের %
 group_smsd/Comp_SMS7HH;% of HHS in risky areas;ঝুঁকিপূর্ণ এলাকায় HHS %
 group_smsd/Comp_SMS11ba;% of SMS CFRM desks operational (open during work hours 8.30am to 3.30pm with a register or formal system for recording feedback and referrals);এসএমএস সিএফআরএম ডেস্কের % চালু থাকে (কাজের সময় সকাল 8.30টা থেকে বিকাল 3.30টা পর্যন্ত একটি রেজিস্টার বা প্রতিক্রিয়া এবং রেফারেল রেকর্ড করার জন্য আনুষ্ঠানিক ব্যবস্থা সহ খোলা থাকে)
+group_smsd/SMS_10_a;XX;XX
+group_smsd/SMS_10_b;XX;XX
+group_smsd/SMS_11;XX;XX
+group_smsd/SMS_12_a;XX;XX
+group_smsd/SMS_12_b;XX;XX
+group_smsd/SMS_13;XX;XX
 group_wash/WSH_1;Camp level Sector Focal Point is present and operational;ক্যাম্প স্তরের সেক্টর ফোকাল পয়েন্ট বর্তমান এবং চালু আছে
 group_wash/WSH_2;Number of total functioning latrines for men and women;পুরুষ ও মহিলাদের জন্য মোট কার্যকরী ল্যাট্রিনের সংখ্যা
 group_wash/WSH_3;Number functioning bathing spaces/washrooms for men/women;পুরুষ/মহিলাদের জন্য স্নানের স্থান/শৌচাগারের সংখ্যা
@@ -184,3 +190,7 @@ demo_num_hh;Number families:;পরিবারের সংখ্যা:
 demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
 cccm_shelter__mangmt;cccm shelter management;cccm আশ্রয় ব্যবস্থাপনা
 blocks;Number of Blocks:;ব্লকের সংখ্যা:
+group_wash/WSH_9_b;XX;XX
+group_protection/PRO_13_b.12;XX;XX
+group_protection/PRO_13_B3;XX;XX
+group_protection/PRO_13_b;;XX;XX
