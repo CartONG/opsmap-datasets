@@ -91,7 +91,7 @@ group_protection/PRO_10;Functional refferal pathway for child protection operati
 group_protection/PRO_11;Child protection case management system operational in camp?;শিবিরে শিশু সুরক্ষা কেস ম্যানেজমেন্ট সিস্টেম চালু আছে?
 group_protection/PRO_12;Number of community based child protection committees/mechanisms actively present in the camp.;ক্যাম্পে সক্রিয়ভাবে উপস্থিত সম্প্রদায় ভিত্তিক শিশু সুরক্ষা কমিটি/যন্ত্রের সংখ্যা।
 group_protection/PRO_13_a;Number of child protection related cases (including registration) received at cfrm system actioned within the reporting period;রিপোর্টিং সময়ের মধ্যে সিএফআরএম সিস্টেমে প্রাপ্ত শিশু সুরক্ষা সংক্রান্ত মামলার সংখ্যা (নিবন্ধন সহ)
-group_protection/PRO_13_B.1;XX;XX
+group_protection/PRO_13_B.1;PRO_13_B.1;XX
 group_protection/PRO_14;GBV focal point present in camp;ক্যাম্পে উপস্থিত জিবিভি ফোকাল পয়েন্ট
 group_protection/PRO_15_a;Total number of safe spaces for women and girls/women friendly spaces;মহিলা এবং মেয়েদের/নারী বান্ধব স্থানগুলির জন্য মোট নিরাপদ স্থানের সংখ্যা
 group_protection/PRO_15_b;Total number of functioning safe spaces for women and girls/women friendly spaces (operating from sun - thursday) during starndard operating times;স্টারন্ডার্ড অপারেটিং সময়ে মহিলা এবং মেয়েদের/নারী বান্ধব স্থানগুলির জন্য (সূর্য-বৃহস্পতিবার থেকে কাজ করা) মোট কার্যকরী নিরাপদ স্থানের সংখ্যা
@@ -99,7 +99,7 @@ group_protection/PRO_16;Number of Women and Girls Safe spaces that are accessibl
 group_protection/PRO_17;Functional refferal pathway for GBV operation in the camp;ক্যাম্পে GBV অপারেশনের জন্য কার্যকরী রেফারাল পথ
 group_protection/PRO_18;Number of women/girls safe spaces with handwashing station;হাত ধোয়ার স্টেশন সহ মহিলা/মেয়েদের নিরাপদ স্থানের সংখ্যা
 group_protection/PRO_19_a;Number of GBV related cases (including registration) received at CFRM system in the reporting period;রিপোর্টিং সময়ের মধ্যে CFRM সিস্টেমে প্রাপ্ত জিবিভি সম্পর্কিত মামলার সংখ্যা (নিবন্ধন সহ)
-group_protection/PRO_19_B;XX;XX
+group_protection/PRO_19_B;PRO_19_B;XX
 group_protection/PRO_20;Number of operational community center in camp;ক্যাম্পে কর্মক্ষম কমিউনিটি সেন্টারের সংখ্যা
 group_protection/Comp_PRO4ab;% of protection cases received at CFRM that are actioned within 30 days;CFRM-এ প্রাপ্ত সুরক্ষা মামলাগুলির % যা 30 দিনের মধ্যে কার্যকর করা হয়
 group_protection/Comp_PRO76;% of Child Friendly/adolescent/multipurpose spaces with sex segregated latrines ;যৌন-বিচ্ছিন্ন ল্যাট্রিন সহ শিশু-বান্ধব/কিশোর/বহুমুখী স্থানের %
@@ -161,20 +161,20 @@ group_smsd/SMS_8;Multi hazard and/or contingency plans developed and updated;ম
 group_smsd/SMS_9_a;Number of SMS related CFRM cases recorded in the reporting period;রিপোর্টিং সময়ের মধ্যে নথিভুক্ত এসএমএস সম্পর্কিত CFRM মামলার সংখ্যা
 group_smsd/SMS_9_b;Number of SMS related CFRM casesreceived and reffered within 72 hours in the reporting period;রিপোর্টিং সময়ের মধ্যে 72 ঘন্টার মধ্যে এসএমএস সম্পর্কিত CFRM কেস প্রাপ্ত এবং রেফার করা হয়েছে
 group_smsd/SMS_11_a;Number of methods formal/informal to submit feedback and complaints help desk, (hotlines, mobile teams, and adhoc interviews);প্রতিক্রিয়া এবং অভিযোগ জমা দেওয়ার জন্য আনুষ্ঠানিক/অনানুষ্ঠানিক পদ্ধতির সংখ্যা সাহায্য ডেস্ক, (হটলাইন, মোবাইল টিম এবং অ্যাডহক ইন্টারভিউ)
-group_smsd/SMS_11_b;XX;XX
-group_smsd/SMS_12;XX;XX
+group_smsd/SMS_11_b;SMS_11_b;XX
+group_smsd/SMS_12;XSMS_12X;XX
 group_smsd/SMS_13_a;Functioning referral pathways are in place to ensure that people with specific or specialised needs receive the assistance and protection required.;নির্দিষ্ট বা বিশেষ চাহিদা সম্পন্ন ব্যক্তিরা প্রয়োজনীয় সহায়তা এবং সুরক্ষা পান তা নিশ্চিত করার জন্য কার্যকরী রেফারেল পথ রয়েছে।
-group_smsd/SMS_13_b;XX;XX
-group_smsd/SMS_14;XX;XX
+group_smsd/SMS_13_b;SMS_13_b;XX
+group_smsd/SMS_14;SMS_14;XX
 group_smsd/Comp_SMS6ba;% of blocks with AGD groups represented including women, men, older persons, young men, young women and people with disabilities;নারী, পুরুষ, বয়স্ক ব্যক্তি, যুবক, যুবতী এবং প্রতিবন্ধী ব্যক্তিদের সহ প্রতিনিধিত্বকারী AGD গ্রুপ সহ ব্লকের %
 group_smsd/Comp_SMS7HH;% of HHS in risky areas;ঝুঁকিপূর্ণ এলাকায় HHS %
 group_smsd/Comp_SMS11ba;% of SMS CFRM desks operational (open during work hours 8.30am to 3.30pm with a register or formal system for recording feedback and referrals);এসএমএস সিএফআরএম ডেস্কের % চালু থাকে (কাজের সময় সকাল 8.30টা থেকে বিকাল 3.30টা পর্যন্ত একটি রেজিস্টার বা প্রতিক্রিয়া এবং রেফারেল রেকর্ড করার জন্য আনুষ্ঠানিক ব্যবস্থা সহ খোলা থাকে)
-group_smsd/SMS_10_a;XX;XX
-group_smsd/SMS_10_b;XX;XX
-group_smsd/SMS_11;XX;XX
-group_smsd/SMS_12_a;XX;XX
-group_smsd/SMS_12_b;XX;XX
-group_smsd/SMS_13;XX;XX
+group_smsd/SMS_10_a;SMS_10_a;XX
+group_smsd/SMS_10_b;MS_10_b;XX
+group_smsd/SMS_11;SMS_11;XX
+group_smsd/SMS_12_a;SMS_12_a;XX
+group_smsd/SMS_12_b;SMS_12_b;XX
+group_smsd/SMS_13;SMS_13;XX
 group_wash/WSH_1;Camp level Sector Focal Point is present and operational;ক্যাম্প স্তরের সেক্টর ফোকাল পয়েন্ট বর্তমান এবং চালু আছে
 group_wash/WSH_2;Number of total functioning latrines for men and women;পুরুষ ও মহিলাদের জন্য মোট কার্যকরী ল্যাট্রিনের সংখ্যা
 group_wash/WSH_3;Number functioning bathing spaces/washrooms for men/women;পুরুষ/মহিলাদের জন্য স্নানের স্থান/শৌচাগারের সংখ্যা
@@ -190,7 +190,7 @@ demo_num_hh;Number families:;পরিবারের সংখ্যা:
 demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
 cccm_shelter__mangmt;cccm shelter management;cccm আশ্রয় ব্যবস্থাপনা
 blocks;Number of Blocks:;ব্লকের সংখ্যা:
-group_wash/WSH_9_b;XX;XX
-group_protection/PRO_13_b.12;XX;XX
-group_protection/PRO_13_B3;XX;XX
-group_protection/PRO_13_b;;XX;XX
+group_wash/WSH_9_b;WSH_9_b;XX
+group_protection/PRO_13_b.12;PRO_13_b.12;XX
+group_protection/PRO_13_B3;PRO_13_B3;XX
+group_protection/PRO_13_b;PRO_13_b;XX
