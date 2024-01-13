@@ -100,8 +100,8 @@ group_protection/Comp_PRO4ab;computed;group_protection;Comp_PRO4ab;;;;group_prot
 group_protection/Comp_PRO76;computed;group_protection;Comp_PRO76;;;;group_protection/PRO_7#/#group_protection/PRO_6
 group_protection/Comp_PRO86;computed;group_protection;Comp_PRO86;;;;group_protection/PRO_8#/#group_protection/PRO_6
 group_protection/Comp_PRO96;computed;group_protection;Comp_PRO96;;;;group_protection/PRO_9#/#group_protection/PRO_6
-group_protection/Comp_PRO13ba;computed;group_protection;Comp_PRO13ba;;;;group_protection/PRO_13_B#/#group_protection/PRO_13_a
-group_protection/Comp_PRO15ba;computed;group_protection;Comp_PRO15ba;;;;group_protection/PRO_15_b#/#group_protection/PRO_15_a
+group_protection/Comp_PRO13ba;computed;group_protection;;;;;group_protection/PRO_13_B#/#group_protection/PRO_13_a
+group_protection/Comp_PRO15ba;computed;group_protection;;;;;group_protection/PRO_15_b#/#group_protection/PRO_15_a
 group_protection/Comp_PRO15aa;computed;group_protection;Comp_PRO15aa;;;;group_protection/PRO_15_a#/#group_protection/PRO_15_a
 group_protection/Comp_PRO1815;computed;group_protection;Comp_PRO1815;;;;group_protection/PRO_18#/#group_protection/PRO_15_a
 group_snfi/SNFI_1;string;group_snfi;truefalse;;;;
