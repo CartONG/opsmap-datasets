@@ -1,3 +1,4 @@
+field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;computed_rule
 Camp_name_FSS;string;group_fs;;;;;
 Name_FSS;string;group_fs;;;;;
 Sector_FSS;string;group_fs;;;;;
