@@ -1,3 +1,4 @@
+field_name;type;thematic_group;traffic_light_name;chart_id;chart_data;display_condition;computed_rule
 Name_FSS;string;group_fs;;;;;
 Sector_FSS;string;group_fs;;;;;
 Role_FSS;string;group_fs;;;;;
