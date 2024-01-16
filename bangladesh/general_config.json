@@ -202,17 +202,7 @@
                         "name": "Upazila"
                     }
                 }
-            },
-            "inputDateFormat": "DD/MM/YYYY",
-                "displayDateFormat": "DD/MM/YYYY",
-                "listSeparator": ";",
-                "anonymousMode": "none",
-                "sitesMapVisualisation": [
-                    {
-                        "type": "populationCount",
-                        "field": "demo_num_indv"
-                    }
-                ]
+            }
         },
         {
             "type": "gsheet",
@@ -223,6 +213,11 @@
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=47417686&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=1729489555&single=true&output=csv",
             "options": {
+                "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "DD/MM/YYYY",
+                "listSeparator": ";",
+                "anonymousMode": "none",
+                "siteZoomMode": "site",
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
@@ -312,17 +307,7 @@
                         "name": "Upazila"
                     }
                 }
-            },
-            "inputDateFormat": "DD/MM/YYYY",
-                "displayDateFormat": "DD/MM/YYYY",
-                "listSeparator": ";",
-                "anonymousMode": "none",
-                "sitesMapVisualisation": [
-                    {
-                        "type": "populationCount",
-                        "field": "demo_num_indv"
-                    }
-                ]
+            }
         },
         {
             "type": "gsheet",
@@ -333,6 +318,11 @@
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=1894791392&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQR1FjIohCvSE6Hk9YV4kS0rK_7YW5t7JjrkSy9WXW5gvomwrE8avGhKwKTKA5YbPj3_PBWZ0rRhmaH/pub?gid=236996970&single=true&output=csv",
             "options": {
+                "inputDateFormat": "DD/MM/YYYY",
+                "displayDateFormat": "DD/MM/YYYY",
+                "listSeparator": ";",
+                "anonymousMode": "none",
+                "siteZoomMode": "site",
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
@@ -422,17 +412,7 @@
                         "name": "Upazila"
                     }
                 }
-            },
-            "inputDateFormat": "DD/MM/YYYY",
-                "displayDateFormat": "DD/MM/YYYY",
-                "listSeparator": ";",
-                "anonymousMode": "none",
-                "sitesMapVisualisation": [
-                    {
-                        "type": "populationCount",
-                        "field": "demo_num_indv"
-                    }
-                ]
+            }
         }
     ],
     "options": {
