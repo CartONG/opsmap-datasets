@@ -116,7 +116,9 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
-                        "field": "demo_num_indv"
+                        "field": "demo_num_indv",
+                        "tresholds": [300, 600]
+
                     }
                 ]
             },
@@ -221,7 +223,8 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
-                        "field": "demo_num_indv"
+                        "field": "demo_num_indv",
+                        "tresholds": [300, 600]
                     }
                 ]
             },
@@ -326,7 +329,8 @@
                 "sitesMapVisualisation": [
                     {
                         "type": "populationCount",
-                        "field": "demo_num_indv"
+                        "field": "demo_num_indv",
+                        "tresholds": [300, 600]
                     }
                 ]
             },
@@ -420,6 +424,7 @@
         "pdfColumnCount": 3,
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
-        "keepThematicOrderFromFDF": true
+        "keepThematicOrderFromFDF": true,
+        "mapLegendDisplayStyle": "default"
     }
 }
