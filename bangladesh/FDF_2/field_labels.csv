@@ -185,12 +185,65 @@ group_wash/WSH_7;Soap distributed last month?;গত মাসে সাবা�
 group_wash/WSH_8;Date of of last received menstrual hygiene management (mhm) items;সর্বশেষ প্রাপ্ত মাসিক স্বাস্থ্যবিধি ব্যবস্থাপনা (mhm) আইটেমগুলির তারিখ৷
 group_wash/WSH_9_a;Total CFRM issues related to WASH recorded in the reporting period;রিপোর্টিং সময়ের মধ্যে রেকর্ড করা ওয়াশ সম্পর্কিত মোট CFRM সমস্যা
 group_wash/WSH_10_b;Total CFRM issues related to WASH resolved within the reporting period;ওয়াশ সম্পর্কিত মোট CFRM সমস্যা রিপোর্টিং সময়ের মধ্যে সমাধান করা হয়েছে
-type;Location type:;অবস্থানের ধরন:
-demo_num_hh;Number families:;পরিবারের সংখ্যা:
-demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
-cccm_shelter__mangmt;cccm shelter management;cccm আশ্রয় ব্যবস্থাপনা
-blocks;Number of Blocks:;ব্লকের সংখ্যা:
 group_wash/WSH_9_b;WSH_9_b;XX
 group_protection/PRO_13_b.12;PRO_13_b.12;XX
 group_protection/PRO_13_B3;PRO_13_B3;XX
 group_protection/PRO_13_b;PRO_13_b;XX
+site_id;site id;সাইট আইডি
+site_name;site name;সাইটের নাম
+country;country;দেশ
+Division;Division;বিভাগ
+Upazila;Upazila;উপজেলা
+District;District;জেলা
+adm1_pcode;adm1 pcode;adm1 পিকোড
+adm2_pcode;adm2 pcode;adm2 পিকোড
+adm3_pcode;adm3 pcode;adm3 পিকোড
+Shelters;Shelters;আশ্রয়
+cccm_shelter__mangmt;cccm shelter mangmt;cccm আশ্রয় mangmt
+Camp_Area_SqM;Camp Area SqM;ক্যাম্প এলাকা SqM
+camp_perimeter;camp perimeter;ক্যাম্প পরিধি
+geopoint 1;;
+latitude;Latitude:;অক্ষাংশ:
+longitude;Longitude:;দ্রাঘিমাংশ:
+geopoint 1 altitude;;
+geopoint 1 precision;;
+last_update;Date of Report:;রিপোর্টের তারিখ:
+blocks;Number of Blocks:;ব্লকের সংখ্যা:
+sublocks;Number of Sub-blocks:;সাব-ব্লকের সংখ্যা:
+Camp_Area_SqM;Camp Area (Sq.M);ক্যাম্প এলাকা (Sq.M)
+cccm_shelter__mangmt;Camp managed by:;ক্যাম্প পরিচালিত:
+CiC_Officer;CiC Officer:;সিআইসি অফিসার:
+Camp_Commander;Camp Commander:;ক্যাম্প কমান্ডার:
+Camp_Manager;Camp Manager:;ক্যাম্প ম্যানেজার:
+type;Location type:;অবস্থানের ধরন:
+demo_num_hh;Number families:;পরিবারের সংখ্যা:
+demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
+demo_male_0_1;Males 0-1 years:;পুরুষ 0-1 বছর:
+demo_female_0_1;Females 0-1 years:;মহিলা 0-1 বছর:
+demo_male_1_4;Males 1-4 years:;পুরুষ 1-4 বছর:
+demo_female_1_4;Females 1-4 year:;মহিলা 1-4 বছর:
+demo_male_5_11;Males 5-11 years:;পুরুষ 5-11 বছর:
+demo_female_5_11;Females 5-11 years:;মহিলা 5-11 বছর:
+demo_male_12_17;Males 12-17 years:;পুরুষ 12-17 বছর:
+demo_female_12_17;Females 12-17 years:;মহিলা 12-17 বছর:
+demo_male_18_59;Males 18-59 years:;পুরুষ 18-59 বছর:
+demo_female_18_59;Females 18-59 years:;মহিলা 18-59 বছর:
+demo_male_60+;Males 60 or older:;60 বা তার বেশি বয়সী পুরুষ:
+demo_female_60+;Females 60 or older:;মহিলা 60 বা তার বেশি বয়সী:
+PSN_SingleParent;Single Parent of Caregivers:;যত্নশীলদের একক অভিভাবক:
+PSN_PersonsDisability;Persons with Disability:;প্রতিবন্ধী ব্যক্তি:
+PSN_Legal_ProtectionNeeds;Persons with Specific Legal & Physical Protection Needs:;নির্দিষ্ট আইনি ও শারীরিক সুরক্ষার প্রয়োজন আছে এমন ব্যক্তিদের:
+PSN_SeriousMedical;Persons with Serious medical Condition;গুরুতর মেডিকেল অবস্থার ব্যক্তিদের
+PSN_ChildrenRisk;Children at Risk;ঝুঁকিতে শিশু
+PSN_UASC;Unaccompanied/Seperated Children:;সঙ্গহীন/বিচ্ছিন্ন শিশু:
+PSN_OlderAtRisk;Older Persons at Risk:;ঝুঁকিপূর্ণ বয়স্ক ব্যক্তিরা:
+PSN_OtherPSN;Other PSNs:;অন্যান্য PSN:
+Percent_of_health_facilities_with_operational_CFRMs;Perc of health facilities with operational CFRMs:;কর্মক্ষম CFRM সহ স্বাস্থ্য সুবিধার %:
+Percent_of_CFRM_health_cases_resolved_within_30_days;Perc of CFRM health cases resolved within 30 days:;30 দিনের মধ্যে সিএফআরএম স্বাস্থ্যের ক্ষেত্রে সমাধান করা হয়েছে:
+Percent_of_distribution_centers_that_are_accessible_for_people_with_special_needs_and_women;% of distribution centers that are accessible for people with special needs and women:;বন্টন কেন্দ্রের % যা বিশেষ চাহিদা সম্পন্ন ব্যক্তি এবং মহিলাদের জন্য অ্যাক্সেসযোগ্য:
+Percent_Nutritiona_facilities_accessible_for_PWSN;% Nutritiona facilities accessible for PWSN:;PWSN-এর জন্য % পুষ্টি সুবিধা অ্যাক্সেসযোগ্য:
+Percent__Shelter_distribution_points_that_are_accessible_for_people_with_special_needs;%  Shelter distribution points that are accessible for people with special needs:;% আশ্রয় বন্টন পয়েন্ট যা বিশেষ চাহিদা সম্পন্ন ব্যক্তিদের জন্য অ্যাক্সেসযোগ্য:
+Total_Shelter_and_NFI_distribution_points;Total Shelter and NFI distribution points:;মোট আশ্রয় এবং NFI বিতরণ পয়েন্ট:
+Percent_of_shelter-related_feedback_received_at_the_CFRM_that_is_resolved_within_30_days;% of shelter-related feedback received at the CFRM that is resolved within 30 days:;CFRM-এ প্রাপ্ত আশ্রয়-সম্পর্কিত প্রতিক্রিয়ার % যা 30 দিনের মধ্যে সমাধান করা হয়:
+Percent_Protection_refferal_cases_actioned;% Protection refferal cases actioned:;% সুরক্ষা রেফারাল কেস অ্যাকশন করা হয়েছে:
+Percent_Child_friendly_space__in_risk_zones;% Child friendly space  in risk zones:;ঝুঁকিপূর্ণ অঞ্চলে % শিশুবান্ধব স্থান:
