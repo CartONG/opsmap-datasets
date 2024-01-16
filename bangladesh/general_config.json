@@ -326,7 +326,7 @@
         },
         {
             "type": "gsheet",
-            "name": "Camp focal",
+            "name": "Contact",
             "fdf": {
                 "folder": "FDF_contact"
             },
