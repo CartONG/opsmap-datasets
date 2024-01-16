@@ -3,8 +3,8 @@ group_general_info;About;;General;সাধারণ
 group_fs;Food-Security;;Food security;খাদ্য নিরাপত্তা
 group_protection;Protection;;Protection & Information provision;সুরক্ষা এবং তথ্য বিধান
 group_education;Education;;Education;শিক্ষা
-group_gbv;Selected;;GBV;GBV
-group_lsds;Selected;;LSDS;LSDS
+group_gbv;Gender-based-violence;;Gender based violence;লিঙ্গ - ভিত্তিক সহিংসতার
+group_lsds;Livelihood;;Livelihood & skill development;জীবিকা ও দক্ষতা উন্নয়ন
 group_nutrition;Nutrition;;Nutrition;Nafaqada
 group_protection;Protection;;Protection;সুরক্ষা
 group_shelternfi;Shelter;mean;Shelter - NFI;আশ্রয় - NFI
