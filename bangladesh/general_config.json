@@ -216,7 +216,7 @@
         },
         {
             "type": "gsheet",
-            "name": "Survey B",
+            "name": "Info & Service monitoring",
             "fdf": {
                 "folder": "FDF_2"
             },
