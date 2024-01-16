@@ -7,7 +7,7 @@ group_wash;Water-source;;Water, sanitation and hygiene;জল, স্যান�
 Specific_Groups;Elderly;;Vulnerable population;ঝুঁকিপূর্ণ জনসংখ্যা
 group_health;Health;;Healthcare;স্বাস্থ্যসেবা
 group_food_security;Food-Security;;Food Security;খাদ্য নিরাপত্তা
-group_nutrition;Nutrition;;Nutrition;পুষ্টি
-group_cwc;Community-engagement;;Communicating with Communities;সম্প্রদায়ের সাথে যোগাযোগ
-group_education;Education;;Education;শিক্ষা
 group_protection;Protection;;Protection & Information provision;সুরক্ষা এবং তথ্য বিধান
+group_nutrition;Nutrition;;Nutrition;পুষ্টি
+group_education;Education;;Education;শিক্ষা
+group_cwc;Community-engagement;;Communicating with Communities;সম্প্রদায়ের সাথে যোগাযোগ
