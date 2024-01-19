@@ -213,6 +213,7 @@
         "exportForEsite": false,
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
-        "keepThematicOrderFromFDF": true
+        "keepThematicOrderFromFDF": true,
+        "desactivateGlobalIndicatorsAtIndermediateLevels": true
     }
 }
