@@ -1,207 +1,100 @@
 field_name;field_label_en;field_label_bn
-Camp_name_FSS;Camp name FSS;Camp name FSS
-Name_FSS;Name FSS;Name FSS
-Sector_FSS;Sector FSS;Sector FSS
-Role_FSS;Role FSS;Role FSS
-Agency_FSS;Agency FSS;Agency FSS
-Contact_number_FSS;Contact number FSS;Contact number FSS
-Email_FSS;Email FSS;Email FSS
-Camp_name_ChildProt_1;Camp name ChildProt 1;Camp name ChildProt 1
-Name_ChildProt_1;Name ChildProt 1;Name ChildProt 1
-Sector_ChildProt_1;Sector ChildProt 1;Sector ChildProt 1
-Role_ChildProt_1;Role ChildProt 1;Role ChildProt 1
-Agency_ChildProt_1;Agency ChildProt 1;Agency ChildProt 1
-Contact_number_ChildProt_1;Contact number ChildProt 1;Contact number ChildProt 1
-Email_ChildProt_1;Email ChildProt 1;Email ChildProt 1
-Camp_name_3;Camp name 3;Camp name 3
-Name_3;Name 3;Name 3
-Sector_3;Sector 3;Sector 3
-Role_3;Role 3;Role 3
-Agency_3;Agency 3;Agency 3
-Contact_number_3;Contact number 3;Contact number 3
-Email_3;Email 3;Email 3
-Camp_name_4;Camp name 4;Camp name 4
-Name_4;Name 4;Name 4
-Sector_4;Sector 4;Sector 4
-Role_4;Role 4;Role 4
-Agency_4;Agency 4;Agency 4
-Contact_number_4;Contact number 4;Contact number 4
-Email_4;Email 4;Email 4
-Camp_name_5;Camp name 5;Camp name 5
-Name_5;Name 5;Name 5
-Sector_5;Sector 5;Sector 5
-Role_5;Role 5;Role 5
-Agency_5;Agency 5;Agency 5
-Contact_number_5;Contact number 5;Contact number 5
-Email_5;Email 5;Email 5
-Camp_name_6;Camp name 6;Camp name 6
-Name_6;Name 6;Name 6
-Sector_6;Sector 6;Sector 6
-Role_6;Role 6;Role 6
-Agency_6;Agency 6;Agency 6
-Contact_number_6;Contact number 6;Contact number 6
-Email_6;Email 6;Email 6
-Camp_name_7;Camp name 7;Camp name 7
-Name_7;Name 7;Name 7
-Sector_7;Sector 7;Sector 7
-Role_7;Role 7;Role 7
-Agency_7;Agency 7;Agency 7
-Contact_number_7;Contact number 7;Contact number 7
-Email_7;Email 7;Email 7
-Camp_name_8;Camp name 8;Camp name 8
-Name_8;Name 8;Name 8
-Sector_8;Sector 8;Sector 8
-Role_8;Role 8;Role 8
-Agency_8;Agency 8;Agency 8
-Contact_number_8;Contact number 8;Contact number 8
-Email_8;Email 8;Email 8
-Camp_name_9;Camp name 9;Camp name 9
-Name_9;Name 9;Name 9
-Sector_9;Sector 9;Sector 9
-Role_9;Role 9;Role 9
-Agency_9;Agency 9;Agency 9
-Contact_number_9;Contact number 9;Contact number 9
-Email_9;Email 9;Email 9
-Camp_name_10;Camp name 10;Camp name 10
-Name_10;Name 10;Name 10
-Sector_10;Sector 10;Sector 10
-Role_10;Role 10;Role 10
-Agency_10;Agency 10;Agency 10
-Contact_number_10;Contact number 10;Contact number 10
-Email_10;Email 10;Email 10
-Camp_name_11;Camp name 11;Camp name 11
-Name_11;Name 11;Name 11
-Sector_11;Sector 11;Sector 11
-Role_11;Role 11;Role 11
-Agency_11;Agency 11;Agency 11
-Contact_number_11;Contact number 11;Contact number 11
-Email_11;Email 11;Email 11
-Camp_name_12;Camp name 12;Camp name 12
-Name_12;Name 12;Name 12
-Sector_12;Sector 12;Sector 12
-Role_12;Role 12;Role 12
-Agency_12;Agency 12;Agency 12
-Contact_number_12;Contact number 12;Contact number 12
-Email_12;Email 12;Email 12
-Camp_name_13;Camp name 13;Camp name 13
-Name_13;Name 13;Name 13
-Sector_13;Sector 13;Sector 13
-Role_13;Role 13;Role 13
-Agency_13;Agency 13;Agency 13
-Contact_number_13;Contact number 13;Contact number 13
-Email_13;Email 13;Email 13
-Camp_name_14;Camp name 14;Camp name 14
-Name_14;Name 14;Name 14
-Sector_14;Sector 14;Sector 14
-Role_14;Role 14;Role 14
-Agency_14;Agency 14;Agency 14
-Contact_number_14;Contact number 14;Contact number 14
-Email_14;Email 14;Email 14
-Camp_name_15;Camp name 15;Camp name 15
-Name_15;Name 15;Name 15
-Sector_15;Sector 15;Sector 15
-Role_15;Role 15;Role 15
-Agency_15;Agency 15;Agency 15
-Contact_number_15;Contact number 15;Contact number 15
-Email_15;Email 15;Email 15
-Camp_name_16;Camp name 16;Camp name 16
-Name_16;Name 16;Name 16
-Sector_16;Sector 16;Sector 16
-Role_16;Role 16;Role 16
-Agency_16;Agency 16;Agency 16
-Contact_number_16;Contact number 16;Contact number 16
-Email_16;Email 16;Email 16
-Camp_name_17;Camp name 17;Camp name 17
-Name_17;Name 17;Name 17
-Sector_17;Sector 17;Sector 17
-Role_17;Role 17;Role 17
-Agency_17;Agency 17;Agency 17
-Contact_number_17;Contact number 17;Contact number 17
-Email_17;Email 17;Email 17
-Camp_name_18;Camp name 18;Camp name 18
-Name_18;Name 18;Name 18
-Sector_18;Sector 18;Sector 18
-Role_18;Role 18;Role 18
-Agency_18;Agency 18;Agency 18
-Contact_number_18;Contact number 18;Contact number 18
-Email_18;Email 18;Email 18
-Camp_name_19;Camp name 19;Camp name 19
-Name_19;Name 19;Name 19
-Sector_19;Sector 19;Sector 19
-Role_19;Role 19;Role 19
-Agency_19;Agency 19;Agency 19
-Contact_number_19;Contact number 19;Contact number 19
-Email_19;Email 19;Email 19
-Camp_name_20;Camp name 20;Camp name 20
-Name_20;Name 20;Name 20
-Sector_20;Sector 20;Sector 20
-Role_20;Role 20;Role 20
-Agency_20;Agency 20;Agency 20
-Contact_number_20;Contact number 20;Contact number 20
-Email_20;Email 20;Email 20
-Camp_name_21;Camp name 21;Camp name 21
-Name_21;Name 21;Name 21
-Sector_21;Sector 21;Sector 21
-Role_21;Role 21;Role 21
-Agency_21;Agency 21;Agency 21
-Contact_number_21;Contact number 21;Contact number 21
-Email_21;Email 21;Email 21
-Camp_name_22;Camp name 22;Camp name 22
-Name_22;Name 22;Name 22
-Sector_22;Sector 22;Sector 22
-Role_22;Role 22;Role 22
-Agency_22;Agency 22;Agency 22
-Contact_number_22;Contact number 22;Contact number 22
-Email_22;Email 22;Email 22
-Camp_name_23;Camp name 23;Camp name 23
-Name_23;Name 23;Name 23
-Sector_23;Sector 23;Sector 23
-Role_23;Role 23;Role 23
-Agency_23;Agency 23;Agency 23
-Contact_number_23;Contact number 23;Contact number 23
-Email_23;Email 23;Email 23
- geopoint 1;;
- geopoint 1 latitude;Latitude:;অক্ষাংশ:
- geopoint 1 longitude;Longitude:;দ্রাঘিমাংশ:
- geopoint 1 altitude;;
- geopoint 1 precision;;
-Date;Date of Report:;রিপোর্টের তারিখ:
-blocks;Number of Blocks:;ব্লকের সংখ্যা:
-sublocks;Number of Sub-blocks:;সাব-ব্লকের সংখ্যা:
+education_A_name;Name A;নাম এ
+fs_A_name;Name A;নাম এ
+fs_B_name;Name B;নাম বি
+gbv_A_name;Name A;নাম এ
+gbv_B_name;Name B;নাম বি
+gbv_C_name;Name C;নাম সি
+health_A_name;Name A;নাম এ
+lsds_A_name;Name A;নাম এ
+lsds_B_name;Name B;নাম বি
+nutrition_A_name;Name A;নাম এ
+nutrition_B_name;Name B;নাম বি
+protection__name;Name ;নাম
+protection_A_name;Name A;নাম এ
+protection_B_name;Name B;নাম বি
+shelternfi__name;Name ;নাম
+shelternfi_A_name;Name A;নাম এ
+shelternfi_B_name;Name B;নাম বি
+shelternfi_C_name;Name C;নাম সি
+shelternfi_D_name;Name D;নাম ডি
+smsd_A_name;Name A;নাম এ
+smsd_B_name;Name B;নাম বি
+smsd_C_name;Name C;নাম সি
+smsd_D_name;Name D;নাম ডি
+smsd_E_name;Name E;নাম ই
+smsd_F_name;Name F;নাম এফ
+smsd_G_name;Name G;নাম জি
+smsd_H_name;Name H;নাম এইচ
+smsd_I_name;Name I;নাম I
+smsd_J_name;Name J;নাম জে
+smsd_K_name;Name K;নাম কে
+wash_A_name;Name A;নাম এ
+wash_B_name;Name B;নাম বি
+wash_C_name;Name C;নাম সি
+wash_D_name;Name D;নাম ডি
+wash_E_name;Name E;নাম ই
+wash_F_name;Name F;নাম এফ
+X1_name;Name X1;নাম X1
+X2_name;Name X2;নাম X2
+X3_name;Name X3;নাম X3
+X4_name;Name X4;নাম X4
+X5_name;Name X5;নাম X5
+site_id;site id;সাইট আইডি
+site_name;site name;সাইটের নাম
+country;country;দেশ
+Division;Division;বিভাগ
+Upazila;Upazila;উপজেলা
+District;District;জেলা
+adm1_pcode;adm1 pcode;adm1 পিকোড
+adm2_pcode;adm2 pcode;adm2 পিকোড
+adm3_pcode;adm3 pcode;adm3 পিকোড
+Shelters;Shelters;আশ্রয়
+cccm_shelter__mangmt;cccm shelter mangmt;cccm আশ্রয় mangmt
+Camp_Area_SqM;Camp Area SqM;ক্যাম্প এলাকা SqM
+camp_perimeter;camp perimeter;ক্যাম্প পরিধি
+geopoint 1;;
+latitude;Latitude;অক্ষাংশ
+longitude;Longitude;দ্রাঘিমাংশ
+geopoint 1 altitude;;
+geopoint 1 precision;;
+last_update;Date of Report;রিপোর্টের তারিখ
+blocks;Number of Blocks;ব্লকের সংখ্যা
+sublocks;Number of Sub-blocks;সাব-ব্লকের সংখ্যা
 Camp_Area_SqM;Camp Area (Sq.M);ক্যাম্প এলাকা (Sq.M)
-cccm_shelter__mangmt;Camp managed by:;ক্যাম্প পরিচালিত:
-CiC_Officer;CiC Officer:;সিআইসি অফিসার:
-Camp_Commander;Camp Commander:;ক্যাম্প কমান্ডার:
-Camp_Manager;Camp Manager:;ক্যাম্প ম্যানেজার:
-type;Location type:;অবস্থানের ধরন:
-demo_num_hh;Number families:;পরিবারের সংখ্যা:
-demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
-demo_male_0_1;Males 0-1 years:;পুরুষ 0-1 বছর:
-demo_female_0_1;Females 0-1 years:;মহিলা 0-1 বছর:
-demo_male_1_4;Males 1-4 years:;পুরুষ 1-4 বছর:
-demo_female_1_4;Females 1-4 year:;মহিলা 1-4 বছর:
-demo_male_5_11;Males 5-11 years:;পুরুষ 5-11 বছর:
-demo_female_5_11;Females 5-11 years:;মহিলা 5-11 বছর:
-demo_male_12_17;Males 12-17 years:;পুরুষ 12-17 বছর:
-demo_female_12_17;Females 12-17 years:;মহিলা 12-17 বছর:
-demo_male_18_59;Males 18-59 years:;পুরুষ 18-59 বছর:
-demo_female_18_59;Females 18-59 years:;মহিলা 18-59 বছর:
-demo_male_60+;Males 60 or older:;60 বা তার বেশি বয়সী পুরুষ:
-demo_female_60+;Females 60 or older:;মহিলা 60 বা তার বেশি বয়সী:
-PSN_SingleParent;Single Parent of Caregivers:;যত্নশীলদের একক অভিভাবক:
-PSN_PersonsDisability;Persons with Disability:;প্রতিবন্ধী ব্যক্তি:
-PSN_Legal_ProtectionNeeds;Persons with Specific Legal & Physical Protection Needs:;নির্দিষ্ট আইনি ও শারীরিক সুরক্ষার প্রয়োজন আছে এমন ব্যক্তিদের:
+cccm_shelter__mangmt;Camp managed by;ক্যাম্প পরিচালিত
+CiC_Officer;CiC Officer;সিআইসি অফিসার
+Camp_Commander;Camp Commander;ক্যাম্প কমান্ডার
+Camp_Manager;Camp Manager;ক্যাম্প ম্যানেজার
+type;Location type;অবস্থানের ধরন
+demo_num_hh;Number families;পরিবারের সংখ্যা
+demo_num_indv;Number individuals;ব্যক্তি সংখ্যা
+demo_male_0_1;Males 0-1 years;পুরুষ 0-1 বছর
+demo_female_0_1;Females 0-1 years;মহিলা 0-1 বছর
+demo_male_1_4;Males 1-4 years;পুরুষ 1-4 বছর
+demo_female_1_4;Females 1-4 year;মহিলা 1-4 বছর
+demo_male_5_11;Males 5-11 years;পুরুষ 5-11 বছর
+demo_female_5_11;Females 5-11 years;মহিলা 5-11 বছর
+demo_male_12_17;Males 12-17 years;পুরুষ 12-17 বছর
+demo_female_12_17;Females 12-17 years;মহিলা 12-17 বছর
+demo_male_18_59;Males 18-59 years;পুরুষ 18-59 বছর
+demo_female_18_59;Females 18-59 years;মহিলা 18-59 বছর
+demo_male_60+;Males 60 or older;60 বা তার বেশি বয়সী পুরুষ
+demo_female_60+;Females 60 or older;মহিলা 60 বা তার বেশি বয়সী
+PSN_SingleParent;Single Parent of Caregivers;যত্নশীলদের একক অভিভাবক
+PSN_PersonsDisability;Persons with Disability;প্রতিবন্ধী ব্যক্তি
+PSN_Legal_ProtectionNeeds;Persons with Specific Legal & Physical Protection Needs;নির্দিষ্ট আইনি ও শারীরিক সুরক্ষার প্রয়োজন আছে এমন ব্যক্তিদের
 PSN_SeriousMedical;Persons with Serious medical Condition;গুরুতর মেডিকেল অবস্থার ব্যক্তিদের
 PSN_ChildrenRisk;Children at Risk;ঝুঁকিতে শিশু
-PSN_UASC;Unaccompanied/Seperated Children:;সঙ্গহীন/বিচ্ছিন্ন শিশু:
-PSN_OlderAtRisk;Older Persons at Risk:;ঝুঁকিপূর্ণ বয়স্ক ব্যক্তিরা:
-PSN_OtherPSN;Other PSNs:;অন্যান্য PSN:
-Percent_of_health_facilities_with_operational_CFRMs;% of health facilities with operational CFRMs:;কর্মক্ষম CFRM সহ স্বাস্থ্য সুবিধার %:
-Percent_of_CFRM_health_cases_resolved_within_30_days;% of CFRM health cases resolved within 30 days:;30 দিনের মধ্যে সিএফআরএম স্বাস্থ্যের ক্ষেত্রে সমাধান করা হয়েছে:
-Percent_of_distribution_centers_that_are_accessible_for_people_with_special_needs_and_women;% of distribution centers that are accessible for people with special needs and women:;বন্টন কেন্দ্রের % যা বিশেষ চাহিদা সম্পন্ন ব্যক্তি এবং মহিলাদের জন্য অ্যাক্সেসযোগ্য:
-Percent_Nutritiona_facilities_accessible_for_PWSN;% Nutritiona facilities accessible for PWSN:;PWSN-এর জন্য % পুষ্টি সুবিধা অ্যাক্সেসযোগ্য:
-Percent__Shelter_distribution_points_that_are_accessible_for_people_with_special_needs;%  Shelter distribution points that are accessible for people with special needs:;% আশ্রয় বন্টন পয়েন্ট যা বিশেষ চাহিদা সম্পন্ন ব্যক্তিদের জন্য অ্যাক্সেসযোগ্য:
-Total_Shelter_and_NFI_distribution_points;Total Shelter and NFI distribution points:;মোট আশ্রয় এবং NFI বিতরণ পয়েন্ট:
-Percent_of_shelter-related_feedback_received_at_the_CFRM_that_is_resolved_within_30_days;% of shelter-related feedback received at the CFRM that is resolved within 30 days:;CFRM-এ প্রাপ্ত আশ্রয়-সম্পর্কিত প্রতিক্রিয়ার % যা 30 দিনের মধ্যে সমাধান করা হয়:
-Percent_Protection_refferal_cases_actioned;% Protection refferal cases actioned:;% সুরক্ষা রেফারাল কেস অ্যাকশন করা হয়েছে:
-Percent_Child_friendly_space__in_risk_zones;% Child friendly space  in risk zones:;ঝুঁকিপূর্ণ অঞ্চলে % শিশুবান্ধব স্থান:
+PSN_UASC;Unaccompanied/Seperated Children;সঙ্গহীন/বিচ্ছিন্ন শিশু
+PSN_OlderAtRisk;Older Persons at Risk;ঝুঁকিপূর্ণ বয়স্ক ব্যক্তিরা
+PSN_OtherPSN;Other PSNs;অন্যান্য PSN
+Percent_of_health_facilities_with_operational_CFRMs;Perc of health facilities with operational CFRMs;কর্মক্ষম CFRM সহ স্বাস্থ্য সুবিধার %
+Percent_of_CFRM_health_cases_resolved_within_30_days;Perc of CFRM health cases resolved within 30 days;30 দিনের মধ্যে সিএফআরএম স্বাস্থ্যের ক্ষেত্রে সমাধান করা হয়েছে
+Percent_of_distribution_centers_that_are_accessible_for_people_with_special_needs_and_women;% of distribution centers that are accessible for people with special needs and women;বন্টন কেন্দ্রের % যা বিশেষ চাহিদা সম্পন্ন ব্যক্তি এবং মহিলাদের জন্য অ্যাক্সেসযোগ্য
+Percent_Nutritiona_facilities_accessible_for_PWSN;% Nutritiona facilities accessible for PWSN;PWSN-এর জন্য % পুষ্টি সুবিধা অ্যাক্সেসযোগ্য
+Percent__Shelter_distribution_points_that_are_accessible_for_people_with_special_needs;%  Shelter distribution points that are accessible for people with special needs;% আশ্রয় বন্টন পয়েন্ট যা বিশেষ চাহিদা সম্পন্ন ব্যক্তিদের জন্য অ্যাক্সেসযোগ্য
+Total_Shelter_and_NFI_distribution_points;Total Shelter and NFI distribution points;মোট আশ্রয় এবং NFI বিতরণ পয়েন্ট
+Percent_of_shelter-related_feedback_received_at_the_CFRM_that_is_resolved_within_30_days;% of shelter-related feedback received at the CFRM that is resolved within 30 days;CFRM-এ প্রাপ্ত আশ্রয়-সম্পর্কিত প্রতিক্রিয়ার % যা 30 দিনের মধ্যে সমাধান করা হয়
+Percent_Protection_refferal_cases_actioned;% Protection refferal cases actioned;% সুরক্ষা রেফারাল কেস অ্যাকশন করা হয়েছে
+Percent_Child_friendly_space__in_risk_zones;% Child friendly space  in risk zones;ঝুঁকিপূর্ণ অঞ্চলে % শিশুবান্ধব স্থান
