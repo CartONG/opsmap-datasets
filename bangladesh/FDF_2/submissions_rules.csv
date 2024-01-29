@@ -37,6 +37,10 @@ group_education/Comp_EDU11sum;computed;group_education;Comp_EDU11sum;;;;group_ed
 group_education/Comp_EDU12tt;computed;group_education;Comp_EDU12tt;;;;group_education/EDU_12#/#group_education/EDU_6_a
 group_education/Comp_EDU13tt;computed;group_education;Comp_EDU13tt;;;;group_education/EDU_12#/#group_education/EDU_6_a
 group_education/Comp_EDU15tt;computed;group_education;Comp_EDU15tt;;;;group_education/EDU_15_b#/#group_education/EDU_15_a
+group_education/Comp_EDU2ind;computed;group_education;Comp_EDU2ind;;;;
+group_education/Comp_EDU3ind;computed;group_education;Comp_EDU3ind;;;;
+group_education/Comp_EDU4ind;computed;group_education;Comp_EDU4ind;;;;
+group_education/Comp_EDU5ind;computed;group_education;Comp_EDU5ind;;;;
 group_education/Comp_Hind;computed;group_education;Comp_Hind;;;;demo_num_indv#/#group_health/HEA_2_a
 group_education/Comp_H32a;computed;group_education;Comp_H32a;;;;group_health/HEA_3#/#group_health/HEA_2_a
 group_education/Comp_H4ba;computed;group_education;Comp_H4ba;;;;group_health/HEA_4_b#/#group_health/HEA_4_a
