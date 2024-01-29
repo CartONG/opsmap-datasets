@@ -484,6 +484,54 @@
                 "x>= 3": "red",
                 "x<3": "green"
             }
+        },
+        "Comp_EDU2ind": {
+            "type": "math",
+            "scope": {
+                "x": "group_education/EDU_2",
+                "y": "INDS_3_4Yrs"
+            },
+            "values": {
+                "((x/y)*100)< 80": "red",
+                "((x/y)*100) >=80 and ((x/y)*100)<=94 ": "yellow",
+                "((x/y)*100)> 94": "green"
+            }
+        },
+        "Comp_EDU3ind": {
+            "type": "math",
+            "scope": {
+                "x": "group_education/EDU_3",
+                "y": "INDS_5_14Yrs"
+            },
+            "values": {
+                "((x/y)*100)< 60": "red",
+                "((x/y)*100) >=60 and ((x/y)*100)<=69 ": "yellow",
+                "((x/y)*100)> 69": "green"
+            }
+        },,
+        "Comp_EDU4ind": {
+            "type": "math",
+            "scope": {
+                "x": "group_education/EDU_4",
+                "y": "INDS_15_18Yrs"
+            },
+            "values": {
+                "((x/y)*100)< 10": "red",
+                "((x/y)*100) >=10 and ((x/y)*100)<=14 ": "yellow",
+                "((x/y)*100)> 14": "green"
+            }
+        },,
+        "Comp_EDU5ind": {
+            "type": "math",
+            "scope": {
+                "x": "group_education/EDU_5",
+                "y": "INDS_19_24Yrs"
+            },
+            "values": {
+                "((x/y)*100)< 10": "red",
+                "((x/y)*100) >=10 and ((x/y)*100)<=14 ": "yellow",
+                "((x/y)*100)> 14": "green"
+            }
         }
     }
 }
