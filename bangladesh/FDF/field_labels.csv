@@ -26,8 +26,12 @@ CiC_Officer;CiC Officer:;সিআইসি অফিসার:
 Camp_Commander;Camp Commander:;ক্যাম্প কমান্ডার:
 Camp_Manager;Camp Manager:;ক্যাম্প ম্যানেজার:
 type;Location type:;অবস্থানের ধরন:
-demo_num_hh;Number families:;পরিবারের সংখ্যা:
-demo_num_indv;Number individuals:;ব্যক্তি সংখ্যা:
+demo_num_hh;Number families;পরিবারের সংখ্যা
+demo_num_indv;Number individuals;ব্যক্তি সংখ্যা
+INDS_3_4Yrs;Number individuals 3-4 years;সংখ্যা ব্যক্তি 3-4 বছর
+INDS_5_14Yrs;Number individuals 5-14 years;সংখ্যা ব্যক্তি 5-14 বছর
+INDS_15_18Yrs;Number individuals 15-18 years;সংখ্যা ব্যক্তি 15-18 বছর
+INDS_19_24Yrs;Number individuals 19-24 years;সংখ্যা ব্যক্তি 19-24 বছর
 demo_male_0_1;Males 0-1 years:;পুরুষ 0-1 বছর:
 demo_female_0_1;Females 0-1 years:;মহিলা 0-1 বছর:
 demo_male_1_4;Males 1-4 years:;পুরুষ 1-4 বছর:
