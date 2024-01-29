@@ -197,7 +197,7 @@ Camp_Manager;string;group_general_info;;;;;
 type;string;group_general_info;;;;;
 demo_num_hh;integer;group_demo;;;;;
 demo_num_indv;integer;group_demo;;;;;
-demo_male_60+;integer;group_demo;;;;;hide;
+demo_male_60+;integer;group_demo;;;;hide;
 demo_female_60+;integer;group_demo;;;;hide;
 demo_male_18_59;integer;group_demo;;;;hide;
 demo_female_18_59;integer;group_demo;;;;hide;
