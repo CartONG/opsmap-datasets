@@ -45,6 +45,10 @@ group_education/Comp_EDU15tt;% of CFRM Education cases resolved within the 30 da
 group_education/Comp_Hind;Proportion of functional health facilities;কার্যকরী স্বাস্থ্য সুবিধার অনুপাত
 group_education/Comp_H32a;% of health facilities with operational CFRMs;কর্মক্ষম CFRM সহ স্বাস্থ্য সুবিধার %
 group_education/Comp_H4ba;% of CFRM health cases resolved within 30 days.;30 দিনের মধ্যে সিএফআরএম স্বাস্থ্যের ক্ষেত্রে সমাধান করা হয়েছে।
+group_education/Comp_EDU2ind;% of children age 3-4 enrolled in learning facilities;3-4 বছর বয়সী শিশুদের % শিক্ষার সুবিধাগুলিতে নথিভুক্ত
+group_education/Comp_EDU3ind;% of children age 5-14 enrolled in learning facilities;5-14 বছর বয়সী শিশুদের % শিক্ষার সুবিধাগুলিতে নথিভুক্ত
+group_education/Comp_EDU4ind;% of young adult age 15-18 enrolled in learning facilities;15-18 বছর বয়সী তরুণ প্রাপ্তবয়স্কদের % শেখার সুবিধাগুলিতে নথিভুক্ত
+group_education/Comp_EDU5ind;% of young adult age 19-24 enrolled in learning facilities;19-24 বছর বয়সী তরুণ প্রাপ্তবয়স্কদের % শেখার সুবিধাগুলিতে নথিভুক্ত
 group_food_security/FS_1;Food security focal point is operational and present in the camp.;খাদ্য নিরাপত্তা কেন্দ্র বিন্দু চালু আছে এবং ক্যাম্পে উপস্থিত।
 group_food_security/FS_2_a;Total number of food distribution point in the camp;ক্যাম্পে খাদ্য বিতরণ কেন্দ্রের মোট সংখ্যা
 group_food_security/FS_2_b;Number of distribution points with on-site monitoring and accountability systems including feedback;প্রতিক্রিয়া সহ অন-সাইট পর্যবেক্ষণ এবং জবাবদিহি ব্যবস্থা সহ বিতরণ পয়েন্টের সংখ্যা
