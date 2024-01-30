@@ -1,6 +1,6 @@
 field_name;field_label_en;field_label_bn
+group_general_question/camp;Camp;ক্যাম্প
 site_id;site id;সাইট আইডি
-site_name;site name;সাইটের নাম
 country;country;দেশ
 Division;Division;বিভাগ
 Upazila;Upazila;উপজেলা
@@ -62,4 +62,3 @@ Percent_of_shelter-related_feedback_received_at_the_CFRM_that_is_resolved_within
 Percent_Protection_refferal_cases_actioned;% Protection refferal cases actioned:;% সুরক্ষা রেফারাল কেস অ্যাকশন করা হয়েছে:
 Percent_Child_friendly_space__in_risk_zones;% Child friendly space  in risk zones:;ঝুঁকিপূর্ণ অঞ্চলে % শিশুবান্ধব স্থান:
 group_snfi/SNFI_12;Number of shelters in the camp;ক্যাম্পে আশ্রয়কেন্দ্রের সংখ্যা
-group_general_question/camp;Camp;ক্যাম্প
