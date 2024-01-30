@@ -47,4 +47,4 @@ PSN_ChildrenRisk;integer;Specific_Groups;;doughnut_chart#2;Pdisability#Persons w
 PSN_UASC;integer;Specific_Groups;;doughnut_chart#2;Sneeds#Persons with mental health disabilities;;
 PSN_OlderAtRisk;integer;Specific_Groups;;doughnut_chart#2;Selderly#Single elderly  households;;
 PSN_OtherPSN;integer;Specific_Groups;;doughnut_chart#2;Unacc#Unaccompanied children;;
-group_snfi/SNFI_12;integer;group_snfi;;;;;
+group_snfi/SNFI_12;integer;group_general_info;;;;hide;
