@@ -41,7 +41,7 @@ health_A_name;string;group_health;;;;;
 health_A_sector;string;group_health;;;;;
 health_A_role;string;group_health;;;;;
 health_A_agency;string;group_health;;;;;
-health_A_contact_number;string;group_health;;;;;
+health_A_contact_number;list;group_health;;;;;
 health_A_email;string;group_health;;;;;
 lsds_A_name;string;group_lsds;;;;;
 lsds_A_sector;string;group_lsds;;;;;
