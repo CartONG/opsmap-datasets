@@ -4,7 +4,6 @@ group_demo;People-in-need;;Demographic distribution;ডেমোগ্রাফ�
 group_snfi;Shelter;;Shelter - NFI;আশ্রয় - NFI
 group_smsd;Spontaneous-site;;Camp Management;ক্যাম্প ব্যবস্থাপনা
 group_wash;Water-source;;Water, sanitation and hygiene;জল, স্যানিটেশন এবং স্বাস্থ্যবিধি
-Specific_Groups;Elderly;;Vulnerable population;ঝুঁকিপূর্ণ জনসংখ্যা
 group_health;Health;;Healthcare;স্বাস্থ্যসেবা
 group_food_security;Food-Security;;Food Security;খাদ্য নিরাপত্তা
 group_protection;Protection;;Protection & Information provision;সুরক্ষা এবং তথ্য বিধান
