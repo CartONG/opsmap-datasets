@@ -144,56 +144,48 @@
             "type": "math",
             "scope": {
                 "x": "group_education/EDU_7",
-                "y": "group_education/EDU_6_a",
-                "z": "group_education/EDU_6_b",
-                "w":"(group_education/EDU_6_c"
+                "y": "SUM_group_education/EDU_6_a_b_c"
             },
             "values": {
-                "((x*100)/(y+z+w))>= 100": "green",
-                "((x*100)/(y+z+w))<100 and ((x*100)/(y+z+w))>=96": "yellow",
-                "((x*100)/(y+z+w))<96": "red"
+                "((x*100)/y)>= 100": "green",
+                "((x*100)/y)<100 and ((x*100)/y)>=96": "yellow",
+                "((x*100)/y)<96": "red"
             }
         },
         "Comp_EDU8sum": {
             "type": "math",
             "scope": {
                 "x": "group_education/EDU_8",
-                "y": "group_education/EDU_6_a",
-                "z": "group_education/EDU_6_b",
-                "w":"(group_education/EDU_6_c"
+                "y": "SUM_group_education/EDU_6_a_b_c"
             },
             "values": {
-                "((x*100)/(y+z+w))>= 100": "green",
-                "((x*100)/(y+z+w))<100 and ((x*100)/(y+z+w))>=96": "yellow",
-                "((x*100)/(y+z+w))<96": "red"
+                "((x*100)/y)>= 100": "green",
+                "((x*100)/y)<100 and ((x*100)/y)>=96": "yellow",
+                "((x*100)/y)<96": "red"
             }
         },
         "Comp_EDU9sum": {
             "type": "math",
             "scope": {
                 "x": "group_education/EDU_9",
-                "y": "group_education/EDU_6_a",
-                "z": "group_education/EDU_6_b",
-                "w":"(group_education/EDU_6_c"
+                "y": "SUM_group_education/EDU_6_a_b_c"
             },
             "values": {
-                "((x*100)/(y+z+w))>= 100": "green",
-                "((x*100)/(y+z+w))<100 and ((x*100)/(y+z+w))>=99": "yellow",
-                "((x*100)/(y+z+w))<99": "red"
+                "((x*100)/y)>= 100": "green",
+                "((x*100)/y)<100 and ((x*100)/y)>=99": "yellow",
+                "((x*100)/y)<99": "red"
             }
         },
         "Comp_EDU11sum": {
             "type": "math",
             "scope": {
                 "x": "group_education/EDU_11",
-                "y": "group_education/EDU_6_a",
-                "z": "group_education/EDU_6_b",
-                "w":"(group_education/EDU_6_c"
+                "y": "SUM_group_education/EDU_6_a_b_c"
             },
             "values": {
-                "((x*100)/(y+z+w))>= 10": "red",
-                "((x*100)/(y+z+w))<10 and ((x*100)/(y+z+w))>=1": "yellow",
-                "((x*100)/(y+z+w))<1": "red"
+                "((x*100)/y)>= 10": "red",
+                "((x*100)/y)<10 and ((x*100)/y)>=1": "yellow",
+                "((x*100)/y)<1": "red"
             }
         },
         "Comp_EDU12tt": {
