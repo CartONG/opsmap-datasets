@@ -41,6 +41,7 @@ group_education/Comp_EDU2ind;computed;group_education;Comp_EDU2ind;;;;group_educ
 group_education/Comp_EDU3ind;computed;group_education;Comp_EDU3ind;;;;group_education/EDU_3#/#INDS_5_14Yrs
 group_education/Comp_EDU4ind;computed;group_education;Comp_EDU4ind;;;;group_education/EDU_4#/#INDS_15_18Yrs
 group_education/Comp_EDU5ind;computed;group_education;Comp_EDU5ind;;;;group_education/EDU_5#/#INDS_19_24Yrs
+group_education/Comp_EDUmulti;computed;group_education;Comp_EDUmulti;;;;SUM_group_education_INDS_3_to_24#/#SUM_group_education/EDU_6_a_b_c
 group_education/Comp_Hind;computed;group_education;Comp_Hind;;;;demo_num_indv#/#group_health/HEA_2_a
 group_education/Comp_H32a;computed;group_education;Comp_H32a;;;;group_health/HEA_3#/#group_health/HEA_2_a
 group_education/Comp_H4ba;computed;group_education;Comp_H4ba;;;;group_health/HEA_4_b#/#group_health/HEA_4_a
@@ -221,3 +222,4 @@ Percent_Child_friendly_space__in_risk_zones;string;group_protection;;;;;
 SUM_group_education/EDU_6_a_b_c;integer;group_education;;;;hide;
 SUM_group_snfi/SNFI_10_11_9;integer;group_education;;;;hide;
 SUM_group_snfi/SNFI_21_22;integer;group_education;;;;hide;
+SUM_group_education_INDS_3_to_24;integer;group_education;;;;hide;
