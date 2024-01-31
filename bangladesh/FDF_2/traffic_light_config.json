@@ -30,11 +30,24 @@
                 "x>0.8": "green"
             }
         },
-        "truefalse": {
+        "clean": {
             "type": "key_value",
             "values": {
-                "TRUE": "green",
-                "FALSE": "red"
+                "Very Clean": "green",
+                "Clean": "green",
+                "OK": "red",
+                "Dirty": "red",
+                "Very Dirty": "red"
+            }
+        },
+        "clean_water": {
+            "type": "key_value",
+            "values": {
+                "Very good": "green",
+                "Good": "green",
+                "Average": "orange",
+                "Limited": "red",
+                "Bad/poor": "red"
             }
         },
         "iCWC_1": {
