@@ -144,7 +144,8 @@ group_snfi/Comp_SNFI189;computed;group_snfi;Comp_SNFI189;;;;group_snfi/SNFI_18#/
 group_snfi/Comp_SNFI1910;computed;group_snfi;Comp_SNFI1910;;;;group_snfi/SNFI_19#/#group_snfi/SNFI_10
 group_snfi/Comp_SNFI2011;computed;group_snfi;Comp_SNFI2011;;;;group_snfi/SNFI_20#/#group_snfi/SNFI_11
 group_snfi/Comp_SNFI23b23a;computed;group_snfi;Comp_SNFI23b23a;;;;group_snfi/SNFI_23_b#/#group_snfi/SNFI_23_a
-group_snfi/Comp_SNFI2410119;computed;group_snfi;Comp_SNFI2410119;;;;SUM_group_snfi/SNFI_21_22#/#SUM_group_snfi/SNFI_10_11_9
+group_snfi/Comp_SNFI212210119;computed;group_snfi;Comp_SNFI212210119;;;;SUM_group_snfi/SNFI_21_22#/#SUM_group_snfi/SNFI_10_11_9
+group_snfi/Comp_SNFI2410119;computed;group_snfi;Comp_SNFI2410119;;;;SUM_group_snfi/SNFI_24#/#SUM_group_snfi/SNFI_10_11_9
 group_smsd/SMS_1;string;group_smsd;yesno;;;;
 group_smsd/SMS_2;integer;group_smsd;iCWC_2;;;;
 group_smsd/SMS_3;integer;group_smsd;;;;;
