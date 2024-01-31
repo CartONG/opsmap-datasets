@@ -244,5 +244,5 @@ SUM_group_snfi/SNFI_10_11_9;X;X
 SUM_group_snfi/SNFI_21_22;X;X
 SUM_group_education_INDS_3_to_24;Number individuals 3 to 24 years;সংখ্যা ব্যক্তি 3 থেকে 24 বছর
 group_education/Comp_EDUmulti;Proportion of learning spaces;শেখার স্থানের অনুপাত
-group_snfi/Comp_SNFI2410119;% of LPG and Shelter/NFI distribution points with feedback mechanisms available at the distribution point;ডিস্ট্রিবিউশন পয়েন্টে উপলব্ধ ফিডব্যাক মেকানিজম সহ এলপিজি এবং শেল্টার/এনএফআই ডিস্ট্রিবিউশন পয়েন্টের %
-
+group_snfi/Comp_SNFI212210119;% of LPG and Shelter/NFI distribution points with feedback mechanisms available at the distribution point;ডিস্ট্রিবিউশন পয়েন্টে উপলব্ধ ফিডব্যাক মেকানিজম সহ এলপিজি এবং শেল্টার/এনএফআই ডিস্ট্রিবিউশন পয়েন্টের %
+group_snfi/Comp_SNFI2410119;% of LPG and Shelter & NFI distribution points with operational handwashing stations and separate male and female lines;এলপিজি এবং শেল্টার এবং এনএফআই ডিস্ট্রিবিউশন পয়েন্টের % অপারেশনাল হ্যান্ডওয়াশিং স্টেশন এবং পৃথক পুরুষ ও মহিলা লাইন সহ
