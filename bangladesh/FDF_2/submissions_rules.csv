@@ -30,10 +30,10 @@ group_education/EDU_13;integer;group_education;;;;;
 group_education/EDU_14;integer;group_education;;;;;
 group_education/EDU_15_a;integer;group_education;;;;;
 group_education/EDU_15_b;integer;group_education;;;;;
-group_education/Comp_EDU7sum;computed;group_education;Comp_EDU7sum;;;;group_education/EDU_7#/#(group_education/EDU_6_a#+#group_education/EDU_6_b#+#group_education/EDU_6_c)
-group_education/Comp_EDU8sum;computed;group_education;Comp_EDU8sum;;;;group_education/EDU_8#/#(group_education/EDU_6_a#+#group_education/EDU_6_b#+#group_education/EDU_6_c)
-group_education/Comp_EDU9sum;computed;group_education;Comp_EDU9sum;;;;group_education/EDU_9#/#(group_education/EDU_6_a#+#group_education/EDU_6_b#+#group_education/EDU_6_c)
-group_education/Comp_EDU11sum;computed;group_education;Comp_EDU11sum;;;;group_education/EDU_11#/#(group_education/EDU_6_a#+#group_education/EDU_6_b#+#group_education/EDU_6_c)
+group_education/Comp_EDU7sum;computed;group_education;Comp_EDU7sum;;;;group_education/EDU_7#/#SUM_group_education/EDU_6_a_b_c
+group_education/Comp_EDU8sum;computed;group_education;Comp_EDU8sum;;;;group_education/EDU_8#/#SUM_group_education/EDU_6_a_b_c
+group_education/Comp_EDU9sum;computed;group_education;Comp_EDU9sum;;;;group_education/EDU_9#/#SUM_group_education/EDU_6_a_b_c
+group_education/Comp_EDU11sum;computed;group_education;Comp_EDU11sum;;;;group_education/EDU_11#/#SUM_group_education/EDU_6_a_b_c
 group_education/Comp_EDU12tt;computed;group_education;Comp_EDU12tt;;;;group_education/EDU_12#/#group_education/EDU_6_a
 group_education/Comp_EDU13tt;computed;group_education;Comp_EDU13tt;;;;group_education/EDU_12#/#group_education/EDU_6_a
 group_education/Comp_EDU15tt;computed;group_education;Comp_EDU15tt;;;;group_education/EDU_15_b#/#group_education/EDU_15_a
