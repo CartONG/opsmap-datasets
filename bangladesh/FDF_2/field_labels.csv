@@ -242,4 +242,5 @@ Percent_Child_friendly_space__in_risk_zones;% Child friendly space  in risk zone
 SUM_group_education/EDU_6_a_b_c;X;X
 SUM_group_snfi/SNFI_10_11_9;X;X
 SUM_group_snfi/SNFI_21_22;X;X
-SUM_INDS_3_to_24;Number individuals 3 to 24 years;সংখ্যা ব্যক্তি 3 থেকে 24 বছর;
+SUM_group_education_INDS_3_to_24;Number individuals 3 to 24 years;সংখ্যা ব্যক্তি 3 থেকে 24 বছর;
+group_education/Comp_EDUmulti;Proportion of learning spaces;শেখার স্থানের অনুপাত
