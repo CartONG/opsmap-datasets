@@ -168,7 +168,7 @@
     "surveys": [
                 {
             "type": "gsheet",
-            "name": "Round 10 -11 ",
+            "name": "Round 10 -11",
             "fdf": {
                 "folder": "FDF_R10_R11"
             },
@@ -278,7 +278,7 @@
         },
         {
             "type": "gsheet",
-            "name": "Round 9 -10 ",
+            "name": "Round 9 -10",
             "fdf": {
                 "folder": "FDF"
             },
