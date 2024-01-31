@@ -524,6 +524,17 @@
                 "((x/y)*100) >=10 and ((x/y)*100)<=14 ": "yellow",
                 "((x/y)*100)> 14": "green"
             }
+        },
+        "Comp_EDUmulti": {
+            "type": "math",
+            "scope": {
+                "x": "SUM_group_education_INDS_3_to_24",
+                "y": "SUM_group_education/EDU_6_a_b_c"
+            },
+            "values": {
+                "((x/y)*100)< 7": "red",
+                "((x/y)*100) >=7": "yellow"
+            }
         }
     }
 }
