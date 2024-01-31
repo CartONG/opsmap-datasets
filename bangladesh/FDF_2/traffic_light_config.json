@@ -444,6 +444,29 @@
                 "((x*100)/y)<84": "red"
             }
         },
+        "Comp_SNFI212210119": {
+            "type": "math",
+            "scope": {
+                "x": "SUM_group_snfi/SNFI_21_22",
+                "y": "SUM_group_snfi/SNFI_10_11_9"
+            },
+            "values": {
+                "((x*100)/y)>= 100": "green",
+                "((x*100)/y)<100 and ((x*100)/y)>=80": "yellow",
+                "((x*100)/y)<80": "red"
+            }
+        },
+        "Comp_SNFI2410119": {
+            "type": "math",
+            "scope": {
+                "x": "group_snfi/SNFI_24",
+                "y": "SUM_group_snfi/SNFI_10_11_9"
+            },
+            "values": {
+                "((x*100)/y)>= 100": "green",
+                "((x*100)/y)<100": "red"
+            }
+        },
         "TotalLatrinesVsIndidual": {
             "type": "math",
             "scope": {
