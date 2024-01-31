@@ -26,7 +26,7 @@
                 },
                 "infosSite": "П-код МКП",
                 "indicator": {
-                    "siteCount": "Кількість MКП, які були досліджені під час моніторингу",
+                    "siteCount": "Кількість MTП, які були досліджені під час моніторингу",
                     "peopleCount": "Кількість ВПО у МКП, які були досліджені під час моніторингу"
                 },
                 "home": {
@@ -44,8 +44,8 @@
             "uk": "Україна"
         },
         "opsmapDescr": {
-            "en": "The Collective Sites Monitoring (CSM) site profile dashboard is an output of the CCCM cluster in Ukraine implemented with the technical support of the REACH Initiative. The profiles display site-level information collected by REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Crimea SOS, NRC, UNHCR, and KIIS with the overall objective of strengthening the effectiveness of multi-sectorial interventions at site level. Information is collected through key informant interviews with site managers reflecting the latest two rounds of Collective Site Monitoring surveys. For further information, please visit the CCCM Cluster Ukraine website https://cccmcluster.org/operations/ukraine, or provide feedback to the cluster Coordinator Miranda Gaanderse at gaanders@unhcr.org or Information Management Officer at saifutdi@unhcr.org",
-            "uk": "Iнформаційна панель з профілювання місць колективного проживання ВПО є результатом роботи кластеру CCCM в Україні, що реалізується за технічної підтримки Ініціативи REACH. Профілі відображають інформацію на рівні окремих місць колективного проживання ВПО, зібрану REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Крим SOS, NRC та КМІС із загальною метою посилення ефективності міжсекторальних втручань на рівні місць колективного проживання. Інформація збирається шляхом опитування ключових інформаторів з керівниками об’єктів, що відображає останні два раунди опитувань у рамках моніторингу місць колективного проживання ВПО. Для отримання додаткової інформації відвідайте веб-сайт Кластеру з питань управління та координації МКП в Україні https://cccmcluster.org/operations/ukraine або надішліть відгук на електронну адресу Координатора кластера (Міранда Гаандерсе) за адресою gaanders@unhcr.org або Спеціаліста з управління інформацією за адресою saifutdi@unhcr.org"
+            "en": "The Collective Sites Monitoring (CSM) site profile dashboard is an output of the CCCM cluster in Ukraine implemented with the technical support of the REACH Initiative. The profiles display site-level information collected by REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Crimea SOS, NRC, UNHCR, ALPS Resilience and KIIS with the overall objective of strengthening the effectiveness of multi-sectorial interventions at site level. Information is collected through key informant interviews with site managers reflecting the latest two rounds of Collective Site Monitoring surveys. For further information, please visit the CCCM Cluster Ukraine website https://cccmcluster.org/operations/ukraine, or provide feedback to the cluster Coordinator Miranda Gaanderse at gaanders@unhcr.org or Information Management Officer Asim Younis at younisa@unhcr.org.",
+            "uk": "Iнформаційна панель з профілювання місць колективного проживання ВПО є результатом роботи кластеру CCCM в Україні, що реалізується за технічної підтримки Ініціативи REACH. Профілі відображають інформацію на рівні окремих місць колективного проживання ВПО, зібрану REACH, Neeka, Neemia, Proliska, R2P, Rokada, ACTED, TTA, Крим SOS, NRC, ALPS Resilience та КМІС із загальною метою посилення ефективності міжсекторальних втручань на рівні місць колективного проживання. Інформація збирається шляхом опитування ключових інформаторів з керівниками об’єктів, що відображає останні два раунди опитувань у рамках моніторингу місць колективного проживання ВПО. Для отримання додаткової інформації відвідайте веб-сайт Кластеру з питань управління та координації МКП в Україні https://cccmcluster.org/operations/ukraine або надішліть відгук на електронну адресу Координатора кластера (Міранда Гаандерсе) за адресою gaanders@unhcr.org або Спеціаліста з управління інформацією Асіма Юніса за адресою younisa@unhcr.org."
         }
     },
     "iframe": {
@@ -166,8 +166,122 @@
         ]
     },
     "surveys": [
-        {
+                {
             "type": "gsheet",
+            "name": "Round 10 -11 ",,
+            "fdf": {
+                "folder": "FDF_R10_R11"
+            },
+            "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=204174270&single=true&output=csv",
+            "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=1569212946&single=true&output=csv",
+            "options": {
+                "anonymousMode": "text",
+                "siteZoomMode": "admin",
+                "listSeparator": ";",
+                "sitesMapVisualisation": [
+                    {
+                        "type": "populationCount",
+                        "field": "site_individuals"
+                    }
+                ]
+            },
+            "additionalFiltersDescription": [
+                {
+                    "field": "round",
+                    "name": {
+                        "en": "Round",
+                        "uk": "Раунд"
+                    }
+                },
+                {
+                    "field": "settlement_name",
+                    "name": {
+                        "en": "Settlement",
+                        "uk": "Населений пункт"
+                    }
+                }
+            ],
+            "spatial": {
+                "siteFields": {
+                    "id": "site_pcode_updated",
+                    "lastUpdate": "date_assessment",
+                    "latitude": "latitude",
+                    "longitude": "longitude",
+                    "manageBy": "organization",
+                    "name": "site_pcode_updated",
+                    "type": "site_type"
+                },
+                "admins": {
+                    "admin1": {
+                        "pcode": "oblast",
+                        "name": "strata"
+                    },
+                    "admin2": {
+                        "pcode": "raion",
+                        "name": "raion_name"
+                    },
+                    "admin3": {
+                        "pcode": "hromada",
+                        "name": "hromada_name"
+                    }
+                }
+            },
+            "indicators": {
+                "area": [
+                    {
+                        "type": "site_count"
+                    },
+                    {
+                        "type": "people_count",
+                        "entryCode": "site_individuals"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Total people who can be hosted in sites covered in CSM round",
+                            "uk": "Місткість МКП, які були досліджені під час моніторингу"
+                        },
+                        "entryCode": "people_can_hosted_number",
+                        "iconOchaName": "Camp-Coordination-and-Camp-Management"
+                    }
+                ],
+                "site": [
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Site active?",
+                            "uk": "Чи активне MКП?"
+                        },
+                        "entryCode": "site_active",
+                        "iconOchaName": "Selected"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Type of building",
+                            "uk": "Тип будівлі"
+                        },
+                        "entryCode": "building_type",
+                        "iconOchaName": "Building"
+                    },
+                    {
+                        "type": "standard",
+                        "name": {
+                            "en": "Individuals",
+                            "uk": "Кількість осіб, розміщених в МКП"
+                        },
+                        "entryCode": "site_individuals",
+                        "iconOchaName": "People-in-need"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "gsheet",,
+            "name": "Round 9 -10 ",
+            "fdf": {
+                "folder": "FDF"
+            },
             "submissionsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=1300856791&single=true&output=csv",
             "submissionsTrUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBmbKAnHKCbcUedyc4xtDvtio-BHnTgPDgaKD-jFlHbrfBOrr4yxtJF9zBvWVgglJs9g9oMeQ7rys6/pub?gid=1362757150&single=true&output=csv",
             "options": {
