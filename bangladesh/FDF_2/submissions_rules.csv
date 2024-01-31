@@ -71,7 +71,7 @@ group_nutrition/NUT_3_b;integer;group_nutrition;;;;;
 group_nutrition/Comp_NUT3ba;computed;group_nutrition;Comp_NUT3ba;;;;
 group_nutrition/NUT_4;integer;group_nutrition;iNUT_45;;;;
 group_nutrition/NUT_5;integer;group_nutrition;iNUT_45;;;;
-group_nutrition/NUT_6;string;group_nutrition;;;;;
+group_nutrition/NUT_6;string;group_nutrition;iNUT_6;;;;
 group_nutrition/NUT_7;integer;group_nutrition;;;;;
 group_nutrition/Comp_NUT73a;computed;group_nutrition;Comp_NUT73a;;;;group_nutrition/NUT_7#/#group_nutrition/NUT_3_a
 group_nutrition/NUT_8_a;integer;group_nutrition;;;;;
