@@ -176,7 +176,7 @@ access_drinking_water;bullet;group_wash;;;;;;access_drinking_water_opt
 access_drinking_water_other;string;group_wash;;;;;;
 quality_drinking_water;list;group_wash;quality_drinking_water_opt;;;;;quality_drinking_water_opt
 meeting_water_needs;bullet;group_wash;;;;;;meeting_water_needs_opt
-meeting_water_needs_everyday;list;group_wash;ynd_opt;;;;;ynd_opt
+meeting_water_needs_everyday;list;group_wash;yesnodont;;;;;ynd_opt
 hot_water;bullet;group_wash;;;;;;hot_water_opt
 hot_water_other;string;group_wash;;;;;;
 source_hot_water;string;group_wash;;;;;;source_hot_water_opt
@@ -228,7 +228,7 @@ number_drying_machines_yn;list;group_wash;;;;hide;;yn_opt
 number_drying_machines;integer;group_wash;;;;;;
 drying_clothing;list;group_wash;;;;;;drying_clothing_opt
 waste_disposal_capacity;list;group_wash;yesnosure;;;;;ynd_opt
-garbage_bins_radius_50;list;group_wash;ynd_opt;;;;;ynd_opt
+garbage_bins_radius_50;list;group_wash;yesnodont;;;;;ynd_opt
 access_food;bullet;group_food_security;;;;;;food_access_opt
 access_food_other;string;group_food_security;;;;;;
 food_products_needs;list;group_food_security;ypn_opt;;;;;food_products_needs_opt
