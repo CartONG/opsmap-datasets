@@ -1,4 +1,5 @@
 field_name;field_label_en;field_label_uk
+field_name;field_label_en;field_label_uk
 round;Round;Раунд
 start;Start;Старт
 end;End;Кінець
@@ -7,57 +8,56 @@ deviceid;NA;NA
 organization;Reporting organization/ partner;Організація / Партнер
 enum_id;Enumerator's ID;ID інтерв'юера
 interview_type;Interview type;Тип інтерв'ю
-oblast;Oblast p-code;Область п-код
-raion;Raion p-code;Район п-код
-hromada;Hromada p-code;Громада п-код
-settlement;Settlement p-code;Населений пункт п-код
-site_name_uid_list;Site name;Назва МКП
+oblast;Oblast ;Область
+raion;Raion;Район 
+hromada;Hromada;Громада 
+settlement;Settlement;Населений 
+site_name_uid_list;Site name uid list;Назва МКП
 informed_consent;Informed consent;Поінформована згода
 gender;Gender;Стать
-site_active;Current status of the site (IDP hosting);Поточний статус МКП (розміщення ВПО)
-people_can_hosted_number;Site host maximum capacity;Максимальна місткість МКП
+site_active;Current status of the site (IDP hosting);Поточний статус МТП (розміщення ВПО)
+people_can_hosted_number;Site host maximum capacity;Максимальна місткість МТП
 extra_bed_yn;Additional places for IDPs over declared capacity if there is such a need;Кількість додаткових місць для ВПО понад місткість у разі необхідності (Так або Ні)
 extra_bed_number;No. additional places for IDPs over declared capacity if there is such a need;Кількість додаткових місць для ВПО понад місткість у разі необхідності
-site_ownership;Site ownership;Форма власності 
-site_listed;Is the site included to the list of CSs adopted by the oblast authorities?;Чи включено МКП до переліку, прийнятого обласною владою?
+site_ownership;Site ownership;Форма власності МТП
+site_listed;Is the site included to the list of CSs adopted by the oblast authorities?;Чи включено МТП до переліку, прийнятого обласною владою?
 building_type;Type of building;Тип будівлі
-site_closure;Potential site closure in the nearest future;Потенційне закриття МКП в найближчому майбутньому
-yes_site_closure;Site closure reasons;Причини закриття МКП
+site_closure;Potential site closure in the nearest future;Потенційне закриття МТП в найближчому майбутньому
+yes_site_closure;Site closure reasons;Причини закриття МТП
 site_closure_other;If other, please specify:;Інше, уточніть
-responsible;Organization/authority responsible for the site;Організація, відповідальна за МКП
-organization_manages;Manage by;Організація / уповноважений орган, яка керує МКП
+responsible;Organization/authority responsible for the site;Організація, відповідальна за МТП
+organization_manages;Manage by;Організація / уповноважений орган, яка керує МТП
 non_governmental_organization;Non governmental organization;Громадська організація
 non_governmental_organization_other;If other, please specify:;Інше, уточніть
 focal_point;Organization's focal point availability ;Доступність контактної особи організації 
-enroll_system;Enrollment system for newly-arrived site residents ;Система реєстрації для новоприбулих мешканців МКП
+enroll_system;Enrollment system for newly-arrived site residents ;Система реєстрації для новоприбулих мешканців МТП
 settlement_documents;Settlement documents;Документи для поселення
-settlement_documents_other;If other, please specify:;Інше, уточніть
+settlement_documents_other;If other, please specify;Інше, уточніть
 writing_rules;Rules provided in writing;Письмово встановлені Правила перебування
 accommodation_contract;Sign contracts with IDPs;Підписання договорів з ВПО
-consulting_on_site_management;Consulting with IDPs on site management;Консультація з ВПО щодо управління МКП
-support_administration_cs;IDPs support in the administration of the collective site;ВПО беруть участь у підтримці належного стану та обслуговуванні МКП
+consulting_on_site_management;Consulting with IDPs on site management;Консультація з ВПО щодо управління МТП
+support_administration_cs;IDPs support in the administration of the collective site;ВПО беруть участь у підтримці належного стану та обслуговуванні МТП
 form_of_participation;If Yes, What are the modalities of their participation?;Якщо "Так", - то яким чином?
-form_of_participation_other;If other, please specify:;Інше, уточніть
-idp_charged;IDPs are being charged to stay at the site;Перебування ВПО в МКП є платним
+idp_charged;IDPs are being charged to stay at the site;Перебування ВПО в МТП є платним
 charged_money_yn;Residents pay per month in UAH for stay;Мешканці сплачують за проживання щомісячно (у гривнях)
 charged_money;Monthy fee for individual (in UAH);Щомісячна плата для однієї особи (у гривнях)
-site_management_receive_compensation;How does site management receive compensation for utility bills ;Яким чином керівництво МКП отримує компенсацію за комунальні платежі?
+site_management_receive_compensation;How does site management receive compensation for utility bills ;Яким чином керівництво МТП отримує компенсацію за комунальні платежі?
 site_management_receive_compensation_other;If other, please specify:;Інше, уточніть
 charges_calculated_idps;How is the amount of the charges calculated for IDPs?;Як розраховується розмір плати для ВПО?
 charges_calculated_idps_other;If other, please specify:;Інше, уточніть
 idps_pay_utility_bills_yn;Can you indicate how much do IDPs pay per month on average for the charges? (per person);Чи можете Ви вказати, скільки в середньому платять ВПО на місяць за комунальні послуги? (з людини)
-idps_pay_utility_bills;Monthy utilities fee for individual (in UAH);Щомісячна плата за комунальні послуги для однієї особи (у гривнях)
+idps_pay_utility_bills;Pay on average per month for utilities in UAH? (per person);Щомісячна плата за комунальні послуги для однієї особи (у гривнях)
 feedback_mechanism;Availability of feedback and complaint mechanism for the residents;Наявність механізму зворотного зв'язку та подання скарг для мешканців
 feedback_mechanism_other;If other, please specify:;Інше, уточніть
-administration_training;Did site administration complete any training?;Чи проходило керівництво МКП будь-яке навчання?
+administration_training;Did site administration complete any training?;Чи проходило керівництво МТП будь-яке навчання?
 administration_training_other;If other, please specify:;Інше, уточніть
-data_availability;What information is available to residents in the site;Яка інформація доступна мешканцям в МКП
-gbv_report;Report GBV and human trafficking system available;Доступність системи повідомлення про гендерно зумовленого насильство та торгівлю людьми
-hum_assist;Has this center received any humanitarian assistance last 60 days? ;Чи отримував цей МКП гуманітарну допомогу протягом останніх 60 днів? 
+data_availability;What information is available to residents in the site;Яка інформація доступна мешканцям в МТП
+gbv_report;Report GBV and human trafficking system available;Доступність системи повідомлення про гендерно зумовлене насильство, торгівлю людьми, сексуальну експлуатацію та насильство?
+hum_assist;Has this center received any humanitarian assistance last 60 days? ;Чи отримував цей МТП гуманітарну допомогу протягом останніх 60 днів? 
 organization_provided_assistance;Entity/organization that provided assistance;Структура/організація, яка надала допомогу
 ngo_provided_assistance;NGO that provided assistance;Назва неурядової організацїі, яка надала допомогу
 ngo_provided_assistance_other;If other, please specify:;Інше, уточніть
-site_individuals;No. of individuals hosted in the site;Кількість осіб, розміщених в МКП
+site_individuals;No. of individuals hosted in the site;Кількість осіб, розміщених в МТП
 individuals_male_over_18;No. of male 18-60;Кількість чоловіків віком 18-60
 individuals_female_over_18;No. of female 18-60;Кількість жінок віком 18-60
 individuals_male_over_60;No. of male 60+;Кількість чоловіків віком 60+
@@ -68,10 +68,11 @@ children_male;No. of boys (0-17 years old);Кількість хлопців (0-
 children_female;No. of girls (0-17 years old);Кількість дівчат (0-17 років)
 children_0_5;No. of children (0-5 years old);Кількість дітей (0-5 років)
 children_6_17;No. of children (6-17 years old);Кількість дітей (6-17 років)
-unaccompanied_children;Presence of unaccompanied children ;Наявність дітей без супроводу дорослих 
+unaccompanied_children;Presence of children at risk;Наявність дітей без супроводу дорослих 
 sum_unaccompanied_children;No. of unaccompanied children;Кількість дітей без супроводу батьків
 caregiver_support;Presence of people who require caregiver support;Наявність людей, які потребують догляду
-caregiver_support_number;How many people who require caregiver support but cannot be taken care of in the site are there?;Скільки людей в МКП, які потребують догляду, але не отримують безпосередньо в МКП?
+caregiver_support_number;Presence of people who require caregiver support;Наявність людей, які потребують догляду
+vulnerable;Vulnerable groups;Вразливі групи населення
 vulnerable_other;If other, please specify:;Інше, уточніть
 pregnant_lactating_number;No. of pregnant or lactating mothers;Кількість вагітних або годуючих матерів
 female_headed_number;No. of female-headed households;Кількість домогосподарств, очолюваних жінками
@@ -82,50 +83,56 @@ with_health_issues_number;No. of persons with serious medical conditions;Кіл�
 people_with_disabilities;No. of persons with disabilities;Кількість осіб з обмеженими можливостями
 foreign_nationals_number;No. of foreign nationals;Кількість іноземних громадян
 without_nationality_number;No. of people without nationality;Кількість осіб без громадянства
+lgbtiq_number;NA;NA
 minority_groups_number;No. of minority groups (such as Roma);Кількість представників меншин (наприклад, ромів)
 child_headed_households_number;Child headed households number;Кількість домогосподарств, очолюваних дітьми
 older_people_that_require_caragiver_support_number;Older people that require caragiver support number;Людям похилого віку, яким потрібен номер служби догляду
 other_number;Other;Інше
 new_arrivals_register;Did you register new arrivals over past 60 days?;Чи були новоприбулі ВПО за останні 60 днів?
 arrived_site;Can you indicate how many site's residents have arrived in the site in the last 60 days?;Чи можете сказати, скільки мешканців в'їхали до МКП за останні 60 днів?
-arrived_site_number;How many site's residents have arrived in the last 60 days?;Скільки мешканців в'їхали до МКП за останні 60 днів?
-reasons_settling_in_cs;What reasons did they give for settling in the collective site?;Які причини вони назвали для поселення у МКП?
+arrived_site_number;How many site's residents have arrived in the last 60 days?;Скільки мешканців поселено до МТП за останні 60 днів?
+reasons_settling_in_cs;What reasons did they give for settling in the collective site?;Які причини приїзду до МТП вони назвали?
 reasons_settling_in_cs_other;If other, please specify:;Інше, уточніть
 stay_long;Usual lenght of stay;Середня тривалість перебування
-idp_left_site_at_will;Have any site's residents voluntarily left the site in the last 60 days?;Протягом останніх 60 днів, чи залишали мешканці МКП за власним бажанням?
+transit_site;Is this collective center a transit site? ;Це транзитне МТП?
+idp_left_site_at_will;Have any site's residents voluntarily left the site in the last 60 days?;Протягом останніх 60 днів, чи залишали мешканці МТП за власним бажанням?
 idp_left_site_at_will_yn;Can you indicate how many site's residents have left the site in the last 60 days?;Чи можете сказати, скільки мешканців залишили МКП за останні 60 днів?
-idp_left_site_at_will_number;How many site's residents have left in the last 60 days?;Скільки мешканців залишили МКП за останні 60 днів?
+idp_left_site_at_will_number;How many site's residents have left in the last 60 days?;Скільки мешканців залишили МТП за останні 60 днів?
 idp_groups;Destination planned (among those who plan to move);Запланований пункт призначення (серед тих, хто планує переїхати)
 idp_groups_other;If other, please specify:;Інше, уточніть
-individuals_evicted;Have any site's residents been evicted from the site during the last 60 days?;Чи був хтось із мешканців МКП примусово виселений з МКП за останні 60 днів?
+individuals_evicted;Have any site's residents been evicted from the site during the last 60 days?;Чи був хтось із мешканців МТП примусово виселений з МТП за останні 60 днів?
 eviction_reason;Reasons for eviction ;Причини виселення 
 eviction_reason_other;If other, please specify:;Інше, уточніть
 allocation_plan;Allocation plan for IDPs with specific needs;План розміщення ВПО з особливими потребами
-evacuation_plan;Is there an evacuation plan on site;Чи існує в МКП план евакуації? 
-used_collective_site;Is the collective site building solely used for hosting IDPs?;Чи використовується приміщення МКП виключно для розміщення ВПО?
-individual_zones;Are spaces allocated for IDPs separated from the spaces used for the site's primary function?;Чи відокремлені місця для ВПО від приміщень, які використовуються за основним призначенням МКП?
-overcrowded_collective_site;Is the collective site overcrowded, in your opinion?;На Вашу думку, чи перенаселений МКП?
-common_spaces_other_kitchens;Are there common spaces other than kitchens, eating spaces, and food storage?;Чи існують приміщення спільного користування, крім кухонь, місць для прийому їжі та зберігання продуктів?
+used_collective_site;Is the collective site building solely used for hosting IDPs?;Чи використовується приміщення МТП винятково для розміщення ВПО?
+individual_zones;Are spaces allocated for IDPs separated from the spaces used for the site's primary function?;Чи відокремлені місця для ВПО від приміщень, які використовуються за основним призначенням МТП?
+overcrowded_collective_site;Is the collective site overcrowded, in your opinion?;На Вашу думку, чи перенаселений МТП?
+spaces_cooking_eating_food_storage;Are there common spaces for the purposes of cooking (kitchen), eating, and food storage?;Чи існують спільні приміщення для приготування їжі (кухня), прийому їжі та зберігання продуктів?
+common_spaces_other_kitchens;Are there common spaces other than kitchens, eating spaces, and food storage?;Чи існують спільні приміщення, крім кухонь, місць для прийому їжі та ванн?
 purpose_spaces_serves;Which purpose do these spaces serve?;Яку функцію виконують ці приміщення?
 purpose_spaces_serves_other;Other (specify);Інше, уточніть
-sufficient_child_spaces_indoor;Are these spaces sufficient to respond to the needs of IDPs?  - {Child spaces (indoor) };Чи достатньо цих приміщень, щоб задовольнити потреби ВПО?  - {Дитячі ігрові майданчики (в приміщенні МКП) }
-sufficient_child_spaces_outdoor;Are these spaces sufficient to respond to the needs of IDPs?  - {Child spaces (outdoor)};Чи достатньо цих приміщень, щоб задовольнити потреби ВПО?  - {Дитячі ігрові майданчики (на вулиці)}
-sufficient_spaces_distance_learning_working;Are these spaces sufficient to respond to the needs of IDPs?  - {Spaces for distance learning \ working};Чи достатньо цих приміщень, щоб задовольнити потреби ВПО?  - {Приміщення для дистанційного навчання / роботи}
-sufficient_recreational_spaces_adults;Are these spaces sufficient to respond to the needs of IDPs?  - {Recreational spaces for adults};Чи достатньо цих приміщень, щоб задовольнити потреби ВПО?  - {Зони відпочинку для дорослих}
-sufficient_spaces_services_provision;Are these spaces sufficient to respond to the needs of IDPs?  - {Spaces for services provision};Чи достатньо цих приміщень, щоб задовольнити потреби ВПО?  - {Окремі зони для надання послуг}
-sufficient_oth;Are these spaces sufficient to respond to the needs of IDPs?  - Other;Чи достатньо цих приміщень, щоб задовольнити потреби ВПО?  - Інше
-accommodated;Modes of residents accomodation;Способи розміщення мешканців
+sufficient_child_spaces_indoor;Are child spaces (indoor) sufficient?;Чи достатньо дитячих ігрових майданчиків (в приміщенні МТП)
+sufficient_child_spaces_outdoor;Are child spaces (outdoor) sufficient?;Чи достатньо дитячих ігрових майданчиків (на вулиці)
+sufficient_spaces_distance_learning_working;Are spaces for distance learning \ working sufficient?;Чи достатньо приміщень для дистанційного навчання / роботи
+sufficient_recreational_spaces_adults;Are recreational spaces for adults sufficient?;Чи достатньо зон відпочинку для дорослих
+sufficient_spaces_services_provision;Are spaces for social, administrative, and public (electronic) services provision sufficient?;Чи достатньо зон для надання соціальних, адміністративних та державних (електронних) послуг
+sufficient_oth;Are other spaces sufficient?;Чи достатньо других приміщень
+common_areas_separate;Are common areas separate from spaces for sleeping?;Чи місця спільного користування відокремлені від житлових приміщень?
+accommodated;Modes of residents accomodation;Яким чином розміщують людей у МТП?
+doors_locks_on_sleeping_places;Are sleeping spaces equipped with locks/latches on the entrance doors?;Чи обладнані житлові приміщення замками/засувками на вхідних дверях?
 sleeping_space_division;How many people, in average, share one sleeping space;Скільки людей, в середньому, розміщуються в одному житловому приміщенні?
 square_meters_per_person;How many square meters of sleeping space are allocated per person?;Скільки квадратних метрів житлового приміщення виділяється на одну людину?
-sleeping_in_common_use;Are there IDPs sleeping in spaces intended for common use?;Чи є ВПО, які розміщуються в приміщеннях, призначених для загального користування?
+sleeping_in_common_use;Are there IDPs sleeping in spaces intended for common use?;Чи розміщуються ВПО в приміщеннях, призначених для спільного використання?
 gender_individual_zones;Is there gender separation in the sleeping areas shared by multiple households?;Чи передбачені у загальному житловому приміщенні, а також у житлових кімнатах, де розміщені кілька домогосподарств, окремі зони для чоловіків та жінок?
-lockers;Lockers to store belongings available ;Наявність шафок для зберігання речей 
+evacuation_plan;Is there an evacuation plan on site;Чи існує в МТП план евакуації? 
+fire_extinguishers;Are there fire extinguishers on site?;Чи є в МТП вогнегасники? 
+lockers;Lockers to store belongings available ;Чи є шафки в МТП для зберігання особистих речей і документів ВПО?
+conditions_site;How would you describe the overall state of the collective site and living conditions for IDPs?;Як би ви охарактеризували загальний стан МТП та умови проживання ВПО?
 shelter_concerns_or_needs;What are shelter concerns or needs in the collective site?;Які проблеми чи потреби має МКП, пов'язані з умовами проживання?
 shelter_concerns_or_needs_other;Other (specify);Інше, уточніть
 shelter_concerns_or_needs_top_3;Top 3 shelter needs;Топ-3 потреб, пов'язаних із умовами проживання
 shelter_concerns_or_needs_top_3_other;Other (specify);Інше, уточніть
-receiving_shelter_support;What shelter support, if any, was received over the past 60 days on the site?;Яку допомогу, пов'язану із поліпшенням умов проживання, якщо така надавалась, отримало МКП за останні 60 днів?
-receiving_shelter_support_other;Other (specify);Інше, уточніть
+receiving_shelter_support;What shelter support, if any, was received over the past 60 days on the site?;Яку допомогу, якщо така була, отримало МТП за останні 60 днів?
 sufficient_needs_shelter_support_repairs_electricity_system;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Repairs: electricity system };Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Ремонт системи електропостачання}
 sufficient_needs_shelter_support_repairs_heating_system;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Repairs: heating system};Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Ремонт опалювальної системи}
 sufficient_needs_shelter_support_repairs_ventilation_system;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Repairs: ventilation system};Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Ремонт вентиляційної системи}
@@ -137,83 +144,48 @@ sufficient_needs_shelter_support_floor_walls_related_light_medium_repair;Was the
 sufficient_needs_shelter_support_floor_walls_related_heavy_repair;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Floor/walls-related heavy repair};Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Капітальний ремонт підлоги/стін }
 sufficient_needs_shelter_support_roof_related_repairs;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Roof-related repairs};Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Ремонт покрівлі}
 sufficient_needs_shelter_support_doors_windows_light_medium_repair;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Doors/windows light or medium repair};Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Заміна/ремонт дверей/вікон}
-sufficient_needs_shelter_support_doors_windows_heavy_repair;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Doors/windows heavy repair};Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Капітальний ремонт дверей/вікон}
+sufficient_needs_shelter_support_insulation_work;NA;NA
+sufficient_needs_shelter_support_infrastructure_for_people_with_limited_mobility;NA;NA
+sufficient_needs_shelter_support_arrangement_of_bomb_shelter_within_500m;NA;NA
 sufficient_needs_shelter_support_oth;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - Other (*${c2_1_1_receiving_shelter_support_other}*);Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - Other (*${c2_1_1_receiving_shelter_support_other}*)
-maintain_temperature;Is it possible to maintain the temperature within 18-25 C° in the collective site?;Чи можна підтримувати в МКП температурний режим 18-25 С°?
-disability_infrastructure;Is the site equipped with disability-friendly infrastructure (except WASH) (elevators, external ramps, horizontal bars on doors…);Чи обладнане МКП зручною для людей з інвалідністю інфраструктурою (крім ВСГ) (ліфти, зовнішні пандуси, горизонтальні перекладини на дверях і т.п.)
-bomb_shelter;Bomb shelter less than 10 min on foot or available in the site;Бомбосховище менш ніж за 10 хвилин пішки або доступне на території МКП
-capacity_bomb_shelter_yn;Is the capacity of the bomb shelter sufficient for the site residents? (IDPs and non-IDPs);Чи достатня місткість бомбосховища для всіх мешканців МКП? (ВПО та не ВПО)
-bomb_shelter_for_disabilities;Is the shelter accessible for people with disabilities or the elderly?;Чи доступне бомбосховище для людей з інвалідністю та літніх людей ?
-types_nfi_need;What types of NFIs are needed in the collective site?;Які непродовольчі товари потрібні в МКП?
-types_nfi_need_other;Other (specify);Інше, уточніть
-furniture_need;What furniture NFIs are needed?;Які меблі потрібні?
-furniture_need_other;Other (specify);Інше, уточніть
-sleeping_nfi_need;What sleeping NFIs are needed?;Які постільні речі потрібні?
-sleeping_nfi_need_other;Other (specify);Інше, уточніть
-kitchen_amenities_nfi_need;What kitchen amenities NFIs are needed?;Які кухоне обладнання та приналежності потрібні?
-kitchen_amenities_nfi_need_other;Other (specify);Інше, уточніть
-clothing_shoe_nfi_need;What clothing or shoe NFIs are needed?;Який одяг чи взуття потрібні?
-types_nfis_provided;What types of NFIs were provided in the past 60 days to IDPs in the collective site?;Яка допомога у вигляді непродовольчих товарів була надана ВПО в МКП протягом останніх 60 днів?
-types_nfis_provided_other;Other (specify);Інше, уточніть
-provided_furniture;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Furniture (communal and individual use)};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Меблі (загального та індивідуального користування)}
-provided_sleeping_items;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Sleeping items};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Постільні речі}
-provided_kitchen_amenities;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Kitchen amenities};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Кухонне обладнання та приладдя}
-provided_clothes_shoes;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Clothes and/or shoes  };Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Одяг і/чи взуття  }
-provided_communications_equipment;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Communications equipment (Wifi, computer equipment, etc.)};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Засоби зв'язку (Wifi, комп'ютерна техніка і т.д.)}
-provided_oth;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? - Other (*${d2_0_1_types_nfis_provided_other}*);Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -Other (*${d2_0_1_types_nfis_provided_other}*)
-wifi_connection;Wifi connection available;Наявність Wifi з'єднання
-wifi_free;Type of Wifi connection;Тип Wifi з'єднання
-mobile_signal;Mobile network signal strength;Рівень сигналу мобільного зв'язку
-access_food;Food provider(s);Постачальники продуктів харчування
-food_products_needs;Food products needs;Потреба в продуктах харчування
-food_products_type;Types of food products needed ;Види необхідних продуктів харчування 
-food_products_type_other;If other, please specify:;Інше, уточніть
-top_3_food_products_needs;Top 3 types of food products needed;Топ-3 найбільш потрібних продуктів харчування
-top_3_food_products_needs_other;If other, please specify:;Інше, уточніть
-types_food_provided;What types of food were provided in the past 60 days to IDPs in the collective site?;Які продукти харчування отримали ВПО від МКП протягом останніх 60 днів?
-types_food_provided_other;If other, please specify:;Інше, уточніть
-sufficient_food_received_fresh_or_frozen_meat;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Fresh or frozen meat (chicken, beef, pork) };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Свіже або заморожене м'ясо (курка, яловичина, свинина)}
-sufficient_food_received_canned_fish_or_meat;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Canned fish or meat };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Рибні чи м'ясні консерви}
-sufficient_food_received_vegetables;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Vegetables};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Овочі}
-sufficient_food_received_fruit;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Fruit};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Фрукти}
-sufficient_food_received_staples;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Staples (rice, wheat, pasta, buckwheat etc.) };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Базові продукти харчування (рис, пшениця, макарони, гречка тощо)}
-sufficient_food_received_vegetable_oil;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Vegetable oil };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Рослинна олія}
-sufficient_food_received_powdered_milk;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Powdered milk };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Сухе молоко}
-sufficient_food_received_bottled_water;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Bottled water };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Бутильована вода}
-sufficient_food_received_flour;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Wheat and/or corn flour };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Пшеничне та/або кукурудзяне борошно}
-sufficient_food_received_spices;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Spices (salt, pepper, coffee, tea)};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Спеції (сіль, перець, кава, чай)}
-sufficient_food_received_sweets;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Sweets (sugar, candy, cookies)};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Солодощі (цукор, цукерки, печиво)}
-sufficient_food_received_babyfood_instant_formula;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Babyfood - instant formula};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Молочна суміш для дітей}
-sufficient_food_received_babyfood_puree;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Babyfood - puree};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Дитячі пюре}
-sufficient_food_received_oth;Was the food received sufficient to answer the needs of IDPs in the collective site? - Other (*${e3_1_types_food_provided_other}*);Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? - Other (*${e3_1_types_food_provided_other}*)
+maintain_temperature;Is it possible to maintain the temperature within 18-25 C° in the collective site?;Чи можна підтримувати температуру в МТП в діапазоні 18-25 С°?
+disability_infrastructure;Is the site equipped with disability-friendly infrastructure (except WASH) (elevators, external ramps, horizontal bars on doors…);Чи обладнане МТП зручною для людей з інвалідністю інфраструктурою (крім пов'язаної з водопостачанням, санітарією та гігієною) (ліфти, зовнішні пандуси, горизонтальні перекладини на дверях і т.п.)
+bomb_shelter;Is there a bomb shelter nearby (less than 500m away) or in the facility itself?;Чи є бомбосховище поблизу (до 500 метрів) або ж безпосередньо в самому МТП?
+capacity_bomb_shelter_yn;Is the capacity of the bomb shelter sufficient for the site residents? (IDPs and non-IDPs);Чи достатня місткість бомбосховища для мешканців МТП? (ВПО та не ВПО)
+bomb_shelter_for_disabilities;Is the shelter accessible for people with disabilities or the elderly?;Чи доступне бомбосховище для людей з інвалідністю або людей похилого віку?
 winterization_needs;What are winterization concerns or needs in the collective site?;Які проблеми або потреби в МКП, пов'язані із підготовкою до опалювального сезону?
 winterization_needs_other;If other, please specify:;Інше, уточніть
-top_3_winterization_needs;Top 3 winterization needs;Топ-3 проблем, пов'язаних із підготовкою до опалювального сезону
+top_3_winterization_needs;Top 3 winterization needs;Які найнагальніші проблеми чи потреби має МТП, пов'язані із підготовкою до зимового періоду?  (Виберіть не більше трьох варіантів)
 top_3_winterization_needs_other;If other, please specify:;Інше, уточніть
-winterization_support;What winterization support, if any, was received over the past 60 days on the site?;Чи отримував МКП будь-яку допомогу, пов'язану із підготовкою до опалювального сезону, за останні 60 днів?
+winterization_support;What winterization support, if any, was received over the past 60 days on the site?;Чи отримував МТП будь-яку допомогу, пов'язану із підготовкою до зимового періоду, за останні 60 днів?
 winterization_support_other;If other, please specify:;Інше, уточніть
+sufficient_winterization_support_restoration_heating_system;NA;NA
+sufficient_winterization_support_repair_heating_system;Was the shelter support received sufficient to answer the needs of IDPs in the collective site? - {Repairs: heating system};Чи була отримана допомога, пов'язана із поліпшенням умов проживання, достатньою для задоволення потреб ВПО в МКП? - {Ремонт опалювальної системи}
 sufficient_winterization_support_finance_cover_utility_bills;Was the winterization support received sufficient to answer the needs of IDPs in the collective site?-{Finance to cover utility bills};Чи була отримана допомога, пов'язана із проходженням зимового періоду, достатньою, щоб задовольнити потреби ВПО в МКП? -{Кошти на оплату комунальных послуг}
 sufficient_winterization_support_fuel_generator;Was the winterization support received sufficient to answer the needs of IDPs in the collective site?-{Fuel for generator};Чи була отримана допомога, пов'язана із проходженням зимового періоду, достатньою, щоб задовольнити потреби ВПО в МКП? -{Паливо для опалювальних приладів}
 sufficient_winterization_support_alternative_heating_source;Was the winterization support received sufficient to answer the needs of IDPs in the collective site?-{Alternative heating source};Чи була отримана допомога, пов'язана із проходженням зимового періоду, достатньою, щоб задовольнити потреби ВПО в МКП? -{Альтернативне джерело опалення (генератори, електричні обігрівачі тощо)}
+sufficient_winterization_support_backup_power_source_generators;NA;NA
 sufficient_winterization_support_insulation_repairs;Was the winterization support received sufficient to answer the needs of IDPs in the collective site?-{Insulation repairs};Чи була отримана допомога, пов'язана із проходженням зимового періоду, достатньою, щоб задовольнити потреби ВПО в МКП? -{Ремонт теплоізоляції}
 sufficient_winterization_support_oth;Was the winterization support received sufficient to answer the needs of IDPs in the collective site? - Other (*${f2_1_winterization_support_other}*);Чи була отримана допомога, пов'язана із проходженням зимового періоду, достатньою, щоб задовольнити потреби ВПО в МКП? - Other (*${f2_1_winterization_support_other}*)
-main_type_heating;Please specify the main type of heating used by the site;Зазначте, будь ласка, основний вид опалення, який використовується у МКП
-main_type_heating_other;If other, please specify:;Інше, уточніть
-fuel_needed_heating;Is fuel needed for the type of heating?;Чи потрібне паливо для даного виду опалення?
+main_type_heating;Please specify the main type of heating used by the site;Зазначте, будь ласка, основний вид опалення, який використовується у МТП
+fuel_needed_heating;Is fuel needed for this heating season?;Чи Ви потребуєте палива для проходження цього зимового періоду?
 back_up_source_of_power;Back up source of power;Резервне джерело живлення
-back_up_source_of_power_extent;To what extent the back up source of power can satisfy the basic needs of the site residents?;Наскільки альтернативне джерело енергії може задовольнити базові потреби мешканців МКП?
+back_up_source_of_power_extent;To what extent the back up source of power can satisfy the basic needs of the site residents?;У якій мірі запасне джерело енергії може задовольнити базові потреби мешканців МТП?
 access_water;Drinking water sources;Джерела питної води
 access_water_other;If other, please specify:;Інше, уточніть
-access_drinking_water;How are the residents of the site accessing DRINKING water?;Яким чином мешканці МКП отримують ПИТНУ воду?
+access_drinking_water;How are the residents of the site accessing DRINKING water?;Яким чином мешканці МТП отримують ПИТНУ воду?
 access_drinking_water_other;If other, please specify:;Інше, уточніть
 quality_drinking_water;How is the drinking water quality?;Якої якості питна вода?
-meeting_water_needs;To your knowledge, for which of the listed needs of the site residents is there enough water?  ;На Вашу думку, для задоволення яких із перелічених потреб мешканців у МКП ДОСТАТНЬО води?
+meeting_water_needs;To your knowledge, for which of the listed needs of the site residents is there enough water?  ;На Вашу думку, для задоволення яких із перелічених потреб мешканців у МТП достатньо води?
 meeting_water_needs_everyday;Is there enough water to meet needs on an everyday basis?;Чи кожного дня достатньо води для задоволення зазначених вище потреб?
+hot_water;Please specify the availability of hot water in this site;Уточніть, будь ласка, чи є гаряча вода в цьому МТП?
+hot_water_other;If other, please specify:;Інше, уточніть
+source_hot_water;Please specify the main source of hot water supply in this site;Вкажіть, будь ласка, основне джерело постачання гарячої води в цьому МТП?
 wash_needs;What are WASH concerns or needs in the collective site?;Які проблеми чи потреби, пов'язані із водопостачанням, санітарією та гігієною має МКП?
 wash_needs_other;If other, please specify:;Інше, уточніть
 top_3_wash_needs;Top 3 WASH needs;Топ-3 проблем, пов'язаних із водопостачанням, санітарією та гігієною
 top_3_wash_needs_other;If other, please specify:;Інше, уточніть
-wash_support;What WASH support, if any, was received over the past 60 days on the site?;Чи отримував МКП будь-яку допомогу у сфері водопостачання, санітарії та гігієни за останні 60 днів?
+wash_support;What WASH support, if any, was received over the past 60 days on the site?;Чи отримував МТП будь-яку допомогу у сфері водопостачання, санітарії та гігієни за останні 60 днів?
 wash_support_other;If other, please specify:;Інше, уточніть
 sufficient_wash_support_repairs_water_supply_infrastructure_drainage_system;Was the WASH support received sufficient to answer the needs of IDPs in the collective site?-{Repairs of water supply infrastructure and/or drainage system};Чи була отримана допомога у сфері водопостачання, санітарії та гігієни достатньою, щоб задовольнити потреби ВПО в МКП? -{Ремонт інфраструктури водопостачання та/або водовідведення}
 sufficient_wash_support_repairs_bathing_facilities_toilets;Was the WASH support received sufficient to answer the needs of IDPs in the collective site?-{Repairs of bathing facilities | toilets};Чи була отримана допомога у сфері водопостачання, санітарії та гігієни достатньою, щоб задовольнити потреби ВПО в МКП? -{Ремонт душових/ванних кімнат та туалетів }
@@ -229,87 +201,133 @@ sufficient_wash_support_disinfection__rodents_insects;Was the WASH support recei
 sufficient_wash_support_technical_water;Was the WASH support received sufficient to answer the needs of IDPs in the collective site?-{Technical water};Чи була отримана допомога у сфері водопостачання, санітарії та гігієни достатньою, щоб задовольнити потреби ВПО в МКП? -{Технічна вода }
 sufficient_wash_support_drinking_water;Was the WASH support received sufficient to answer the needs of IDPs in the collective site?-{Drinking water};Чи була отримана допомога у сфері водопостачання, санітарії та гігієни достатньою, щоб задовольнити потреби ВПО в МКП? -{Питна вода }
 sufficient_wash_support_oth;Was the WASH support received sufficient to answer the needs of IDPs in the collective site?-Other (*${g3_1_wash_support_other}*);Чи була отримана допомога у сфері водопостачання, санітарії та гігієни достатньою, щоб задовольнити потреби ВПО в МКП? -Інше(*${g3_1_wash_support_other}*)
-bathing_facilities;Showers/baths available;Наявність душових/ванних кімнат
+bathing_facilities;Showers/baths available;Чи є у цьому МТП функціонуючі душові / ванні кімнати?
+distance_to_bathing_facilities;Are there bathing facilities available within 50m of the residential premises of the collective site?;Чи душові / ванні кімнати знаходяться в межах 50 м від житлових приміщень МТП?
 number_showers_yn;Can you indicate the number of unitary places for bathing (shower heads, cabins, etc.)?;Чи можете Ви вказати кількість окремих місць для купання (душові лійки, кабіни тощо)?
 number_showers;No. of unitary places for bathing;Кількість окремих місць для купання
 shower_facilities_private;Are the bathing facilities private?;Чи забезпечується приватність у душових / ванних кімнатах?
-shower_gender;Separation of bathing facilities by gender;Розділення душових/ванних кімнат за статтю
-shower_hot_water;Availability of hot water in bathing facilities;Наявність гарячої води в душових / ванних кімнатах
-disability_showers;Disability-friendly showers available;Наявність душових/ванних кімнат, пристосованих для маломобільних груп населення
+shower_gender;Separation of bathing facilities by gender;Чи розділені душові / ванні кімнати за ознакою статі?
+shower_hot_water;Availability of hot water in bathing facilities;Чи забезпечені душові / ванні кімнати гарячою водою?
+disability_showers;Disability-friendly showers available;Чи наявні в МТП душові / ванні кімнати для маломобільних груп населення?
 number_disability_showers_yn;Can you indicate the number of disability-friendly places for bathing (shower heads, cabins, etc.) ?;Чи можете Ви вказати кількість окремих місць для купання (душових лійок, кабінок тощо)?
-number_disability_showers;Please indicate the number of disability-friendly places for bathing (shower heads, cabins, etc.) ;Зазначте, будь ласка, кількість окремих місць для купання (душових лійок, кабінок тощо)
-type_sanitary_unit;What is the main type of sanitation facility (latrine/toilet) used in the site?;Яким є основний тип санітарного приміщення (туалет), що використовується в МКП?
-type_sanitary_unit_other;If other, please specify:;Інше, уточніть
-toilets;Does this site have functioning toilets in its premises?;Чи наявні функціонуючі туалети на території МКП? 
+number_disability_showers;Please indicate the number of disability-friendly places for bathing (shower heads, cabins, etc.) ; Зазначте, будь ласка, кількість окремих місць для купання (душових лейок, кабінок тощо) 
+type_sanitary_unit;What is the main type of sanitation facility (latrine/toilet) used in the site?;Яким є основний тип санітарного приміщення (туалет), що використовується в МТП?
+toilets;Does this site have functioning toilets in its premises?;Чи наявні функціонуючі туалети в будівлі МТП?
+distance_to_toilets;Are there toilets within 50m of the residential premises of the collective site?;Чи є туалети в межах 50 м від будівлі МТП?
 number_toilets_yn;Can you indicate the number of functioning toilets in the site? (number of toilets themselves, not rooms);Чи можете вказати кількість окремих місць у таких приміщеннях?
 number_toilets;No. of toilets in the site (number of toilets themselves, not rooms);Кількість окремих місць у таких приміщеннях 
-toilet_private;Are the toilets private?;Чи забезпечується приватність у туалетах?
-toilet_gender;Separation of toilets by gender;Поділ туалетів за статтю
-disability_toilets;Are disability-friendly toilets available on the site?;Чи наявні в цьому МКП туалети для маломобільних груп населення?
+toilet_private;Are the toilets private?;Чи забезпечується ли приватність у туалетах?
+toilet_gender;Separation of toilets by gender;Чи всі туалети розділені за ознакою статі?
+disability_toilets;Are disability-friendly toilets available on the site?;Чи наявні в цьому МТП туалети для маломобільних груп населення?
 number_disability_toilets_yn;Can you indicate the number of disability-friendly toilets on the site? (number of toilets themselves, not rooms);Чи можете Ви зазначити кількість туалетів, пристосованих для маломобільних груп населення? (кількість окремих місць у таких приміщеннях, а не кімнат)
-number_disability_toilets;Please indicate the number of disability-friendly toilets on the site? (number of toilets themselves, not rooms);Зазначте, будь ласка, кількість окремих місць у таких приміщеннях 
+number_disability_toilets;Please indicate the number of disability-friendly toilets on the site? (number of toilets themselves, not rooms);Кількість окремих місць у таких приміщеннях 
 washing_machines;Availability and accessibility of washing machines ;Наявність та доступність пральних машин 
 number_washing_machines_yn;Can you indicate how many washing machines are currently functional / usable in the site?;Чи можете Ви зазначити, скільки пральних машин наразі є придатними для використання в МКП?
-number_washing_machines;Please indicate how many washing machines are currently functional / usable in the site.;Скільки пральних машин на даний момент працюють/придатні для використання в МКП?
-drying_machines;Drying machines;Сушильні машини
+number_washing_machines;Please indicate how many washing machines are currently functional / usable in the site.;Скільки пральних машин на даний момент працюють/придатні для використання в МТП?
+drying_machines;Drying machines;Наявність та доступність сушильних машин 
 number_drying_machines_yn;Can you indicate how many drying machines are currently functional / usable in the site?;Чи можете Ви зазначити, скільки сушильних машин наразі є придатними для використання в МКП?
-number_drying_machines;Please indicate how many drying machines are currently functional / usable in the site.;Зазначте, будь ласка, скільки сушильних машин наразі є придатними для використання в МКП?
-drying_clothing;Is a separate space available for drying clothing?;Чи є окреме приміщення/зона для сушіння одягу?
+number_drying_machines;Please indicate how many drying machines are currently functional / usable in the site.;Зазначте, будь ласка, скільки сушильних машин наразі є придатними для використання в МТП?
+drying_clothing;Is a separate space available for drying clothing?;Чи є окремий простір/місце для сушіння одягу?
 waste_disposal_capacity;Sufficiency of waste disposal capacity ;Достатність місць для збору відходів
+garbage_bins_radius_50;Are there available garbage bins within a radius of 50 m from the collective site?;Чи в радіусі 50 м від МТП є сміттєві баки? 
+access_food;Food provider(s);Як мешканці МТП отримують (чи будуть отримувати) продукти харчування?
+access_food_other;Other (specify);Інше, уточніть
+food_products_needs;Food products needs;Чи потрібні цьому МТП продукти харчування?
+food_products_type;If yes, which type of food products?;Якщо так, то які саме продукти харчування?
+top_3_food_products_needs;Top 3 types of food products needed;Топ-3 найбільш потрібних продуктів харчування
+types_food_provided;What types of food were provided in the past 60 days to IDPs in the collective site?;Які продукти харчування були надані ВПО в МТП протягом останніх 60 днів?
+sufficient_food_received_fresh_or_frozen_meat;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Fresh or frozen meat (chicken, beef, pork) };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Свіже або заморожене м'ясо (курка, яловичина, свинина)}
+sufficient_food_received_canned_fish_or_meat;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Canned fish or meat };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Рибні чи м'ясні консерви}
+sufficient_food_received_vegetables;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Vegetables};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Овочі}
+sufficient_food_received_fruit;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Fruit};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Фрукти}
+sufficient_food_received_staples;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Staples (rice, wheat, pasta, buckwheat etc.) };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Базові продукти харчування (рис, пшениця, макарони, гречка тощо)}
+sufficient_food_received_vegetable_oil;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Vegetable oil };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Рослинна олія}
+sufficient_food_received_milk_dairy_products;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Powdered milk };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Сухе молоко}
+sufficient_food_received_bottled_water;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Bottled water };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Бутильована вода}
+sufficient_food_received_flour;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Wheat and/or corn flour };Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Пшеничне та/або кукурудзяне борошно}
+sufficient_food_received_spices;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Spices (salt, pepper, coffee, tea)};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Спеції (сіль, перець, кава, чай)}
+sufficient_food_received_sweets;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Sweets (sugar, candy, cookies)};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Солодощі (цукор, цукерки, печиво)}
+sufficient_food_received_babyfood_puree;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Babyfood - instant formula};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Молочна суміш для дітей}
+sufficient_food_received_oth;Was the food received sufficient to answer the needs of IDPs in the collective site? -{Babyfood - puree};Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? -{Дитячі пюре}
+types_nfi_need;Was the food received sufficient to answer the needs of IDPs in the collective site? - Other (*${e3_1_types_food_provided_other}*);Чи достатньо було отриманих продуктів харчування для задоволення потреб ВПО в МКП? - Other (*${e3_1_types_food_provided_other}*)
+types_nfi_need_other;Other (specify);Інше, уточніть
+furniture_need;What furniture NFIs are needed?;Які меблі потрібні?
+furniture_need_other;Other (specify);Інше, уточніть
+sleeping_nfi_need;What sleeping NFIs are needed?;Які постільні речі потрібні?
+kitchen_amenities_nfi_need;What kitchen amenities NFIs are needed?;Які кухонні приналежності потрібні?
+kitchen_amenities_nfi_need_other;Other (specify);Інше, уточніть
+clothing_shoe_nfi_need;What clothing or shoe NFIs are needed?;Який одяг чи взуття потрібні?
+clothing_shoe_nfi_need_other;Other (specify);Інше, уточніть
+items_for_arranging_beds;Are the residents of the collective provided with items for arranging beds, including beds, furniture for storing personal belongings, bedding (mattresses, pillows, blankets, bed linen)?;Чи забезпечені мешканці МТП предметами для облаштування спальних місц=?
+types_nfis_provided;What types of NFIs were provided in the past 60 days to IDPs in the collective site?;Яка допомога у вигляді непродовольчих товарів була надана ВПО в МВП протягом останніх 60 днів?
+types_nfis_provided_other;Other (specify);Інше, уточніть
+provided_furniture;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Furniture (communal and individual use)};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Меблі (загального та індивідуального користування)}
+provided_sleeping_items;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Sleeping items};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Постільні речі}
+provided_kitchen_amenities;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Kitchen amenities};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Кухонне обладнання та приладдя}
+provided_clothes_shoes;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Clothes and/or shoes  };Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Одяг і/чи взуття  }
+provided_communications_equipment;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? -{Communications equipment (Wifi, computer equipment, etc.)};Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -{Засоби зв'язку (Wifi, комп'ютерна техніка і т.д.)}
+provided_oth;Was the NFIs received sufficient to answer the needs of IDPs in the collective site? - Other (*${d2_0_1_types_nfis_provided_other}*);Чи були отримані непродовольчі товари достатніми, щоб задовольнити потреби ВПО в МКП? -Other (*${d2_0_1_types_nfis_provided_other}*)
+wifi_connection;Wifi connection available;Чи доступний мешканцям МТП Wi-Fi?
+wifi_free;Type of Wifi connection;Користування Wi-Fi є безкоштовним чи платним для ВПО?
+mobile_signal;Mobile network signal strength;Рівень сигналу мобільного зв'язку
 protection_needs;What are Protection concerns or needs in the collective site?;Які проблеми чи потреби у сфері захисту має МКП?
 protection_needs_other;If other, please specify:;Інше, уточніть
 top_3_protection_needs; Top 3 protection needs;Топ-3 проблем у сфері захисту
 top_3_protection_needs_other;If other, please specify:;Інше, уточніть
-protection_support;What Protection support, if any, was received over the past 60 days on the site?;Яку підтримку у сфері захисту, якщо така була, отримало МКП впродовж останніх 60 днів? 
+protection_support;What Protection support, if any, was received over the past 60 days on the site?;Яку підтримку у сфері захисту, якщо така була, отримало МТП впродовж останніх 60 днів? 
 protection_support_other;If other, please specify:;Інше, уточніть
 sufficient_protection_support_provision_information_individual_counselling;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Provision of information or individual counselling};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Надання інформації чи індивідуального консультування }
 sufficient_protection_support_legal_assistance;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Legal assistance};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Юридична допомога }
 sufficient_protection_support_psychological_support_adults;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Psychological support for adults };Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Психологічна допомога дорослим}
 sufficient_protection_support_psychological_support_children;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Psychological support for children};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Психологічна допомога дітям }
 sufficient_protection_support_transportation_assistance;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Transportation assistance};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Допомога транспортом}
-sufficient_protection_support_specialized_medical_support_people_with_disabilities_older_people;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Specialized medical support to people with disabilities or older people};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Спеціалізована медична допомога}
+sufficient_protection_support_medical_services_specialized_medical_support_provision;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Medical services and specialized medical support provision};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МТП? -{Надання медичних послуг (у т.ч. спеціалізованих)}
 sufficient_protection_support_cash_assistance_idps;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Cash assistance for IDPs};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Грошова допомога для ВПО}
 sufficient_protection_support_wheelchairs;Was the Protection support received sufficient to answer the needs of IDPs in the collective site? -{Wheelchairs};Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? -{Інвалідні візки}
+sufficient_protection_support_installation_of_video_cameras;NA;NA
+sufficient_protection_support_state_services_provision;NA;NA
+sufficient_protection_support_educational_services_provision;NA;NA
 sufficient_protection_support_oth;Was the WASH support received sufficient to answer the needs of IDPs in the collective site?-Other (*${h2_1_protection_support_other}*);Чи була отримана підтримка у сфері захисту достатньою для задоволення потреб ВПО в МКП? - Other (*${h2_1_protection_support_other}*)
 adult_pss;PSS for adults ;Психосоціальна допомога для дорослих 
 known_pss;Awareness of residents how to access PSS services;Поінформованість мешканців про те, як отримати доступ до психосоціальної допомоги
-adult_pss_yes;PSS services available ;Доступні види психологічної допомоги
+adult_pss_yes;PSS services available ;Якщо "Так", то які психологічні послуги доступні дорослим в МТП?
 adult_pss_other;If other, please specify:;Інше, уточніть
-advisory_service;If "Yes", which сounselling services are available at the site?;Якщо "Так", то які консультаційні послуги доступні в МКП?
-psychological_help_children;PSS for children;Психосоціальна допомога для дітей
-known_pss_children;Do the residents of the site know how to get there and receive such services?;Чи обізнані мешканці МКП, до кого звертатись та як отримати такі послуги?
-children_pss_yes;If "Yes", which psychological services for children are available at the site?;Якщо "Так", то які психологічні послуги доступні в МКП?
-social_workers_visit;Social workers visit the site;Соціальні працівники відвідують МКП
+advisory_service;If "Yes", which сounselling services are available at the site?;Якщо "Так", то які консультаційні послуги доступні в МТП?
+services_children_well_being;Which of the following child psychosocial support services are available on the site? ;Які з перерахованих нижче видів психосоціальної допомоги для дітей доступні в МТП?
+known_pss_children;Do the residents of the site know how to get there and receive such services?;Чи обізнані мешканці МТП з тим як отримати послуги, пов'язані з благополуччям дітей?
+social_workers_visit;Social workers visit the site;Чи відвідують МТП соціальні працівники?
 social_workers_visit_frequency;Frequency of social workers visits ;Частота візитів соціальних працівників 
-sufficient_visits_social_workers;Are the visits by social workers sufficient to answer the needs of IDPs in the collective site? ;Чи достатньо кількості/періодичності візитів соціальних працівників, щоб задовольнити потреби ВПО у МКП?
-social_activity;To your knowledge, do residents of the site participate in any social activity within the host community? ;Наскільки Вам відомо, чи приймають участь мешканці МКП у будь-яких соціальних заходах спільно з мешканцями приймаючої громади?
-not_participate_social_activities;To your knowledge, for what reasons do the residents of the site not participate in social activities? ;Наскільки Вам відомо, з яких причин жителі МКП не приймають участі у соціальних заходах?
+sufficient_visits_social_workers;Are the visits by social workers sufficient to answer the needs of IDPs in the collective site? ;Чи достатньо візитів соціальних працівників, щоб задовольнити потреби ВПО у МТП?
+social_activity;To your knowledge, do residents of the site participate in any social activity within the host community? ;Наскільки Вам відомо, чи приймають участь мешканці МТП у будь-яких соціальних заходах спільно з мешканцями приймаючої громади?
+not_participate_social_activities;To your knowledge, for what reasons do the residents of the site not participate in social activities? ;Наскільки Вам відомо, з яких причин жителі МТП не приймають участі у соціальних заходах?
 not_participate_social_activities_other;If other, please specify:;Інше, уточніть
-reachable_by_ambulance;Is the site reachable by ambulance;Чи може швидка допомога дістатися до МКП?
+reachable_by_ambulance;Is the site reachable by ambulance;Чи може машина швидкої допомоги приїхати до МТП у разі необхідності?
 first_aid;Availability of first aid kits ;Наявність аптечок першої допомоги 
-access_education;Accessibility of education services in the area of collective site (enrollment in a school / kindergartens);Доступність освітніх послуг в районі місця компактного проживання (зарахування до школи/дитячого садка)
-mode_of_education;Mode of education of schoolchildren дітей шкільного віку;Режим навчання
-barriers_access_education;What are the barriers for children in terms of access to education?;Які в МКП є перешкоди в доступі до освіти?
+access_education;Accessibility of education services in the area of collective site (enrollment in a school / kindergartens);Чи є поблизу МТП дитячі садочки/школи із можливістю зарахувати дитину до навчання (до 30 хвилин їзди на громадському транспорті)?
+mode_of_education;Mode of education of schoolchildren;Режим навчання дітей шкільного віку
+barriers_access_education;What are the barriers for children in terms of access to education?;Які перешкоди виникають у дітей з доступом до навчання?
 barriers_access_education_other;If other, please specify:;Інше, уточніть
 prevented_access_education;Prevented access education;Вплив розміщення ВПО на надання освітніх послуг
 _id;NA;NA
-_uuid;Questionnare ID;ID анкети
-_submission_time;NA;NA
+uuid;Questionnare ID;ID анкети
+submission_time;NA;NA
 _status;NA;NA
 _submitted_by;NA;NA
 __version__;NA;NA
-_index;Index;Індекс
-strata;Oblast;Область 
+index;Index;Індекс
+strata;Oblast ;Область 
 raion_name;Raion;Район
 hromada_name;Hromada;Громада
 settlement_name;Settlement;Населений пункт
 Hub;Hub;Регіон
 admin4ClassType_1;Settlement type;Тип населеного пункту
-site_pcode_updated;Site Pcode;П-код МКП
-site_name_eng;Site name (EN);Назва МКП англ.
+site_pcode_updated;Site Pcode;П-код МТП
+site_name_eng;Site name Eng;Назва МТП англ.
+site_address_ukr;Адреса МТП;Адреса МТП
+site_address_eng;Site address;Site address
 latitude;Latitude;Широта
 longitude;Longitude;Довгота
-site_type;Site type;Тип МКП
+site_type;Site type;Тип МТП
 vulnerable_3;Vulnerable groups;Вразливі групи населення
 spaces_cooking_eating_food_storage_3;Are there common spaces for the purposes of cooking (kitchen), eating, and food storage?;Чи існують приміщення спільного користування для приготування їжі (кухня), прийому їжі та зберігання продуктів?
 maintain_temperature_3;Is it possible to maintain the temperature within 18-25 C° in the collective site?;Чи можна підтримувати в МКП температурний режим 18-25 С°?
