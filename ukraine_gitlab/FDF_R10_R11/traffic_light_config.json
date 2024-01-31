@@ -418,6 +418,24 @@
                     "no": "red",
                     "dont_know": "red"
                 }
+            },
+            "items_for_arranging_beds_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "green",
+                    "yes_partially": "orange",
+                    "no": "red",
+                    "dont_know": "red"
+                }
+            },
+            "contra_ypn_opt": {
+                "type": "key_value",
+                "values": {
+                    "yes": "red",
+                    "partially": "orange",
+                    "no": "green",
+                    "dont_know": "red"
+                }
             }
         }
 }
