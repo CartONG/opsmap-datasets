@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.9",
+    "version": "v1.1",
     "textContent": {
         "name": {
             "en": "Bangladesh",
@@ -426,7 +426,7 @@
     "options": {
         "showCCCMLogo": false,
         "pdfColumnCount": 3,
-        "showDemoBanner": true,
+        "showDemoBanner": false,
         "exportAsCSVonHomePage": true,
         "keepThematicOrderFromFDF": true,
         "mapLegendDisplayStyle": "default"
