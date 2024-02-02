@@ -12,6 +12,7 @@
     },
     "iframe": {
         "url": "https://app.powerbi.com/view?r=eyJrIjoiYTViNzkwMDgtMTEwYy00NjNlLTlmYmQtMjVmMjI5MDNhYWQ2IiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9&pageName=ReportSection",
+        "url":"https://www.arcgis.com/apps/dashboards/64b39338db334ea892eee051ad4423e3",
         "display": true
     },
     "locale": {
