@@ -161,3 +161,22 @@ education_need;Education Severity score;Dhibcaha darnaanta waxbarashada
 wash_need;WASH Severity Score;Dhibcaha darnaanta nadaafadda
 protection_need;Protection Severity Score;Dhibcaha darnaanta ilaalinta
 hlp_need;Eviction Likelyhood Score;Dhibcaha Suuragalnimada Ka saarida Dhibcaha Kala hormarinta
+receive_new_idp;Receive new idp;Hel idp cusub
+newly_dislaced_prop;Newly dislaced prop;Mashiin cusub oo la furay
+preferred_future_settlement;Preferred future settlement;dejinta mustaqbalka ee la door biday
+contigency_plan;Contigency plan;Qorshaha lama filaanka
+nfi_access_dist_min_int;NFI access dist min int;Helitaanka NFI min int
+shelter_access_impediments;Shelter access impediments;Caqabadaha gelitaanka hoyga
+employed_sector;Employed sector;Waaxda shaqada
+primary_profession;Primary profession;Xirfadda aasaasiga ah
+sustainable_income;Sustainable income;Dakhli waara
+agriculture_cultivation;Agriculture cultivation;Beeraha beeraha
+income_generating;Income generating;dakhli dhalin
+barriers_access_food;Barriers access food;Caqabadaha helitaanka cuntada
+received_aid;Received aid;Gargaarka la helay
+obtained_monetary;Obtained monetary;Lacag la helay
+target_victims;Target victims;Dhibanayaasha la beegsaday
+protection_incidents_place;Protection incidents place;Dhacdooyinka ilaalinta meel
+additional_idp_index;Additional idp index;Tusmada idp dheeraad ah
+birth_cert;Birth cert;Shahaadada dhalashada
+replace_docs;Replace docs;Beddel dukumeenti
