@@ -161,6 +161,15 @@
                 "lot_difficulty": "red",
                 "NC": "grey"
             }
+        },
+        "nfi_access_dist_min_int": {
+            "type": "math",
+            "values": {
+                "x<=15": "green",
+                "x>15 and x<=30": "yellow",
+                "x>30 and x<=45": "orange",
+                "x>45": "red"
+            }
         }
     }
 }
