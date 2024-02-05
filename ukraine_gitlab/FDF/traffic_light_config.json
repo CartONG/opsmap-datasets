@@ -374,7 +374,7 @@
                     "yes": "red",
                     "partially": "orange",
                     "no": "green",
-                    "not_sure": "orange"
+                    "not_sure": "yellow"
                 }
             },
             "winterization_support_opt": {
