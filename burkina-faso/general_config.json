@@ -337,7 +337,7 @@
         "dark": false,
         "pdfColumnCount": 3,
         "exportForEsite": false,
-        "showDemoBanner": true,
+        "showDemoBanner": false,
         "exportAsCSVonHomePage": true,
         "keepThematicOrderFromFDF": true,
         "desactivateGlobalIndicatorsAtIndermediateLevels": true
