@@ -144,15 +144,7 @@
                         "en": "Manage by",
                         "ar": "إدارة بواسطة"
                     }
-                },
-                {
-                    "field": "site_pcode",
-                    "name": {
-                        "fr": "PCode du site",
-                        "en": "Site PCode",
-                        "ar": "رمز PC للموقع"
-                    }
-                }                
+                }          
             ],
             "spatial": {
                 "siteFields": {
