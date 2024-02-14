@@ -2,9 +2,7 @@
     "version": "v1.3.3",
     "locale": {
         "locales": [
-            "en",
-            "fr", 
-            "ar"
+            "en"
         ],
         "default": "fr",
         "override": {
