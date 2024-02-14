@@ -4,7 +4,7 @@
         "locales": [
             "en"
         ],
-        "default": "fr",
+        "default": "en",
         "override": {
             "en": {
                 "infosAdmins": {
