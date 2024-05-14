@@ -190,20 +190,6 @@
                 "area": [
                     {
                         "type": "site_count"
-                    },
-                    {
-                        "type": "people_count",
-                        "entryCode": ""
-                    },
-                    {
-                        "type": "standard",
-                        "name": {
-                            "en": "Shelter Max Capacity",
-                            "fr": "Capacité maximale",
-                            "ar":"سعة المأوى القصوى"
-                        },
-                        "entryCode": "",
-                        "iconOchaName": "Camp-Coordination-and-Camp-Management"
                     }
                 ],
                 "site": [
