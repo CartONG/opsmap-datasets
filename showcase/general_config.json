@@ -364,6 +364,7 @@
         "showDemoBanner": true,
         "exportAsCSVonHomePage": true,
         "keepThematicOrderFromFDF": true,
-        "mapLegendDisplayStyle":"folded"
+        "mapLegendDisplayStyle":"folded",
+        "desactivateGlobalIndicatorsAtIndermediateLevels": true
     }
 }
