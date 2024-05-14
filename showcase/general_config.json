@@ -190,6 +190,20 @@
                 "area": [
                     {
                         "type": "site_count"
+                    },
+                    {
+                        "type": "",
+                        "entryCode": ""
+                    },
+                    {
+                        "type": "",
+                        "name": {
+                            "en": "",
+                            "fr": "",
+                            "ar":""
+                        },
+                        "entryCode": "",
+                        "iconOchaName": ""
                     }
                 ],
                 "site": [
