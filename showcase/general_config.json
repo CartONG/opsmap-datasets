@@ -198,9 +198,9 @@
                     {
                         "type": "standard",
                         "name": {
-                            "en": "",
-                            "fr": "",
-                            "ar":""
+                            "en": "Shelter Max Capacity",
+                            "fr": "Capacité maximale",
+                            "ar":"سعة المأوى القصوى"
                         },
                         "entryCode": "",
                         "iconOchaName": "Camp-Coordination-and-Camp-Management"
