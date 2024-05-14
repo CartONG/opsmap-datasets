@@ -193,7 +193,7 @@
                     },
                     {
                         "type": "people_count",
-                        "entryCode": "demo_num_indv"
+                        "entryCode": ""
                     },
                     {
                         "type": "standard",
@@ -202,7 +202,7 @@
                             "fr": "Capacité maximale",
                             "ar":"سعة المأوى القصوى"
                         },
-                        "entryCode": "cccm_shelter_max_capacity",
+                        "entryCode": "",
                         "iconOchaName": "Camp-Coordination-and-Camp-Management"
                     }
                 ],
