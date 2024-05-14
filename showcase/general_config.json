@@ -192,7 +192,7 @@
                         "type": "site_count"
                     },
                     {
-                        "type": "",
+                        "type": "people_count",
                         "entryCode": ""
                     },
                     {
@@ -203,7 +203,7 @@
                             "ar":""
                         },
                         "entryCode": "",
-                        "iconOchaName": ""
+                        "iconOchaName": "Camp-Coordination-and-Camp-Management"
                     }
                 ],
                 "site": [
