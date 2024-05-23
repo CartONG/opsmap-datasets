@@ -10,7 +10,6 @@ country,string,group_general_info,,,,,,
 hh_size,computed,group_overview,,,,,demo_num_indv#/#demo_num_hh,
 pct_occupation,computed,group_overview,pct_occ,,,,demo_num_indv#/#nb_shelters,
 staff_hh,computed,group_overview,nb_ind_vs_staff,,,,demo_num_indv#/#cccm_num_of_staff,
-nb_shelters,integer,group_shelternfi,,,,,,
 shelter_need_repair,string,group_shelternfi,,,,,,table1
 shelter_need_replacement,string,group_shelternfi,,,,,,table1
 shelter_need_reconstruction,string,group_shelternfi,,,,,,table1
@@ -24,6 +23,7 @@ kitchen_items,string,group_shelternfi,,bar#6,nfi,,,
 hygiene_items_pct,string,group_shelternfi,,bar#6,nfi,,,
 mosquito_nets,string,group_shelternfi,,bar#6,nfi,,,
 solar_lamps,string,group_shelternfi,,bar#6,nfi,,,
+nb_shelters,integer,group_shelternfi,,,,,,
 demo_num_indv,integer,group_demo,,,,,,
 demo_num_hh,integer,group_demo,,,,,,
 demo_child_5to17,computed,group_demo,,,,,demo_allgender_12_17#+#demo_allgender_5_11,
