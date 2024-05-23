@@ -1,10 +1,10 @@
 field_name;field_label_en;field_label_fr;field_label_ar
+site_id;Site ID;Identifiant du site;معرف موقع دو
 country;Country;Pays;دولة
 region;Region;Région;منطقة
 dep;Department;Département;قسم
 city;City;Commune;مدينة
 address;Address;Adresse;عنوان
-site_id;Site ID;Identifiant du site;معرف موقع دو
 adm2_pcode;PCode Admin 2;Admin 2 PCode;مشرف كود الكمبيوتر 2
 site_pcode;Site PCode;PCode du site;رمز PC للموقع
 shelter_need_repair;In need of repair/maintenance (for emergency shelter, transitional shelter, buildings);Besoin de réparation/entretien (pour les abris d'urgence, les abris provisoires, les bâtiments);بحاجة إلى إصلاح/صيانة (لمأوى الطوارئ، والمأوى الانتقالي، والمباني)
