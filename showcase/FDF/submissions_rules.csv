@@ -1,4 +1,5 @@
 field_name,type,thematic_group,traffic_light_name,chart_id,chart_data,display_condition,computed_rule,table_id
+country,string,group_general_info,,,,,,
 region,string,group_general_info,,,,,,
 dep,string,group_general_info,,,,,,
 city,string,group_general_info,,,,,,
@@ -6,12 +7,11 @@ address,string,group_general_info,,,,,,
 site_id,string,group_general_info,,,,,,
 adm2_pcode,string,group_general_info,,,,,,
 site_pcode,string,group_general_info,,,,,,
-country,string,group_general_info,,,,,,
 hh_size,computed,group_overview,,,,,demo_num_indv#/#demo_num_hh,
 pct_occupation,computed,group_overview,pct_occ,,,,demo_num_indv#/#nb_shelters,
 staff_hh,computed,group_overview,nb_ind_vs_staff,,,,demo_num_indv#/#cccm_num_of_staff,
-shelter_need_repair,string,group_shelternfi,,,,,,table1
 nb_shelters,integer,group_shelternfi,,,,,,
+shelter_need_repair,string,group_shelternfi,,,,,,table1
 shelter_need_replacement,string,group_shelternfi,,,,,,table1
 shelter_need_reconstruction,string,group_shelternfi,,,,,,table1
 shelter_need_rehabilitation,string,group_shelternfi,,,,,,table1
